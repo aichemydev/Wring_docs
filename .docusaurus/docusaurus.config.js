@@ -15,13 +15,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Lenovo\\Downloads\\testgold-docs-main\\testgold-docs-main\\sidebars.js"
+          "sidebarPath": "D:\\Github\\Quikly_docs\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\Lenovo\\Downloads\\testgold-docs-main\\testgold-docs-main\\src\\css\\custom.css"
+          "customCss": "D:\\Github\\Quikly_docs\\src\\css\\custom.css"
         }
       }
     ]
