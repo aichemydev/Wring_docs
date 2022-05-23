@@ -15,7 +15,7 @@ Tool for increasing coverage of your tests. It is able to intelligently alter yo
 Key features: **step exploration, variables, verify actions.**
 
 1. Each step of the test can be “explored”. It means that during test enhancer runs, it will generate similar steps (will interact with similar elements).
-2. Test enhancer is able to generate new data using “variables” concept. During initial test run, all data used in the test will be mapped to a specific type (e.g. “John” -> “First name”, [“john@gmail.com”](“john@gmail.com”) -> “email”). During test enhancer runs, new data will be generated according to parsed type.
+2. Test enhancer is able to generate new data using “variables” concept. During initial test run, all data used in the test will be mapped to a specific type (e.g. “John” -> “First name”, `john@gmail.com` -> “email”). During test enhancer runs, new data will be generated according to parsed type.
 3. In order to find specific bugs, verify action can be added as any step in your test. Verify action support complex operations with variables, so you can combine multiple variable in a single verify step. This allows test enhancer catch dependencies between different elements of the web-page
 
 ### Try it out:
