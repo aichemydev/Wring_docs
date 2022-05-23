@@ -4,7 +4,7 @@ title: Introducing Quikly
 authors:
   name: The Quikly Team
   title: Introducing Quikly
-  image_url: /img/aiChemy_Logo.svg
+  image_url: /img/favicon.ico
 tags: [Introduction]
 ---
 
