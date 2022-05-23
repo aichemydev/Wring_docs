@@ -9,12 +9,12 @@ const config = {
   title: 'Quikly',
   tagline: 'Speed up the testing process!',
   url: 'https://aichemydev.github.io/',
-  baseUrl: '/Quikly-docs/',
+  baseUrl: '/Quikly_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
   organizationName: 'aichemydev', // Usually your GitHub org/user name.
-  projectName: 'Quikly-docs', // Usually your repo name.
+  projectName: 'Quikly_docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
