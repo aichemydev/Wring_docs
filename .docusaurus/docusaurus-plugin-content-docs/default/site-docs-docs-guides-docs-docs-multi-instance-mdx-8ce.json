@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/docs/multi-instance",
+  "id": "docs/guides/docs/multi-instance",
+  "isDocsHomePage": false,
+  "title": "Docs Multi-instance",
+  "description": "Use multiple docs plugin instances on a single Docusaurus site.",
+  "source": "@site/docs/docs/guides/docs/docs-multi-instance.mdx",
+  "sourceDirName": "docs/guides/docs",
+  "slug": "/docs-multi-instance",
+  "permalink": "/Quikly-docs/docs/docs-multi-instance",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "multi-instance",
+    "title": "Docs Multi-instance",
+    "description": "Use multiple docs plugin instances on a single Docusaurus site.",
+    "slug": "/docs-multi-instance"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs Markdown Features",
+    "permalink": "/Quikly-docs/docs/docs-markdown-features"
+  },
+  "next": {
+    "title": "Versioning",
+    "permalink": "/Quikly-docs/docs/versioning"
+  }
+}

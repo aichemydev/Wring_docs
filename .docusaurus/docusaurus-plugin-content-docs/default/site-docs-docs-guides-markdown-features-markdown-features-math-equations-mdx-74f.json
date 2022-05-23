@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/math-equations",
+  "id": "docs/guides/markdown-features/math-equations",
+  "isDocsHomePage": false,
+  "title": "Math Equations",
+  "description": "Writing LaTeX Math Equations",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-math-equations.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/math-equations",
+  "permalink": "/Quikly-docs/docs/markdown-features/math-equations",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "math-equations",
+    "title": "Math Equations",
+    "description": "Writing LaTeX Math Equations",
+    "slug": "/markdown-features/math-equations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Quikly-docs/docs/markdown-features"
+  },
+  "next": {
+    "title": "MDX Plugins",
+    "permalink": "/Quikly-docs/docs/markdown-features/plugins"
+  }
+}

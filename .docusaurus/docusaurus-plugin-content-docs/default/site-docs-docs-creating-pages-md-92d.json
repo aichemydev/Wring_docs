@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/creating-pages",
+  "id": "docs/creating-pages",
+  "isDocsHomePage": false,
+  "title": "Creating Pages",
+  "description": "In this section, we will learn about creating pages in Docusaurus.",
+  "source": "@site/docs/docs/creating-pages.md",
+  "sourceDirName": "docs",
+  "slug": "/creating-pages",
+  "permalink": "/Quikly-docs/docs/creating-pages",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "creating-pages",
+    "title": "Creating Pages",
+    "slug": "/creating-pages",
+    "sidebar_label": "Pages"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Quikly-docs/docs/faq"
+  },
+  "next": {
+    "title": "What's next?",
+    "permalink": "/Quikly-docs/docs/docs/whats-next"
+  }
+}

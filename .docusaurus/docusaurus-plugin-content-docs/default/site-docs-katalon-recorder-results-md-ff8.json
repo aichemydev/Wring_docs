@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Katalon-Recorder/results",
+  "id": "Katalon-Recorder/results",
+  "isDocsHomePage": false,
+  "title": "View results",
+  "description": "Once the test run is complete, you can browse the results.",
+  "source": "@site/docs/Katalon-Recorder/results.md",
+  "sourceDirName": "Katalon-Recorder",
+  "slug": "/Katalon-Recorder/results",
+  "permalink": "/Quikly-docs/docs/Katalon-Recorder/results",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upload the exported test script to Quikly",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/upload"
+  },
+  "next": {
+    "title": "Get Started with Enhancer",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/tabs",
+  "id": "docs/guides/markdown-features/tabs",
+  "isDocsHomePage": false,
+  "title": "Tabs",
+  "description": "Using tabs inside Docusaurus Markdown",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-tabs.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/tabs",
+  "permalink": "/Quikly-docs/docs/markdown-features/tabs",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tabs",
+    "title": "Tabs",
+    "description": "Using tabs inside Docusaurus Markdown",
+    "slug": "/markdown-features/tabs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MDX and React",
+    "permalink": "/Quikly-docs/docs/markdown-features/react"
+  },
+  "next": {
+    "title": "Create a doc",
+    "permalink": "/Quikly-docs/docs/create-doc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/inline-toc",
+  "id": "docs/guides/markdown-features/inline-toc",
+  "isDocsHomePage": false,
+  "title": "Inline TOC",
+  "description": "Using inline table-of-contents inside Docusaurus Markdown",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-inline-toc.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/inline-toc",
+  "permalink": "/Quikly-docs/docs/markdown-features/inline-toc",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "inline-toc",
+    "title": "Inline TOC",
+    "description": "Using inline table-of-contents inside Docusaurus Markdown",
+    "slug": "/markdown-features/inline-toc"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Headings",
+    "permalink": "/Quikly-docs/docs/markdown-features/headings"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Quikly-docs/docs/markdown-features"
+  }
+}

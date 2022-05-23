@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Enhancer/Walserver Code",
+  "id": "Test Enhancer/Walserver Code",
+  "isDocsHomePage": false,
+  "title": "Walserver Code",
+  "description": "On the handlers for the above endpoints are located in the selenium_tests repo. This includes the following classes: RLIntegrationHandler, RLReportHandler and RLResultsHandler",
+  "source": "@site/docs/Test Enhancer/Walserver Code.md",
+  "sourceDirName": "Test Enhancer",
+  "slug": "/Test Enhancer/Walserver Code",
+  "permalink": "/Quikly-docs/docs/Test Enhancer/Walserver Code",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Endpoints for UI functions:",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Endpoints for UI functions"
+  },
+  "next": {
+    "title": "User model",
+    "permalink": "/Quikly-docs/docs/Platform Security/Quikly Platform Security Highlights"
+  }
+}

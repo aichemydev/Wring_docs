@@ -1,0 +1,676 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/Quikly-docs/docs",
+          "tagsPath": "/Quikly-docs/docs/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Lenovo\\Downloads\\testgold-docs-main\\testgold-docs-main\\sidebars.js",
+          "contentPath": "C:\\Users\\Lenovo\\Downloads\\testgold-docs-main\\testgold-docs-main\\docs",
+          "contentPathLocalized": "C:\\Users\\Lenovo\\Downloads\\testgold-docs-main\\testgold-docs-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "unversionedId": "faq",
+              "id": "faq",
+              "isDocsHomePage": false,
+              "title": "Frequently Asked Questions",
+              "description": "Do we need to learn any language or tool to start using Quikly ?",
+              "source": "@site/docs/faq.md",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/Quikly-docs/docs/faq",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Enhancer Runs",
+                "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+              },
+              "next": {
+                "title": "Supported Versions",
+                "permalink": "/Quikly-docs/docs/versions"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Getting Started",
+              "description": "Let's discover Quikly's Key Features.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/Quikly-docs/docs/intro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Dashboard",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard"
+              }
+            },
+            {
+              "unversionedId": "Test Enhancer/Enhancer Runs",
+              "id": "Test Enhancer/Enhancer Runs",
+              "isDocsHomePage": false,
+              "title": "Enhancer Runs",
+              "description": "After you press run, you see a modal window and look at four options there.",
+              "source": "@site/docs/Test Enhancer/Enhancer Runs.md",
+              "sourceDirName": "Test Enhancer",
+              "slug": "/Test Enhancer/Enhancer Runs",
+              "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started with Enhancer",
+                "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/Quikly-docs/docs/faq"
+              }
+            },
+            {
+              "unversionedId": "Test Enhancer/Get Started",
+              "id": "Test Enhancer/Get Started",
+              "isDocsHomePage": false,
+              "title": "Get Started with Enhancer",
+              "description": "What is Enhancer?",
+              "source": "@site/docs/Test Enhancer/Get Started.md",
+              "sourceDirName": "Test Enhancer",
+              "slug": "/Test Enhancer/Get Started",
+              "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "View Test",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/view"
+              },
+              "next": {
+                "title": "Enhancer Runs",
+                "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+              }
+            },
+            {
+              "unversionedId": "TG Smart Observer/Introduction",
+              "id": "TG Smart Observer/Introduction",
+              "isDocsHomePage": false,
+              "title": "Quikly Smart Observer - Introduction",
+              "description": "Quikly Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
+              "source": "@site/docs/TG Smart Observer/Introduction.md",
+              "sourceDirName": "TG Smart Observer",
+              "slug": "/TG Smart Observer/Introduction",
+              "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deep Healing",
+                "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+              },
+              "next": {
+                "title": "Get Started",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+              }
+            },
+            {
+              "unversionedId": "TG Smart Observer/recorder",
+              "id": "TG Smart Observer/recorder",
+              "isDocsHomePage": false,
+              "title": "Welcome *User*",
+              "description": "If you're a user of Quikly Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times.",
+              "source": "@site/docs/TG Smart Observer/recorder.md",
+              "sourceDirName": "TG Smart Observer",
+              "slug": "/TG Smart Observer/recorder",
+              "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+              },
+              "next": {
+                "title": "Start recording",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/tests"
+              }
+            },
+            {
+              "unversionedId": "TG Smart Observer/tests",
+              "id": "TG Smart Observer/tests",
+              "isDocsHomePage": false,
+              "title": "Start recording",
+              "description": "To start recording, first you need to go to New Test - Check below:",
+              "source": "@site/docs/TG Smart Observer/tests.md",
+              "sourceDirName": "TG Smart Observer",
+              "slug": "/TG Smart Observer/tests",
+              "permalink": "/Quikly-docs/docs/TG Smart Observer/tests",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome *User*",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder"
+              },
+              "next": {
+                "title": "View Test",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/view"
+              }
+            },
+            {
+              "unversionedId": "TG Smart Observer/Tutorials",
+              "id": "TG Smart Observer/Tutorials",
+              "isDocsHomePage": false,
+              "title": "Get Started",
+              "description": "First, one thing you can get when you start using our Quikly Smart Observer is that you can easily be guided into all the steps to start recording a testcase.",
+              "source": "@site/docs/TG Smart Observer/Tutorials.md",
+              "sourceDirName": "TG Smart Observer",
+              "slug": "/TG Smart Observer/Tutorials",
+              "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quikly Smart Observer - Introduction",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction"
+              },
+              "next": {
+                "title": "Welcome *User*",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder"
+              }
+            },
+            {
+              "unversionedId": "TG Smart Observer/view",
+              "id": "TG Smart Observer/view",
+              "isDocsHomePage": false,
+              "title": "View Test",
+              "description": "After recording and sending the test to the server, go to View Test page.",
+              "source": "@site/docs/TG Smart Observer/view.md",
+              "sourceDirName": "TG Smart Observer",
+              "slug": "/TG Smart Observer/view",
+              "permalink": "/Quikly-docs/docs/TG Smart Observer/view",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Start recording",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/tests"
+              },
+              "next": {
+                "title": "Get Started with Enhancer",
+                "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "isDocsHomePage": false,
+              "title": "Congratulations!",
+              "description": "You have now explored the Quikly UI and you are now ready to checkout some of the advanced features and get to know how they work.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Installation"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Dashboard",
+              "id": "tutorial-basics/Dashboard",
+              "isDocsHomePage": false,
+              "title": "Dashboard",
+              "description": "Welcome to the Dashboard. This is where you can get some quick statistics regarding your tests.",
+              "source": "@site/docs/tutorial-basics/Dashboard.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Dashboard",
+              "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/Quikly-docs/docs/intro"
+              },
+              "next": {
+                "title": "Test Runs",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Installation",
+              "id": "tutorial-basics/Installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The installation page contains quick instructions for installing the Quikly Interceptor for Selenium and Cypress for its supported languages.",
+              "source": "@site/docs/tutorial-basics/Installation.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Installation",
+              "permalink": "/Quikly-docs/docs/tutorial-basics/Installation",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrations",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Integrations",
+              "id": "tutorial-basics/Integrations",
+              "isDocsHomePage": false,
+              "title": "Integrations",
+              "description": "Quikly offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+              "source": "@site/docs/tutorial-basics/Integrations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Integrations",
+              "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Runs",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer"
+              },
+              "next": {
+                "title": "Installation",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Installation"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test-Explorer",
+              "id": "tutorial-basics/Test-Explorer",
+              "isDocsHomePage": false,
+              "title": "Test Runs",
+              "description": "Overview",
+              "source": "@site/docs/tutorial-basics/Test-Explorer.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Test-Explorer",
+              "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard"
+              },
+              "next": {
+                "title": "Integrations",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/customizing-interceptor",
+              "id": "tutorial-extras/customizing-interceptor",
+              "isDocsHomePage": false,
+              "title": "Customizing Interceptor Execution",
+              "description": "You may set the following environment variables to customize how the Interceptor package and our API heals your tests:",
+              "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/customizing-interceptor",
+              "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started"
+              },
+              "next": {
+                "title": "Deep Healing",
+                "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/deep-healing",
+              "id": "tutorial-extras/deep-healing",
+              "isDocsHomePage": false,
+              "title": "Deep Healing",
+              "description": "Healing vs Deep Healing",
+              "source": "@site/docs/tutorial-extras/deep-healing.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/deep-healing",
+              "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor"
+              },
+              "next": {
+                "title": "Quikly Smart Observer - Introduction",
+                "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/getting-started",
+              "id": "tutorial-extras/getting-started",
+              "isDocsHomePage": false,
+              "title": "Getting Started",
+              "description": "We support direct calls to our healing API from Selenium tests running outside of our own service. For this purpose, we have released Selenium packages for Java, Javascript, and Python that interface with our API and obtain healed XPaths or CSS selectors for web automation tests that run in your own environment. These Quikly Interceptor packages can be used in place of the usual Selenium packages to take advantage of our API. These packages are available on the Installation Page.",
+              "source": "@site/docs/tutorial-extras/getting-started.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/getting-started",
+              "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor"
+              }
+            },
+            {
+              "unversionedId": "versions",
+              "id": "versions",
+              "isDocsHomePage": false,
+              "title": "Supported Versions",
+              "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support att support@Quikly.dev to discuss solutions.",
+              "source": "@site/docs/versions.md",
+              "sourceDirName": ".",
+              "slug": "/versions",
+              "permalink": "/Quikly-docs/docs/versions",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/Quikly-docs/docs/faq"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Quikly Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Test-Explorer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Integrations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Installation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Quikly Interceptor",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/getting-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/customizing-interceptor"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/deep-healing"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Quikly Smart Observer",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "TG Smart Observer/Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "TG Smart Observer/Tutorials"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "TG Smart Observer/recorder"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "TG Smart Observer/tests"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "TG Smart Observer/view"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Test Enhancer",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Test Enhancer/Get Started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Enhancer/Enhancer Runs"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "faq"
+              },
+              {
+                "type": "doc",
+                "id": "versions"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "introducing-Quikly",
+          "metadata": {
+            "permalink": "/Quikly-docs/blog/introducing-Quikly",
+            "source": "@site/blog/2020-06-15-first-blog-post.md",
+            "title": "Introducing Quikly",
+            "description": "What is Quikly and what can it do?",
+            "date": "2020-06-15T00:00:00.000Z",
+            "formattedDate": "June 15, 2020",
+            "tags": [
+              {
+                "label": "Introduction",
+                "permalink": "/Quikly-docs/blog/tags/introduction"
+              }
+            ],
+            "readingTime": 2.01,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "The Quikly Team",
+                "title": "Introducing Quikly",
+                "image_url": "/img/aiChemy_Logo.svg",
+                "imageURL": "/img/aiChemy_Logo.svg"
+              }
+            ]
+          },
+          "content": "What is Quikly and what can it do?\n\n<!--truncate-->\n\n## Motivation\nWe believe Selenium is a great open platform for testing software. However, testing software with Selenium has lead people to constantly rewrite and maintain their tests to keep up with development cycles.\n\nUnfortunately, due to these struggles, we now require two teams of coders - a set of developers and a set of testers. The testers have to keep updating their selenium scripts to match the pace of developers. This leads to a cat and mouse catchup game for testers worldwide.\n\nInstead of allowing QA teams freedom and flexibility to improve coverage and predict user behavior, modern QA teams are simply verifying that yesterday’s changes did not break core functionality. They are re-checking that login, search, and a few key flows from yesterday’s new build did not break their selenium tests. Furthermore, in the likely case that it did break their selenium tests, QA engineers will rewrite the tests, update page object models, fix locator and object detectors, improve timeouts, and then commit these into the repository. There is full knowledge that this process will rinse and repeat.\n\n## Ideal Situation for QA\nQA managers have told us that during key releases, rewriting selenium tests can easily take more than 95% of the time consumed by QA engineers. QA managers have told us that instead of spending time on rewriting selenium, they would like them to:\n\nImprove scenario and test coverage by 5-10x\nEnable faster release cycles to the customer\nAllow enterprises to issue bug fixes quickly to affected customers\n\n## Solution\nAs a counter to efficient testing, we hear of lax stories of A/B testing from some teams at large social media/entertainment companies. The claim is you don’t need to test software as much, and can fix customer reported bugs quickly. That’s great if you are serving social media consumers, but what if you are serving critical enterprise applications. Enterprise solutions have a lot of competition, for cost, customer support, and feature velocity. Can you afford a lax attitude for testing?\n\nOur solution is a method that empowers QA, removes their drudgery with maintenance of tests to move on to the higher value problems that software managers are looking for.\n\nBy supporting selenium interception on various languages, Java, Python, Javascript, and even the Selenium IDE, our aim is to make maintenance painless while letting QA focus on more interesting challenges."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/Quikly-docs/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "introducing-Quikly"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/Quikly-docs/blog/tags/introduction": {
+          "name": "Introduction",
+          "items": [
+            "introducing-Quikly"
+          ],
+          "permalink": "/Quikly-docs/blog/tags/introduction"
+        }
+      },
+      "blogTagsListPath": "/Quikly-docs/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/Quikly-docs/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/Quikly-docs/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

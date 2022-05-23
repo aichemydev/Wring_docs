@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/assets",
+  "id": "docs/guides/markdown-features/assets",
+  "isDocsHomePage": false,
+  "title": "Assets",
+  "description": "Handling assets in Docusaurus Markdown",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-assets.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/assets",
+  "permalink": "/Quikly-docs/docs/markdown-features/assets",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "assets",
+    "title": "Assets",
+    "description": "Handling assets in Docusaurus Markdown",
+    "slug": "/markdown-features/assets"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Admonitions",
+    "permalink": "/Quikly-docs/docs/markdown-features/admonitions"
+  },
+  "next": {
+    "title": "Code blocks",
+    "permalink": "/Quikly-docs/docs/markdown-features/code-blocks"
+  }
+}

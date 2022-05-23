@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/view",
+  "id": "TG Smart Observer/view",
+  "isDocsHomePage": false,
+  "title": "View Test",
+  "description": "After recording and sending the test to the server, go to View Test page.",
+  "source": "@site/docs/TG Smart Observer/view.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/view",
+  "permalink": "/Quikly-docs/docs/TG Smart Observer/view",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start recording",
+    "permalink": "/Quikly-docs/docs/TG Smart Observer/tests"
+  },
+  "next": {
+    "title": "Get Started with Enhancer",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+  }
+}

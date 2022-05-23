@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Enhancer/UI",
+  "id": "Test Enhancer/UI",
+  "isDocsHomePage": false,
+  "title": "UI",
+  "description": "The UI is connected to the test enhancer with 2 main endpoints responsible for populating data and passing user modifications back to the backend.",
+  "source": "@site/docs/Test Enhancer/UI.md",
+  "sourceDirName": "Test Enhancer",
+  "slug": "/Test Enhancer/UI",
+  "permalink": "/Quikly-docs/docs/Test Enhancer/UI",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Healing",
+    "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+  },
+  "next": {
+    "title": "Setting Up A Test For Enhancement:",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+  }
+}

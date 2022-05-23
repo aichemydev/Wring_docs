@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Start-Here/congratulations",
+  "id": "Start-Here/congratulations",
+  "isDocsHomePage": false,
+  "title": "Congratulations!",
+  "description": "You have now explored the Quikly UI and you are now ready to checkout some of the advanced features and get to know how they work.",
+  "source": "@site/docs/Start-Here/congratulations.md",
+  "sourceDirName": "Start-Here",
+  "slug": "/Start-Here/congratulations",
+  "permalink": "/Quikly-docs/docs/Start-Here/congratulations",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/Quikly-docs/docs/Start-Here/Installation"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started"
+  }
+}

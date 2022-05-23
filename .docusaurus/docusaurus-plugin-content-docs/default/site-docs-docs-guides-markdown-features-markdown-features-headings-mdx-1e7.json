@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/headings",
+  "id": "docs/guides/markdown-features/headings",
+  "isDocsHomePage": false,
+  "title": "Headings",
+  "description": "Using Markdown headings",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-headings.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/headings",
+  "permalink": "/Quikly-docs/docs/markdown-features/headings",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "headings",
+    "title": "Headings",
+    "description": "Using Markdown headings",
+    "slug": "/markdown-features/headings"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Head Metadata",
+    "permalink": "/Quikly-docs/docs/markdown-features/head-metadata"
+  },
+  "next": {
+    "title": "Inline TOC",
+    "permalink": "/Quikly-docs/docs/markdown-features/inline-toc"
+  }
+}

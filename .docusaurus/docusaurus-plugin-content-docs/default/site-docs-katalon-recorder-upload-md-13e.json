@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Katalon-Recorder/upload",
+  "id": "Katalon-Recorder/upload",
+  "isDocsHomePage": false,
+  "title": "Upload the exported test script to Quikly",
+  "description": "Log in to the Quikly dashboard and then click on the Add Test button. This brings up the following form:",
+  "source": "@site/docs/Katalon-Recorder/upload.md",
+  "sourceDirName": "Katalon-Recorder",
+  "slug": "/Katalon-Recorder/upload",
+  "permalink": "/Quikly-docs/docs/Katalon-Recorder/upload",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Record a test and export it to XML",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/test"
+  },
+  "next": {
+    "title": "View results",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/results"
+  }
+}

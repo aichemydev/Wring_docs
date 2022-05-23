@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Start-Here/Dashboard",
+  "id": "Start-Here/Dashboard",
+  "isDocsHomePage": false,
+  "title": "Dashboard",
+  "description": "Welcome to the Dashboard. This is where you can get some quick statistics regarding your tests.",
+  "source": "@site/docs/Start-Here/Dashboard.md",
+  "sourceDirName": "Start-Here",
+  "slug": "/Start-Here/Dashboard",
+  "permalink": "/Quikly-docs/docs/Start-Here/Dashboard",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/Quikly-docs/docs/intro"
+  },
+  "next": {
+    "title": "Test Explorer",
+    "permalink": "/Quikly-docs/docs/Start-Here/Test-Explorer"
+  }
+}

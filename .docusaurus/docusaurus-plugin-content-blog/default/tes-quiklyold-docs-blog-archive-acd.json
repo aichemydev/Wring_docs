@@ -1,0 +1,32 @@
+{
+  "blogPosts": [
+    {
+      "id": "introducing-Quikly",
+      "metadata": {
+        "permalink": "/Quikly-docs/blog/introducing-Quikly",
+        "source": "@site/blog/2020-06-15-first-blog-post.md",
+        "title": "Introducing Quikly",
+        "description": "What is Quikly and what can it do?",
+        "date": "2020-06-15T00:00:00.000Z",
+        "formattedDate": "June 15, 2020",
+        "tags": [
+          {
+            "label": "Introduction",
+            "permalink": "/Quikly-docs/blog/tags/introduction"
+          }
+        ],
+        "readingTime": 2.01,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "The Quikly Team",
+            "title": "Introducing Quikly",
+            "image_url": "/img/aiChemy_Logo.svg",
+            "imageURL": "/img/aiChemy_Logo.svg"
+          }
+        ]
+      },
+      "content": "What is Quikly and what can it do?\n\n<!--truncate-->\n\n## Motivation\nWe believe Selenium is a great open platform for testing software. However, testing software with Selenium has lead people to constantly rewrite and maintain their tests to keep up with development cycles.\n\nUnfortunately, due to these struggles, we now require two teams of coders - a set of developers and a set of testers. The testers have to keep updating their selenium scripts to match the pace of developers. This leads to a cat and mouse catchup game for testers worldwide.\n\nInstead of allowing QA teams freedom and flexibility to improve coverage and predict user behavior, modern QA teams are simply verifying that yesterday’s changes did not break core functionality. They are re-checking that login, search, and a few key flows from yesterday’s new build did not break their selenium tests. Furthermore, in the likely case that it did break their selenium tests, QA engineers will rewrite the tests, update page object models, fix locator and object detectors, improve timeouts, and then commit these into the repository. There is full knowledge that this process will rinse and repeat.\n\n## Ideal Situation for QA\nQA managers have told us that during key releases, rewriting selenium tests can easily take more than 95% of the time consumed by QA engineers. QA managers have told us that instead of spending time on rewriting selenium, they would like them to:\n\nImprove scenario and test coverage by 5-10x\nEnable faster release cycles to the customer\nAllow enterprises to issue bug fixes quickly to affected customers\n\n## Solution\nAs a counter to efficient testing, we hear of lax stories of A/B testing from some teams at large social media/entertainment companies. The claim is you don’t need to test software as much, and can fix customer reported bugs quickly. That’s great if you are serving social media consumers, but what if you are serving critical enterprise applications. Enterprise solutions have a lot of competition, for cost, customer support, and feature velocity. Can you afford a lax attitude for testing?\n\nOur solution is a method that empowers QA, removes their drudgery with maintenance of tests to move on to the higher value problems that software managers are looking for.\n\nBy supporting selenium interception on various languages, Java, Python, Javascript, and even the Selenium IDE, our aim is to make maintenance painless while letting QA focus on more interesting challenges."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Start-Here/Test-Explorer",
+  "id": "Start-Here/Test-Explorer",
+  "isDocsHomePage": false,
+  "title": "Test Explorer",
+  "description": "Overview",
+  "source": "@site/docs/Start-Here/Test-Explorer.md",
+  "sourceDirName": "Start-Here",
+  "slug": "/Start-Here/Test-Explorer",
+  "permalink": "/Quikly-docs/docs/Start-Here/Test-Explorer",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/Quikly-docs/docs/Start-Here/Dashboard"
+  },
+  "next": {
+    "title": "Integrations",
+    "permalink": "/Quikly-docs/docs/Start-Here/Integrations"
+  }
+}

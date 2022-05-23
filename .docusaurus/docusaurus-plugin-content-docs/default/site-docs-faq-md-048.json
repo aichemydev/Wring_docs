@@ -1,0 +1,26 @@
+{
+  "unversionedId": "faq",
+  "id": "faq",
+  "isDocsHomePage": false,
+  "title": "Frequently Asked Questions",
+  "description": "Do we need to learn any language or tool to start using Quikly ?",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/Quikly-docs/docs/faq",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enhancer Runs",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+  },
+  "next": {
+    "title": "Supported Versions",
+    "permalink": "/Quikly-docs/docs/versions"
+  }
+}

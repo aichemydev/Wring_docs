@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/react",
+  "id": "docs/guides/markdown-features/react",
+  "isDocsHomePage": false,
+  "title": "MDX and React",
+  "description": "Using the power of React in Docusaurus Markdown documents, thanks to MDX",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-react.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/react",
+  "permalink": "/Quikly-docs/docs/markdown-features/react",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "react",
+    "title": "MDX and React",
+    "description": "Using the power of React in Docusaurus Markdown documents, thanks to MDX",
+    "slug": "/markdown-features/react"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MDX Plugins",
+    "permalink": "/Quikly-docs/docs/markdown-features/plugins"
+  },
+  "next": {
+    "title": "Tabs",
+    "permalink": "/Quikly-docs/docs/markdown-features/tabs"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Start-Here/Integrations",
+  "id": "Start-Here/Integrations",
+  "isDocsHomePage": false,
+  "title": "Integrations",
+  "description": "Quikly offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+  "source": "@site/docs/Start-Here/Integrations.md",
+  "sourceDirName": "Start-Here",
+  "slug": "/Start-Here/Integrations",
+  "permalink": "/Quikly-docs/docs/Start-Here/Integrations",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Explorer",
+    "permalink": "/Quikly-docs/docs/Start-Here/Test-Explorer"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/Quikly-docs/docs/Start-Here/Installation"
+  }
+}

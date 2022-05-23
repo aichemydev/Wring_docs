@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/plugins",
+  "id": "docs/guides/markdown-features/plugins",
+  "isDocsHomePage": false,
+  "title": "MDX Plugins",
+  "description": "Using MDX plugins to expand Docusaurus Markdown functionalities",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-plugins.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/plugins",
+  "permalink": "/Quikly-docs/docs/markdown-features/plugins",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plugins",
+    "title": "MDX Plugins",
+    "description": "Using MDX plugins to expand Docusaurus Markdown functionalities",
+    "slug": "/markdown-features/plugins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Math Equations",
+    "permalink": "/Quikly-docs/docs/markdown-features/math-equations"
+  },
+  "next": {
+    "title": "MDX and React",
+    "permalink": "/Quikly-docs/docs/markdown-features/react"
+  }
+}

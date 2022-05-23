@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform/platform",
+  "id": "platform/platform",
+  "isDocsHomePage": false,
+  "title": "Quikly Platform Security Highlights",
+  "description": "User model",
+  "source": "@site/docs/platform/platform.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/platform",
+  "permalink": "/Quikly-docs/docs/platform/platform",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enhancing Katalon Recorder scripts with Quikly",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/test"
+  }
+}

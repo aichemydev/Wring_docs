@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/Introduction",
+  "id": "TG Smart Observer/Introduction",
+  "isDocsHomePage": false,
+  "title": "Quikly Smart Observer - Introduction",
+  "description": "Quikly Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
+  "source": "@site/docs/TG Smart Observer/Introduction.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/Introduction",
+  "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Healing",
+    "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+  },
+  "next": {
+    "title": "Get Started",
+    "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+  }
+}

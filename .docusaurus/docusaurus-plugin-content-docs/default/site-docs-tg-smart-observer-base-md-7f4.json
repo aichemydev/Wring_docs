@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Quikly Smart Observer/base",
+  "id": "Quikly Smart Observer/base",
+  "isDocsHomePage": false,
+  "title": "Quikly Observer",
+  "description": "",
+  "source": "@site/docs/Quikly Smart Observer/base.md",
+  "sourceDirName": "Quikly Smart Observer",
+  "slug": "/Quikly Smart Observer/base",
+  "permalink": "/Quikly-docs/docs/Quikly Smart Observer/base",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started with Enhancer",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+  },
+  "next": {
+    "title": "User model",
+    "permalink": "/Quikly-docs/docs/Platform Security/Quikly Platform Security Highlights"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/docs/introduction",
+  "id": "docs/guides/docs/introduction",
+  "isDocsHomePage": false,
+  "title": "Docs Introduction",
+  "description": "The docs feature provides users with a way to organize Markdown files in a hierarchical format.",
+  "source": "@site/docs/docs/guides/docs/docs-introduction.md",
+  "sourceDirName": "docs/guides/docs",
+  "slug": "/docs-introduction",
+  "permalink": "/Quikly-docs/docs/docs-introduction",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Docs Introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/docs-introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a doc",
+    "permalink": "/Quikly-docs/docs/create-doc"
+  },
+  "next": {
+    "title": "Docs Markdown Features",
+    "permalink": "/Quikly-docs/docs/docs-markdown-features"
+  }
+}

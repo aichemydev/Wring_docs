@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Quikly-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Quikly-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "faq",
+              "path": "/Quikly-docs/docs/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/Quikly-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Enhancer/Enhancer Runs",
+              "path": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Enhancer/Get Started",
+              "path": "/Quikly-docs/docs/Test Enhancer/Get Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TG Smart Observer/Introduction",
+              "path": "/Quikly-docs/docs/TG Smart Observer/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TG Smart Observer/recorder",
+              "path": "/Quikly-docs/docs/TG Smart Observer/recorder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TG Smart Observer/tests",
+              "path": "/Quikly-docs/docs/TG Smart Observer/tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TG Smart Observer/Tutorials",
+              "path": "/Quikly-docs/docs/TG Smart Observer/Tutorials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TG Smart Observer/view",
+              "path": "/Quikly-docs/docs/TG Smart Observer/view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/Quikly-docs/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Dashboard",
+              "path": "/Quikly-docs/docs/tutorial-basics/Dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Installation",
+              "path": "/Quikly-docs/docs/tutorial-basics/Installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Integrations",
+              "path": "/Quikly-docs/docs/tutorial-basics/Integrations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Test-Explorer",
+              "path": "/Quikly-docs/docs/tutorial-basics/Test-Explorer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/customizing-interceptor",
+              "path": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/deep-healing",
+              "path": "/Quikly-docs/docs/tutorial-extras/deep-healing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/getting-started",
+              "path": "/Quikly-docs/docs/tutorial-extras/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "versions",
+              "path": "/Quikly-docs/docs/versions",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

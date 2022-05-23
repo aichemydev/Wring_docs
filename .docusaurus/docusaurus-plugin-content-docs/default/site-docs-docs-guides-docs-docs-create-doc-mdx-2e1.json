@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/docs/create-doc",
+  "id": "docs/guides/docs/create-doc",
+  "isDocsHomePage": false,
+  "title": "Create a doc",
+  "description": "Create a Markdown Document",
+  "source": "@site/docs/docs/guides/docs/docs-create-doc.mdx",
+  "sourceDirName": "docs/guides/docs",
+  "slug": "/create-doc",
+  "permalink": "/Quikly-docs/docs/create-doc",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-doc",
+    "title": "Create a doc",
+    "description": "Create a Markdown Document",
+    "slug": "/create-doc"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tabs",
+    "permalink": "/Quikly-docs/docs/markdown-features/tabs"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Quikly-docs/docs/docs-introduction"
+  }
+}

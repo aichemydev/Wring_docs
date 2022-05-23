@@ -1,0 +1,23 @@
+{
+  "unversionedId": "docs/guides/whats-next",
+  "id": "docs/guides/whats-next",
+  "isDocsHomePage": false,
+  "title": "What's next?",
+  "description": "Congratulations! You have understood most core features of Docusaurus now. You have:",
+  "source": "@site/docs/docs/guides/whats-next.md",
+  "sourceDirName": "docs/guides",
+  "slug": "/docs/guides/whats-next",
+  "permalink": "/Quikly-docs/docs/docs/guides/whats-next",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pages",
+    "permalink": "/Quikly-docs/docs/creating-pages"
+  },
+  "next": {
+    "title": "Admonitions",
+    "permalink": "/Quikly-docs/docs/markdown-features/admonitions"
+  }
+}

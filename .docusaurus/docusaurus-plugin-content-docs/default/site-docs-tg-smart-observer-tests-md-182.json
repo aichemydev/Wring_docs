@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/tests",
+  "id": "TG Smart Observer/tests",
+  "isDocsHomePage": false,
+  "title": "Start recording",
+  "description": "To start recording, first you need to go to New Test - Check below:",
+  "source": "@site/docs/TG Smart Observer/tests.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/tests",
+  "permalink": "/Quikly-docs/docs/TG Smart Observer/tests",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome *User*",
+    "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder"
+  },
+  "next": {
+    "title": "View Test",
+    "permalink": "/Quikly-docs/docs/TG Smart Observer/view"
+  }
+}

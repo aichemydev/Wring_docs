@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Quikly Smart Observer/introduction",
+  "id": "Quikly Smart Observer/introduction",
+  "isDocsHomePage": false,
+  "title": "Quikly Observer",
+  "description": "",
+  "source": "@site/docs/Quikly Smart Observer/introduction.md",
+  "sourceDirName": "Quikly Smart Observer",
+  "slug": "/Quikly Smart Observer/introduction",
+  "permalink": "/Quikly-docs/docs/Quikly Smart Observer/introduction",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "View results",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/results"
+  },
+  "next": {
+    "title": "User model",
+    "permalink": "/Quikly-docs/docs/Platform Security/Quikly Platform Security Highlights"
+  }
+}

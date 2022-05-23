@@ -1,0 +1,23 @@
+{
+  "unversionedId": "docs/whats-next",
+  "id": "docs/whats-next",
+  "isDocsHomePage": false,
+  "title": "What's next?",
+  "description": "Congratulations! You have understood most core features of Docusaurus now. You have:",
+  "source": "@site/docs/docs/whats-next.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/whats-next",
+  "permalink": "/Quikly-docs/docs/docs/whats-next",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pages",
+    "permalink": "/Quikly-docs/docs/creating-pages"
+  },
+  "next": {
+    "title": "User model",
+    "permalink": "/Quikly-docs/docs/Platform Security/Quikly Platform Security Highlights"
+  }
+}

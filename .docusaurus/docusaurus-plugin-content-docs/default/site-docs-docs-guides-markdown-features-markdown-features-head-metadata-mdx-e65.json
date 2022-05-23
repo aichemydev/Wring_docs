@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/head-metadata",
+  "id": "docs/guides/markdown-features/head-metadata",
+  "isDocsHomePage": false,
+  "title": "Head Metadata",
+  "description": "Declaring page-specific head metadata through MDX",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-head-metadata.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/head-metadata",
+  "permalink": "/Quikly-docs/docs/markdown-features/head-metadata",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "head-metadata",
+    "title": "Head Metadata",
+    "description": "Declaring page-specific head metadata through MDX",
+    "slug": "/markdown-features/head-metadata"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Code blocks",
+    "permalink": "/Quikly-docs/docs/markdown-features/code-blocks"
+  },
+  "next": {
+    "title": "Headings",
+    "permalink": "/Quikly-docs/docs/markdown-features/headings"
+  }
+}

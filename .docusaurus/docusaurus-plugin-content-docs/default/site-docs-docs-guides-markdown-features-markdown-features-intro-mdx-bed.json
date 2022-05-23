@@ -1,0 +1,29 @@
+{
+  "unversionedId": "docs/guides/markdown-features/introduction",
+  "id": "docs/guides/markdown-features/introduction",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus uses GitHub Flavored Markdown (GFM). Find out more about Docusaurus-specific features when writing Markdown.",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-intro.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features",
+  "permalink": "/Quikly-docs/docs/markdown-features",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Markdown Features",
+    "sidebar_label": "Introduction",
+    "description": "Docusaurus uses GitHub Flavored Markdown (GFM). Find out more about Docusaurus-specific features when writing Markdown.",
+    "slug": "/markdown-features"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inline TOC",
+    "permalink": "/Quikly-docs/docs/markdown-features/inline-toc"
+  },
+  "next": {
+    "title": "Math Equations",
+    "permalink": "/Quikly-docs/docs/markdown-features/math-equations"
+  }
+}

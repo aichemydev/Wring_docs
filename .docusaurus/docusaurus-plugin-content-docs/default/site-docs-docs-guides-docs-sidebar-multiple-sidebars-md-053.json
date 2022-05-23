@@ -1,0 +1,21 @@
+{
+  "unversionedId": "docs/guides/docs/sidebar/multiple-sidebars",
+  "id": "docs/guides/docs/sidebar/multiple-sidebars",
+  "isDocsHomePage": false,
+  "title": "Using multiple sidebars",
+  "description": "You can create a sidebar for each set of Markdown files that you want to group together.",
+  "source": "@site/docs/docs/guides/docs/sidebar/multiple-sidebars.md",
+  "sourceDirName": "docs/guides/docs/sidebar",
+  "slug": "/sidebar/multiple-sidebars",
+  "permalink": "/Quikly-docs/docs/sidebar/multiple-sidebars",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/sidebar/multiple-sidebars"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sidebar items",
+    "permalink": "/Quikly-docs/docs/sidebar/items"
+  }
+}

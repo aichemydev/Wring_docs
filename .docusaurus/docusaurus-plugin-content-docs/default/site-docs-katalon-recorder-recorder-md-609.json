@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Katalon-Recorder/recorder",
+  "id": "Katalon-Recorder/recorder",
+  "isDocsHomePage": false,
+  "title": "Enhancing Katalon Recorder scripts with Quikly",
+  "description": "Katalon Recorder is a popular solution to quickly generate selectors in preparation for testing a webpage. The Quikly platform can ingest exported XML files from the Recorder and automatically generate robust selectors.",
+  "source": "@site/docs/Katalon-Recorder/recorder.md",
+  "sourceDirName": "Katalon-Recorder",
+  "slug": "/Katalon-Recorder/recorder",
+  "permalink": "/Quikly-docs/docs/Katalon-Recorder/recorder",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Healing",
+    "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+  },
+  "next": {
+    "title": "Record a test and export it to XML",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/test"
+  }
+}

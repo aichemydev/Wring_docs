@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Platform Security/Data-storage",
+  "id": "Platform Security/Data-storage",
+  "isDocsHomePage": false,
+  "title": "Data storage",
+  "description": "Client data is stored in a document database cluster. All database keys are prefixed by organization, team, and individual user account identifiers and are thus constrainable at any of these levels. Data access and viewing privileges are defined accordingly. The Quikly™ document database is replicated and highly-available using Kubernetes. Individual nodes in our database cluster use standard LUKS for data encryption at rest. All internal traffic in our database cluster as well as our compute cluster is encrypted in-flight via TLS.",
+  "source": "@site/docs/Platform Security/Data-storage.md",
+  "sourceDirName": "Platform Security",
+  "slug": "/Platform Security/Data-storage",
+  "permalink": "/Quikly-docs/docs/Platform Security/Data-storage",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User model",
+    "permalink": "/Quikly-docs/docs/Platform Security/TESTGOLD Platform Security Highlights"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Quikly-docs/docs/faq"
+  }
+}

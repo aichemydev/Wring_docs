@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Enhancer/Endpoints for UI functions",
+  "id": "Test Enhancer/Endpoints for UI functions",
+  "isDocsHomePage": false,
+  "title": "Endpoints for UI functions:",
+  "description": "POST: /interceptor/rl/v1/ This post request is responsible for sending add, edit, and delete info back to the backend as well as variable setup. To send this request, an action is necessary as well as the full target_json which reflect the changes that have been made.",
+  "source": "@site/docs/Test Enhancer/Endpoints for UI functions.md",
+  "sourceDirName": "Test Enhancer",
+  "slug": "/Test Enhancer/Endpoints for UI functions",
+  "permalink": "/Quikly-docs/docs/Test Enhancer/Endpoints for UI functions",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting Up A Test For Enhancement:",
+    "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+  },
+  "next": {
+    "title": "User model",
+    "permalink": "/Quikly-docs/docs/Platform Security/Quikly Platform Security Highlights"
+  }
+}

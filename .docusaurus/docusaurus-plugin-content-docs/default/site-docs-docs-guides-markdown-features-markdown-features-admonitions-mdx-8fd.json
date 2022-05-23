@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/markdown-features/admonitions",
+  "id": "docs/guides/markdown-features/admonitions",
+  "isDocsHomePage": false,
+  "title": "Admonitions",
+  "description": "Handling admonitions/callouts in Docusaurus Markdown",
+  "source": "@site/docs/docs/guides/markdown-features/markdown-features-admonitions.mdx",
+  "sourceDirName": "docs/guides/markdown-features",
+  "slug": "/markdown-features/admonitions",
+  "permalink": "/Quikly-docs/docs/markdown-features/admonitions",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "admonitions",
+    "title": "Admonitions",
+    "description": "Handling admonitions/callouts in Docusaurus Markdown",
+    "slug": "/markdown-features/admonitions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What's next?",
+    "permalink": "/Quikly-docs/docs/docs/guides/whats-next"
+  },
+  "next": {
+    "title": "Assets",
+    "permalink": "/Quikly-docs/docs/markdown-features/assets"
+  }
+}

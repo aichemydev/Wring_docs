@@ -1,0 +1,142 @@
+{
+  "/Quikly-docs/__docusaurus/debug-841": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/Quikly-docs/__docusaurus/debug/config-957": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/Quikly-docs/__docusaurus/debug/content-773": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---quikly-docs-docusaurus-debug-content-246-4ee"
+  },
+  "/Quikly-docs/__docusaurus/debug/globalData-082": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/Quikly-docs/__docusaurus/debug/metadata-b9a": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/Quikly-docs/__docusaurus/debug/registry-77a": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/Quikly-docs/__docusaurus/debug/routes-c57": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/Quikly-docs/blog-33e": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---quikly-docs-blog-814-65f",
+    "items": [
+      {
+        "content": "content---quikly-docs-blog-2-f-0-3f8"
+      }
+    ],
+    "metadata": "metadata---quikly-docs-blog-1-cd-e0b"
+  },
+  "/Quikly-docs/blog/archive-f27": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---quikly-docs-blog-archiveb-74-cc3"
+  },
+  "/Quikly-docs/blog/introducing-Quikly-bc2": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---quikly-docs-blog-814-65f",
+    "content": "content---quikly-docs-blog-introducing-quikly-52-c-650"
+  },
+  "/Quikly-docs/blog/tags-2cb": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---quikly-docs-blog-814-65f",
+    "tags": "tags---quikly-docs-blog-tagsed-9-5f6"
+  },
+  "/Quikly-docs/blog/tags/introduction-30e": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---quikly-docs-blog-814-65f",
+    "items": [
+      {
+        "content": "content---quikly-docs-blog-2-f-0-3f8"
+      }
+    ],
+    "metadata": "metadata---quikly-docs-blog-tags-introduction-907-05a"
+  },
+  "/Quikly-docs/markdown-page-b02": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---quikly-docs-markdown-page-393-bb5"
+  },
+  "/Quikly-docs/docs-1df": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---quikly-docs-docs-935-388"
+  },
+  "/Quikly-docs/docs/faq-6c6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-faq-048-e53"
+  },
+  "/Quikly-docs/docs/intro-a98": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-intro-0-e-3-d2e"
+  },
+  "/Quikly-docs/docs/Test Enhancer/Enhancer Runs-c66": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-test-enhancer-enhancer-runs-77-f-767"
+  },
+  "/Quikly-docs/docs/Test Enhancer/Get Started-46e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-test-enhancer-get-startedf-41-dbf"
+  },
+  "/Quikly-docs/docs/TG Smart Observer/Introduction-94c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tg-smart-observer-introduction-9-ef-f36"
+  },
+  "/Quikly-docs/docs/TG Smart Observer/recorder-375": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tg-smart-observer-recorder-74-c-8b8"
+  },
+  "/Quikly-docs/docs/TG Smart Observer/tests-b36": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tg-smart-observer-tests-182-e6f"
+  },
+  "/Quikly-docs/docs/TG Smart Observer/Tutorials-a93": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tg-smart-observer-tutorialsd-9-d-77f"
+  },
+  "/Quikly-docs/docs/TG Smart Observer/view-f83": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tg-smart-observer-view-521-5bc"
+  },
+  "/Quikly-docs/docs/tutorial-basics/congratulations-08f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-basics-congratulations-822-b0a"
+  },
+  "/Quikly-docs/docs/tutorial-basics/Dashboard-a66": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-basics-dashboard-5-e-1-8ce"
+  },
+  "/Quikly-docs/docs/tutorial-basics/Installation-731": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-basics-installation-238-0df"
+  },
+  "/Quikly-docs/docs/tutorial-basics/Integrations-989": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-basics-integrations-052-61f"
+  },
+  "/Quikly-docs/docs/tutorial-basics/Test-Explorer-8b1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-basics-test-explorera-6-f-497"
+  },
+  "/Quikly-docs/docs/tutorial-extras/customizing-interceptor-64a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-extras-customizing-interceptorcca-bb9"
+  },
+  "/Quikly-docs/docs/tutorial-extras/deep-healing-bba": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-extras-deep-healing-295-3b5"
+  },
+  "/Quikly-docs/docs/tutorial-extras/getting-started-973": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-tutorial-extras-getting-started-34-a-a65"
+  },
+  "/Quikly-docs/docs/versions-306": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-versions-0-fe-152"
+  },
+  "/Quikly-docs/-644": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---quikly-docs-5-e-9-3e1"
+  }
+}

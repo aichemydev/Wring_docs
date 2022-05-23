@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Installation",
+  "id": "tutorial-basics/Installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "The installation page contains quick instructions for installing the Quikly Interceptor for Selenium and Cypress for its supported languages.",
+  "source": "@site/docs/tutorial-basics/Installation.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Installation",
+  "permalink": "/Quikly-docs/docs/tutorial-basics/Installation",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations",
+    "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+  }
+}

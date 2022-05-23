@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/creating-pages",
+  "id": "docs/guides/creating-pages",
+  "isDocsHomePage": false,
+  "title": "Creating Pages",
+  "description": "In this section, we will learn about creating pages in Docusaurus.",
+  "source": "@site/docs/docs/guides/creating-pages.md",
+  "sourceDirName": "docs/guides",
+  "slug": "/creating-pages",
+  "permalink": "/Quikly-docs/docs/creating-pages",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "creating-pages",
+    "title": "Creating Pages",
+    "slug": "/creating-pages",
+    "sidebar_label": "Pages"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data storage",
+    "permalink": "/Quikly-docs/docs/Platform Security/Data-storage"
+  },
+  "next": {
+    "title": "What's next?",
+    "permalink": "/Quikly-docs/docs/docs/guides/whats-next"
+  }
+}

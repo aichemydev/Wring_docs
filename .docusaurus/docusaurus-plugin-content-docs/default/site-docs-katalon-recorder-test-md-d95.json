@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Katalon-Recorder/test",
+  "id": "Katalon-Recorder/test",
+  "isDocsHomePage": false,
+  "title": "Record a test and export it to XML",
+  "description": "Use Katalon Recorder to record a test.",
+  "source": "@site/docs/Katalon-Recorder/test.md",
+  "sourceDirName": "Katalon-Recorder",
+  "slug": "/Katalon-Recorder/test",
+  "permalink": "/Quikly-docs/docs/Katalon-Recorder/test",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enhancing Katalon Recorder scripts with Quikly",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/recorder"
+  },
+  "next": {
+    "title": "Upload the exported test script to Quikly",
+    "permalink": "/Quikly-docs/docs/Katalon-Recorder/upload"
+  }
+}

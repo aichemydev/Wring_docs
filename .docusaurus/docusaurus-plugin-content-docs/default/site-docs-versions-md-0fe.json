@@ -1,0 +1,22 @@
+{
+  "unversionedId": "versions",
+  "id": "versions",
+  "isDocsHomePage": false,
+  "title": "Supported Versions",
+  "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support att support@Quikly.dev to discuss solutions.",
+  "source": "@site/docs/versions.md",
+  "sourceDirName": ".",
+  "slug": "/versions",
+  "permalink": "/Quikly-docs/docs/versions",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Quikly-docs/docs/faq"
+  }
+}

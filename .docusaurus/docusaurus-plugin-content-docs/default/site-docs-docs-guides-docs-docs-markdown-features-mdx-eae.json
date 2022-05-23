@@ -1,0 +1,28 @@
+{
+  "unversionedId": "docs/guides/docs/markdown-features",
+  "id": "docs/guides/docs/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Docs Markdown Features",
+  "description": "Docusaurus Markdown features that are specific to the docs plugin",
+  "source": "@site/docs/docs/guides/docs/docs-markdown-features.mdx",
+  "sourceDirName": "docs/guides/docs",
+  "slug": "/docs-markdown-features",
+  "permalink": "/Quikly-docs/docs/docs-markdown-features",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "markdown-features",
+    "title": "Docs Markdown Features",
+    "description": "Docusaurus Markdown features that are specific to the docs plugin",
+    "slug": "/docs-markdown-features"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Quikly-docs/docs/docs-introduction"
+  },
+  "next": {
+    "title": "Docs Multi-instance",
+    "permalink": "/Quikly-docs/docs/docs-multi-instance"
+  }
+}
