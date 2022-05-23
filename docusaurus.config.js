@@ -8,7 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Quikly',
   tagline: 'Speed up the testing process!',
-  url: 'https://aichemydev.github.io/',
+  //url: 'https://aichemydev.github.io/',
+  url: 'https://github.com/',
   baseUrl: '/Quikly_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
