@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations",
+  "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installation",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/Installation"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Installation"
   },
   "next": {
     "title": "Getting Started",
-    "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started"
+    "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
   }
 }

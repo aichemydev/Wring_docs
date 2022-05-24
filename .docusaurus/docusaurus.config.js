@@ -1,13 +1,13 @@
 export default {
   "title": "Quikly",
   "tagline": "Speed up the testing process!",
-  "url": "https://aichemydev.github.io/",
-  "baseUrl": "/Quikly-docs/",
+  "url": "https://github.com/",
+  "baseUrl": "/Quikly_docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "favicon.ico",
   "organizationName": "aichemydev",
-  "projectName": "Quikly-docs",
+  "projectName": "Quikly_docs",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "presets": [
@@ -15,13 +15,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "D:\\Github\\Quikly_docs\\sidebars.js"
+          "sidebarPath": "/home/shiv/workspace/Quikly_docs/sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "D:\\Github\\Quikly_docs\\src\\css\\custom.css"
+          "customCss": "/home/shiv/workspace/Quikly_docs/src/css/custom.css"
         }
       }
     ]

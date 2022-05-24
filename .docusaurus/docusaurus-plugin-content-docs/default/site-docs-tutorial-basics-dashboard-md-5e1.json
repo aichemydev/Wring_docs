@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-basics/Dashboard.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/Dashboard",
-  "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard",
+  "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/Quikly-docs/docs/intro"
+    "permalink": "/Quikly_docs/docs/intro"
   },
   "next": {
     "title": "Test Runs",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
   }
 }

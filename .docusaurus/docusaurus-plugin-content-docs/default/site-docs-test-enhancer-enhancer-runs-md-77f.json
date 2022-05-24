@@ -7,7 +7,7 @@
   "source": "@site/docs/Test Enhancer/Enhancer Runs.md",
   "sourceDirName": "Test Enhancer",
   "slug": "/Test Enhancer/Enhancer Runs",
-  "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs",
+  "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Get Started with Enhancer",
-    "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+    "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started"
   },
   "next": {
     "title": "Frequently Asked Questions",
-    "permalink": "/Quikly-docs/docs/faq"
+    "permalink": "/Quikly_docs/docs/faq"
   }
 }

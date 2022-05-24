@@ -5,16 +5,16 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/Quikly-docs/docs",
-          "tagsPath": "/Quikly-docs/docs/tags",
+          "versionPath": "/Quikly_docs/docs",
+          "tagsPath": "/Quikly_docs/docs/tags",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\Github\\Quikly_docs\\sidebars.js",
-          "contentPath": "D:\\Github\\Quikly_docs\\docs",
-          "contentPathLocalized": "D:\\Github\\Quikly_docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "/home/shiv/workspace/Quikly_docs/sidebars.js",
+          "contentPath": "/home/shiv/workspace/Quikly_docs/docs",
+          "contentPathLocalized": "/home/shiv/workspace/Quikly_docs/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "docs": [
             {
@@ -26,7 +26,7 @@
               "source": "@site/docs/faq.md",
               "sourceDirName": ".",
               "slug": "/faq",
-              "permalink": "/Quikly-docs/docs/faq",
+              "permalink": "/Quikly_docs/docs/faq",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -36,11 +36,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Enhancer Runs",
-                "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+                "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
               },
               "next": {
                 "title": "Supported Versions",
-                "permalink": "/Quikly-docs/docs/versions"
+                "permalink": "/Quikly_docs/docs/versions"
               }
             },
             {
@@ -52,7 +52,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/Quikly-docs/docs/intro",
+              "permalink": "/Quikly_docs/docs/intro",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -62,7 +62,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Dashboard",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard"
               }
             },
             {
@@ -74,7 +74,7 @@
               "source": "@site/docs/Test Enhancer/Enhancer Runs.md",
               "sourceDirName": "Test Enhancer",
               "slug": "/Test Enhancer/Enhancer Runs",
-              "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs",
+              "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -84,11 +84,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Get Started with Enhancer",
-                "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+                "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started"
               },
               "next": {
                 "title": "Frequently Asked Questions",
-                "permalink": "/Quikly-docs/docs/faq"
+                "permalink": "/Quikly_docs/docs/faq"
               }
             },
             {
@@ -100,7 +100,7 @@
               "source": "@site/docs/Test Enhancer/Get Started.md",
               "sourceDirName": "Test Enhancer",
               "slug": "/Test Enhancer/Get Started",
-              "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started",
+              "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -110,11 +110,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "View Test",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/view"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/view"
               },
               "next": {
                 "title": "Enhancer Runs",
-                "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+                "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
               }
             },
             {
@@ -126,7 +126,7 @@
               "source": "@site/docs/TG Smart Observer/Introduction.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/Introduction",
-              "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction",
+              "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -136,11 +136,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deep Healing",
-                "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+                "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing"
               },
               "next": {
                 "title": "Get Started",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
               }
             },
             {
@@ -152,7 +152,7 @@
               "source": "@site/docs/TG Smart Observer/recorder.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/recorder",
-              "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder",
+              "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -162,11 +162,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Get Started",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
               },
               "next": {
                 "title": "Start recording",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/tests"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
               }
             },
             {
@@ -178,7 +178,7 @@
               "source": "@site/docs/TG Smart Observer/tests.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/tests",
-              "permalink": "/Quikly-docs/docs/TG Smart Observer/tests",
+              "permalink": "/Quikly_docs/docs/TG Smart Observer/tests",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -188,11 +188,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Welcome *User*",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder"
               },
               "next": {
                 "title": "View Test",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/view"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/view"
               }
             },
             {
@@ -204,7 +204,7 @@
               "source": "@site/docs/TG Smart Observer/Tutorials.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/Tutorials",
-              "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials",
+              "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -214,11 +214,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction"
               },
               "next": {
                 "title": "Welcome *User*",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder"
               }
             },
             {
@@ -230,7 +230,7 @@
               "source": "@site/docs/TG Smart Observer/view.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/view",
-              "permalink": "/Quikly-docs/docs/TG Smart Observer/view",
+              "permalink": "/Quikly_docs/docs/TG Smart Observer/view",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -240,11 +240,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Start recording",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/tests"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
               },
               "next": {
                 "title": "Get Started with Enhancer",
-                "permalink": "/Quikly-docs/docs/Test Enhancer/Get Started"
+                "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started"
               }
             },
             {
@@ -256,7 +256,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations",
+              "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -266,11 +266,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installation",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Installation"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Installation"
               },
               "next": {
                 "title": "Getting Started",
-                "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started"
+                "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
               }
             },
             {
@@ -282,7 +282,7 @@
               "source": "@site/docs/tutorial-basics/Dashboard.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Dashboard",
-              "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard",
+              "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -292,11 +292,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/Quikly-docs/docs/intro"
+                "permalink": "/Quikly_docs/docs/intro"
               },
               "next": {
                 "title": "Test Runs",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
               }
             },
             {
@@ -308,7 +308,7 @@
               "source": "@site/docs/tutorial-basics/Installation.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Installation",
-              "permalink": "/Quikly-docs/docs/tutorial-basics/Installation",
+              "permalink": "/Quikly_docs/docs/tutorial-basics/Installation",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -318,11 +318,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Integrations",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -334,7 +334,7 @@
               "source": "@site/docs/tutorial-basics/Integrations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Integrations",
-              "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations",
+              "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -344,11 +344,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Test Runs",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
               },
               "next": {
                 "title": "Installation",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Installation"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Installation"
               }
             },
             {
@@ -360,7 +360,7 @@
               "source": "@site/docs/tutorial-basics/Test-Explorer.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Test-Explorer",
-              "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer",
+              "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -370,11 +370,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Dashboard",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard"
               },
               "next": {
                 "title": "Integrations",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
               }
             },
             {
@@ -386,7 +386,7 @@
               "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/customizing-interceptor",
-              "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor",
+              "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -396,11 +396,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started"
+                "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
               },
               "next": {
                 "title": "Deep Healing",
-                "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+                "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing"
               }
             },
             {
@@ -412,7 +412,7 @@
               "source": "@site/docs/tutorial-extras/deep-healing.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/deep-healing",
-              "permalink": "/Quikly-docs/docs/tutorial-extras/deep-healing",
+              "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -422,11 +422,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Customizing Interceptor Execution",
-                "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor"
+                "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
                 "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Quikly-docs/docs/TG Smart Observer/Introduction"
+                "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -438,7 +438,7 @@
               "source": "@site/docs/tutorial-extras/getting-started.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/getting-started",
-              "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started",
+              "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -448,11 +448,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Congratulations!",
-                "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+                "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Customizing Interceptor Execution",
-                "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor"
+                "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
               }
             },
             {
@@ -464,7 +464,7 @@
               "source": "@site/docs/versions.md",
               "sourceDirName": ".",
               "slug": "/versions",
-              "permalink": "/Quikly-docs/docs/versions",
+              "permalink": "/Quikly_docs/docs/versions",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -474,7 +474,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Frequently Asked Questions",
-                "permalink": "/Quikly-docs/docs/faq"
+                "permalink": "/Quikly_docs/docs/faq"
               }
             }
           ],
@@ -597,7 +597,7 @@
         {
           "id": "introducing-Quikly",
           "metadata": {
-            "permalink": "/Quikly-docs/blog/introducing-Quikly",
+            "permalink": "/Quikly_docs/blog/introducing-Quikly",
             "source": "@site/blog/2020-06-15-first-blog-post.md",
             "title": "Introducing Quikly",
             "description": "What is Quikly and what can it do?",
@@ -606,7 +606,7 @@
             "tags": [
               {
                 "label": "Introduction",
-                "permalink": "/Quikly-docs/blog/tags/introduction"
+                "permalink": "/Quikly_docs/blog/tags/introduction"
               }
             ],
             "readingTime": 2.01,
@@ -615,8 +615,8 @@
               {
                 "name": "The Quikly Team",
                 "title": "Introducing Quikly",
-                "image_url": "/img/aiChemy_Logo.svg",
-                "imageURL": "/img/aiChemy_Logo.svg"
+                "image_url": "/img/favicon.ico",
+                "imageURL": "/img/favicon.ico"
               }
             ]
           },
@@ -626,7 +626,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/Quikly-docs/blog",
+            "permalink": "/Quikly_docs/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -642,27 +642,27 @@
         }
       ],
       "blogTags": {
-        "/Quikly-docs/blog/tags/introduction": {
+        "/Quikly_docs/blog/tags/introduction": {
           "name": "Introduction",
           "items": [
             "introducing-Quikly"
           ],
-          "permalink": "/Quikly-docs/blog/tags/introduction"
+          "permalink": "/Quikly_docs/blog/tags/introduction"
         }
       },
-      "blogTagsListPath": "/Quikly-docs/blog/tags"
+      "blogTagsListPath": "/Quikly_docs/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/Quikly-docs/",
+        "permalink": "/Quikly_docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/Quikly-docs/markdown-page",
+        "permalink": "/Quikly_docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Getting Started",
-        "href": "/Quikly-docs/docs/intro"
+        "href": "/Quikly_docs/docs/intro"
       },
       {
         "type": "category",
@@ -22,27 +22,27 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/Quikly-docs/docs/tutorial-basics/Dashboard"
+            "href": "/Quikly_docs/docs/tutorial-basics/Dashboard"
           },
           {
             "type": "link",
             "label": "Test Runs",
-            "href": "/Quikly-docs/docs/tutorial-basics/Test-Explorer"
+            "href": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
           },
           {
             "type": "link",
             "label": "Integrations",
-            "href": "/Quikly-docs/docs/tutorial-basics/Integrations"
+            "href": "/Quikly_docs/docs/tutorial-basics/Integrations"
           },
           {
             "type": "link",
             "label": "Installation",
-            "href": "/Quikly-docs/docs/tutorial-basics/Installation"
+            "href": "/Quikly_docs/docs/tutorial-basics/Installation"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/Quikly-docs/docs/tutorial-basics/congratulations"
+            "href": "/Quikly_docs/docs/tutorial-basics/congratulations"
           }
         ]
       },
@@ -55,17 +55,17 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/Quikly-docs/docs/tutorial-extras/getting-started"
+            "href": "/Quikly_docs/docs/tutorial-extras/getting-started"
           },
           {
             "type": "link",
             "label": "Customizing Interceptor Execution",
-            "href": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor"
+            "href": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
           },
           {
             "type": "link",
             "label": "Deep Healing",
-            "href": "/Quikly-docs/docs/tutorial-extras/deep-healing"
+            "href": "/Quikly_docs/docs/tutorial-extras/deep-healing"
           }
         ]
       },
@@ -78,27 +78,27 @@
           {
             "type": "link",
             "label": "Quikly Smart Observer - Introduction",
-            "href": "/Quikly-docs/docs/TG Smart Observer/Introduction"
+            "href": "/Quikly_docs/docs/TG Smart Observer/Introduction"
           },
           {
             "type": "link",
             "label": "Get Started",
-            "href": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+            "href": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
           },
           {
             "type": "link",
             "label": "Welcome *User*",
-            "href": "/Quikly-docs/docs/TG Smart Observer/recorder"
+            "href": "/Quikly_docs/docs/TG Smart Observer/recorder"
           },
           {
             "type": "link",
             "label": "Start recording",
-            "href": "/Quikly-docs/docs/TG Smart Observer/tests"
+            "href": "/Quikly_docs/docs/TG Smart Observer/tests"
           },
           {
             "type": "link",
             "label": "View Test",
-            "href": "/Quikly-docs/docs/TG Smart Observer/view"
+            "href": "/Quikly_docs/docs/TG Smart Observer/view"
           }
         ]
       },
@@ -111,24 +111,24 @@
           {
             "type": "link",
             "label": "Get Started with Enhancer",
-            "href": "/Quikly-docs/docs/Test Enhancer/Get Started"
+            "href": "/Quikly_docs/docs/Test Enhancer/Get Started"
           },
           {
             "type": "link",
             "label": "Enhancer Runs",
-            "href": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+            "href": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
           }
         ]
       },
       {
         "type": "link",
         "label": "Frequently Asked Questions",
-        "href": "/Quikly-docs/docs/faq"
+        "href": "/Quikly_docs/docs/faq"
       },
       {
         "type": "link",
         "label": "Supported Versions",
-        "href": "/Quikly-docs/docs/versions"
+        "href": "/Quikly_docs/docs/versions"
       }
     ]
   }

@@ -1,142 +1,142 @@
 {
-  "/Quikly-docs/__docusaurus/debug-841": {
+  "/Quikly_docs/__docusaurus/debug-cb8": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/Quikly-docs/__docusaurus/debug/config-957": {
+  "/Quikly_docs/__docusaurus/debug/config-f17": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/Quikly-docs/__docusaurus/debug/content-773": {
+  "/Quikly_docs/__docusaurus/debug/content-879": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---quikly-docs-docusaurus-debug-content-246-4ee"
+    "allContent": "allContent---quikly-docs-docusaurus-debug-content-246-e49"
   },
-  "/Quikly-docs/__docusaurus/debug/globalData-082": {
+  "/Quikly_docs/__docusaurus/debug/globalData-3d4": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/Quikly-docs/__docusaurus/debug/metadata-b9a": {
+  "/Quikly_docs/__docusaurus/debug/metadata-0a8": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/Quikly-docs/__docusaurus/debug/registry-77a": {
+  "/Quikly_docs/__docusaurus/debug/registry-3ea": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/Quikly-docs/__docusaurus/debug/routes-c57": {
+  "/Quikly_docs/__docusaurus/debug/routes-113": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/Quikly-docs/blog-33e": {
+  "/Quikly_docs/blog-f0f": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---quikly-docs-blog-814-65f",
+    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
     "items": [
       {
-        "content": "content---quikly-docs-blog-2-f-0-3f8"
+        "content": "content---quikly-docs-blog-2-f-0-3a1"
       }
     ],
-    "metadata": "metadata---quikly-docs-blog-1-cd-e0b"
+    "metadata": "metadata---quikly-docs-blog-839-dd7"
   },
-  "/Quikly-docs/blog/archive-f27": {
+  "/Quikly_docs/blog/archive-6f6": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---quikly-docs-blog-archiveb-74-cc3"
+    "archive": "archive---quikly-docs-blog-archived-93-09a"
   },
-  "/Quikly-docs/blog/introducing-Quikly-bc2": {
+  "/Quikly_docs/blog/introducing-Quikly-45d": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---quikly-docs-blog-814-65f",
-    "content": "content---quikly-docs-blog-introducing-quikly-52-c-650"
+    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
+    "content": "content---quikly-docs-blog-introducing-quikly-52-c-786"
   },
-  "/Quikly-docs/blog/tags-2cb": {
+  "/Quikly_docs/blog/tags-20f": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---quikly-docs-blog-814-65f",
-    "tags": "tags---quikly-docs-blog-tagsed-9-5f6"
+    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
+    "tags": "tags---quikly-docs-blog-tagsd-06-6de"
   },
-  "/Quikly-docs/blog/tags/introduction-30e": {
+  "/Quikly_docs/blog/tags/introduction-3d3": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---quikly-docs-blog-814-65f",
+    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
     "items": [
       {
-        "content": "content---quikly-docs-blog-2-f-0-3f8"
+        "content": "content---quikly-docs-blog-2-f-0-3a1"
       }
     ],
-    "metadata": "metadata---quikly-docs-blog-tags-introduction-907-05a"
+    "metadata": "metadata---quikly-docs-blog-tags-introductionfa-9-478"
   },
-  "/Quikly-docs/markdown-page-b02": {
+  "/Quikly_docs/markdown-page-d42": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---quikly-docs-markdown-page-393-bb5"
+    "content": "content---quikly-docs-markdown-page-393-2ff"
   },
-  "/Quikly-docs/docs-1df": {
+  "/Quikly_docs/docs-c32": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---quikly-docs-docs-935-388"
+    "versionMetadata": "versionMetadata---quikly-docs-docs-935-b02"
   },
-  "/Quikly-docs/docs/faq-6c6": {
+  "/Quikly_docs/docs/faq-64b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-faq-048-e53"
+    "content": "content---quikly-docs-docs-faq-048-435"
   },
-  "/Quikly-docs/docs/intro-a98": {
+  "/Quikly_docs/docs/intro-d9e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-intro-0-e-3-d2e"
+    "content": "content---quikly-docs-docs-intro-0-e-3-66e"
   },
-  "/Quikly-docs/docs/Test Enhancer/Enhancer Runs-c66": {
+  "/Quikly_docs/docs/Test Enhancer/Enhancer Runs-b57": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-test-enhancer-enhancer-runs-77-f-767"
+    "content": "content---quikly-docs-docs-test-enhancer-enhancer-runs-77-f-ca5"
   },
-  "/Quikly-docs/docs/Test Enhancer/Get Started-46e": {
+  "/Quikly_docs/docs/Test Enhancer/Get Started-83f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-test-enhancer-get-startedf-41-dbf"
+    "content": "content---quikly-docs-docs-test-enhancer-get-startedf-41-f12"
   },
-  "/Quikly-docs/docs/TG Smart Observer/Introduction-94c": {
+  "/Quikly_docs/docs/TG Smart Observer/Introduction-4ec": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-introduction-9-ef-f36"
+    "content": "content---quikly-docs-docs-tg-smart-observer-introduction-9-ef-b94"
   },
-  "/Quikly-docs/docs/TG Smart Observer/recorder-375": {
+  "/Quikly_docs/docs/TG Smart Observer/recorder-72d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-recorder-74-c-8b8"
+    "content": "content---quikly-docs-docs-tg-smart-observer-recorder-74-c-969"
   },
-  "/Quikly-docs/docs/TG Smart Observer/tests-b36": {
+  "/Quikly_docs/docs/TG Smart Observer/tests-2a7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-tests-182-e6f"
+    "content": "content---quikly-docs-docs-tg-smart-observer-tests-182-6b1"
   },
-  "/Quikly-docs/docs/TG Smart Observer/Tutorials-a93": {
+  "/Quikly_docs/docs/TG Smart Observer/Tutorials-1a0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-tutorialsd-9-d-77f"
+    "content": "content---quikly-docs-docs-tg-smart-observer-tutorialsd-9-d-2d6"
   },
-  "/Quikly-docs/docs/TG Smart Observer/view-f83": {
+  "/Quikly_docs/docs/TG Smart Observer/view-fa6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-view-521-5bc"
+    "content": "content---quikly-docs-docs-tg-smart-observer-view-521-7f2"
   },
-  "/Quikly-docs/docs/tutorial-basics/congratulations-08f": {
+  "/Quikly_docs/docs/tutorial-basics/congratulations-f8c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-congratulations-822-b0a"
+    "content": "content---quikly-docs-docs-tutorial-basics-congratulations-822-844"
   },
-  "/Quikly-docs/docs/tutorial-basics/Dashboard-a66": {
+  "/Quikly_docs/docs/tutorial-basics/Dashboard-7e0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-dashboard-5-e-1-8ce"
+    "content": "content---quikly-docs-docs-tutorial-basics-dashboard-5-e-1-104"
   },
-  "/Quikly-docs/docs/tutorial-basics/Installation-731": {
+  "/Quikly_docs/docs/tutorial-basics/Installation-d3f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-installation-238-0df"
+    "content": "content---quikly-docs-docs-tutorial-basics-installation-238-2da"
   },
-  "/Quikly-docs/docs/tutorial-basics/Integrations-989": {
+  "/Quikly_docs/docs/tutorial-basics/Integrations-371": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-integrations-052-61f"
+    "content": "content---quikly-docs-docs-tutorial-basics-integrations-052-1de"
   },
-  "/Quikly-docs/docs/tutorial-basics/Test-Explorer-8b1": {
+  "/Quikly_docs/docs/tutorial-basics/Test-Explorer-ecf": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-test-explorera-6-f-497"
+    "content": "content---quikly-docs-docs-tutorial-basics-test-explorera-6-f-5ec"
   },
-  "/Quikly-docs/docs/tutorial-extras/customizing-interceptor-64a": {
+  "/Quikly_docs/docs/tutorial-extras/customizing-interceptor-c00": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-extras-customizing-interceptorcca-bb9"
+    "content": "content---quikly-docs-docs-tutorial-extras-customizing-interceptorcca-cb5"
   },
-  "/Quikly-docs/docs/tutorial-extras/deep-healing-bba": {
+  "/Quikly_docs/docs/tutorial-extras/deep-healing-0af": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-extras-deep-healing-295-3b5"
+    "content": "content---quikly-docs-docs-tutorial-extras-deep-healing-295-fac"
   },
-  "/Quikly-docs/docs/tutorial-extras/getting-started-973": {
+  "/Quikly_docs/docs/tutorial-extras/getting-started-b38": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-extras-getting-started-34-a-a65"
+    "content": "content---quikly-docs-docs-tutorial-extras-getting-started-34-a-8d5"
   },
-  "/Quikly-docs/docs/versions-306": {
+  "/Quikly_docs/docs/versions-907": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-versions-0-fe-152"
+    "content": "content---quikly-docs-docs-versions-0-fe-0d1"
   },
-  "/Quikly-docs/-644": {
+  "/Quikly_docs/-14a": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---quikly-docs-5-e-9-3e1"
+    "config": "config---quikly-docs-5-e-9-b25"
   }
 }

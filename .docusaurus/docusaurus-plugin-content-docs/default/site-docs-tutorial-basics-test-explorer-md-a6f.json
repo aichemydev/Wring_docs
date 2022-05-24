@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-basics/Test-Explorer.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/Test-Explorer",
-  "permalink": "/Quikly-docs/docs/tutorial-basics/Test-Explorer",
+  "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dashboard",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/Dashboard"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard"
   },
   "next": {
     "title": "Integrations",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "permalink": "/Quikly-docs/blog/introducing-Quikly",
+  "permalink": "/Quikly_docs/blog/introducing-Quikly",
   "source": "@site/blog/2020-06-15-first-blog-post.md",
   "title": "Introducing Quikly",
   "description": "What is Quikly and what can it do?",
@@ -8,7 +8,7 @@
   "tags": [
     {
       "label": "Introduction",
-      "permalink": "/Quikly-docs/blog/tags/introduction"
+      "permalink": "/Quikly_docs/blog/tags/introduction"
     }
   ],
   "readingTime": 2.01,
@@ -17,8 +17,8 @@
     {
       "name": "The Quikly Team",
       "title": "Introducing Quikly",
-      "image_url": "/img/aiChemy_Logo.svg",
-      "imageURL": "/img/aiChemy_Logo.svg"
+      "image_url": "/img/favicon.ico",
+      "imageURL": "/img/favicon.ico"
     }
   ]
 }

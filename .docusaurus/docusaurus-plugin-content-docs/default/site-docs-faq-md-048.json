@@ -7,7 +7,7 @@
   "source": "@site/docs/faq.md",
   "sourceDirName": ".",
   "slug": "/faq",
-  "permalink": "/Quikly-docs/docs/faq",
+  "permalink": "/Quikly_docs/docs/faq",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Enhancer Runs",
-    "permalink": "/Quikly-docs/docs/Test Enhancer/Enhancer Runs"
+    "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
   },
   "next": {
     "title": "Supported Versions",
-    "permalink": "/Quikly-docs/docs/versions"
+    "permalink": "/Quikly_docs/docs/versions"
   }
 }

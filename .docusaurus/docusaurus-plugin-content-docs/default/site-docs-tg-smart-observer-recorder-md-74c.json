@@ -7,7 +7,7 @@
   "source": "@site/docs/TG Smart Observer/recorder.md",
   "sourceDirName": "TG Smart Observer",
   "slug": "/TG Smart Observer/recorder",
-  "permalink": "/Quikly-docs/docs/TG Smart Observer/recorder",
+  "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Get Started",
-    "permalink": "/Quikly-docs/docs/TG Smart Observer/Tutorials"
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
   },
   "next": {
     "title": "Start recording",
-    "permalink": "/Quikly-docs/docs/TG Smart Observer/tests"
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
   }
 }

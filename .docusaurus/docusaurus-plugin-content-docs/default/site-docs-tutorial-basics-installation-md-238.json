@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-basics/Installation.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/Installation",
-  "permalink": "/Quikly-docs/docs/tutorial-basics/Installation",
+  "permalink": "/Quikly_docs/docs/tutorial-basics/Installation",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Integrations",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/Integrations"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
   },
   "next": {
     "title": "Congratulations!",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
   }
 }

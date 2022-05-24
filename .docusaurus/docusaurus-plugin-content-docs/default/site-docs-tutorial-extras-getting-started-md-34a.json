@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/getting-started.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/getting-started",
-  "permalink": "/Quikly-docs/docs/tutorial-extras/getting-started",
+  "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/Quikly-docs/docs/tutorial-basics/congratulations"
+    "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Customizing Interceptor Execution",
-    "permalink": "/Quikly-docs/docs/tutorial-extras/customizing-interceptor"
+    "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
   }
 }
