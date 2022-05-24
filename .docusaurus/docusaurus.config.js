@@ -15,13 +15,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/shiv/workspace/Quikly_docs/sidebars.js"
+          "sidebarPath": "D:\\Github\\Quikly_docs\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/home/shiv/workspace/Quikly_docs/src/css/custom.css"
+          "customCss": "D:\\Github\\Quikly_docs\\src\\css\\custom.css"
         }
       }
     ]
