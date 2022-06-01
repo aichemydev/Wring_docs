@@ -236,7 +236,10 @@ After you add a scheduled run, you will see the screen below.
 
 If the test is scheduled with `Simple calendar` :
 
+![Integrations](/img/simplee.png)
+
 
 If the test is scheduled with `Advanced calendar` :
 
+![Integrations](/img/advancedTest.png)
 
