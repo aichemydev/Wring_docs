@@ -243,3 +243,8 @@ If the test is scheduled with `Advanced calendar` :
 
 ![Integrations](/img/advancedTest.png)
 
+
+When it runs in the process on Quikly, it will look like this:
+
+![Integrations](/img/schrun.png)
+
