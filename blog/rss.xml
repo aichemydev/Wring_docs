@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Quikly Blog</title>
-        <link>https://aichemydev.github.io/Quikly_docs/blog</link>
+        <link>https://github.com/Quikly_docs/blog</link>
         <description>Quikly Blog</description>
         <lastBuildDate>Mon, 15 Jun 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Introducing Quikly]]></title>
-            <link>https://aichemydev.github.io/Quikly_docs/blog/introducing-Quikly</link>
+            <link>https://github.com/Quikly_docs/blog/introducing-Quikly</link>
             <guid>introducing-Quikly</guid>
             <pubDate>Mon, 15 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[What is Quikly and what can it do?]]></description>
