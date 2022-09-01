@@ -6,16 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Quikly',
+  title: 'Wring',
   tagline: 'Speed up the testing process!',
   //url: 'https://aichemydev.github.io/',
   url: 'https://github.com/',
-  baseUrl: '/Quikly_docs/',
+  baseUrl: '/Wring_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
   organizationName: 'aichemydev', // Usually your GitHub org/user name.
-  projectName: 'Quikly_docs', // Usually your repo name.
+  projectName: 'Wring_docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -41,9 +41,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Quikly',
+        title: 'Wring',
         logo: {
-          alt: 'Quikly Logo',
+          alt: 'Wring Logo',
           src: 'img/aiChemy_Logo.svg',
         },
         items: [
@@ -55,7 +55,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/aichemydev/Quikly-issues',
+            href: 'https://github.com/aichemydev/Wring-issues',
             label: 'GitHub',
             position: 'right',
           },
@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/aichemydev/Quikly-issues',
+                href: 'https://github.com/aichemydev/Wring-issues',
               },
             ],
           },

@@ -1,14 +1,14 @@
 ---
-slug: introducing-Quikly
-title: Introducing Quikly
+slug: introducing-Wring
+title: Introducing Wring
 authors:
-  name: The Quikly Team
-  title: Introducing Quikly
+  name: The Wring Team
+  title: Introducing Wring
   image_url: /img/favicon.ico
 tags: [Introduction]
 ---
 
-What is Quikly and what can it do?
+What is Wring and what can it do?
 
 <!--truncate-->
 

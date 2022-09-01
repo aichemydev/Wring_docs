@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Welcome to the Dashboard. This is where you can get some quick statistics regarding your tests.
 
-![Quikly Dashboard](/img/Dashboard.png)
+![Wring Dashboard](/img/Dashboard.png)
 
 The dashboard provides important metrics such as: 
 

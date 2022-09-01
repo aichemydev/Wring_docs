@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Integrations
 
-Quikly offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.
+Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.
 
 ## Overview
 
@@ -14,7 +14,7 @@ The integrations page shows available integrations as cards located at the top o
 
 ## Get Started
 ### Github
-The Quikly integration with Github enables fast and easy reporting to speed up issue creation. When a test that has been run on the Quikly platform, fails, you can be immediately notified in your teams Github. Quikly will open an issue with details about the test as well as the logs from the test run. This helps you stay on top of any errors and keep track of the progress.
+The Wring integration with Github enables fast and easy reporting to speed up issue creation. When a test that has been run on the Wring platform, fails, you can be immediately notified in your teams Github. Wring will open an issue with details about the test as well as the logs from the test run. This helps you stay on top of any errors and keep track of the progress.
 
 To setup a Github integration, click on the Github card on. This will bring up a modal asking for some info to get started. 
 
@@ -26,7 +26,7 @@ Please provide the following information:
 
 
 ### Gitlab
-The Quikly Gitlab integration can be used to keep track of your test runs in
+The Wring Gitlab integration can be used to keep track of your test runs in
 Gitlab. To set this up you will need to provide a few things:
 
 - Gitlab Organization Name
@@ -44,26 +44,26 @@ Gitlab. To set this up you will need to provide a few things:
       https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html
 
 ### Slack
-The Quikly Reporter Slack app keeps your team up to date with the status of your tests to a slack channel. Get started by selecting the Slack card on the integrations page. This will redirect you to slack where you will be prompted to accept permissions and select a slack channel to receive notifications to. Once you select the `Allow` button on Slack, you will be redirected back to the integrations page.
+The Wring Reporter Slack app keeps your team up to date with the status of your tests to a slack channel. Get started by selecting the Slack card on the integrations page. This will redirect you to slack where you will be prompted to accept permissions and select a slack channel to receive notifications to. Once you select the `Allow` button on Slack, you will be redirected back to the integrations page.
 
 ### Jenkins
-Automate your tests with Jenkins while taking advantage of the advanced healing and intelligence offered by Quikly by integrating Jenkins with the Quikly Interceptor. To configure this, select your Jenkins job and add a new build step in the build environment. 
+Automate your tests with Jenkins while taking advantage of the advanced healing and intelligence offered by Wring by integrating Jenkins with the Wring Interceptor. To configure this, select your Jenkins job and add a new build step in the build environment. 
 
 ``` bash
 #!/bin/bash
 git clone git@github.com:your_github_username/your_repo_name.git
 cd /repo/
 source .jenkins-secrets
-export Quikly_ANALYZER=1
+export Wring_ANALYZER=1
 cd /repo/testlocation
-wget https://vision.Quikly.dev/interceptor/download/secured/selenium-webdriver-20.11.0.Quiklyz?walToken=${WAL_TOKEN} -O selenium-webdriver-20.11.0.Quiklyz
-npm install selenium-webdriver-20.11.0.Quiklyz
+wget https://vision.Wring.dev/interceptor/download/secured/selenium-webdriver-20.11.0.Wringz?walToken=${WAL_TOKEN} -O selenium-webdriver-20.11.0.Wringz
+npm install selenium-webdriver-20.11.0.Wringz
 # Run Tests Here
 ```
 
 
 ### CircleCI
-Use the Quikly Interceptor with your CircleCI builds! Getting Started with CircleCI is easy. 
+Use the Wring Interceptor with your CircleCI builds! Getting Started with CircleCI is easy. 
 #### Creating a New Configuration
 If you are starting from scratch, we have a couple templates to help you get started. 
 ```yml title="config.yml"
@@ -105,15 +105,15 @@ jobs:
       - browser-tools/install-chrome
       - browser-tools/install-chromedriver
       
-      # Now, we will configure the Quikly interceptor. Make sure to add your Quikly_TOKEN to your project secrets. 
-      # For a full list of interceptor options check out the documentation: https://Quikly.readthedocs.io/en/latest/externaluse.html
+      # Now, we will configure the Wring interceptor. Make sure to add your Wring_TOKEN to your project secrets. 
+      # For a full list of interceptor options check out the documentation: https://Wring.readthedocs.io/en/latest/externaluse.html
       - run:
-          name: Download and Configure Quikly Interceptor
+          name: Download and Configure Wring Interceptor
           command: |
-            wget https://Quiklyapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
+            wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
             pip install selenium-20.11.0-py2.py3-none-any.whl -U
-            export Quikly_ANALYZER=1
-            export Quikly_TOKEN=$Quikly_TOKEN
+            export Wring_ANALYZER=1
+            export Wring_TOKEN=$Wring_TOKEN
       - python/install-packages:
           pkg-manager: pip
           # app-dir: ~/project/package-directory/  # If your requirements.txt isn't in the root directory.
@@ -133,37 +133,37 @@ workflows:
 
 :::note 
 
-You will need to add a Quikly_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
+You will need to add a Wring_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
 
 :::
 
 
 
-#### Adding Quikly to your Existing Configurations
-If you already have a config with CircleCI to run your Selenium Scripts, then the only thing you need to do is add a new run to configure the Quikly Interceptor. 
+#### Adding Wring to your Existing Configurations
+If you already have a config with CircleCI to run your Selenium Scripts, then the only thing you need to do is add a new run to configure the Wring Interceptor. 
 
 ```yml title="config.yml"
 - run:
-    name: Download and Configure Quikly Interceptor
+    name: Download and Configure Wring Interceptor
     command: |
-      wget https://Quiklyapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
+      wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
       pip install selenium-20.11.0-py2.py3-none-any.whl -U
-      export Quikly_ANALYZER=1
-      export Quikly_TOKEN=$Quikly_TOKEN
+      export Wring_ANALYZER=1
+      export Wring_TOKEN=$Wring_TOKEN
 ```
 
 :::note 
 
-You will need to add a Quikly_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
+You will need to add a Wring_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
 
 :::
 
-This will now use the Quikly interceptor as the default selenium package. To learn more about using the interceptor, see the documentation at: 
+This will now use the Wring interceptor as the default selenium package. To learn more about using the interceptor, see the documentation at: 
 
 ### Travis CI
-Use the Quikly Interceptor with Travis CI in a couple simple steps. 
+Use the Wring Interceptor with Travis CI in a couple simple steps. 
 
-In this example, we setup the Quikly Interceptor for Selenium Python.
+In this example, we setup the Wring Interceptor for Selenium Python.
 ```yml title=".travis.yml"
 sudo: required
 language: python
@@ -173,7 +173,7 @@ addons:
   chrome: stable
 
 before_install:
-- wget https://Quiklyapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
+- wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
 
 before_script:
   - LATEST_CHROMEDRIVER_VERSION=`curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE"`
@@ -183,7 +183,7 @@ before_script:
 
 env:
   global:
-  - export Quikly_ANALYZER=1
+  - export Wring_ANALYZER=1
 
 install:
   - pip install selenium-20.11.0-py2.py3-none-any.whl -U
@@ -195,7 +195,7 @@ script:
 
 :::note 
 
-You will need to add a Quikly_TOKEN to your project secrets on Travis CI. For more information, see the documentation provided by Travis CI here: **[Travis CI Documentation](https://docs.travis-ci.com/user/environment-variables/)**
+You will need to add a Wring_TOKEN to your project secrets on Travis CI. For more information, see the documentation provided by Travis CI here: **[Travis CI Documentation](https://docs.travis-ci.com/user/environment-variables/)**
 
 :::
 
@@ -217,20 +217,20 @@ Other integrations such as Slack will need to be removed from those platforms.
 
 ## Scheduled runs
 
-Quikly allows you to schedule runs every time you want.
+Wring allows you to schedule runs every time you want.
 
-![Quikly Dashboard](/img/scheduled.png)
+![Wring Dashboard](/img/scheduled.png)
 
 To schedule a run, you have to fill all the fields, so it can be a proper scheduled run. You can run a scheduled run `once`,`daily`, `weekly`, `monthly` and `use crontab expression` 
 
-![Quikly Dashboard](/img/run.png)
+![Wring Dashboard](/img/run.png)
 
 Schedule run provides two calendars `Simple` and `Advanced` 
 
 - **Simple** - Schedule one hour from your actual hour and it's available for three months.
 - **Advanced** - Program yourself the date and time of the start and end.
 
-![Quikly Dashboard](/img/advanced.png)
+![Wring Dashboard](/img/advanced.png)
 
 After you add a scheduled run, you will see the screen below.
 
@@ -244,7 +244,7 @@ If the test is scheduled with `Advanced calendar` :
 ![Integrations](/img/advancedTest.png)
 
 
-When it runs in the process on Quikly, it will look like this:
+When it runs in the process on Wring, it will look like this:
 
 ![Integrations](/img/schrun.png)
 

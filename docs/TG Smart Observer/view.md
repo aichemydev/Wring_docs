@@ -26,7 +26,7 @@ After you click on the test you sent, it will send you to another view, where yo
 
 ![Quikly Dashboard](/img/n.png)
 
-You can also view this test on browser on [QUIKLY](https://dev.k8s.testgold.dev/details/test-explorer/list-tests) by clicking on the button `View In browser`. It will send you to Quikly immediately and you will see this screen. 
+You can also view this test on browser on [Quikly](https://dev.k8s.testgold.dev/details/test-explorer/list-tests) by clicking on the button `View In browser`. It will send you to Quikly immediately and you will see this screen. 
 
 ![Quikly Dashboard](/img/o.png)
 
