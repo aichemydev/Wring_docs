@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_gold=self.webpackChunktest_gold||[]).push([[165],{1615:function(t){t.exports=JSON.parse('{"allTagsPath":"/Quikly_docs/blog/tags","slug":"/Quikly_docs/blog/tags/introduction","name":"Introduction","count":1,"permalink":"/Quikly_docs/blog/tags/introduction"}')}}]);

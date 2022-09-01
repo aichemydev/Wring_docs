@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_gold=self.webpackChunktest_gold||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing Wring","permalink":"/Wring_docs/blog/introducing-Wring"}]}')}}]);
