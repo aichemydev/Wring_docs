@@ -3,11 +3,11 @@
   "id": "tutorial-basics/congratulations",
   "isDocsHomePage": false,
   "title": "Congratulations!",
-  "description": "You have now explored the Quikly UI and you are now ready to checkout some of the advanced features and get to know how they work.",
+  "description": "You have now explored the Wring UI and you are now ready to checkout some of the advanced features and get to know how they work.",
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations",
+  "permalink": "/Wring_docs/docs/tutorial-basics/congratulations",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installation",
-    "permalink": "/Quikly_docs/docs/tutorial-basics/Installation"
+    "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
   },
   "next": {
     "title": "Getting Started",
-    "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
+    "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
   }
 }

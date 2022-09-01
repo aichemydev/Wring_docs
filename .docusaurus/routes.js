@@ -4,187 +4,187 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Quikly_docs/__docusaurus/debug',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug','cb8'),
+    path: '/Wring_docs/__docusaurus/debug',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug','fd8'),
     exact: true
   },
   {
-    path: '/Quikly_docs/__docusaurus/debug/config',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug/config','f17'),
+    path: '/Wring_docs/__docusaurus/debug/config',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/config','e39'),
     exact: true
   },
   {
-    path: '/Quikly_docs/__docusaurus/debug/content',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug/content','879'),
+    path: '/Wring_docs/__docusaurus/debug/content',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/content','a84'),
     exact: true
   },
   {
-    path: '/Quikly_docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug/globalData','3d4'),
+    path: '/Wring_docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/globalData','544'),
     exact: true
   },
   {
-    path: '/Quikly_docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug/metadata','0a8'),
+    path: '/Wring_docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/metadata','48d'),
     exact: true
   },
   {
-    path: '/Quikly_docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug/registry','3ea'),
+    path: '/Wring_docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/registry','4fb'),
     exact: true
   },
   {
-    path: '/Quikly_docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/Quikly_docs/__docusaurus/debug/routes','113'),
+    path: '/Wring_docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/routes','67a'),
     exact: true
   },
   {
-    path: '/Quikly_docs/blog',
-    component: ComponentCreator('/Quikly_docs/blog','f0f'),
+    path: '/Wring_docs/blog',
+    component: ComponentCreator('/Wring_docs/blog','0f4'),
     exact: true
   },
   {
-    path: '/Quikly_docs/blog/archive',
-    component: ComponentCreator('/Quikly_docs/blog/archive','6f6'),
+    path: '/Wring_docs/blog/archive',
+    component: ComponentCreator('/Wring_docs/blog/archive','fd1'),
     exact: true
   },
   {
-    path: '/Quikly_docs/blog/introducing-Quikly',
-    component: ComponentCreator('/Quikly_docs/blog/introducing-Quikly','45d'),
+    path: '/Wring_docs/blog/introducing-Wring',
+    component: ComponentCreator('/Wring_docs/blog/introducing-Wring','9a6'),
     exact: true
   },
   {
-    path: '/Quikly_docs/blog/tags',
-    component: ComponentCreator('/Quikly_docs/blog/tags','20f'),
+    path: '/Wring_docs/blog/tags',
+    component: ComponentCreator('/Wring_docs/blog/tags','976'),
     exact: true
   },
   {
-    path: '/Quikly_docs/blog/tags/introduction',
-    component: ComponentCreator('/Quikly_docs/blog/tags/introduction','3d3'),
+    path: '/Wring_docs/blog/tags/introduction',
+    component: ComponentCreator('/Wring_docs/blog/tags/introduction','1fe'),
     exact: true
   },
   {
-    path: '/Quikly_docs/markdown-page',
-    component: ComponentCreator('/Quikly_docs/markdown-page','d42'),
+    path: '/Wring_docs/markdown-page',
+    component: ComponentCreator('/Wring_docs/markdown-page','23e'),
     exact: true
   },
   {
-    path: '/Quikly_docs/docs',
-    component: ComponentCreator('/Quikly_docs/docs','c32'),
+    path: '/Wring_docs/docs',
+    component: ComponentCreator('/Wring_docs/docs','847'),
     routes: [
       {
-        path: '/Quikly_docs/docs/faq',
-        component: ComponentCreator('/Quikly_docs/docs/faq','64b'),
+        path: '/Wring_docs/docs/faq',
+        component: ComponentCreator('/Wring_docs/docs/faq','976'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/intro',
-        component: ComponentCreator('/Quikly_docs/docs/intro','d9e'),
+        path: '/Wring_docs/docs/intro',
+        component: ComponentCreator('/Wring_docs/docs/intro','9b1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/Test Enhancer/Enhancer Runs',
-        component: ComponentCreator('/Quikly_docs/docs/Test Enhancer/Enhancer Runs','b57'),
+        path: '/Wring_docs/docs/Test Enhancer/Enhancer Runs',
+        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Enhancer Runs','da2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/Test Enhancer/Get Started',
-        component: ComponentCreator('/Quikly_docs/docs/Test Enhancer/Get Started','83f'),
+        path: '/Wring_docs/docs/Test Enhancer/Get Started',
+        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Get Started','aa1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/TG Smart Observer/Introduction',
-        component: ComponentCreator('/Quikly_docs/docs/TG Smart Observer/Introduction','4ec'),
+        path: '/Wring_docs/docs/TG Smart Observer/Introduction',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/Introduction','f32'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/TG Smart Observer/recorder',
-        component: ComponentCreator('/Quikly_docs/docs/TG Smart Observer/recorder','72d'),
+        path: '/Wring_docs/docs/TG Smart Observer/recorder',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/recorder','e94'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/TG Smart Observer/tests',
-        component: ComponentCreator('/Quikly_docs/docs/TG Smart Observer/tests','2a7'),
+        path: '/Wring_docs/docs/TG Smart Observer/tests',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/tests','0ee'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/TG Smart Observer/Tutorials',
-        component: ComponentCreator('/Quikly_docs/docs/TG Smart Observer/Tutorials','1a0'),
+        path: '/Wring_docs/docs/TG Smart Observer/Tutorials',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/Tutorials','483'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/TG Smart Observer/view',
-        component: ComponentCreator('/Quikly_docs/docs/TG Smart Observer/view','fa6'),
+        path: '/Wring_docs/docs/TG Smart Observer/view',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/view','a9b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-basics/congratulations','f8c'),
+        path: '/Wring_docs/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/congratulations','51a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-basics/Dashboard',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-basics/Dashboard','7e0'),
+        path: '/Wring_docs/docs/tutorial-basics/Dashboard',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Dashboard','c6a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-basics/Installation',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-basics/Installation','d3f'),
+        path: '/Wring_docs/docs/tutorial-basics/Installation',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Installation','45c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-basics/Integrations',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-basics/Integrations','371'),
+        path: '/Wring_docs/docs/tutorial-basics/Integrations',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations','0bc'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-basics/Test-Explorer',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-basics/Test-Explorer','ecf'),
+        path: '/Wring_docs/docs/tutorial-basics/Test-Explorer',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test-Explorer','b82'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-extras/customizing-interceptor',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-extras/customizing-interceptor','c00'),
+        path: '/Wring_docs/docs/tutorial-extras/customizing-interceptor',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/customizing-interceptor','a7c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-extras/deep-healing',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-extras/deep-healing','0af'),
+        path: '/Wring_docs/docs/tutorial-extras/deep-healing',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/deep-healing','d73'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/tutorial-extras/getting-started',
-        component: ComponentCreator('/Quikly_docs/docs/tutorial-extras/getting-started','b38'),
+        path: '/Wring_docs/docs/tutorial-extras/getting-started',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/getting-started','492'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/versions',
-        component: ComponentCreator('/Quikly_docs/docs/versions','907'),
+        path: '/Wring_docs/docs/versions',
+        component: ComponentCreator('/Wring_docs/docs/versions','cdf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/Quikly_docs/',
-    component: ComponentCreator('/Quikly_docs/','14a'),
+    path: '/Wring_docs/',
+    component: ComponentCreator('/Wring_docs/','b36'),
     exact: true
   },
   {

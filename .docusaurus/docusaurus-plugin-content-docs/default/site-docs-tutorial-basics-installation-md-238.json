@@ -3,11 +3,11 @@
   "id": "tutorial-basics/Installation",
   "isDocsHomePage": false,
   "title": "Installation",
-  "description": "The installation page contains quick instructions for installing the Quikly Interceptor for Selenium and Cypress for its supported languages.",
+  "description": "The installation page contains quick instructions for installing the Wring Interceptor for Selenium and Cypress for its supported languages.",
   "source": "@site/docs/tutorial-basics/Installation.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/Installation",
-  "permalink": "/Quikly_docs/docs/tutorial-basics/Installation",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Installation",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Integrations",
-    "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
   },
   "next": {
     "title": "Congratulations!",
-    "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
+    "permalink": "/Wring_docs/docs/tutorial-basics/congratulations"
   }
 }

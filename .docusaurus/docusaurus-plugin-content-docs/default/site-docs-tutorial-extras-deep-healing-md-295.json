@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/deep-healing.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/deep-healing",
-  "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing",
+  "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Customizing Interceptor Execution",
-    "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
+    "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
   },
   "next": {
     "title": "Quikly Smart Observer - Introduction",
-    "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction"
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
   }
 }

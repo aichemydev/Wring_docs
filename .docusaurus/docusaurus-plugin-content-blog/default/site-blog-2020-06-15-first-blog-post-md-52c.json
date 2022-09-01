@@ -1,22 +1,22 @@
 {
-  "permalink": "/Quikly_docs/blog/introducing-Quikly",
+  "permalink": "/Wring_docs/blog/introducing-Wring",
   "source": "@site/blog/2020-06-15-first-blog-post.md",
-  "title": "Introducing Quikly",
-  "description": "What is Quikly and what can it do?",
+  "title": "Introducing Wring",
+  "description": "What is Wring and what can it do?",
   "date": "2020-06-15T00:00:00.000Z",
   "formattedDate": "June 15, 2020",
   "tags": [
     {
       "label": "Introduction",
-      "permalink": "/Quikly_docs/blog/tags/introduction"
+      "permalink": "/Wring_docs/blog/tags/introduction"
     }
   ],
   "readingTime": 2.01,
   "truncated": true,
   "authors": [
     {
-      "name": "The Quikly Team",
-      "title": "Introducing Quikly",
+      "name": "The Wring Team",
+      "title": "Introducing Wring",
       "image_url": "/img/favicon.ico",
       "imageURL": "/img/favicon.ico"
     }

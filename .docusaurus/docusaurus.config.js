@@ -1,13 +1,13 @@
 export default {
-  "title": "Quikly",
+  "title": "Wring",
   "tagline": "Speed up the testing process!",
   "url": "https://github.com/",
-  "baseUrl": "/Quikly_docs/",
+  "baseUrl": "/Wring_docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "favicon.ico",
   "organizationName": "aichemydev",
-  "projectName": "Quikly_docs",
+  "projectName": "Wring_docs",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "presets": [
@@ -15,22 +15,22 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "D:\\Github\\Quikly_docs\\sidebars.js"
+          "sidebarPath": "C:\\Users\\lenovo\\Documents\\GitHub\\Wring_docs\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "D:\\Github\\Quikly_docs\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\lenovo\\Documents\\GitHub\\Wring_docs\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Quikly",
+      "title": "Wring",
       "logo": {
-        "alt": "Quikly Logo",
+        "alt": "Wring Logo",
         "src": "img/aiChemy_Logo.svg"
       },
       "items": [
@@ -46,7 +46,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/aichemydev/Quikly-issues",
+          "href": "https://github.com/aichemydev/Wring-issues",
           "label": "GitHub",
           "position": "right"
         }
@@ -70,7 +70,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/aichemydev/Quikly-issues"
+              "href": "https://github.com/aichemydev/Wring-issues"
             }
           ]
         },

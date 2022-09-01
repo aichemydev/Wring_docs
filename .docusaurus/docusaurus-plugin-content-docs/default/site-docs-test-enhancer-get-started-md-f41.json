@@ -2,12 +2,12 @@
   "unversionedId": "Test Enhancer/Get Started",
   "id": "Test Enhancer/Get Started",
   "isDocsHomePage": false,
-  "title": "Get Started with Enhancer",
-  "description": "What is Enhancer?",
+  "title": "Get Started with Simulator",
+  "description": "What is Simulator?",
   "source": "@site/docs/Test Enhancer/Get Started.md",
   "sourceDirName": "Test Enhancer",
   "slug": "/Test Enhancer/Get Started",
-  "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started",
+  "permalink": "/Wring_docs/docs/Test Enhancer/Get Started",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "View Test",
-    "permalink": "/Quikly_docs/docs/TG Smart Observer/view"
+    "permalink": "/Wring_docs/docs/TG Smart Observer/view"
   },
   "next": {
-    "title": "Enhancer Runs",
-    "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
+    "title": "Simulator Runs",
+    "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
   }
 }

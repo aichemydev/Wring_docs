@@ -5,16 +5,16 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/Quikly_docs/docs",
-          "tagsPath": "/Quikly_docs/docs/tags",
+          "versionPath": "/Wring_docs/docs",
+          "tagsPath": "/Wring_docs/docs/tags",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\Github\\Quikly_docs\\sidebars.js",
-          "contentPath": "D:\\Github\\Quikly_docs\\docs",
-          "contentPathLocalized": "D:\\Github\\Quikly_docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\Wring_docs\\sidebars.js",
+          "contentPath": "C:\\Users\\lenovo\\Documents\\GitHub\\Wring_docs\\docs",
+          "contentPathLocalized": "C:\\Users\\lenovo\\Documents\\GitHub\\Wring_docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "mainDocId": "intro",
           "docs": [
             {
@@ -22,11 +22,11 @@
               "id": "faq",
               "isDocsHomePage": false,
               "title": "Frequently Asked Questions",
-              "description": "Do we need to learn any language or tool to start using Quikly ?",
+              "description": "Do we need to learn any language or tool to start using Wring ?",
               "source": "@site/docs/faq.md",
               "sourceDirName": ".",
               "slug": "/faq",
-              "permalink": "/Quikly_docs/docs/faq",
+              "permalink": "/Wring_docs/docs/faq",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -35,12 +35,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Enhancer Runs",
-                "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
+                "title": "Simulator Runs",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
               },
               "next": {
                 "title": "Supported Versions",
-                "permalink": "/Quikly_docs/docs/versions"
+                "permalink": "/Wring_docs/docs/versions"
               }
             },
             {
@@ -48,11 +48,11 @@
               "id": "intro",
               "isDocsHomePage": false,
               "title": "Getting Started",
-              "description": "Let's discover Quikly's Key Features.",
+              "description": "Let's discover Wring's Key Features.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/Quikly_docs/docs/intro",
+              "permalink": "/Wring_docs/docs/intro",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -62,19 +62,19 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Dashboard",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
               }
             },
             {
               "unversionedId": "Test Enhancer/Enhancer Runs",
               "id": "Test Enhancer/Enhancer Runs",
               "isDocsHomePage": false,
-              "title": "Enhancer Runs",
+              "title": "Simulator Runs",
               "description": "After you press run, you see a modal window and look at four options there.",
               "source": "@site/docs/Test Enhancer/Enhancer Runs.md",
               "sourceDirName": "Test Enhancer",
               "slug": "/Test Enhancer/Enhancer Runs",
-              "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs",
+              "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -83,24 +83,24 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Get Started with Enhancer",
-                "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started"
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
               },
               "next": {
                 "title": "Frequently Asked Questions",
-                "permalink": "/Quikly_docs/docs/faq"
+                "permalink": "/Wring_docs/docs/faq"
               }
             },
             {
               "unversionedId": "Test Enhancer/Get Started",
               "id": "Test Enhancer/Get Started",
               "isDocsHomePage": false,
-              "title": "Get Started with Enhancer",
-              "description": "What is Enhancer?",
+              "title": "Get Started with Simulator",
+              "description": "What is Simulator?",
               "source": "@site/docs/Test Enhancer/Get Started.md",
               "sourceDirName": "Test Enhancer",
               "slug": "/Test Enhancer/Get Started",
-              "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started",
+              "permalink": "/Wring_docs/docs/Test Enhancer/Get Started",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -110,11 +110,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "View Test",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/view"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/view"
               },
               "next": {
-                "title": "Enhancer Runs",
-                "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
+                "title": "Simulator Runs",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
               }
             },
             {
@@ -126,7 +126,7 @@
               "source": "@site/docs/TG Smart Observer/Introduction.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/Introduction",
-              "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction",
+              "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -136,11 +136,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deep Healing",
-                "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing"
+                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
               },
               "next": {
                 "title": "Get Started",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
               }
             },
             {
@@ -152,7 +152,7 @@
               "source": "@site/docs/TG Smart Observer/recorder.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/recorder",
-              "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder",
+              "permalink": "/Wring_docs/docs/TG Smart Observer/recorder",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -162,11 +162,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Get Started",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
               },
               "next": {
                 "title": "Start recording",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
               }
             },
             {
@@ -178,7 +178,7 @@
               "source": "@site/docs/TG Smart Observer/tests.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/tests",
-              "permalink": "/Quikly_docs/docs/TG Smart Observer/tests",
+              "permalink": "/Wring_docs/docs/TG Smart Observer/tests",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -188,11 +188,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Welcome *User*",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
               },
               "next": {
                 "title": "View Test",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/view"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/view"
               }
             },
             {
@@ -204,7 +204,7 @@
               "source": "@site/docs/TG Smart Observer/Tutorials.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/Tutorials",
-              "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials",
+              "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -214,11 +214,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               },
               "next": {
                 "title": "Welcome *User*",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
               }
             },
             {
@@ -230,7 +230,7 @@
               "source": "@site/docs/TG Smart Observer/view.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/view",
-              "permalink": "/Quikly_docs/docs/TG Smart Observer/view",
+              "permalink": "/Wring_docs/docs/TG Smart Observer/view",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -240,11 +240,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Start recording",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
               },
               "next": {
-                "title": "Get Started with Enhancer",
-                "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started"
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
               }
             },
             {
@@ -252,11 +252,11 @@
               "id": "tutorial-basics/congratulations",
               "isDocsHomePage": false,
               "title": "Congratulations!",
-              "description": "You have now explored the Quikly UI and you are now ready to checkout some of the advanced features and get to know how they work.",
+              "description": "You have now explored the Wring UI and you are now ready to checkout some of the advanced features and get to know how they work.",
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations",
+              "permalink": "/Wring_docs/docs/tutorial-basics/congratulations",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -266,11 +266,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installation",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Installation"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
               },
               "next": {
                 "title": "Getting Started",
-                "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
+                "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
               }
             },
             {
@@ -282,7 +282,7 @@
               "source": "@site/docs/tutorial-basics/Dashboard.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Dashboard",
-              "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -292,11 +292,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/Quikly_docs/docs/intro"
+                "permalink": "/Wring_docs/docs/intro"
               },
               "next": {
                 "title": "Test Runs",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
               }
             },
             {
@@ -304,11 +304,11 @@
               "id": "tutorial-basics/Installation",
               "isDocsHomePage": false,
               "title": "Installation",
-              "description": "The installation page contains quick instructions for installing the Quikly Interceptor for Selenium and Cypress for its supported languages.",
+              "description": "The installation page contains quick instructions for installing the Wring Interceptor for Selenium and Cypress for its supported languages.",
               "source": "@site/docs/tutorial-basics/Installation.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Installation",
-              "permalink": "/Quikly_docs/docs/tutorial-basics/Installation",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Installation",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -318,11 +318,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Integrations",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
+                "permalink": "/Wring_docs/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -330,11 +330,11 @@
               "id": "tutorial-basics/Integrations",
               "isDocsHomePage": false,
               "title": "Integrations",
-              "description": "Quikly offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+              "description": "Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
               "source": "@site/docs/tutorial-basics/Integrations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Integrations",
-              "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -344,11 +344,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Test Runs",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
               },
               "next": {
                 "title": "Installation",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Installation"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
               }
             },
             {
@@ -360,7 +360,7 @@
               "source": "@site/docs/tutorial-basics/Test-Explorer.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Test-Explorer",
-              "permalink": "/Quikly_docs/docs/tutorial-basics/Test-Explorer",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -370,11 +370,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Dashboard",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
               },
               "next": {
                 "title": "Integrations",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
               }
             },
             {
@@ -386,7 +386,7 @@
               "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/customizing-interceptor",
-              "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor",
+              "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -396,11 +396,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
+                "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
               },
               "next": {
                 "title": "Deep Healing",
-                "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing"
+                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
               }
             },
             {
@@ -412,7 +412,7 @@
               "source": "@site/docs/tutorial-extras/deep-healing.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/deep-healing",
-              "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing",
+              "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -422,11 +422,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Customizing Interceptor Execution",
-                "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
+                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
                 "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction"
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -434,11 +434,11 @@
               "id": "tutorial-extras/getting-started",
               "isDocsHomePage": false,
               "title": "Getting Started",
-              "description": "We support direct calls to our healing API from Selenium tests running outside of our own service. For this purpose, we have released Selenium packages for Java, Javascript, and Python that interface with our API and obtain healed XPaths or CSS selectors for web automation tests that run in your own environment. These Quikly Interceptor packages can be used in place of the usual Selenium packages to take advantage of our API. These packages are available on the Installation Page.",
+              "description": "We support direct calls to our healing API from Selenium tests running outside of our own service. For this purpose, we have released Selenium packages for Java, Javascript, and Python that interface with our API and obtain healed XPaths or CSS selectors for web automation tests that run in your own environment. These Wring Interceptor packages can be used in place of the usual Selenium packages to take advantage of our API. These packages are available on the Installation Page.",
               "source": "@site/docs/tutorial-extras/getting-started.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/getting-started",
-              "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started",
+              "permalink": "/Wring_docs/docs/tutorial-extras/getting-started",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -448,11 +448,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Congratulations!",
-                "permalink": "/Quikly_docs/docs/tutorial-basics/congratulations"
+                "permalink": "/Wring_docs/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Customizing Interceptor Execution",
-                "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
+                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               }
             },
             {
@@ -460,11 +460,11 @@
               "id": "versions",
               "isDocsHomePage": false,
               "title": "Supported Versions",
-              "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support att support@Quikly.dev to discuss solutions.",
+              "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support at support@wring.dev to discuss solutions.",
               "source": "@site/docs/versions.md",
               "sourceDirName": ".",
               "slug": "/versions",
-              "permalink": "/Quikly_docs/docs/versions",
+              "permalink": "/Wring_docs/docs/versions",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -474,7 +474,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Frequently Asked Questions",
-                "permalink": "/Quikly_docs/docs/faq"
+                "permalink": "/Wring_docs/docs/faq"
               }
             }
           ],
@@ -486,7 +486,7 @@
               },
               {
                 "type": "category",
-                "label": "Quikly Basics",
+                "label": "Wring Basics",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -514,7 +514,7 @@
               },
               {
                 "type": "category",
-                "label": "Quikly Interceptor",
+                "label": "Wring Interceptor",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -534,7 +534,7 @@
               },
               {
                 "type": "category",
-                "label": "Quikly Smart Observer",
+                "label": "Wring Smart Observer",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -562,7 +562,7 @@
               },
               {
                 "type": "category",
-                "label": "Test Enhancer",
+                "label": "Simulator",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -595,38 +595,38 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
-          "id": "introducing-Quikly",
+          "id": "introducing-Wring",
           "metadata": {
-            "permalink": "/Quikly_docs/blog/introducing-Quikly",
+            "permalink": "/Wring_docs/blog/introducing-Wring",
             "source": "@site/blog/2020-06-15-first-blog-post.md",
-            "title": "Introducing Quikly",
-            "description": "What is Quikly and what can it do?",
+            "title": "Introducing Wring",
+            "description": "What is Wring and what can it do?",
             "date": "2020-06-15T00:00:00.000Z",
             "formattedDate": "June 15, 2020",
             "tags": [
               {
                 "label": "Introduction",
-                "permalink": "/Quikly_docs/blog/tags/introduction"
+                "permalink": "/Wring_docs/blog/tags/introduction"
               }
             ],
             "readingTime": 2.01,
             "truncated": true,
             "authors": [
               {
-                "name": "The Quikly Team",
-                "title": "Introducing Quikly",
+                "name": "The Wring Team",
+                "title": "Introducing Wring",
                 "image_url": "/img/favicon.ico",
                 "imageURL": "/img/favicon.ico"
               }
             ]
           },
-          "content": "What is Quikly and what can it do?\r\n\r\n<!--truncate-->\r\n\r\n## Motivation\r\nWe believe Selenium is a great open platform for testing software. However, testing software with Selenium has lead people to constantly rewrite and maintain their tests to keep up with development cycles.\r\n\r\nUnfortunately, due to these struggles, we now require two teams of coders - a set of developers and a set of testers. The testers have to keep updating their selenium scripts to match the pace of developers. This leads to a cat and mouse catchup game for testers worldwide.\r\n\r\nInstead of allowing QA teams freedom and flexibility to improve coverage and predict user behavior, modern QA teams are simply verifying that yesterday’s changes did not break core functionality. They are re-checking that login, search, and a few key flows from yesterday’s new build did not break their selenium tests. Furthermore, in the likely case that it did break their selenium tests, QA engineers will rewrite the tests, update page object models, fix locator and object detectors, improve timeouts, and then commit these into the repository. There is full knowledge that this process will rinse and repeat.\r\n\r\n## Ideal Situation for QA\r\nQA managers have told us that during key releases, rewriting selenium tests can easily take more than 95% of the time consumed by QA engineers. QA managers have told us that instead of spending time on rewriting selenium, they would like them to:\r\n\r\nImprove scenario and test coverage by 5-10x\r\nEnable faster release cycles to the customer\r\nAllow enterprises to issue bug fixes quickly to affected customers\r\n\r\n## Solution\r\nAs a counter to efficient testing, we hear of lax stories of A/B testing from some teams at large social media/entertainment companies. The claim is you don’t need to test software as much, and can fix customer reported bugs quickly. That’s great if you are serving social media consumers, but what if you are serving critical enterprise applications. Enterprise solutions have a lot of competition, for cost, customer support, and feature velocity. Can you afford a lax attitude for testing?\r\n\r\nOur solution is a method that empowers QA, removes their drudgery with maintenance of tests to move on to the higher value problems that software managers are looking for.\r\n\r\nBy supporting selenium interception on various languages, Java, Python, Javascript, and even the Selenium IDE, our aim is to make maintenance painless while letting QA focus on more interesting challenges."
+          "content": "What is Wring and what can it do?\r\n\r\n<!--truncate-->\r\n\r\n## Motivation\r\nWe believe Selenium is a great open platform for testing software. However, testing software with Selenium has lead people to constantly rewrite and maintain their tests to keep up with development cycles.\r\n\r\nUnfortunately, due to these struggles, we now require two teams of coders - a set of developers and a set of testers. The testers have to keep updating their selenium scripts to match the pace of developers. This leads to a cat and mouse catchup game for testers worldwide.\r\n\r\nInstead of allowing QA teams freedom and flexibility to improve coverage and predict user behavior, modern QA teams are simply verifying that yesterday’s changes did not break core functionality. They are re-checking that login, search, and a few key flows from yesterday’s new build did not break their selenium tests. Furthermore, in the likely case that it did break their selenium tests, QA engineers will rewrite the tests, update page object models, fix locator and object detectors, improve timeouts, and then commit these into the repository. There is full knowledge that this process will rinse and repeat.\r\n\r\n## Ideal Situation for QA\r\nQA managers have told us that during key releases, rewriting selenium tests can easily take more than 95% of the time consumed by QA engineers. QA managers have told us that instead of spending time on rewriting selenium, they would like them to:\r\n\r\nImprove scenario and test coverage by 5-10x\r\nEnable faster release cycles to the customer\r\nAllow enterprises to issue bug fixes quickly to affected customers\r\n\r\n## Solution\r\nAs a counter to efficient testing, we hear of lax stories of A/B testing from some teams at large social media/entertainment companies. The claim is you don’t need to test software as much, and can fix customer reported bugs quickly. That’s great if you are serving social media consumers, but what if you are serving critical enterprise applications. Enterprise solutions have a lot of competition, for cost, customer support, and feature velocity. Can you afford a lax attitude for testing?\r\n\r\nOur solution is a method that empowers QA, removes their drudgery with maintenance of tests to move on to the higher value problems that software managers are looking for.\r\n\r\nBy supporting selenium interception on various languages, Java, Python, Javascript, and even the Selenium IDE, our aim is to make maintenance painless while letting QA focus on more interesting challenges."
         }
       ],
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/Quikly_docs/blog",
+            "permalink": "/Wring_docs/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -637,32 +637,32 @@
             "blogTitle": "Blog"
           },
           "items": [
-            "introducing-Quikly"
+            "introducing-Wring"
           ]
         }
       ],
       "blogTags": {
-        "/Quikly_docs/blog/tags/introduction": {
+        "/Wring_docs/blog/tags/introduction": {
           "name": "Introduction",
           "items": [
-            "introducing-Quikly"
+            "introducing-Wring"
           ],
-          "permalink": "/Quikly_docs/blog/tags/introduction"
+          "permalink": "/Wring_docs/blog/tags/introduction"
         }
       },
-      "blogTagsListPath": "/Quikly_docs/blog/tags"
+      "blogTagsListPath": "/Wring_docs/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/Quikly_docs/",
+        "permalink": "/Wring_docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/Quikly_docs/markdown-page",
+        "permalink": "/Wring_docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

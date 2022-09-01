@@ -3,11 +3,11 @@
   "id": "versions",
   "isDocsHomePage": false,
   "title": "Supported Versions",
-  "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support att support@Quikly.dev to discuss solutions.",
+  "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support at support@wring.dev to discuss solutions.",
   "source": "@site/docs/versions.md",
   "sourceDirName": ".",
   "slug": "/versions",
-  "permalink": "/Quikly_docs/docs/versions",
+  "permalink": "/Wring_docs/docs/versions",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Frequently Asked Questions",
-    "permalink": "/Quikly_docs/docs/faq"
+    "permalink": "/Wring_docs/docs/faq"
   }
 }

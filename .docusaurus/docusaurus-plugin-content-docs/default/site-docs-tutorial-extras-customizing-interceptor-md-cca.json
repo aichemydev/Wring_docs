@@ -7,7 +7,7 @@
   "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/customizing-interceptor",
-  "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor",
+  "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
+    "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
   },
   "next": {
     "title": "Deep Healing",
-    "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing"
+    "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
   }
 }

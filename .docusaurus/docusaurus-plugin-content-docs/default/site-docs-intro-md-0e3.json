@@ -3,11 +3,11 @@
   "id": "intro",
   "isDocsHomePage": false,
   "title": "Getting Started",
-  "description": "Let's discover Quikly's Key Features.",
+  "description": "Let's discover Wring's Key Features.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Quikly_docs/docs/intro",
+  "permalink": "/Wring_docs/docs/intro",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Dashboard",
-    "permalink": "/Quikly_docs/docs/tutorial-basics/Dashboard"
+    "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
   }
 }

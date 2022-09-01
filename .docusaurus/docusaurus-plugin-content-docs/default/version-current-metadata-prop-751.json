@@ -11,124 +11,124 @@
       {
         "type": "link",
         "label": "Getting Started",
-        "href": "/Quikly_docs/docs/intro"
+        "href": "/Wring_docs/docs/intro"
       },
       {
         "type": "category",
-        "label": "Quikly Basics",
+        "label": "Wring Basics",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/Quikly_docs/docs/tutorial-basics/Dashboard"
+            "href": "/Wring_docs/docs/tutorial-basics/Dashboard"
           },
           {
             "type": "link",
             "label": "Test Runs",
-            "href": "/Quikly_docs/docs/tutorial-basics/Test-Explorer"
+            "href": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
           },
           {
             "type": "link",
             "label": "Integrations",
-            "href": "/Quikly_docs/docs/tutorial-basics/Integrations"
+            "href": "/Wring_docs/docs/tutorial-basics/Integrations"
           },
           {
             "type": "link",
             "label": "Installation",
-            "href": "/Quikly_docs/docs/tutorial-basics/Installation"
+            "href": "/Wring_docs/docs/tutorial-basics/Installation"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/Quikly_docs/docs/tutorial-basics/congratulations"
+            "href": "/Wring_docs/docs/tutorial-basics/congratulations"
           }
         ]
       },
       {
         "type": "category",
-        "label": "Quikly Interceptor",
+        "label": "Wring Interceptor",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/Quikly_docs/docs/tutorial-extras/getting-started"
+            "href": "/Wring_docs/docs/tutorial-extras/getting-started"
           },
           {
             "type": "link",
             "label": "Customizing Interceptor Execution",
-            "href": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor"
+            "href": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
           },
           {
             "type": "link",
             "label": "Deep Healing",
-            "href": "/Quikly_docs/docs/tutorial-extras/deep-healing"
+            "href": "/Wring_docs/docs/tutorial-extras/deep-healing"
           }
         ]
       },
       {
         "type": "category",
-        "label": "Quikly Smart Observer",
+        "label": "Wring Smart Observer",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Quikly Smart Observer - Introduction",
-            "href": "/Quikly_docs/docs/TG Smart Observer/Introduction"
+            "href": "/Wring_docs/docs/TG Smart Observer/Introduction"
           },
           {
             "type": "link",
             "label": "Get Started",
-            "href": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
+            "href": "/Wring_docs/docs/TG Smart Observer/Tutorials"
           },
           {
             "type": "link",
             "label": "Welcome *User*",
-            "href": "/Quikly_docs/docs/TG Smart Observer/recorder"
+            "href": "/Wring_docs/docs/TG Smart Observer/recorder"
           },
           {
             "type": "link",
             "label": "Start recording",
-            "href": "/Quikly_docs/docs/TG Smart Observer/tests"
+            "href": "/Wring_docs/docs/TG Smart Observer/tests"
           },
           {
             "type": "link",
             "label": "View Test",
-            "href": "/Quikly_docs/docs/TG Smart Observer/view"
+            "href": "/Wring_docs/docs/TG Smart Observer/view"
           }
         ]
       },
       {
         "type": "category",
-        "label": "Test Enhancer",
+        "label": "Simulator",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Get Started with Enhancer",
-            "href": "/Quikly_docs/docs/Test Enhancer/Get Started"
+            "label": "Get Started with Simulator",
+            "href": "/Wring_docs/docs/Test Enhancer/Get Started"
           },
           {
             "type": "link",
-            "label": "Enhancer Runs",
-            "href": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
+            "label": "Simulator Runs",
+            "href": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
           }
         ]
       },
       {
         "type": "link",
         "label": "Frequently Asked Questions",
-        "href": "/Quikly_docs/docs/faq"
+        "href": "/Wring_docs/docs/faq"
       },
       {
         "type": "link",
         "label": "Supported Versions",
-        "href": "/Quikly_docs/docs/versions"
+        "href": "/Wring_docs/docs/versions"
       }
     ]
   }

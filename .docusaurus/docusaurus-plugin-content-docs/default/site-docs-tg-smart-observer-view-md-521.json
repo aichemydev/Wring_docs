@@ -7,7 +7,7 @@
   "source": "@site/docs/TG Smart Observer/view.md",
   "sourceDirName": "TG Smart Observer",
   "slug": "/TG Smart Observer/view",
-  "permalink": "/Quikly_docs/docs/TG Smart Observer/view",
+  "permalink": "/Wring_docs/docs/TG Smart Observer/view",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Start recording",
-    "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
+    "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
   },
   "next": {
-    "title": "Get Started with Enhancer",
-    "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started"
+    "title": "Get Started with Simulator",
+    "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
   }
 }

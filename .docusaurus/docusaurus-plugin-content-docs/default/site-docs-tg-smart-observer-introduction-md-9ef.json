@@ -7,7 +7,7 @@
   "source": "@site/docs/TG Smart Observer/Introduction.md",
   "sourceDirName": "TG Smart Observer",
   "slug": "/TG Smart Observer/Introduction",
-  "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction",
+  "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deep Healing",
-    "permalink": "/Quikly_docs/docs/tutorial-extras/deep-healing"
+    "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
   },
   "next": {
     "title": "Get Started",
-    "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
   }
 }

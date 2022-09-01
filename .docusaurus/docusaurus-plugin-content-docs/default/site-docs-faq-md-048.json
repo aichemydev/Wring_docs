@@ -3,11 +3,11 @@
   "id": "faq",
   "isDocsHomePage": false,
   "title": "Frequently Asked Questions",
-  "description": "Do we need to learn any language or tool to start using Quikly ?",
+  "description": "Do we need to learn any language or tool to start using Wring ?",
   "source": "@site/docs/faq.md",
   "sourceDirName": ".",
   "slug": "/faq",
-  "permalink": "/Quikly_docs/docs/faq",
+  "permalink": "/Wring_docs/docs/faq",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Enhancer Runs",
-    "permalink": "/Quikly_docs/docs/Test Enhancer/Enhancer Runs"
+    "title": "Simulator Runs",
+    "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
   },
   "next": {
     "title": "Supported Versions",
-    "permalink": "/Quikly_docs/docs/versions"
+    "permalink": "/Wring_docs/docs/versions"
   }
 }

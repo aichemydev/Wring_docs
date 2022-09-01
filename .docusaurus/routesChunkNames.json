@@ -1,142 +1,142 @@
 {
-  "/Quikly_docs/__docusaurus/debug-cb8": {
+  "/Wring_docs/__docusaurus/debug-fd8": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/Quikly_docs/__docusaurus/debug/config-f17": {
+  "/Wring_docs/__docusaurus/debug/config-e39": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/Quikly_docs/__docusaurus/debug/content-879": {
+  "/Wring_docs/__docusaurus/debug/content-a84": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---quikly-docs-docusaurus-debug-content-246-e49"
+    "allContent": "allContent---wring-docs-docusaurus-debug-content-246-a24"
   },
-  "/Quikly_docs/__docusaurus/debug/globalData-3d4": {
+  "/Wring_docs/__docusaurus/debug/globalData-544": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/Quikly_docs/__docusaurus/debug/metadata-0a8": {
+  "/Wring_docs/__docusaurus/debug/metadata-48d": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/Quikly_docs/__docusaurus/debug/registry-3ea": {
+  "/Wring_docs/__docusaurus/debug/registry-4fb": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/Quikly_docs/__docusaurus/debug/routes-113": {
+  "/Wring_docs/__docusaurus/debug/routes-67a": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/Quikly_docs/blog-f0f": {
+  "/Wring_docs/blog-0f4": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
+    "sidebar": "sidebar---wring-docs-blog-814-210",
     "items": [
       {
-        "content": "content---quikly-docs-blog-2-f-0-3a1"
+        "content": "content---wring-docs-blog-2-f-0-51c"
       }
     ],
-    "metadata": "metadata---quikly-docs-blog-839-dd7"
+    "metadata": "metadata---wring-docs-blog-757-a02"
   },
-  "/Quikly_docs/blog/archive-6f6": {
+  "/Wring_docs/blog/archive-fd1": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---quikly-docs-blog-archived-93-09a"
+    "archive": "archive---wring-docs-blog-archive-209-604"
   },
-  "/Quikly_docs/blog/introducing-Quikly-45d": {
+  "/Wring_docs/blog/introducing-Wring-9a6": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
-    "content": "content---quikly-docs-blog-introducing-quikly-52-c-786"
+    "sidebar": "sidebar---wring-docs-blog-814-210",
+    "content": "content---wring-docs-blog-introducing-wring-52-c-750"
   },
-  "/Quikly_docs/blog/tags-20f": {
+  "/Wring_docs/blog/tags-976": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
-    "tags": "tags---quikly-docs-blog-tagsd-06-6de"
+    "sidebar": "sidebar---wring-docs-blog-814-210",
+    "tags": "tags---wring-docs-blog-tags-3-f-2-01d"
   },
-  "/Quikly_docs/blog/tags/introduction-3d3": {
+  "/Wring_docs/blog/tags/introduction-1fe": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---quikly-docs-blog-814-e1d",
+    "sidebar": "sidebar---wring-docs-blog-814-210",
     "items": [
       {
-        "content": "content---quikly-docs-blog-2-f-0-3a1"
+        "content": "content---wring-docs-blog-2-f-0-51c"
       }
     ],
-    "metadata": "metadata---quikly-docs-blog-tags-introductionfa-9-478"
+    "metadata": "metadata---wring-docs-blog-tags-introductionadb-01d"
   },
-  "/Quikly_docs/markdown-page-d42": {
+  "/Wring_docs/markdown-page-23e": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---quikly-docs-markdown-page-393-2ff"
+    "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Quikly_docs/docs-c32": {
+  "/Wring_docs/docs-847": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---quikly-docs-docs-935-b02"
+    "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
-  "/Quikly_docs/docs/faq-64b": {
+  "/Wring_docs/docs/faq-976": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-faq-048-435"
+    "content": "content---wring-docs-docs-faq-048-1b6"
   },
-  "/Quikly_docs/docs/intro-d9e": {
+  "/Wring_docs/docs/intro-9b1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-intro-0-e-3-66e"
+    "content": "content---wring-docs-docs-intro-0-e-3-f85"
   },
-  "/Quikly_docs/docs/Test Enhancer/Enhancer Runs-b57": {
+  "/Wring_docs/docs/Test Enhancer/Enhancer Runs-da2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-test-enhancer-enhancer-runs-77-f-ca5"
+    "content": "content---wring-docs-docs-test-enhancer-enhancer-runs-77-f-528"
   },
-  "/Quikly_docs/docs/Test Enhancer/Get Started-83f": {
+  "/Wring_docs/docs/Test Enhancer/Get Started-aa1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-test-enhancer-get-startedf-41-f12"
+    "content": "content---wring-docs-docs-test-enhancer-get-startedf-41-1fb"
   },
-  "/Quikly_docs/docs/TG Smart Observer/Introduction-4ec": {
+  "/Wring_docs/docs/TG Smart Observer/Introduction-f32": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-introduction-9-ef-b94"
+    "content": "content---wring-docs-docs-tg-smart-observer-introduction-9-ef-910"
   },
-  "/Quikly_docs/docs/TG Smart Observer/recorder-72d": {
+  "/Wring_docs/docs/TG Smart Observer/recorder-e94": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-recorder-74-c-969"
+    "content": "content---wring-docs-docs-tg-smart-observer-recorder-74-c-b36"
   },
-  "/Quikly_docs/docs/TG Smart Observer/tests-2a7": {
+  "/Wring_docs/docs/TG Smart Observer/tests-0ee": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-tests-182-6b1"
+    "content": "content---wring-docs-docs-tg-smart-observer-tests-182-a7f"
   },
-  "/Quikly_docs/docs/TG Smart Observer/Tutorials-1a0": {
+  "/Wring_docs/docs/TG Smart Observer/Tutorials-483": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-tutorialsd-9-d-2d6"
+    "content": "content---wring-docs-docs-tg-smart-observer-tutorialsd-9-d-e73"
   },
-  "/Quikly_docs/docs/TG Smart Observer/view-fa6": {
+  "/Wring_docs/docs/TG Smart Observer/view-a9b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tg-smart-observer-view-521-7f2"
+    "content": "content---wring-docs-docs-tg-smart-observer-view-521-71e"
   },
-  "/Quikly_docs/docs/tutorial-basics/congratulations-f8c": {
+  "/Wring_docs/docs/tutorial-basics/congratulations-51a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-congratulations-822-844"
+    "content": "content---wring-docs-docs-tutorial-basics-congratulations-822-98a"
   },
-  "/Quikly_docs/docs/tutorial-basics/Dashboard-7e0": {
+  "/Wring_docs/docs/tutorial-basics/Dashboard-c6a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-dashboard-5-e-1-104"
+    "content": "content---wring-docs-docs-tutorial-basics-dashboard-5-e-1-fe1"
   },
-  "/Quikly_docs/docs/tutorial-basics/Installation-d3f": {
+  "/Wring_docs/docs/tutorial-basics/Installation-45c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-installation-238-2da"
+    "content": "content---wring-docs-docs-tutorial-basics-installation-238-f6c"
   },
-  "/Quikly_docs/docs/tutorial-basics/Integrations-371": {
+  "/Wring_docs/docs/tutorial-basics/Integrations-0bc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-integrations-052-1de"
+    "content": "content---wring-docs-docs-tutorial-basics-integrations-052-bd5"
   },
-  "/Quikly_docs/docs/tutorial-basics/Test-Explorer-ecf": {
+  "/Wring_docs/docs/tutorial-basics/Test-Explorer-b82": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-basics-test-explorera-6-f-5ec"
+    "content": "content---wring-docs-docs-tutorial-basics-test-explorera-6-f-87c"
   },
-  "/Quikly_docs/docs/tutorial-extras/customizing-interceptor-c00": {
+  "/Wring_docs/docs/tutorial-extras/customizing-interceptor-a7c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-extras-customizing-interceptorcca-cb5"
+    "content": "content---wring-docs-docs-tutorial-extras-customizing-interceptorcca-81a"
   },
-  "/Quikly_docs/docs/tutorial-extras/deep-healing-0af": {
+  "/Wring_docs/docs/tutorial-extras/deep-healing-d73": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-extras-deep-healing-295-fac"
+    "content": "content---wring-docs-docs-tutorial-extras-deep-healing-295-be1"
   },
-  "/Quikly_docs/docs/tutorial-extras/getting-started-b38": {
+  "/Wring_docs/docs/tutorial-extras/getting-started-492": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-tutorial-extras-getting-started-34-a-8d5"
+    "content": "content---wring-docs-docs-tutorial-extras-getting-started-34-a-317"
   },
-  "/Quikly_docs/docs/versions-907": {
+  "/Wring_docs/docs/versions-cdf": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-versions-0-fe-0d1"
+    "content": "content---wring-docs-docs-versions-0-fe-77f"
   },
-  "/Quikly_docs/-14a": {
+  "/Wring_docs/-b36": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---quikly-docs-5-e-9-b25"
+    "config": "config---wring-docs-5-e-9-444"
   }
 }
