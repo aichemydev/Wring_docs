@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/Wring_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'favicon.ico',
+  favicon: 'favicon.png',
   organizationName: 'aichemydev', // Usually your GitHub org/user name.
   projectName: 'Wring_docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',

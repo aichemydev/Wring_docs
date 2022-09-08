@@ -5,7 +5,7 @@ export default {
   "baseUrl": "/Wring_docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "favicon.ico",
+  "favicon": "favicon.png",
   "organizationName": "aichemydev",
   "projectName": "Wring_docs",
   "deploymentBranch": "gh-pages",
