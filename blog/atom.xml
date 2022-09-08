@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Wring_docs/blog"/>
     <subtitle>Wring Blog</subtitle>
-    <icon>https://github.com/Wring_docs/favicon.ico</icon>
+    <icon>https://github.com/Wring_docs/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Introducing Wring]]></title>
         <id>introducing-Wring</id>
