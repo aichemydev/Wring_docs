@@ -16,7 +16,7 @@ The integrations page shows available integrations as cards located at the top o
 ### Github
 The Wring integration with Github enables fast and easy reporting to speed up issue creation. When a test that has been run on the Wring platform, fails, you can be immediately notified in your teams Github. Wring will open an issue with details about the test as well as the logs from the test run. This helps you stay on top of any errors and keep track of the progress.
 
-To setup a Github integration, click on the Github card on. This will bring up a modal asking for some info to get started. 
+To setup a Github integration, click on the Github card on. This will bring up a modal asking for some info to get started.
 
 Please provide the following information:
 
@@ -31,14 +31,14 @@ Gitlab. To set this up you will need to provide a few things:
 
 - Gitlab Organization Name
     - There are a couple ways to get this. The organization name precedes the
-      project name in the list of projects. You can also get the organization 
+      project name in the list of projects. You can also get the organization
       name by selecting the project you want to integrate with and look in the url. This should contain the organization the project belongs to.
 - Gitlab Project Name
     - This is the name of the project you want to integrate with.
 - Gitlab Access Token
     - This is the personal access token that you can create in Gitlab. This is
-      required to create an issue in the project. Gitlab offers personal 
-      access tokens which are tied to a user or gives you the option to 
+      required to create an issue in the project. Gitlab offers personal
+      access tokens which are tied to a user or gives you the option to
       create a project access token. For more information, please visit the
       Gitlab documentation linked here:
       https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html
@@ -47,7 +47,7 @@ Gitlab. To set this up you will need to provide a few things:
 The Wring Reporter Slack app keeps your team up to date with the status of your tests to a slack channel. Get started by selecting the Slack card on the integrations page. This will redirect you to slack where you will be prompted to accept permissions and select a slack channel to receive notifications to. Once you select the `Allow` button on Slack, you will be redirected back to the integrations page.
 
 ### Jenkins
-Automate your tests with Jenkins while taking advantage of the advanced healing and intelligence offered by Wring by integrating Jenkins with the Wring Interceptor. To configure this, select your Jenkins job and add a new build step in the build environment. 
+Automate your tests with Jenkins while taking advantage of the advanced healing and intelligence offered by Wring by integrating Jenkins with the Wring Interceptor. To configure this, select your Jenkins job and add a new build step in the build environment.
 
 ``` bash
 #!/bin/bash
@@ -63,9 +63,9 @@ npm install selenium-webdriver-20.11.0.Wringz
 
 
 ### CircleCI
-Use the Wring Interceptor with your CircleCI builds! Getting Started with CircleCI is easy. 
+Use the Wring Interceptor with your CircleCI builds! Getting Started with CircleCI is easy.
 #### Creating a New Configuration
-If you are starting from scratch, we have a couple templates to help you get started. 
+If you are starting from scratch, we have a couple templates to help you get started.
 ```yml title="config.yml"
 # Use the latest 2.1 version of CircleCI pipeline process engine.
 # See: https://circleci.com/docs/2.0/configuration-reference
@@ -87,11 +87,11 @@ jobs:
     # Change the version below to your required version of python
     docker:
       - image: cimg/python:3.8
-    # Checkout the code as the first step. 
+    # Checkout the code as the first step.
     # CircleCI will report the results back to your VCS provider.
     steps:
       - checkout
-      # This is where we install browsers which will be used later when running your tests. 
+      # This is where we install browsers which will be used later when running your tests.
       - browser-tools/install-browser-tools:
           chrome-version: 85.0.4183.102
           firefox-version: 80.0.1
@@ -104,8 +104,8 @@ jobs:
       # For more information on this orb, checkout this link: https://circleci.com/developer/orbs/orb/circleci/browser-tools
       - browser-tools/install-chrome
       - browser-tools/install-chromedriver
-      
-      # Now, we will configure the Wring interceptor. Make sure to add your Wring_TOKEN to your project secrets. 
+
+      # Now, we will configure the Wring interceptor. Make sure to add your TG_TOKEN to your project secrets.
       # For a full list of interceptor options check out the documentation: https://Wring.readthedocs.io/en/latest/externaluse.html
       - run:
           name: Download and Configure Wring Interceptor
@@ -113,7 +113,7 @@ jobs:
             wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
             pip install selenium-20.11.0-py2.py3-none-any.whl -U
             export Wring_ANALYZER=1
-            export Wring_TOKEN=$Wring_TOKEN
+            export TG_TOKEN=$TG_TOKEN
       - python/install-packages:
           pkg-manager: pip
           # app-dir: ~/project/package-directory/  # If your requirements.txt isn't in the root directory.
@@ -131,16 +131,16 @@ workflows:
       - build-and-test
 ```
 
-:::note 
+:::note
 
-You will need to add a Wring_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
+You will need to add a TG_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
 
 :::
 
 
 
 #### Adding Wring to your Existing Configurations
-If you already have a config with CircleCI to run your Selenium Scripts, then the only thing you need to do is add a new run to configure the Wring Interceptor. 
+If you already have a config with CircleCI to run your Selenium Scripts, then the only thing you need to do is add a new run to configure the Wring Interceptor.
 
 ```yml title="config.yml"
 - run:
@@ -149,19 +149,19 @@ If you already have a config with CircleCI to run your Selenium Scripts, then th
       wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
       pip install selenium-20.11.0-py2.py3-none-any.whl -U
       export Wring_ANALYZER=1
-      export Wring_TOKEN=$Wring_TOKEN
+      export TG_TOKEN=$TG_TOKEN
 ```
 
-:::note 
+:::note
 
-You will need to add a Wring_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
+You will need to add a TG_TOKEN to your project secrets on CircleCI. For more information, see the documentation for CircleCI setup here: **[CircleCI Documentation](https://circleci.com/docs/2.0/env-vars/)**
 
 :::
 
-This will now use the Wring interceptor as the default selenium package. To learn more about using the interceptor, see the documentation at: 
+This will now use the Wring interceptor as the default selenium package. To learn more about using the interceptor, see the documentation at:
 
 ### Travis CI
-Use the Wring Interceptor with Travis CI in a couple simple steps. 
+Use the Wring Interceptor with Travis CI in a couple simple steps.
 
 In this example, we setup the Wring Interceptor for Selenium Python.
 ```yml title=".travis.yml"
@@ -193,26 +193,26 @@ script:
   python reactbank_test_old.py
 ```
 
-:::note 
+:::note
 
-You will need to add a Wring_TOKEN to your project secrets on Travis CI. For more information, see the documentation provided by Travis CI here: **[Travis CI Documentation](https://docs.travis-ci.com/user/environment-variables/)**
+You will need to add a TG_TOKEN to your project secrets on Travis CI. For more information, see the documentation provided by Travis CI here: **[Travis CI Documentation](https://docs.travis-ci.com/user/environment-variables/)**
 
 :::
 
 ## Managing Your Integrations
-When you add an integration, **this only applies to your user account**. This offers flexibility for others on your team to select different integrations or set them up specific to their use case. 
+When you add an integration, **this only applies to your user account**. This offers flexibility for others on your team to select different integrations or set them up specific to their use case.
 
 You can manage your personal integrations which will be displayed in the integrations table on the integrations tab. Here, each integration be displayed along with a button to edit the integration. Each integration will have different fields that you can edit but they will all allow you to enable/disable the integration
 
 :::warning
 
-Changing the status of the integration here will apply to all tests regardless of test specific settings. 
+Changing the status of the integration here will apply to all tests regardless of test specific settings.
 
 :::
 
 Some integrations can be deleted via our UI. This will remove your data from our database but please note any access tokens you may have generated on other platforms such as Github or Gitlab will **need to be managed from those respective platforms**.
 
-Other integrations such as Slack will need to be removed from those platforms. 
+Other integrations such as Slack will need to be removed from those platforms.
 
 
 ## Scheduled runs
@@ -221,11 +221,11 @@ Wring allows you to schedule runs every time you want.
 
 ![Wring Dashboard](/img/scheduled.png)
 
-To schedule a run, you have to fill all the fields, so it can be a proper scheduled run. You can run a scheduled run `once`,`daily`, `weekly`, `monthly` and `use crontab expression` 
+To schedule a run, you have to fill all the fields, so it can be a proper scheduled run. You can run a scheduled run `once`,`daily`, `weekly`, `monthly` and `use crontab expression`
 
 ![Wring Dashboard](/img/run.png)
 
-Schedule run provides two calendars `Simple` and `Advanced` 
+Schedule run provides two calendars `Simple` and `Advanced`
 
 - **Simple** - Schedule one hour from your actual hour and it's available for three months.
 - **Advanced** - Program yourself the date and time of the start and end.
@@ -247,4 +247,3 @@ If the test is scheduled with `Advanced calendar` :
 When it runs in the process on Wring, it will look like this:
 
 ![Integrations](/img/schrun.png)
-

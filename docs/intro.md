@@ -14,14 +14,13 @@ It’s for coders who want to keep their existing workflow while enjoying AI bas
 
 ## Getting Started
 
-The first step is **creating a new account**. 
+The first step is **creating a new account**.
 
-Click here to go to the registration page: **[Wring Registration](https://prod.k8s.testgold.dev/register)**. 
+Click here to go to the registration page: **[Wring Registration](https://prod.k8s.testgold.dev/register)**.
 You can either choose to sign up using Github, Google or enter a suitable email and password.
 
-Once you are signed up you will receive a mail. Click on the the link on the mail to verify your account. Once verified your account will be activated by the Wring team in 24 hours. You know have a Token known as the `Wring_TOKEN`. This is unique to your username and enabled you to run your scripts using Wring.
+Once you are signed up you will receive a mail. Click on the the link on the mail to verify your account. Once verified your account will be activated by the Wring team in 24 hours. You know have a Token known as the `TG_TOKEN`. This is unique to your username and enabled you to run your scripts using Wring.
 
 ## Whats Next?
 
  **Congrats!** You are all set. To start exploring Wring.
-
