@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Enhancer/Salesforce",
+  "id": "Test Enhancer/Salesforce",
+  "isDocsHomePage": false,
+  "title": "Salesforce Import Data",
+  "description": "",
+  "source": "@site/docs/Test Enhancer/Salesforce.md",
+  "sourceDirName": "Test Enhancer",
+  "slug": "/Test Enhancer/Salesforce",
+  "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data file Upload Variables",
+    "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
+  }
+}

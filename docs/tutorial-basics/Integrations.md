@@ -228,7 +228,7 @@ To schedule a run, you have to fill all the fields, so it can be a proper schedu
 Schedule run provides two calendars `Simple` and `Advanced`
 
 - **Simple** - Schedule one hour from your actual hour and it's available for three months.
-- **Advanced** - Program yourself the date and time of the start and end.
+- **Advanced** - You can program start-end date and time by yourself.
 
 ![Wring Dashboard](/img/advanced.png)
 

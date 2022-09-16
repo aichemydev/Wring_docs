@@ -116,7 +116,17 @@
           {
             "type": "link",
             "label": "Simulator Runs",
-            "href": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
+            "href": "/Wring_docs/docs/Test Enhancer/Simulator Runs"
+          },
+          {
+            "type": "link",
+            "label": "Data file Upload Variables",
+            "href": "/Wring_docs/docs/Test Enhancer/Datafile"
+          },
+          {
+            "type": "link",
+            "label": "Salesforce Import Data",
+            "href": "/Wring_docs/docs/Test Enhancer/Salesforce"
           }
         ]
       },

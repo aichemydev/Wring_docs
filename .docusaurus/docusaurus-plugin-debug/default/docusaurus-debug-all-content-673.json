@@ -35,8 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Simulator Runs",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
               },
               "next": {
                 "title": "Supported Versions",
@@ -66,29 +66,29 @@
               }
             },
             {
-              "unversionedId": "Test Enhancer/Enhancer Runs",
-              "id": "Test Enhancer/Enhancer Runs",
+              "unversionedId": "Test Enhancer/Datafile",
+              "id": "Test Enhancer/Datafile",
               "isDocsHomePage": false,
-              "title": "Simulator Runs",
-              "description": "After you press run, you see a modal window and look at four options there.",
-              "source": "@site/docs/Test Enhancer/Enhancer Runs.md",
+              "title": "Data file Upload Variables",
+              "description": "On the Simulator page, you can upload files for variable analysis and attribute analysis. Variable analysis and attribute analysis each require an event data file.",
+              "source": "@site/docs/Test Enhancer/Datafile.md",
               "sourceDirName": "Test Enhancer",
-              "slug": "/Test Enhancer/Enhancer Runs",
-              "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs",
+              "slug": "/Test Enhancer/Datafile",
+              "permalink": "/Wring_docs/docs/Test Enhancer/Datafile",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Get Started with Simulator",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
+                "title": "Simulator Runs",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Simulator Runs"
               },
               "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/Wring_docs/docs/faq"
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
               }
             },
             {
@@ -114,7 +114,59 @@
               },
               "next": {
                 "title": "Simulator Runs",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Enhancer Runs"
+                "permalink": "/Wring_docs/docs/Test Enhancer/Simulator Runs"
+              }
+            },
+            {
+              "unversionedId": "Test Enhancer/Salesforce",
+              "id": "Test Enhancer/Salesforce",
+              "isDocsHomePage": false,
+              "title": "Salesforce Import Data",
+              "description": "",
+              "source": "@site/docs/Test Enhancer/Salesforce.md",
+              "sourceDirName": "Test Enhancer",
+              "slug": "/Test Enhancer/Salesforce",
+              "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data file Upload Variables",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/Wring_docs/docs/faq"
+              }
+            },
+            {
+              "unversionedId": "Test Enhancer/Simulator Runs",
+              "id": "Test Enhancer/Simulator Runs",
+              "isDocsHomePage": false,
+              "title": "Simulator Runs",
+              "description": "After you press run, you see a modal window and look at four options there.",
+              "source": "@site/docs/Test Enhancer/Simulator Runs.md",
+              "sourceDirName": "Test Enhancer",
+              "slug": "/Test Enhancer/Simulator Runs",
+              "permalink": "/Wring_docs/docs/Test Enhancer/Simulator Runs",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
+              },
+              "next": {
+                "title": "Data file Upload Variables",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
               }
             },
             {
@@ -572,7 +624,15 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Test Enhancer/Enhancer Runs"
+                    "id": "Test Enhancer/Simulator Runs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Enhancer/Datafile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Enhancer/Salesforce"
                   }
                 ]
               },

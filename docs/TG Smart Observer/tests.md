@@ -20,7 +20,7 @@ Go and press `Rec` button to start your test. It will send you directly to `Goog
 
 ![Quikly Dashboard](/img/Start.png)
 
-We want to test this `url` - [https://calendar.testgold.dev/calendar?id=2](https://calendar.testgold.dev/calendar?id=2)
+We want to test this `url` - [https://calendar.testgold.dev/calendar?id=1](https://calendar.testgold.dev/calendar?id=1)
 
 ![Quikly Dashboard](/img/ss.png)
 
@@ -43,7 +43,6 @@ When you start clicking on some particular place on the `url` `(Website)` you wa
 
 After finish testing, just `close` te chrome tab, `Stop recording` and go to `Send test` button to send your test to our server., which it will indicate a loading screen, until the test is done. 
 
-![Quikly Dashboard](/img/sc.png)
 
 Then you will get a notification that your test is already sent.
 

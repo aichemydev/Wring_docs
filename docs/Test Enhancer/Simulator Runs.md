@@ -33,6 +33,10 @@ In the `Detail button`, you have `steps` button - where you can check all the st
 
 ![Wring Dashboard](/img/v.png)
 
+- **Delete** - *you can easily delete simulator runs* 
+
+![Wring Dashboard](/img/delete.png)
+
 You can also download the Simulator runs report, which it provides screenshots and all the necessary details.
 
 ![Wring Dashboard](/img/r1.png)

@@ -9,7 +9,7 @@ The test explorer is where to go when you want to browse all the tests you have 
 
 ![Test Explorer](/img/Test-Explorer.png)
 
-This page displays the test runs along with quick access to high level information such as a description, run time, total paths, healed paths. By default, the your results will be displayed chronologically. Clicking on a Test Run shows you further detail about the particular Test Run.
+This page displays the test runs along with quick access to high level information such as a description, run time, total paths, healed paths. By default, your results will be displayed chronologically. Clicking on a Test Run shows you further detail about the particular Test Run.
 
 The test explorer is the destination for your test runs as well as test suites.
 
@@ -28,6 +28,10 @@ This is the add test modal.
 ![Adding a Test](/img/Add-Test.png)
 
 This is where you specify run properties and fill in the required fields before adding a test to Wring. The run name is required and is one of the ways you can search for your test. You can also add a description to help you and others understand what is going on in each test. 
+
+We support filter button which allows you to use all defined filter as buttons in Search header. If you click a button the filter in the search is added automatically and executes the search immediately. You can search by `run name`, `date`, `description`...etc
+
+![Filter](/img/Filter.png)
 
 There is also a tab with advanced options. This includes: 
 

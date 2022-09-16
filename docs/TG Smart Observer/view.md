@@ -12,11 +12,8 @@ In this page you will see that all the tests that you recorded and sent are list
 
 ![Quikly Dashboard](/img/sd.png)
 
-You will get two runs for one testcase which the first one tells you that, that test is `finished` and the other one if the test `passed` or `failed`.
 
-![Quikly Dashboard](/img/e.png)
-
-The recorder allows you to delete the tests that you want erased permanently.
+The recorder allows you to delete the tests that you want you delete permanently.
 
 ![Quikly Dashboard](/img/warning.png)
 

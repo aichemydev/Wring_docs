@@ -21,13 +21,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Enhancer/Enhancer Runs",
-              "path": "/Wring_docs/docs/Test Enhancer/Enhancer Runs",
+              "id": "Test Enhancer/Datafile",
+              "path": "/Wring_docs/docs/Test Enhancer/Datafile",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Test Enhancer/Get Started",
               "path": "/Wring_docs/docs/Test Enhancer/Get Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Enhancer/Salesforce",
+              "path": "/Wring_docs/docs/Test Enhancer/Salesforce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Enhancer/Simulator Runs",
+              "path": "/Wring_docs/docs/Test Enhancer/Simulator Runs",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -20,7 +20,7 @@ Key features: **step exploration, variables, verify actions.**
 
 ### Try it out:
 
-A sample test can be setup to use the test Simulator on [https://dev.k8s.testgold.dev/dashboard](https://dev.k8s.testgold.dev/dashboard).
+A sample test can be setup to use the test Simulator on [https://dev.wring.dev/dashboard](https://dev.wring.dev/dashboard).
 
 
 1. To start, you can use `Send test` button from recorder testcase but you can upload an existing testcase too.
@@ -36,10 +36,10 @@ A sample test can be setup to use the test Simulator on [https://dev.k8s.testgol
 
 or you can add a variable by yourself to generate values by selecting that as a type.
 
-![Wring Dashboard](/img/variable.png)
+![Wring Dashboard](/img/ad-variable.png)
 
 5. Find a step to edit and use the variable you created earlier by modifying the data field with the following format: `${var_name}`
-or 
+
 5.1.  Find a step to edit and change `explore` from `No` to `Yes` for `select` actions
 
 ![Wring Dashboard](/img/edit.png)

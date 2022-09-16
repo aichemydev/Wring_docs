@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','847'),
+    component: ComponentCreator('/Wring_docs/docs','27d'),
     routes: [
       {
         path: '/Wring_docs/docs/faq',
@@ -85,14 +85,26 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Enhancer/Enhancer Runs',
-        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Enhancer Runs','da2'),
+        path: '/Wring_docs/docs/Test Enhancer/Datafile',
+        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Datafile','401'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
         path: '/Wring_docs/docs/Test Enhancer/Get Started',
         component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Get Started','aa1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Enhancer/Salesforce',
+        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Salesforce','efb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Enhancer/Simulator Runs',
+        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Simulator Runs','bb4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

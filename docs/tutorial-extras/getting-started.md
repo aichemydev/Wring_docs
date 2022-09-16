@@ -8,7 +8,7 @@ We support direct calls to our healing API from Selenium tests running outside o
 
 :::info
 
-The installation page requires an activated account. Account activation can take up to 24 hours. If your account has not been activated within 24 hours please contact support@Wring.dev
+The installation page requires an activated account. Account activation can take up to 24 hours. If your account has not been activated within 24 hours please contact support@wring.dev
 :::
 
 
