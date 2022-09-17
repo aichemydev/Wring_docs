@@ -28,7 +28,6 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Wring",
       "logo": {
         "alt": "Wring Logo",
         "src": "img/aiChemy_Logo.svg"

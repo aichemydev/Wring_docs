@@ -4,7 +4,7 @@ title: Introducing Wring
 authors:
   name: The Wring Team
   title: Introducing Wring
-  image_url: '/img/favicon.png'
+  image_url: /img/favicon.png
 tags: [Introduction]
 ---
 

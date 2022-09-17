@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Wring',
+    //    title: 'Wring',
         logo: {
           alt: 'Wring Logo',
           src: 'img/aiChemy_Logo.svg',
