@@ -3,7 +3,7 @@
   "id": "Test Enhancer/Salesforce",
   "isDocsHomePage": false,
   "title": "Salesforce Import Data",
-  "description": "",
+  "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.",
   "source": "@site/docs/Test Enhancer/Salesforce.md",
   "sourceDirName": "Test Enhancer",
   "slug": "/Test Enhancer/Salesforce",

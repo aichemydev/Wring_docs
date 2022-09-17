@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','27d'),
+    component: ComponentCreator('/Wring_docs/docs','2f5'),
     routes: [
       {
         path: '/Wring_docs/docs/faq',
@@ -165,6 +165,12 @@ export default [
       {
         path: '/Wring_docs/docs/tutorial-basics/Test-Explorer',
         component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test-Explorer','b82'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-extras/Advanced',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/Advanced','5af'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

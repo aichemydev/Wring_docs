@@ -66,6 +66,11 @@
             "type": "link",
             "label": "Deep Healing",
             "href": "/Wring_docs/docs/tutorial-extras/deep-healing"
+          },
+          {
+            "type": "link",
+            "label": "Advanced",
+            "href": "/Wring_docs/docs/tutorial-extras/Advanced"
           }
         ]
       },

@@ -122,7 +122,7 @@
               "id": "Test Enhancer/Salesforce",
               "isDocsHomePage": false,
               "title": "Salesforce Import Data",
-              "description": "",
+              "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.",
               "source": "@site/docs/Test Enhancer/Salesforce.md",
               "sourceDirName": "Test Enhancer",
               "slug": "/Test Enhancer/Salesforce",
@@ -187,8 +187,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deep Healing",
-                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+                "title": "Advanced",
+                "permalink": "/Wring_docs/docs/tutorial-extras/Advanced"
               },
               "next": {
                 "title": "Get Started",
@@ -430,6 +430,32 @@
               }
             },
             {
+              "unversionedId": "tutorial-extras/Advanced",
+              "id": "tutorial-extras/Advanced",
+              "isDocsHomePage": false,
+              "title": "Advanced",
+              "description": "Selectors and download options",
+              "source": "@site/docs/tutorial-extras/Advanced.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Advanced",
+              "permalink": "/Wring_docs/docs/tutorial-extras/Advanced",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deep Healing",
+                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+              },
+              "next": {
+                "title": "Quikly Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+              }
+            },
+            {
               "unversionedId": "tutorial-extras/customizing-interceptor",
               "id": "tutorial-extras/customizing-interceptor",
               "isDocsHomePage": false,
@@ -477,8 +503,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
-                "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Advanced",
+                "permalink": "/Wring_docs/docs/tutorial-extras/Advanced"
               }
             },
             {
@@ -581,6 +607,10 @@
                   {
                     "type": "doc",
                     "id": "tutorial-extras/deep-healing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Advanced"
                   }
                 ]
               },

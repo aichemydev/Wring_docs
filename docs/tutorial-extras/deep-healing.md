@@ -17,3 +17,4 @@ Benefits:
 
 Drawbacks:
 - Deep healing requires intensive processing of the test which may result in longer test execution time. 
+

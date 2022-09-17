@@ -5,20 +5,36 @@
   "origins": {
     "75": [
       532,
-      592,
+      667,
       814,
       75
     ],
-    "707": [
+    "482": [
       85,
       89,
       103,
       514,
       532,
-      592,
+      610,
+      667,
+      814,
+      482
+    ],
+    "667": [
+      13,
+      75,
+      85,
+      89,
+      103,
+      195,
+      482,
+      514,
+      532,
+      608,
       610,
       814,
-      707
+      918,
+      667
     ],
     "814": [
       13,
@@ -27,18 +43,21 @@
       89,
       103,
       195,
+      482,
       514,
       532,
-      592,
       608,
       610,
-      707,
+      667,
       814
     ],
     "17896441": [
       532,
-      592,
+      667,
       918
+    ],
+    "22419795": [
+      162
     ],
     "main": [
       303,
@@ -52,86 +71,92 @@
     ],
     "01a85c17": [
       532,
-      592,
+      667,
       814,
       13
     ],
     "0480b142": [
-      592,
       836
     ],
     "0525410f": [
-      592,
       193
     ],
-    "0a6f0e13": [
-      297
-    ],
     "0e384e19": [
-      592,
       671
     ],
     "0fe8a02a": [
-      592,
       244
     ],
+    "1824248d": [
+      497
+    ],
     "1be78505": [
+      482,
       532,
-      592,
-      707,
+      667,
       814,
       75
     ],
     "1f391b9e": [
+      482,
       532,
-      592,
-      707,
+      667,
       814,
       85
     ],
+    "209a475d": [
+      201
+    ],
     "2386fe0f": [
-      592,
       342
     ],
     "295eae9e": [
-      592,
       184
     ],
+    "2b4278a5": [
+      892
+    ],
     "2f0da50d": [
-      592,
       504
     ],
     "34a9789e": [
-      592,
       345
     ],
     "393be207": [
-      592,
       414
     ],
+    "3f28b786": [
+      668
+    ],
+    "5206e96c": [
+      52
+    ],
+    "5210f197": [
+      241
+    ],
     "52c713b8": [
-      592,
       750
     ],
     "5e1b8198": [
-      592,
       139
     ],
-    "62f45239": [
-      416
-    ],
     "6875c492": [
+      482,
       532,
-      592,
-      707,
+      667,
       814,
       610
+    ],
+    "74cd387a": [
+      707
+    ],
+    "757eabc6": [
+      477
     ],
     "814f3328": [
       535
     ],
     "822bd8ab": [
-      592,
       169
     ],
     "935f2afb": [
@@ -139,43 +164,47 @@
     ],
     "9e4087bc": [
       532,
-      592,
+      667,
       814,
       608
     ],
+    "9ef9afd6": [
+      596
+    ],
     "a6aa9e1f": [
+      482,
       532,
-      592,
-      707,
+      667,
       814,
       89
     ],
     "a6f37e33": [
-      592,
       651
+    ],
+    "adbd6e4a": [
+      821
     ],
     "c4f5d8e4": [
       532,
-      592,
+      667,
       814,
       195
     ],
     "cca263c6": [
-      592,
       293
     ],
     "ccc49370": [
+      482,
       532,
-      592,
-      707,
+      667,
       814,
       103
     ],
-    "de277f29": [
-      216
+    "d9d00357": [
+      415
     ],
-    "e3e0011b": [
-      331
+    "f411e72b": [
+      890
     ],
     "styles": [
       13,
@@ -186,44 +215,14 @@
       179,
       195,
       303,
+      482,
       514,
-      592,
       608,
       610,
-      707,
+      667,
       814,
       918,
       532
-    ],
-    "common": [
-      13,
-      75,
-      85,
-      89,
-      103,
-      139,
-      169,
-      184,
-      193,
-      195,
-      244,
-      293,
-      342,
-      345,
-      414,
-      504,
-      514,
-      532,
-      608,
-      610,
-      651,
-      671,
-      707,
-      750,
-      814,
-      836,
-      918,
-      592
     ]
   },
   "assets": {
@@ -231,17 +230,26 @@
       "js": [
         {
           "file": "assets/js/01a85c17.40004c08.js",
-          "hash": "2acb10e956a63856",
-          "publicPath": "/Quikly-docs/assets/js/01a85c17.40004c08.js"
+          "hash": "fa63901fddd1af89",
+          "publicPath": "/Wring_docs/assets/js/01a85c17.40004c08.js"
+        }
+      ]
+    },
+    "52": {
+      "js": [
+        {
+          "file": "assets/js/5206e96c.bca39e5b.js",
+          "hash": "07e0a953f495e072",
+          "publicPath": "/Wring_docs/assets/js/5206e96c.bca39e5b.js"
         }
       ]
     },
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.57503223.js",
-          "hash": "95f77d08613e8dd2",
-          "publicPath": "/Quikly-docs/assets/js/935f2afb.57503223.js"
+          "file": "assets/js/935f2afb.cd907ff8.js",
+          "hash": "a0c2300aa6154c5b",
+          "publicPath": "/Wring_docs/assets/js/935f2afb.cd907ff8.js"
         }
       ]
     },
@@ -249,220 +257,247 @@
       "js": [
         {
           "file": "assets/js/75.cb3ffe01.js",
-          "hash": "1404257e36a5dfb8",
-          "publicPath": "/Quikly-docs/assets/js/75.cb3ffe01.js"
+          "hash": "59dca47e1f769203",
+          "publicPath": "/Wring_docs/assets/js/75.cb3ffe01.js"
         },
         {
-          "file": "assets/js/1be78505.c830d4ba.js",
-          "hash": "0fd1bcf458e86136",
-          "publicPath": "/Quikly-docs/assets/js/1be78505.c830d4ba.js"
+          "file": "assets/js/1be78505.c485621c.js",
+          "hash": "a6c5e167dcecf585",
+          "publicPath": "/Wring_docs/assets/js/1be78505.c485621c.js"
         }
       ]
     },
     "85": {
       "js": [
         {
-          "file": "assets/js/1f391b9e.82071122.js",
-          "hash": "b527ccc94b9d3c69",
-          "publicPath": "/Quikly-docs/assets/js/1f391b9e.82071122.js"
+          "file": "assets/js/1f391b9e.2bf75f13.js",
+          "hash": "9d4c0ebcf207fa13",
+          "publicPath": "/Wring_docs/assets/js/1f391b9e.2bf75f13.js"
         }
       ]
     },
     "89": {
       "js": [
         {
-          "file": "assets/js/a6aa9e1f.d2395b23.js",
-          "hash": "64374cf1e179d259",
-          "publicPath": "/Quikly-docs/assets/js/a6aa9e1f.d2395b23.js"
+          "file": "assets/js/a6aa9e1f.3210e741.js",
+          "hash": "500c7e112343a66c",
+          "publicPath": "/Wring_docs/assets/js/a6aa9e1f.3210e741.js"
         }
       ]
     },
     "103": {
       "js": [
         {
-          "file": "assets/js/ccc49370.d22d7835.js",
-          "hash": "e05943d2481d659f",
-          "publicPath": "/Quikly-docs/assets/js/ccc49370.d22d7835.js"
+          "file": "assets/js/ccc49370.6aee9a7f.js",
+          "hash": "fa7f5be8585c5970",
+          "publicPath": "/Wring_docs/assets/js/ccc49370.6aee9a7f.js"
         }
       ]
     },
     "139": {
       "js": [
         {
-          "file": "assets/js/5e1b8198.e57daac0.js",
-          "hash": "69c2e7ac612287ec",
-          "publicPath": "/Quikly-docs/assets/js/5e1b8198.e57daac0.js"
+          "file": "assets/js/5e1b8198.29056d49.js",
+          "hash": "84a6a494b4348cce",
+          "publicPath": "/Wring_docs/assets/js/5e1b8198.29056d49.js"
+        }
+      ]
+    },
+    "162": {
+      "js": [
+        {
+          "file": "assets/js/22419795.44c07fd3.js",
+          "hash": "79d0577db3712caa",
+          "publicPath": "/Wring_docs/assets/js/22419795.44c07fd3.js"
         }
       ]
     },
     "169": {
       "js": [
         {
-          "file": "assets/js/822bd8ab.3e82996a.js",
-          "hash": "7185cc9e3a4ce01e",
-          "publicPath": "/Quikly-docs/assets/js/822bd8ab.3e82996a.js"
+          "file": "assets/js/822bd8ab.b31d3951.js",
+          "hash": "fcf2809004be28ba",
+          "publicPath": "/Wring_docs/assets/js/822bd8ab.b31d3951.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.4c5d18ac.js",
-          "hash": "45f397766a0bbf06",
-          "publicPath": "/Quikly-docs/assets/js/main.4c5d18ac.js"
+          "file": "assets/js/main.642863fb.js",
+          "hash": "ec65919c8f6e8b52",
+          "publicPath": "/Wring_docs/assets/js/main.642863fb.js"
         }
       ]
     },
     "184": {
       "js": [
         {
-          "file": "assets/js/295eae9e.455010b6.js",
-          "hash": "f53203bb6b441e86",
-          "publicPath": "/Quikly-docs/assets/js/295eae9e.455010b6.js"
+          "file": "assets/js/295eae9e.c2dd6136.js",
+          "hash": "7500478019ce1042",
+          "publicPath": "/Wring_docs/assets/js/295eae9e.c2dd6136.js"
         }
       ]
     },
     "193": {
       "js": [
         {
-          "file": "assets/js/0525410f.5071faf7.js",
-          "hash": "a46f62a6e5ba737d",
-          "publicPath": "/Quikly-docs/assets/js/0525410f.5071faf7.js"
+          "file": "assets/js/0525410f.59466962.js",
+          "hash": "a1104bc854a5b579",
+          "publicPath": "/Wring_docs/assets/js/0525410f.59466962.js"
         }
       ]
     },
     "195": {
       "js": [
         {
-          "file": "assets/js/c4f5d8e4.ffad60ee.js",
-          "hash": "f4d287a11626019d",
-          "publicPath": "/Quikly-docs/assets/js/c4f5d8e4.ffad60ee.js"
+          "file": "assets/js/c4f5d8e4.0dc9bd04.js",
+          "hash": "0f8fb2893a80dd86",
+          "publicPath": "/Wring_docs/assets/js/c4f5d8e4.0dc9bd04.js"
         }
       ]
     },
-    "216": {
+    "201": {
       "js": [
         {
-          "file": "assets/js/de277f29.a7f43b57.js",
-          "hash": "0407fc64f08e82c9",
-          "publicPath": "/Quikly-docs/assets/js/de277f29.a7f43b57.js"
+          "file": "assets/js/209a475d.49b8db1a.js",
+          "hash": "41b2f0219b3ba470",
+          "publicPath": "/Wring_docs/assets/js/209a475d.49b8db1a.js"
+        }
+      ]
+    },
+    "241": {
+      "js": [
+        {
+          "file": "assets/js/5210f197.7a71f3ce.js",
+          "hash": "f7b5b5c3dabd6cd7",
+          "publicPath": "/Wring_docs/assets/js/5210f197.7a71f3ce.js"
         }
       ]
     },
     "244": {
       "js": [
         {
-          "file": "assets/js/0fe8a02a.ec77ac96.js",
-          "hash": "15f61b4bc75136d0",
-          "publicPath": "/Quikly-docs/assets/js/0fe8a02a.ec77ac96.js"
+          "file": "assets/js/0fe8a02a.25e73140.js",
+          "hash": "8fe45abfe0846169",
+          "publicPath": "/Wring_docs/assets/js/0fe8a02a.25e73140.js"
         }
       ]
     },
     "293": {
       "js": [
         {
-          "file": "assets/js/cca263c6.4203391b.js",
-          "hash": "0340d1006c318a0e",
-          "publicPath": "/Quikly-docs/assets/js/cca263c6.4203391b.js"
-        }
-      ]
-    },
-    "297": {
-      "js": [
-        {
-          "file": "assets/js/0a6f0e13.e8be3efe.js",
-          "hash": "5e9a058876631253",
-          "publicPath": "/Quikly-docs/assets/js/0a6f0e13.e8be3efe.js"
+          "file": "assets/js/cca263c6.ac820ad2.js",
+          "hash": "d9476c9ca697cbbd",
+          "publicPath": "/Wring_docs/assets/js/cca263c6.ac820ad2.js"
         }
       ]
     },
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.31672027.js",
-          "hash": "cade21aa6f66b7e9",
-          "publicPath": "/Quikly-docs/assets/js/runtime~main.31672027.js"
-        }
-      ]
-    },
-    "331": {
-      "js": [
-        {
-          "file": "assets/js/e3e0011b.d24d118e.js",
-          "hash": "5b5c76c5763ec595",
-          "publicPath": "/Quikly-docs/assets/js/e3e0011b.d24d118e.js"
+          "file": "assets/js/runtime~main.ac004de0.js",
+          "hash": "3892cbd0c9cce664",
+          "publicPath": "/Wring_docs/assets/js/runtime~main.ac004de0.js"
         }
       ]
     },
     "342": {
       "js": [
         {
-          "file": "assets/js/2386fe0f.8b9e55c5.js",
-          "hash": "510f15663bed9eda",
-          "publicPath": "/Quikly-docs/assets/js/2386fe0f.8b9e55c5.js"
+          "file": "assets/js/2386fe0f.19de0735.js",
+          "hash": "a50788bda4b6dd9c",
+          "publicPath": "/Wring_docs/assets/js/2386fe0f.19de0735.js"
         }
       ]
     },
     "345": {
       "js": [
         {
-          "file": "assets/js/34a9789e.f7be5218.js",
-          "hash": "dfd94425bafb9840",
-          "publicPath": "/Quikly-docs/assets/js/34a9789e.f7be5218.js"
+          "file": "assets/js/34a9789e.c5cb6e4c.js",
+          "hash": "55b493b3936c6c48",
+          "publicPath": "/Wring_docs/assets/js/34a9789e.c5cb6e4c.js"
         }
       ]
     },
     "414": {
       "js": [
         {
-          "file": "assets/js/393be207.3fb124f7.js",
-          "hash": "b1734b3bba8c72e3",
-          "publicPath": "/Quikly-docs/assets/js/393be207.3fb124f7.js"
+          "file": "assets/js/393be207.50a56c94.js",
+          "hash": "156f59d605f41002",
+          "publicPath": "/Wring_docs/assets/js/393be207.50a56c94.js"
         }
       ]
     },
-    "416": {
+    "415": {
       "js": [
         {
-          "file": "assets/js/62f45239.b70c3e1a.js",
-          "hash": "efd212f969290796",
-          "publicPath": "/Quikly-docs/assets/js/62f45239.b70c3e1a.js"
+          "file": "assets/js/d9d00357.239bcd6b.js",
+          "hash": "cb0b719505d95593",
+          "publicPath": "/Wring_docs/assets/js/d9d00357.239bcd6b.js"
+        }
+      ]
+    },
+    "477": {
+      "js": [
+        {
+          "file": "assets/js/757eabc6.16dc8f8a.js",
+          "hash": "916ceee2de6d630f",
+          "publicPath": "/Wring_docs/assets/js/757eabc6.16dc8f8a.js"
+        }
+      ]
+    },
+    "482": {
+      "js": [
+        {
+          "file": "assets/js/482.34c1bc2e.js",
+          "hash": "b8708b80b96e304a",
+          "publicPath": "/Wring_docs/assets/js/482.34c1bc2e.js"
+        }
+      ]
+    },
+    "497": {
+      "js": [
+        {
+          "file": "assets/js/1824248d.0ca220f6.js",
+          "hash": "0ed1cf695bef93af",
+          "publicPath": "/Wring_docs/assets/js/1824248d.0ca220f6.js"
         }
       ]
     },
     "504": {
       "js": [
         {
-          "file": "assets/js/2f0da50d.1752e5b0.js",
-          "hash": "5b74c76eb6b2eba8",
-          "publicPath": "/Quikly-docs/assets/js/2f0da50d.1752e5b0.js"
+          "file": "assets/js/2f0da50d.f3d1504a.js",
+          "hash": "d7a5af46ac7eff25",
+          "publicPath": "/Wring_docs/assets/js/2f0da50d.f3d1504a.js"
         }
       ]
     },
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.9e939927.css",
-          "hash": "21120cb0bb5e9707",
-          "publicPath": "/Quikly-docs/assets/css/styles.9e939927.css"
+          "file": "assets/css/styles.35237b9e.css",
+          "hash": "bd3c634196e5ec94",
+          "publicPath": "/Wring_docs/assets/css/styles.35237b9e.css"
         }
       ]
     },
     "535": {
       "js": [
         {
-          "file": "assets/js/814f3328.d9814907.js",
-          "hash": "09d7192320ed44a2",
-          "publicPath": "/Quikly-docs/assets/js/814f3328.d9814907.js"
+          "file": "assets/js/814f3328.fa779594.js",
+          "hash": "5d94d71ce1fc22c1",
+          "publicPath": "/Wring_docs/assets/js/814f3328.fa779594.js"
         }
       ]
     },
-    "592": {
+    "596": {
       "js": [
         {
-          "file": "assets/js/common.b42e3bba.js",
-          "hash": "53c1d4cfbe84d025",
-          "publicPath": "/Quikly-docs/assets/js/common.b42e3bba.js"
+          "file": "assets/js/9ef9afd6.3b3271a8.js",
+          "hash": "22b7b5083c61ae19",
+          "publicPath": "/Wring_docs/assets/js/9ef9afd6.3b3271a8.js"
         }
       ]
     },
@@ -470,53 +505,71 @@
       "js": [
         {
           "file": "assets/js/9e4087bc.e8895525.js",
-          "hash": "44ca7c4da58787eb",
-          "publicPath": "/Quikly-docs/assets/js/9e4087bc.e8895525.js"
+          "hash": "3ce3ffc5fdc05c34",
+          "publicPath": "/Wring_docs/assets/js/9e4087bc.e8895525.js"
         }
       ]
     },
     "610": {
       "js": [
         {
-          "file": "assets/js/6875c492.ebeb6847.js",
-          "hash": "1471d3a12949d6c0",
-          "publicPath": "/Quikly-docs/assets/js/6875c492.ebeb6847.js"
+          "file": "assets/js/6875c492.cd7eb80d.js",
+          "hash": "f21d28901c90f61f",
+          "publicPath": "/Wring_docs/assets/js/6875c492.cd7eb80d.js"
         }
       ]
     },
     "651": {
       "js": [
         {
-          "file": "assets/js/a6f37e33.9bdc67bc.js",
-          "hash": "fb506cab2f4909b4",
-          "publicPath": "/Quikly-docs/assets/js/a6f37e33.9bdc67bc.js"
+          "file": "assets/js/a6f37e33.7065c319.js",
+          "hash": "65b1ad5a7275e8df",
+          "publicPath": "/Wring_docs/assets/js/a6f37e33.7065c319.js"
+        }
+      ]
+    },
+    "667": {
+      "js": [
+        {
+          "file": "assets/js/667.8f101120.js",
+          "hash": "f33728f515a49892",
+          "publicPath": "/Wring_docs/assets/js/667.8f101120.js"
+        }
+      ]
+    },
+    "668": {
+      "js": [
+        {
+          "file": "assets/js/3f28b786.dacf57c6.js",
+          "hash": "0ae2708fd4b7a1a3",
+          "publicPath": "/Wring_docs/assets/js/3f28b786.dacf57c6.js"
         }
       ]
     },
     "671": {
       "js": [
         {
-          "file": "assets/js/0e384e19.6e6dc6d3.js",
-          "hash": "e2f3941a0051ba40",
-          "publicPath": "/Quikly-docs/assets/js/0e384e19.6e6dc6d3.js"
+          "file": "assets/js/0e384e19.c93a705e.js",
+          "hash": "d9da539f0d4ffd85",
+          "publicPath": "/Wring_docs/assets/js/0e384e19.c93a705e.js"
         }
       ]
     },
     "707": {
       "js": [
         {
-          "file": "assets/js/707.64bfc8aa.js",
-          "hash": "aaa5d67905dc8470",
-          "publicPath": "/Quikly-docs/assets/js/707.64bfc8aa.js"
+          "file": "assets/js/74cd387a.2b7f179f.js",
+          "hash": "54795b2696a577fb",
+          "publicPath": "/Wring_docs/assets/js/74cd387a.2b7f179f.js"
         }
       ]
     },
     "750": {
       "js": [
         {
-          "file": "assets/js/52c713b8.15965291.js",
-          "hash": "f658107976d30636",
-          "publicPath": "/Quikly-docs/assets/js/52c713b8.15965291.js"
+          "file": "assets/js/52c713b8.de6b6168.js",
+          "hash": "a1cb2d25708bfa5f",
+          "publicPath": "/Wring_docs/assets/js/52c713b8.de6b6168.js"
         }
       ]
     },
@@ -524,26 +577,53 @@
       "js": [
         {
           "file": "assets/js/814.6913d597.js",
-          "hash": "7a8d38970f508010",
-          "publicPath": "/Quikly-docs/assets/js/814.6913d597.js"
+          "hash": "67cee2a844b3a524",
+          "publicPath": "/Wring_docs/assets/js/814.6913d597.js"
+        }
+      ]
+    },
+    "821": {
+      "js": [
+        {
+          "file": "assets/js/adbd6e4a.6ec7566f.js",
+          "hash": "5d29e110973abbe6",
+          "publicPath": "/Wring_docs/assets/js/adbd6e4a.6ec7566f.js"
         }
       ]
     },
     "836": {
       "js": [
         {
-          "file": "assets/js/0480b142.634c7cf9.js",
-          "hash": "bfab9e7b09803cd4",
-          "publicPath": "/Quikly-docs/assets/js/0480b142.634c7cf9.js"
+          "file": "assets/js/0480b142.e7d50a65.js",
+          "hash": "fed2e0643f961bd3",
+          "publicPath": "/Wring_docs/assets/js/0480b142.e7d50a65.js"
+        }
+      ]
+    },
+    "890": {
+      "js": [
+        {
+          "file": "assets/js/f411e72b.78a94b00.js",
+          "hash": "c236c70df19c634e",
+          "publicPath": "/Wring_docs/assets/js/f411e72b.78a94b00.js"
+        }
+      ]
+    },
+    "892": {
+      "js": [
+        {
+          "file": "assets/js/2b4278a5.eae7ef5a.js",
+          "hash": "e6a5564cfd11492f",
+          "publicPath": "/Wring_docs/assets/js/2b4278a5.eae7ef5a.js"
         }
       ]
     },
     "918": {
       "js": [
         {
-          "file": "assets/js/17896441.703f7dbc.js",
-          "hash": "bb791edb5dc92c18",
-          "publicPath": "/Quikly-docs/assets/js/17896441.703f7dbc.js"
+          "file": "assets/js/17896441.5307ad95.js",
+          "hash": "913b46a67ba69764",
+          "publicPath": "/Wring_docs/assets/js/17896441.5307ad95.js"
         }
       ]
     }

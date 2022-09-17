@@ -91,6 +91,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-extras/Advanced",
+              "path": "/Wring_docs/docs/tutorial-extras/Advanced",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-extras/customizing-interceptor",
               "path": "/Wring_docs/docs/tutorial-extras/customizing-interceptor",
               "sidebar": "tutorialSidebar"
