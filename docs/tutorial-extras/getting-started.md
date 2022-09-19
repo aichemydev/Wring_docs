@@ -38,6 +38,6 @@ Please make sure that your python and pip paths are properly configured. You can
 ## Cypress Setup
 Download the Cypress Interceptor Package and install it using NPM.
 ```bash
-npm install @aichemy/Wring-cypress-plugin
+npm install @aichemy/wring-cypress-plugin
 ```
-For Cypress settings visit this link: https://www.npmjs.com/package/@aichemy/Wring-cypress-plugin
+For Cypress settings visit this link: https://www.npmjs.com/package/@aichemy/wring-cypress-plugin
