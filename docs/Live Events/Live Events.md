@@ -12,7 +12,7 @@ It's easy, all you have to do is go to a browser (Google, Microsoft Edge, Opera.
 Like this: 
 
 
-<![Video](/img/Pageview.gif)
+![Video](/img/Pageview.gif)
 
 
 After recording the steps, you can see all the runs in Wring platform, including the last run too. You can easily check from which Continent/Country the test is prepared, which url or site you tried to test, which browser, date and time and also you can see how long it took for the test to prepare (duration). 
