@@ -11,9 +11,10 @@ Live Events or as we call it - "Pageviews" is a tool that allows you to record u
 It's easy, all you have to do is go to a browser (Google, Microsoft Edge, Opera...etc) and open the page you want to record. 
 Like this: 
 
-<video width="100%" controls>
-  <source src="/img/Pageview.mp4" />
-</video>
+
+import ReactPlayer from 'react-player'
+
+<ReactPlayer width="100%" playing controls url='/img/Pageview.mp4' />
 
 
 After recording the steps, you can see all the runs in Wring platform, including the last run too. You can easily check from which Continent/Country the test is prepared, which url or site you tried to test, which browser, date and time and also you can see how long it took for the test to prepare (duration). 
