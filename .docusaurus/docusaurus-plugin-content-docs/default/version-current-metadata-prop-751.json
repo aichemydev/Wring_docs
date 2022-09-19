@@ -136,6 +136,19 @@
         ]
       },
       {
+        "type": "category",
+        "label": "Live Events",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Live Events",
+            "href": "/Wring_docs/docs/Live Events/Live Events"
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "Frequently Asked Questions",
         "href": "/Wring_docs/docs/faq"

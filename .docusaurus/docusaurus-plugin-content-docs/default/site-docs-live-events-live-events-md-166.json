@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Live Events/LiveEvents",
+  "id": "Live Events/LiveEvents",
+  "isDocsHomePage": false,
+  "title": "LiveEvents",
+  "description": "{",
+  "source": "@site/docs/Live Events/LiveEvents.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/LiveEvents",
+  "permalink": "/Wring_docs/docs/Live Events/LiveEvents",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
+  }
+}

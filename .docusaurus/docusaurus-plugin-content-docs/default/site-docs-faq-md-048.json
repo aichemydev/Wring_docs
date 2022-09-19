@@ -10,14 +10,14 @@
   "permalink": "/Wring_docs/docs/faq",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 7,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Salesforce Import Data",
-    "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
   },
   "next": {
     "title": "Supported Versions",

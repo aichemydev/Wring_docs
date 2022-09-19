@@ -29,14 +29,14 @@
               "permalink": "/Wring_docs/docs/faq",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               },
               "next": {
                 "title": "Supported Versions",
@@ -63,6 +63,32 @@
               "next": {
                 "title": "Dashboard",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
+              }
+            },
+            {
+              "unversionedId": "Live Events/Live Events",
+              "id": "Live Events/Live Events",
+              "isDocsHomePage": false,
+              "title": "Live Events",
+              "description": "Pageviews",
+              "source": "@site/docs/Live Events/Live Events.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Live Events",
+              "permalink": "/Wring_docs/docs/Live Events/Live Events",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/Wring_docs/docs/faq"
               }
             },
             {
@@ -139,8 +165,8 @@
                 "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
               },
               "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/Wring_docs/docs/faq"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               }
             },
             {
@@ -545,9 +571,9 @@
               "permalink": "/Wring_docs/docs/versions",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -663,6 +689,18 @@
                   {
                     "type": "doc",
                     "id": "Test Enhancer/Salesforce"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Live Events",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Live Events"
                   }
                 ]
               },

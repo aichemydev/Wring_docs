@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Live Events",
+              "path": "/Wring_docs/docs/Live Events/Live Events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Test Enhancer/Datafile",
               "path": "/Wring_docs/docs/Test Enhancer/Datafile",
               "sidebar": "tutorialSidebar"
