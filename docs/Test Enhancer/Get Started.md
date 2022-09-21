@@ -6,21 +6,36 @@ sidebar_position: 1
 
 ## What is Simulator? 
 
-
-## What can Simulator do?
-
-
 Tool for increasing coverage of your tests. It is able to intelligently alter your tests to find new paths in the application in order to detect new bugs.
 
 Key features: **step exploration, variables, verify actions.**
 
-1. Each step of the test can be “explored”. It means that during test Simulator runs, it will generate similar steps (will interact with similar elements).
+## What can Simulator do?
+
+
+1. Each step of the test can be “explored”. It means that during test Simulator runs, it will generate similar steps (will interact with similar elements). 
+
+**Step exploration:**
+Each step of the test can be marked to be “explored”. System will find similar elements (based on xpath and html attributes similarity) for any step with the “explored” flag. During simulation runs, “explored” step will not be repeated as it is, but instead, the same action will be performed on one of the similar elements. The choice of a particular similar element is determined by strategy.
+
 2. Test Simulator is able to generate new data using “variables” concept. During initial test run, all data used in the test will be mapped to a specific type (e.g. “John” -> “First name”, `john@gmail.com` -> “email”). During test Simulator runs, new data will be generated according to parsed type.
+
+**Variables:**
+During initial test run, each field element (inputs, selects, textarea, etc.) is classified based on the data type this field element should contain. There are 15 different data types (e.g. email, password, first name, etc.). Besides, there are two groups of data type: with parameters (integer, float, set) and without (all others). Integer/float types should have range constraints, set type should have a complete array of values to draw from during data generation. 
+Each data value in any of the existing test steps will be automatically substituted by variable name (automatically generated). Each variable can be deactivated in order to specify that only original value should be used during simulation.
+During simulator runs, each step with ENTER action will input newly generated data based on its variable type (if the variable is active).
+All variables without parameters are always (independently from strategy) generated randomly (random email, address, etc.) Integer/float variables are always bucketed into constant value (5).
+
 3. In order to find specific bugs, verify action can be added as any step in your test. Verify action support complex operations with variables, so you can combine multiple variable in a single verify step. This allows test Simulator catch dependencies between different elements of the web-page
+
+**Verify:**
+In order to find specific bugs, verify action can be added as any step in the test. There are following verify actions: Verify Equals, Verify Contains, Verify Page Contains. If verify condition fails during the simulator run, it is considered that there is a bug in the test.
+Verify action supports complex operations with variables, so you can combine multiple variables in a single verify step. This allows the simulator to catch dependencies between different elements of the web-page.
+
 
 ### Try it out:
 
-A sample test can be setup to use the test Simulator on [https://dev.wring.dev/dashboard](https://dev.wring.dev/dashboard).
+A sample test can be setup to use the test Simulator on [https://dev.wring.dev](https://dev.wring.dev).
 
 
 1. To start, you can use `Send test` button from recorder testcase but you can upload an existing testcase too.

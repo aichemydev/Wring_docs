@@ -4,11 +4,36 @@ sidebar_position: 2
 
 # Simulator Runs
 
+## Strategies (Algorithms)
+ 
+Every step any algorithm generates list of candidate actions:
+- case when step has “explore” flag: candidates are all similar elements
+- case when step contains variables with range: candidates are all buckets/values (if set).
+- If step has no “explore” flag and no variables: the only candidate is original action
+
+Algorithm is responsible for a strategy of selecting action from a list of candidates every step during simulator run.
+
 After you press run, you see a modal window and look at four options there.
 - **Randomize** - *Randomize data used in testing.*
+*Final action will be sampled randomly from the candidate list at any step. Doesn’t take into consideration order or dependence between steps. Can repeat the same steps throughout episodes.*
+
+*Total amount of episodes: specified by user.*
+
 - **Sequential** - *Apply data provided in data file sequentially.*
+*Steps that are “explored” or have variables with type other than “set” are performed in the same way as Randomize.* 
+*This strategy is useful when there are a lot of “set” type variables (e.g. datafile is loaded), as it will select candidate in the specified order of the “set” parameter.*
+ 
+*Total amount of episodes: number of rows in datafile (number of elements in “set” array).*
+
 - **Exhaustive** - *Covers all data combinations. Larger episode sizes provide better results.*
+*Each simulator episode only one step with candidates changes the current candidate, other steps are fixed. When all candidates of that one step are exhausted, the algorithm moves to another step and tries candidates of that step. That is happening until all possible candidate combinations are explored.*
+
+*Total amount of episodes:  num_cand_1 * num_cand_2 *... * num_cand_n, where n is number of steps with candidates*
+
 - **Permutation** - *Try intelligent permutations of explorable steps.*
+*This is an exhaustive variant of the algorithm for changing step order of the explorable steps. According to this strategy, all candidates of the steps are selected randomly just as in Randomize strategy. Though, the order of explorable steps will be different throughout episodes. All possible permutations of the steps order will be calculated and tried by this algorithm.*
+
+*Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps*
 
 ![Wring Dashboard](/img/runn.png)
 
