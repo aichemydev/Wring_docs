@@ -135,8 +135,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "View Test",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/view"
+                "title": "Observer and button functionality",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
               },
               "next": {
                 "title": "Simulator Runs",
@@ -193,6 +193,32 @@
               "next": {
                 "title": "Data file Upload Variables",
                 "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
+              }
+            },
+            {
+              "unversionedId": "TG Smart Observer/buttons",
+              "id": "TG Smart Observer/buttons",
+              "isDocsHomePage": false,
+              "title": "Observer and button functionality",
+              "description": "If you're new here and you don't know what's buttons functionality, check the instructions below for more info:",
+              "source": "@site/docs/TG Smart Observer/buttons.md",
+              "sourceDirName": "TG Smart Observer",
+              "slug": "/TG Smart Observer/buttons",
+              "permalink": "/Wring_docs/docs/TG Smart Observer/buttons",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "View Test",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/view"
+              },
+              "next": {
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
               }
             },
             {
@@ -321,8 +347,8 @@
                 "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
               },
               "next": {
-                "title": "Get Started with Simulator",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
+                "title": "Observer and button functionality",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
               }
             },
             {
@@ -665,6 +691,10 @@
                   {
                     "type": "doc",
                     "id": "TG Smart Observer/view"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "TG Smart Observer/buttons"
                   }
                 ]
               },

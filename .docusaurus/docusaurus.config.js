@@ -46,7 +46,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/aichemydev/Wring_docs/issues",
+          "href": "https://github.com/aichemydev/Wring-issues",
           "label": "GitHub",
           "position": "right"
         }

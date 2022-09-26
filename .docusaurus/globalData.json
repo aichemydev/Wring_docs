@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "TG Smart Observer/buttons",
+              "path": "/Wring_docs/docs/TG Smart Observer/buttons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "TG Smart Observer/Introduction",
               "path": "/Wring_docs/docs/TG Smart Observer/Introduction",
               "sidebar": "tutorialSidebar"

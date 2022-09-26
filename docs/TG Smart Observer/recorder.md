@@ -15,3 +15,7 @@ In the second screen, you get to see the number of tests, and projects too
 In the third view, you have the most frequent tests
 
 ![Quikly Dashboard](/img/Third.png)
+
+- **New Test** - *open a new test case to start running a testcase.*
+
+- **View Test** - *you can view all testcases sent to [server](https://dev.wring.dev/)*

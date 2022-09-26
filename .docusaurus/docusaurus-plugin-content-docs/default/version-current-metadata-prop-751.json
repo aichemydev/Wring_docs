@@ -104,6 +104,11 @@
             "type": "link",
             "label": "View Test",
             "href": "/Wring_docs/docs/TG Smart Observer/view"
+          },
+          {
+            "type": "link",
+            "label": "Observer and button functionality",
+            "href": "/Wring_docs/docs/TG Smart Observer/buttons"
           }
         ]
       },

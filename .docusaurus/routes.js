@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','b47'),
+    component: ComponentCreator('/Wring_docs/docs','e32'),
     routes: [
       {
         path: '/Wring_docs/docs/faq',
@@ -111,6 +111,12 @@ export default [
       {
         path: '/Wring_docs/docs/Test Enhancer/Simulator Runs',
         component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Simulator Runs','bb4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/TG Smart Observer/buttons',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/buttons','f06'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

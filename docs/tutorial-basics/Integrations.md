@@ -54,7 +54,7 @@ Automate your tests with Jenkins while taking advantage of the advanced healing 
 git clone git@github.com:your_github_username/your_repo_name.git
 cd /repo/
 source .jenkins-secrets
-export Wring_ANALYZER=1
+export TG_ANALYZER=1
 cd /repo/testlocation
 wget https://vision.Wring.dev/interceptor/download/secured/selenium-webdriver-20.11.0.Wringz?walToken=${WAL_TOKEN} -O selenium-webdriver-20.11.0.Wringz
 npm install selenium-webdriver-20.11.0.Wringz
@@ -112,7 +112,7 @@ jobs:
           command: |
             wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
             pip install selenium-20.11.0-py2.py3-none-any.whl -U
-            export Wring_ANALYZER=1
+            export TG_ANALYZER=1
             export TG_TOKEN=$TG_TOKEN
       - python/install-packages:
           pkg-manager: pip
@@ -148,7 +148,7 @@ If you already have a config with CircleCI to run your Selenium Scripts, then th
     command: |
       wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
       pip install selenium-20.11.0-py2.py3-none-any.whl -U
-      export Wring_ANALYZER=1
+      export TG_ANALYZER=1
       export TG_TOKEN=$TG_TOKEN
 ```
 
@@ -183,7 +183,7 @@ before_script:
 
 env:
   global:
-  - export Wring_ANALYZER=1
+  - export TG_ANALYZER=1
 
 install:
   - pip install selenium-20.11.0-py2.py3-none-any.whl -U
@@ -228,7 +228,18 @@ To schedule a run, you have to fill all the fields, so it can be a proper schedu
 Schedule run provides two calendars `Simple` and `Advanced`
 
 - **Simple** - Schedule one hour from your actual hour and it's available for three months.
+
+To start a scheduled run with `Simple Calendar`, check the video below: 
+
+![Wring Dashboard](/img/Simple_Calendar.gif)
+
 - **Advanced** - You can program start-end date and time by yourself.
+
+To start a scheduled run with `Advanced Calendar`, check the video below: 
+
+![Wring Dashboard](/img/Adv_S.gif)
+
+Here is how the Scheduled modal looks like: 
 
 ![Wring Dashboard](/img/advanced.png)
 

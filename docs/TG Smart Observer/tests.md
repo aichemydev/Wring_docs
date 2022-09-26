@@ -46,7 +46,11 @@ After finish testing, just `close` te chrome tab, `Stop recording` and go to `Se
 
 Then you will get a notification that your test is already sent.
 
-![Quikly Dashboard](/img/notification.png)
+![Quikly Dashboard](/img/notification.png) 
+
+Example on how to record a test with Observer, check the video below: 
+
+![Wring Dashboard](/img/Observer.gif)
 
 To see what happens next, please go to the next document page.
 

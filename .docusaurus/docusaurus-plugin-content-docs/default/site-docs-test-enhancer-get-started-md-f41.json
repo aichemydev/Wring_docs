@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "View Test",
-    "permalink": "/Wring_docs/docs/TG Smart Observer/view"
+    "title": "Observer and button functionality",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
   },
   "next": {
     "title": "Simulator Runs",
