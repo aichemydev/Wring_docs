@@ -399,8 +399,8 @@
                 "permalink": "/Wring_docs/docs/intro"
               },
               "next": {
-                "title": "Test Runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
+                "title": "Overview Page",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
               }
             },
             {
@@ -447,8 +447,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Test Runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
+                "title": "Run steps",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
               },
               "next": {
                 "title": "Installation",
@@ -456,15 +456,15 @@
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test-Explorer",
-              "id": "tutorial-basics/Test-Explorer",
+              "unversionedId": "tutorial-basics/Test Runs/Run_steps",
+              "id": "tutorial-basics/Test Runs/Run_steps",
               "isDocsHomePage": false,
-              "title": "Test Runs",
-              "description": "Overview",
-              "source": "@site/docs/tutorial-basics/Test-Explorer.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/Test-Explorer",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer",
+              "title": "Run steps",
+              "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
+              "source": "@site/docs/tutorial-basics/Test Runs/Run_steps.md",
+              "sourceDirName": "tutorial-basics/Test Runs",
+              "slug": "/tutorial-basics/Test Runs/Run_steps",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -473,12 +473,38 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
+                "title": "Overview Page",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
               },
               "next": {
                 "title": "Integrations",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test Runs/Test-Explorer",
+              "id": "tutorial-basics/Test Runs/Test-Explorer",
+              "isDocsHomePage": false,
+              "title": "Overview Page",
+              "description": "The test explorer is where to go when you want to browse all the tests you have added to Wring.",
+              "source": "@site/docs/tutorial-basics/Test Runs/Test-Explorer.md",
+              "sourceDirName": "tutorial-basics/Test Runs",
+              "slug": "/tutorial-basics/Test Runs/Test-Explorer",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
+              },
+              "next": {
+                "title": "Run steps",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
               }
             },
             {
@@ -625,8 +651,20 @@
                     "id": "tutorial-basics/Dashboard"
                   },
                   {
-                    "type": "doc",
-                    "id": "tutorial-basics/Test-Explorer"
+                    "type": "category",
+                    "label": "Run steps",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Test Runs/Test-Explorer"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Test Runs/Run_steps"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Run_steps",
+  "id": "tutorial-basics/Test Runs/Run_steps",
+  "isDocsHomePage": false,
+  "title": "Run steps",
+  "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
+  "source": "@site/docs/tutorial-basics/Test Runs/Run_steps.md",
+  "sourceDirName": "tutorial-basics/Test Runs",
+  "slug": "/tutorial-basics/Test Runs/Run_steps",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview Page",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
+  },
+  "next": {
+    "title": "Integrations",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
+  }
+}

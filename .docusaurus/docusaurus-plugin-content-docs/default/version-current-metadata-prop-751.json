@@ -25,9 +25,22 @@
             "href": "/Wring_docs/docs/tutorial-basics/Dashboard"
           },
           {
-            "type": "link",
-            "label": "Test Runs",
-            "href": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
+            "type": "category",
+            "label": "Run steps",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview Page",
+                "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
+              },
+              {
+                "type": "link",
+                "label": "Run steps",
+                "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+              }
+            ]
           },
           {
             "type": "link",

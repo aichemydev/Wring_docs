@@ -96,8 +96,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Test-Explorer",
-              "path": "/Wring_docs/docs/tutorial-basics/Test-Explorer",
+              "id": "tutorial-basics/Test Runs/Run_steps",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Test Runs/Test-Explorer",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -32,10 +32,18 @@ The recorder also allows you to select your own element.
 
 ![Quikly Dashboard](/img/element.png)
 
-You will also see the mini-recorder, it has the same functionality as the big recorder. It shows the steps that we are recording for the moment. Also we can control the recording from the buttons - `Go to big recorder`, ` Play | Start recording`, and `Send test`.
+You will also see the mini-recorder, it has the same functionality as the big recorder. It shows the steps that we are recording for the moment. Also we can control the recording from the buttons - `Go to big recorder`, ` Play | Stop recording`, and `Send test`.
 
 ![Quikly Dashboard](/img/mini.png)
 
+Details: 
+
+1. **Go to big recorder** - *allows you to switch from mini-recorder to big recorder.*
+2. **Play | Stop recording** - *Start and end recording.*
+3. **Send test** - *send test from mini-recorder to browser.*
+4. **Logo** - *Wring logo in mini-recorder.*
+5. **Minus** - *minimaze the mini-recorder.*
+6. **Maximaze/Minimaze** - *maximaze and minimaze the mini-recorder.*
 
 When you start clicking on some particular place on the `url` `(Website)` you wanted, it will automatically generate the steps and list them on big recorder and in mini-recorder as well.
 

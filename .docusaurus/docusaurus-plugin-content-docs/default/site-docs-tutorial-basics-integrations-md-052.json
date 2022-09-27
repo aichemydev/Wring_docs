@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Test Runs",
-    "permalink": "/Wring_docs/docs/tutorial-basics/Test-Explorer"
+    "title": "Run steps",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
   },
   "next": {
     "title": "Installation",
