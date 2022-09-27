@@ -26,26 +26,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Enhancer/Datafile",
-              "path": "/Wring_docs/docs/Test Enhancer/Datafile",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Enhancer/Get Started",
-              "path": "/Wring_docs/docs/Test Enhancer/Get Started",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Enhancer/Salesforce",
-              "path": "/Wring_docs/docs/Test Enhancer/Salesforce",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Enhancer/Simulator Runs",
-              "path": "/Wring_docs/docs/Test Enhancer/Simulator Runs",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "TG Smart Observer/buttons",
               "path": "/Wring_docs/docs/TG Smart Observer/buttons",
               "sidebar": "tutorialSidebar"
@@ -96,18 +76,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-basics/Test Runs/Advanced",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-basics/Test Runs/Run_steps",
               "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Test Runs/Test-Explorer",
-              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer",
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/Advanced",
-              "path": "/Wring_docs/docs/tutorial-extras/Advanced",
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Test Runs/Test-Explorer",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer",
               "sidebar": "tutorialSidebar"
             },
             {

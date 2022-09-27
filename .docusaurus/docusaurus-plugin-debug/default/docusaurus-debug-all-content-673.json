@@ -35,8 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Observer and button functionality",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
               },
               "next": {
                 "title": "Supported Versions",
@@ -83,116 +83,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
+                "title": "Deep Healing",
+                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
               },
               "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/Wring_docs/docs/faq"
-              }
-            },
-            {
-              "unversionedId": "Test Enhancer/Datafile",
-              "id": "Test Enhancer/Datafile",
-              "isDocsHomePage": false,
-              "title": "Data file Upload Variables",
-              "description": "On the Simulator page, you can upload files for variable analysis and attribute analysis. Variable analysis and attribute analysis each require an event data file.",
-              "source": "@site/docs/Test Enhancer/Datafile.md",
-              "sourceDirName": "Test Enhancer",
-              "slug": "/Test Enhancer/Datafile",
-              "permalink": "/Wring_docs/docs/Test Enhancer/Datafile",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Simulator Runs",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Simulator Runs"
-              },
-              "next": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce"
-              }
-            },
-            {
-              "unversionedId": "Test Enhancer/Get Started",
-              "id": "Test Enhancer/Get Started",
-              "isDocsHomePage": false,
-              "title": "Get Started with Simulator",
-              "description": "What is Simulator?",
-              "source": "@site/docs/Test Enhancer/Get Started.md",
-              "sourceDirName": "Test Enhancer",
-              "slug": "/Test Enhancer/Get Started",
-              "permalink": "/Wring_docs/docs/Test Enhancer/Get Started",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Observer and button functionality",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
-              },
-              "next": {
-                "title": "Simulator Runs",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Simulator Runs"
-              }
-            },
-            {
-              "unversionedId": "Test Enhancer/Salesforce",
-              "id": "Test Enhancer/Salesforce",
-              "isDocsHomePage": false,
-              "title": "Salesforce Import Data",
-              "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.",
-              "source": "@site/docs/Test Enhancer/Salesforce.md",
-              "sourceDirName": "Test Enhancer",
-              "slug": "/Test Enhancer/Salesforce",
-              "permalink": "/Wring_docs/docs/Test Enhancer/Salesforce",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Data file Upload Variables",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
-              },
-              "next": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
-              }
-            },
-            {
-              "unversionedId": "Test Enhancer/Simulator Runs",
-              "id": "Test Enhancer/Simulator Runs",
-              "isDocsHomePage": false,
-              "title": "Simulator Runs",
-              "description": "Strategies (Algorithms)",
-              "source": "@site/docs/Test Enhancer/Simulator Runs.md",
-              "sourceDirName": "Test Enhancer",
-              "slug": "/Test Enhancer/Simulator Runs",
-              "permalink": "/Wring_docs/docs/Test Enhancer/Simulator Runs",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Get Started with Simulator",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
-              },
-              "next": {
-                "title": "Data file Upload Variables",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Datafile"
+                "title": "Quikly Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -217,8 +113,8 @@
                 "permalink": "/Wring_docs/docs/TG Smart Observer/view"
               },
               "next": {
-                "title": "Get Started with Simulator",
-                "permalink": "/Wring_docs/docs/Test Enhancer/Get Started"
+                "title": "Frequently Asked Questions",
+                "permalink": "/Wring_docs/docs/faq"
               }
             },
             {
@@ -239,8 +135,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Advanced",
-                "permalink": "/Wring_docs/docs/tutorial-extras/Advanced"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               },
               "next": {
                 "title": "Get Started",
@@ -447,12 +343,38 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Run steps",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
               },
               "next": {
                 "title": "Installation",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test Runs/Advanced",
+              "id": "tutorial-basics/Test Runs/Advanced",
+              "isDocsHomePage": false,
+              "title": "Advanced",
+              "description": "Selectors and download options",
+              "source": "@site/docs/tutorial-basics/Test Runs/Advanced.md",
+              "sourceDirName": "tutorial-basics/Test Runs",
+              "slug": "/tutorial-basics/Test Runs/Advanced",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Run steps",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+              },
+              "next": {
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
               }
             },
             {
@@ -477,8 +399,112 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
               },
               "next": {
+                "title": "Advanced",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "isDocsHomePage": false,
+              "title": "Data file Upload Variables",
+              "description": "On the Simulator page, you can upload files for variable analysis and attribute analysis. Variable analysis and attribute analysis each require an event data file.",
+              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile.md",
+              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulator Runs",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+              },
+              "next": {
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "isDocsHomePage": false,
+              "title": "Get Started with Simulator",
+              "description": "What is Simulator?",
+              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started.md",
+              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
+              },
+              "next": {
+                "title": "Simulator Runs",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+              "isDocsHomePage": false,
+              "title": "Salesforce Import Data",
+              "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.",
+              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce.md",
+              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data file Upload Variables",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
+              },
+              "next": {
                 "title": "Integrations",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "isDocsHomePage": false,
+              "title": "Simulator Runs",
+              "description": "Strategies (Algorithms)",
+              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs.md",
+              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
+              },
+              "next": {
+                "title": "Data file Upload Variables",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
               }
             },
             {
@@ -505,32 +531,6 @@
               "next": {
                 "title": "Run steps",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/Advanced",
-              "id": "tutorial-extras/Advanced",
-              "isDocsHomePage": false,
-              "title": "Advanced",
-              "description": "Selectors and download options",
-              "source": "@site/docs/tutorial-extras/Advanced.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/Advanced",
-              "permalink": "/Wring_docs/docs/tutorial-extras/Advanced",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deep Healing",
-                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
-              },
-              "next": {
-                "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -581,8 +581,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
-                "title": "Advanced",
-                "permalink": "/Wring_docs/docs/tutorial-extras/Advanced"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               }
             },
             {
@@ -663,6 +663,34 @@
                       {
                         "type": "doc",
                         "id": "tutorial-basics/Test Runs/Run_steps"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Test Runs/Advanced"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Simulator",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                          }
+                        ]
                       }
                     ]
                   },
@@ -697,10 +725,18 @@
                   {
                     "type": "doc",
                     "id": "tutorial-extras/deep-healing"
-                  },
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Live Events",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/Advanced"
+                    "id": "Live Events/Live Events"
                   }
                 ]
               },
@@ -733,42 +769,6 @@
                   {
                     "type": "doc",
                     "id": "TG Smart Observer/buttons"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Simulator",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Test Enhancer/Get Started"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Test Enhancer/Simulator Runs"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Test Enhancer/Datafile"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Test Enhancer/Salesforce"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Live Events",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Live Events/Live Events"
                   }
                 ]
               },

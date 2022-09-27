@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
+  "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
+  "isDocsHomePage": false,
+  "title": "Data file Upload Variables",
+  "description": "On the Simulator page, you can upload files for variable analysis and attribute analysis. Variable analysis and attribute analysis each require an event data file.",
+  "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+  "slug": "/tutorial-basics/Test Runs/Test Enhancer/Datafile",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulator Runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+  },
+  "next": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+  }
+}

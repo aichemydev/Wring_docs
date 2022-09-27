@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','fd6'),
+    component: ComponentCreator('/Wring_docs/docs','f70'),
     routes: [
       {
         path: '/Wring_docs/docs/faq',
@@ -87,30 +87,6 @@ export default [
       {
         path: '/Wring_docs/docs/Live Events/Live Events',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Live Events','8db'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Test Enhancer/Datafile',
-        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Datafile','401'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Test Enhancer/Get Started',
-        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Get Started','aa1'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Test Enhancer/Salesforce',
-        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Salesforce','efb'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Test Enhancer/Simulator Runs',
-        component: ComponentCreator('/Wring_docs/docs/Test Enhancer/Simulator Runs','bb4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -175,20 +151,44 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Advanced',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Advanced','c6f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps',
         component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps','0c5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer','f73'),
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile','6e6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/tutorial-extras/Advanced',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/Advanced','5af'),
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started','dc9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce','894'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs','f41'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer','f73'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

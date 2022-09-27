@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+  "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+  "isDocsHomePage": false,
+  "title": "Simulator Runs",
+  "description": "Strategies (Algorithms)",
+  "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+  "slug": "/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started with Simulator",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
+  },
+  "next": {
+    "title": "Data file Upload Variables",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
+  }
+}

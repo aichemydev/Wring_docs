@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
+  "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
+  "isDocsHomePage": false,
+  "title": "Get Started with Simulator",
+  "description": "What is Simulator?",
+  "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+  "slug": "/tutorial-basics/Test Runs/Test Enhancer/Get Started",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
+  },
+  "next": {
+    "title": "Simulator Runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+  }
+}

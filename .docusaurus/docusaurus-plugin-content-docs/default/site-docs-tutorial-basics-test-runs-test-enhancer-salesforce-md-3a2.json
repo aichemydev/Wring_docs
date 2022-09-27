@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+  "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+  "isDocsHomePage": false,
+  "title": "Salesforce Import Data",
+  "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.",
+  "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+  "slug": "/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data file Upload Variables",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
+  },
+  "next": {
+    "title": "Integrations",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
+  }
+}

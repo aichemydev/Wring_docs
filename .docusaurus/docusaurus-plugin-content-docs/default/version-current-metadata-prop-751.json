@@ -39,6 +39,39 @@
                 "type": "link",
                 "label": "Run steps",
                 "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+              },
+              {
+                "type": "link",
+                "label": "Advanced",
+                "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
+              },
+              {
+                "type": "category",
+                "label": "Simulator",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Get Started with Simulator",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Simulator Runs",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Data file Upload Variables",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Salesforce Import Data",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                  }
+                ]
               }
             ]
           },
@@ -79,11 +112,19 @@
             "type": "link",
             "label": "Deep Healing",
             "href": "/Wring_docs/docs/tutorial-extras/deep-healing"
-          },
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Live Events",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
           {
             "type": "link",
-            "label": "Advanced",
-            "href": "/Wring_docs/docs/tutorial-extras/Advanced"
+            "label": "Live Events",
+            "href": "/Wring_docs/docs/Live Events/Live Events"
           }
         ]
       },
@@ -122,47 +163,6 @@
             "type": "link",
             "label": "Observer and button functionality",
             "href": "/Wring_docs/docs/TG Smart Observer/buttons"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Simulator",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Get Started with Simulator",
-            "href": "/Wring_docs/docs/Test Enhancer/Get Started"
-          },
-          {
-            "type": "link",
-            "label": "Simulator Runs",
-            "href": "/Wring_docs/docs/Test Enhancer/Simulator Runs"
-          },
-          {
-            "type": "link",
-            "label": "Data file Upload Variables",
-            "href": "/Wring_docs/docs/Test Enhancer/Datafile"
-          },
-          {
-            "type": "link",
-            "label": "Salesforce Import Data",
-            "href": "/Wring_docs/docs/Test Enhancer/Salesforce"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Live Events",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Live Events",
-            "href": "/Wring_docs/docs/Live Events/Live Events"
           }
         ]
       },

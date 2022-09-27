@@ -59,7 +59,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-fd6": {
+  "/Wring_docs/docs-f70": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -74,22 +74,6 @@
   "/Wring_docs/docs/Live Events/Live Events-8db": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-live-events-live-events-6-fe-c48"
-  },
-  "/Wring_docs/docs/Test Enhancer/Datafile-401": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-enhancer-datafile-520-297"
-  },
-  "/Wring_docs/docs/Test Enhancer/Get Started-aa1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-enhancer-get-startedf-41-1fb"
-  },
-  "/Wring_docs/docs/Test Enhancer/Salesforce-efb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-enhancer-salesforce-224-f85"
-  },
-  "/Wring_docs/docs/Test Enhancer/Simulator Runs-bb4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-enhancer-simulator-runs-2-b-4-6e9"
   },
   "/Wring_docs/docs/TG Smart Observer/buttons-f06": {
     "component": "component---theme-doc-item-178-a40",
@@ -131,17 +115,33 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-tutorial-basics-integrations-052-bd5"
   },
+  "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced-c6f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-test-runs-advancedcbb-4aa"
+  },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps-0c5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-tutorial-basics-test-runs-run-steps-012-c09"
   },
+  "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile-6e6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-datafilecbb-0c0"
+  },
+  "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started-dc9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-get-startedc-46-fde"
+  },
+  "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce-894": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-salesforce-3-a-2-9f1"
+  },
+  "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs-f41": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-simulator-runs-27-e-7f6"
+  },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer-f73": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-explorere-16-fa7"
-  },
-  "/Wring_docs/docs/tutorial-extras/Advanced-5af": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-extras-advanced-24-f-eb5"
   },
   "/Wring_docs/docs/tutorial-extras/customizing-interceptor-a7c": {
     "component": "component---theme-doc-item-178-a40",
