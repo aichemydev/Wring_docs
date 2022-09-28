@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/cypress",
+  "id": "Examples/cypress",
+  "isDocsHomePage": false,
+  "title": "Cypress JS Examples",
+  "description": "How to run Cypress JS",
+  "source": "@site/docs/Examples/cypress.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/cypress",
+  "permalink": "/Wring_docs/docs/Examples/cypress",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Side file",
+    "permalink": "/Wring_docs/docs/Examples/side"
+  },
+  "next": {
+    "title": "Cypress TS Examples",
+    "permalink": "/Wring_docs/docs/Examples/cypress-ts"
+  }
+}

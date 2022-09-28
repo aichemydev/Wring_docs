@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Examples/examples",
+  "id": "Examples/examples",
+  "isDocsHomePage": false,
+  "title": "examples",
+  "description": "",
+  "source": "@site/docs/Examples/examples.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/examples",
+  "permalink": "/Wring_docs/docs/Examples/examples",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Healing",
+    "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+  },
+  "next": {
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+  }
+}

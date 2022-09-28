@@ -70,8 +70,44 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','f70'),
+    component: ComponentCreator('/Wring_docs/docs','0f5'),
     routes: [
+      {
+        path: '/Wring_docs/docs/Examples/cypress',
+        component: ComponentCreator('/Wring_docs/docs/Examples/cypress','97f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/cypress-ts',
+        component: ComponentCreator('/Wring_docs/docs/Examples/cypress-ts','358'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/Selenium-Java',
+        component: ComponentCreator('/Wring_docs/docs/Examples/Selenium-Java','87d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/Selenium-JS',
+        component: ComponentCreator('/Wring_docs/docs/Examples/Selenium-JS','95c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/Selenium-Python',
+        component: ComponentCreator('/Wring_docs/docs/Examples/Selenium-Python','6bb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/side',
+        component: ComponentCreator('/Wring_docs/docs/Examples/side','efe'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/Wring_docs/docs/faq',
         component: ComponentCreator('/Wring_docs/docs/faq','976'),

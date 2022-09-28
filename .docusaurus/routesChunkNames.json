@@ -59,9 +59,33 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-f70": {
+  "/Wring_docs/docs-0f5": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
+  },
+  "/Wring_docs/docs/Examples/cypress-97f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-cypress-6-ef-95e"
+  },
+  "/Wring_docs/docs/Examples/cypress-ts-358": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-cypress-tsfbf-3c2"
+  },
+  "/Wring_docs/docs/Examples/Selenium-Java-87d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-selenium-java-01-e-41a"
+  },
+  "/Wring_docs/docs/Examples/Selenium-JS-95c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-selenium-j-sc-89-2cf"
+  },
+  "/Wring_docs/docs/Examples/Selenium-Python-6bb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-selenium-python-4-c-5-19a"
+  },
+  "/Wring_docs/docs/Examples/side-efe": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-sided-42-d69"
   },
   "/Wring_docs/docs/faq-976": {
     "component": "component---theme-doc-item-178-a40",

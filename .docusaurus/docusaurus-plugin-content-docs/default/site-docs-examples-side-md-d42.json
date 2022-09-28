@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/side",
+  "id": "Examples/side",
+  "isDocsHomePage": false,
+  "title": "Side file",
+  "description": "How to run Simulator for side files?",
+  "source": "@site/docs/Examples/side.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/side",
+  "permalink": "/Wring_docs/docs/Examples/side",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Selenium Java Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+  },
+  "next": {
+    "title": "Cypress JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/cypress"
+  }
+}

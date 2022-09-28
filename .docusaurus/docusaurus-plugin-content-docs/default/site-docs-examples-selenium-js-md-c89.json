@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/Selenium-JS",
+  "id": "Examples/Selenium-JS",
+  "isDocsHomePage": false,
+  "title": "Selenium JS Examples",
+  "description": "How to run Selenium JS?",
+  "source": "@site/docs/Examples/Selenium-JS.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/Selenium-JS",
+  "permalink": "/Wring_docs/docs/Examples/Selenium-JS",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Healing",
+    "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+  },
+  "next": {
+    "title": "Selenium Python Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-Python"
+  }
+}

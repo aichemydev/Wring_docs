@@ -11,6 +11,36 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Examples/cypress",
+              "path": "/Wring_docs/docs/Examples/cypress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/cypress-ts",
+              "path": "/Wring_docs/docs/Examples/cypress-ts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/Selenium-Java",
+              "path": "/Wring_docs/docs/Examples/Selenium-Java",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/Selenium-JS",
+              "path": "/Wring_docs/docs/Examples/Selenium-JS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/Selenium-Python",
+              "path": "/Wring_docs/docs/Examples/Selenium-Python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/side",
+              "path": "/Wring_docs/docs/Examples/side",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "faq",
               "path": "/Wring_docs/docs/faq",
               "sidebar": "tutorialSidebar"

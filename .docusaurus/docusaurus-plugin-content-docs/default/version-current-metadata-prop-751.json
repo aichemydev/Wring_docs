@@ -117,6 +117,44 @@
       },
       {
         "type": "category",
+        "label": "Examples",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Selenium JS Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-JS"
+          },
+          {
+            "type": "link",
+            "label": "Selenium Python Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-Python"
+          },
+          {
+            "type": "link",
+            "label": "Selenium Java Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-Java"
+          },
+          {
+            "type": "link",
+            "label": "Side file",
+            "href": "/Wring_docs/docs/Examples/side"
+          },
+          {
+            "type": "link",
+            "label": "Cypress JS Examples",
+            "href": "/Wring_docs/docs/Examples/cypress"
+          },
+          {
+            "type": "link",
+            "label": "Cypress TS Examples",
+            "href": "/Wring_docs/docs/Examples/cypress-ts"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Live Events",
         "collapsible": true,
         "collapsed": true,

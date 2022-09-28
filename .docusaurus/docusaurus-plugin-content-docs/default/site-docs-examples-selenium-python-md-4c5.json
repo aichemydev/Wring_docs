@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/Selenium-Python",
+  "id": "Examples/Selenium-Python",
+  "isDocsHomePage": false,
+  "title": "Selenium Python Examples",
+  "description": "How to run Selenium Python?",
+  "source": "@site/docs/Examples/Selenium-Python.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/Selenium-Python",
+  "permalink": "/Wring_docs/docs/Examples/Selenium-Python",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Selenium JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+  },
+  "next": {
+    "title": "Selenium Java Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+  }
+}
