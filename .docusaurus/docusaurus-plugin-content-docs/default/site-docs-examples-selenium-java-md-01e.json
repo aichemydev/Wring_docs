@@ -3,7 +3,7 @@
   "id": "Examples/Selenium-Java",
   "isDocsHomePage": false,
   "title": "Selenium Java Examples",
-  "description": "How to run Selenium Java?",
+  "description": "Java Selenium testing provides thorough and functioning test cases that can test every aspect of your application. The TestGold service generates robust selectors, heals broken selectors, and helps maintains your Java Selenium tests.",
   "source": "@site/docs/Examples/Selenium-Java.md",
   "sourceDirName": "Examples",
   "slug": "/Examples/Selenium-Java",
