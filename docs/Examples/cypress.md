@@ -11,7 +11,7 @@ Instructions for Windows:
 1. Do `npm install` to install Cypress
 2. Install our plugin - `npm install @aichemy/wring-cypress-plugin`
 3. Copy/Paste `TG_TOKEN` from [Installation page](https://app.wring.dev/details/installation)
-4. then `set CYPRESS_TG_ENABLED=true`
+4. then `$env:CYPRESS_TG_ENABLED='true'`
 5. `./node_modules/.bin/cypress open`
 
 ![Cypress](/img/installation5.png)
