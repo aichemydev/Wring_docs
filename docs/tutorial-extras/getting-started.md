@@ -4,13 +4,17 @@ sidebar_position: 1
 
 # Getting Started
 
-We support direct calls to our healing API from Selenium tests running outside
-of our own service. For this purpose, we have released Selenium packages for
-Java, Javascript, and Python that interface with our API and obtain healed
-XPaths or CSS selectors for web automation tests that run in your own
-environment. These Wring Interceptor packages can be used in place of the usual
-Selenium packages to take advantage of our API. These packages are available on
-the `Installation Page`.
+We support direct calls to our healing API from Selenium and Cypress tests
+running outside of our own service. For this purpose, we have released Selenium
+packages for Java, Javascript, and Python, as well as a Cypress plugin that all
+interface with our API and obtain healed XPaths or CSS selectors for web
+automation tests that run in your own environment. For Selenium, these Wring
+Interceptor packages can be used in place of the usual Selenium packages to take
+advantage of our API. For Cypress, the plugin can be installed from NPM and
+configured to take advantage of our API.
+
+Instructions for installing these packages are available on the `Installation
+Page`.
 
 :::info
 
