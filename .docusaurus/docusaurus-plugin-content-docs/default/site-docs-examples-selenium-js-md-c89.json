@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Deep Healing",
-    "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+    "title": "Customizing Interceptor Execution",
+    "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
   },
   "next": {
     "title": "Selenium Python Examples",

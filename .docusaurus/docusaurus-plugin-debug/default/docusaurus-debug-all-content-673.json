@@ -113,8 +113,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deep Healing",
-                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
                 "title": "Selenium Python Examples",
@@ -694,7 +694,7 @@
               "id": "tutorial-extras/customizing-interceptor",
               "isDocsHomePage": false,
               "title": "Customizing Interceptor Execution",
-              "description": "You may set the following environment variables to customize how the Interceptor package and our API heals your tests:",
+              "description": "You may set the following environment variables to customize how the Interceptor",
               "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/customizing-interceptor",
@@ -711,32 +711,6 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
               },
               "next": {
-                "title": "Deep Healing",
-                "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/deep-healing",
-              "id": "tutorial-extras/deep-healing",
-              "isDocsHomePage": false,
-              "title": "Deep Healing",
-              "description": "Healing vs Deep Healing",
-              "source": "@site/docs/tutorial-extras/deep-healing.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/deep-healing",
-              "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Customizing Interceptor Execution",
-                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
-              },
-              "next": {
                 "title": "Selenium JS Examples",
                 "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
               }
@@ -746,7 +720,7 @@
               "id": "tutorial-extras/getting-started",
               "isDocsHomePage": false,
               "title": "Getting Started",
-              "description": "We support direct calls to our healing API from Selenium tests running outside of our own service. For this purpose, we have released Selenium packages for Java, Javascript, and Python that interface with our API and obtain healed XPaths or CSS selectors for web automation tests that run in your own environment. These Wring Interceptor packages can be used in place of the usual Selenium packages to take advantage of our API. These packages are available on the Installation Page.",
+              "description": "We support direct calls to our healing API from Selenium and Cypress tests",
               "source": "@site/docs/tutorial-extras/getting-started.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/getting-started",
@@ -877,10 +851,6 @@
                   {
                     "type": "doc",
                     "id": "tutorial-extras/customizing-interceptor"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/deep-healing"
                   }
                 ]
               },

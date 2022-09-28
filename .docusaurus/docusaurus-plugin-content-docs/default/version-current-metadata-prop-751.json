@@ -107,11 +107,6 @@
             "type": "link",
             "label": "Customizing Interceptor Execution",
             "href": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
-          },
-          {
-            "type": "link",
-            "label": "Deep Healing",
-            "href": "/Wring_docs/docs/tutorial-extras/deep-healing"
           }
         ]
       },

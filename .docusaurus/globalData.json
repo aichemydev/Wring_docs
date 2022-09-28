@@ -146,11 +146,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/deep-healing",
-              "path": "/Wring_docs/docs/tutorial-extras/deep-healing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorial-extras/getting-started",
               "path": "/Wring_docs/docs/tutorial-extras/getting-started",
               "sidebar": "tutorialSidebar"

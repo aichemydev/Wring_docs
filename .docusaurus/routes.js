@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','0f5'),
+    component: ComponentCreator('/Wring_docs/docs','927'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -231,12 +231,6 @@ export default [
       {
         path: '/Wring_docs/docs/tutorial-extras/customizing-interceptor',
         component: ComponentCreator('/Wring_docs/docs/tutorial-extras/customizing-interceptor','a7c'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-extras/deep-healing',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/deep-healing','d73'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

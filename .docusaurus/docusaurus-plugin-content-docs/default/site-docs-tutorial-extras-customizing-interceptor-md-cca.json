@@ -3,7 +3,7 @@
   "id": "tutorial-extras/customizing-interceptor",
   "isDocsHomePage": false,
   "title": "Customizing Interceptor Execution",
-  "description": "You may set the following environment variables to customize how the Interceptor package and our API heals your tests:",
+  "description": "You may set the following environment variables to customize how the Interceptor",
   "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/customizing-interceptor",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
   },
   "next": {
-    "title": "Deep Healing",
-    "permalink": "/Wring_docs/docs/tutorial-extras/deep-healing"
+    "title": "Selenium JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
   }
 }

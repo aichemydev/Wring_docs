@@ -3,7 +3,7 @@
   "id": "tutorial-extras/getting-started",
   "isDocsHomePage": false,
   "title": "Getting Started",
-  "description": "We support direct calls to our healing API from Selenium tests running outside of our own service. For this purpose, we have released Selenium packages for Java, Javascript, and Python that interface with our API and obtain healed XPaths or CSS selectors for web automation tests that run in your own environment. These Wring Interceptor packages can be used in place of the usual Selenium packages to take advantage of our API. These packages are available on the Installation Page.",
+  "description": "We support direct calls to our healing API from Selenium and Cypress tests",
   "source": "@site/docs/tutorial-extras/getting-started.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/getting-started",
