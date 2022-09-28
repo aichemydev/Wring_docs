@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Overview Page
 
-The test explorer is where to go when you want to browse all the tests you have added to Wring. 
+The test explorer is where you can browse all the tests you have added to Wring. 
 
 ![Test Explorer](/img/Test-Explorer.png)
 
-This page displays the test runs along with quick access to high level information such as a description, run time, total paths, healed paths. By default, your results will be displayed chronologically. Clicking on a Test Run shows you further detail about the particular Test Run.
+This page displays the test runs along with quick access to high level information such as descriptions, run times, total paths, and healed paths. By default, results will be displayed chronologically. Clicking on a Test Run shows you further detail about a particular Test Run.
 
-The test explorer is the destination for your test runs as well as test suites.
+The test explorer contains information for your test runs as well as test suites.
 
 ## Adding a Test Run
 
@@ -18,28 +18,28 @@ The test explorer tab can is also the place to upload new tests. Here you can cl
 
 :::note Currently Supported Formats 
 
-At the Moment, Katalon (.xml) and Selenium IDE (.side) are supported through this menu
+At the Moment, Katalon (.xml) and Selenium IDE (.side) are supported through this menu. Wring's custom .side files are supported as well. These can be created using the Wring Observer chrome extension.
 
 :::
 
-This is the add test modal.
+This is the add test modal. You can also add tests via your selenium/Cypress code, or the Wring Observer.
 
 ![Adding a Test](/img/Add-Test.png)
 
-This is where you specify run properties and fill in the required fields before adding a test to Wring. The run name is required and is one of the ways you can search for your test. You can also add a description to help you and others understand what is going on in each test. 
+This is where you can specify run properties and fill in details before adding a test to Wring. The run name is only required field and is a handy way to search for your test. You can also add a description to help you and others understand what is going on in each test. 
 
-We support filter button which allows you to use all defined filter as buttons in Search header. If you click a button the filter in the search is added automatically and executes the search immediately. You can search by `run name`, `date`, `description`...etc
-There is the posssibility to clear the filter data (`reset`) and also `reset all` to go back to all results.
+We support a filter button which allows you to use search easily across tests. If you click the filter button the search is performed immediately. You can search by `run name`, `date`, `description`...etc
+One can clear filter data (`reset`) and `reset all` to go back to all results.
 
 ![Filter](/img/Filter.png)
 
 In Overview, you can see `test status`*(passed/failed)*, `run time`, `test steps`, `failures`, `auto healed` and `time saved`. 
 
-We also support videos for all our testcases, you can see it in the photo below.
+We also support videos for all our testcases, as you can see below.
 
 ![Filter](/img/overview.png)
 
-If you want to share your test with your colleague and he/she can be able to see all the edit/add steps, simulator and all variables,... Yes, it's possible - Wring allows you to generate a shareable url. 
+If you want to share your test with your colleague and allow them to see the test, edit/add steps, run the simulator, and modify variables,... Yes, it's possible - Wring allows you to generate a shareable url. 
 
 ![Filter](/img/share.png)
 
