@@ -23,3 +23,7 @@ Now you're ready to run Python Selenium examples.
 nstallation Page looks like this: 
 
 ![PExamples](/img/installation2.png)
+
+Check [Selenium Python example](https://github.com/aichemydev/selenium-python-examples) below :
+
+![PExamples](/img/pyinc.gif)

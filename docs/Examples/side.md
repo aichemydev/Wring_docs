@@ -66,6 +66,9 @@ Then, you can start running one of our agents.
 ![Side](/img/sim2.png)
 
 
+Check below:
+
+![Side](/img/simtest.gif)
 
 
 

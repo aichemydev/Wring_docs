@@ -106,3 +106,8 @@ Now you're ready to run Java Selenium examples.
 :::
 
 ![Pageview](/img/installation4.png)
+
+
+Check [Selenium Java example](https://github.com/aichemydev/selenium-java-examples) below :
+
+![PExamples](/img/jinc.gif)

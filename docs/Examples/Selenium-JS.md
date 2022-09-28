@@ -18,6 +18,7 @@ Installation Page looks like this:
 
 ![PExamples](/img/installation1.png)
 
+Check [Selenium JS example](https://github.com/aichemydev/selenium-js-examples) below :
 
-
+![PExamples](/img/jsinc.gif)
 
