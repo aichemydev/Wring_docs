@@ -28,6 +28,7 @@ This is the add test modal. You can also add tests via your selenium/Cypress cod
 
 This is where you can specify run properties and fill in details before adding a test to Wring. The run name is only required field and is a handy way to search for your test. You can also add a description to help you and others understand what is going on in each test. 
 
+
 We support a filter button which allows you to use search easily across tests. If you click the filter button the search is performed immediately. You can search by `run name`, `date`, `description`...etc
 One can clear filter data (`reset`) and `reset all` to go back to all results.
 
@@ -51,6 +52,10 @@ You can share your shareable url in three options:
 
 ![Filter](/img/share.gif)
 
+In Settings, you have test script options to set browser width, browser height and max wait time (sec). 
+
+![Adding a Test](/img/setting.png)
+
 There is also a tab with advanced options. This includes: 
 
 - **Ignore disabled elements**
@@ -72,7 +77,7 @@ There is also a tab with advanced options. This includes:
   - Test suites may sometimes be depend on the successful completion of earlier tests for later tests to pass. In that case, using this option will avoid unecessary runs in the case a test fails earlier in the test suite.
 - **Time out and cancel**
 
-![Filter](/img/options.png)
+![Adding a Test](/img/advancedd.png)
 
 
 
