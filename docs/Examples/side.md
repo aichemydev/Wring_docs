@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Side file
+# Side file -Simulator Example
 
 #### *How to run Simulator for side files?*
 
@@ -68,7 +68,9 @@ Then, you can start running one of our agents.
 
 Check below:
 
-![Side](/img/simtest.gif)
+import ReactPlayer from 'react-player'
+
+<ReactPlayer playing controls url='https://youtu.be/CkdJrQ0LWmY' />
 
 
 

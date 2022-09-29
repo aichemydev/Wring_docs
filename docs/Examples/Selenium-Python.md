@@ -20,10 +20,12 @@ Now you're ready to run Python Selenium examples.
 3. Copy/Paste `TG_TOKEN` from [Installation page](https://app.wring.dev/details/installation)
 4. Run your test with this command : python name-of-test.py
 
-nstallation Page looks like this: 
+Installation Page looks like this: 
 
 ![PExamples](/img/installation2.png)
 
 Check [Selenium Python example](https://github.com/aichemydev/selenium-python-examples) below :
 
-![PExamples](/img/pyinc.gif)
+import ReactPlayer from 'react-player'
+
+<ReactPlayer playing controls url='https://youtu.be/1OI-6NKcs10' />

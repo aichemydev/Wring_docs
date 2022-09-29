@@ -11,7 +11,7 @@ Instructions for Windows:
 1. Do `npm install` to install Cypress
 2. Install our plugin - `npm install @aichemy/wring-cypress-plugin`
 3. Copy/Paste `TG_TOKEN` from [Installation page](https://app.wring.dev/details/installation)
-4. then `$env:CYPRESS_TG_ENABLED='true'`
+4. Then `$env:CYPRESS_TG_ENABLED='true'`
 5. `./node_modules/.bin/cypress open`
 
 ![Cypress](/img/installation5.png)
@@ -33,3 +33,9 @@ Instructions for MacOS/Linux:
 4. then `export CYPRESS_TG_ENABLED=true`
 5. `./node_modules/.bin/cypress open`
 6. Cypress will open, then you can click on a (existing) test it finds.
+
+Check video: 
+
+import ReactPlayer from 'react-player'
+
+<ReactPlayer playing controls url='https://youtu.be/xgbLFF4YMXA' />

@@ -110,4 +110,6 @@ Now you're ready to run Java Selenium examples.
 
 Check [Selenium Java example](https://github.com/aichemydev/selenium-java-examples) below :
 
-![PExamples](/img/jinc.gif)
+import ReactPlayer from 'react-player'
+
+<ReactPlayer playing controls url='https://youtu.be/a7HY5rIZx-I' />

@@ -20,5 +20,8 @@ Installation Page looks like this:
 
 Check [Selenium JS example](https://github.com/aichemydev/selenium-js-examples) below :
 
-![PExamples](/img/jsinc.gif)
+import ReactPlayer from 'react-player'
+
+<ReactPlayer playing controls url='https://youtu.be/t067bWGGkgY' />
+
 

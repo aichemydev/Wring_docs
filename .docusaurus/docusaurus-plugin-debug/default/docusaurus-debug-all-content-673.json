@@ -35,7 +35,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Side file",
+                "title": "Side file -Simulator Example",
                 "permalink": "/Wring_docs/docs/Examples/side"
               },
               "next": {
@@ -91,7 +91,7 @@
                 "permalink": "/Wring_docs/docs/Examples/Selenium-Python"
               },
               "next": {
-                "title": "Side file",
+                "title": "Side file -Simulator Example",
                 "permalink": "/Wring_docs/docs/Examples/side"
               }
             },
@@ -151,7 +151,7 @@
               "unversionedId": "Examples/side",
               "id": "Examples/side",
               "isDocsHomePage": false,
-              "title": "Side file",
+              "title": "Side file -Simulator Example",
               "description": "How to run Simulator for side files?",
               "source": "@site/docs/Examples/side.md",
               "sourceDirName": "Examples",
