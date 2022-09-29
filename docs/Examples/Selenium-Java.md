@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Selenium Java Examples
 
-Java Selenium testing provides thorough and functioning test cases that can test every aspect of your application. The TestGold service generates robust selectors, heals broken selectors, and helps maintains your Java Selenium tests.
+Java Selenium testing provides thorough and functioning test cases that can test every aspect of your application. The Wring service generates robust selectors, heals broken selectors, and helps maintains your Java Selenium tests.
 
 - Run your tests using our enhanced Selenium, transparently replacing normal Selenium.
 - Wring learns from a previously working example of your test run on your webapp.
