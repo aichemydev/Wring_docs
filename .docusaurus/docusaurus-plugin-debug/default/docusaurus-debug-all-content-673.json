@@ -782,7 +782,7 @@
                   },
                   {
                     "type": "category",
-                    "label": "Run steps",
+                    "label": "Test Runs",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
