@@ -31,7 +31,7 @@ Here, you can see all test steps with selectors and screenshots with hightlights
 
 6. You can delete the steps you don't need.
 
-*// add a photo here*
+![Filter](/img/delete.gif)
 
 
 7.  Here you get all the view we show steps, you can choose your favorite. 
