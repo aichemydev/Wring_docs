@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Examples/cypress-ts",
-              "path": "/Wring_docs/docs/Examples/cypress-ts",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Examples/Selenium-Java",
               "path": "/Wring_docs/docs/Examples/Selenium-Java",
               "sidebar": "tutorialSidebar"

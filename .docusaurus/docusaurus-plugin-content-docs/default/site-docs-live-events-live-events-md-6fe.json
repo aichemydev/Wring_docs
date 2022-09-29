@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cypress TS Examples",
-    "permalink": "/Wring_docs/docs/Examples/cypress-ts"
+    "title": "Cypress JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/cypress"
   },
   "next": {
     "title": "Quikly Smart Observer - Introduction",

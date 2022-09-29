@@ -140,11 +140,6 @@
             "type": "link",
             "label": "Cypress JS Examples",
             "href": "/Wring_docs/docs/Examples/cypress"
-          },
-          {
-            "type": "link",
-            "label": "Cypress TS Examples",
-            "href": "/Wring_docs/docs/Examples/cypress-ts"
           }
         ]
       },

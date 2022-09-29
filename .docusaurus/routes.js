@@ -70,17 +70,11 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','927'),
+    component: ComponentCreator('/Wring_docs/docs','155'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
         component: ComponentCreator('/Wring_docs/docs/Examples/cypress','97f'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Examples/cypress-ts',
-        component: ComponentCreator('/Wring_docs/docs/Examples/cypress-ts','358'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
