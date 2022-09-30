@@ -31,11 +31,11 @@ A single environment variable is required for the Interceptor packages to
 interface with our API. Set the `TG_TOKEN` as directed on the Installation page,
 then install one of the Interceptor packages.
 
-Run your Selenium tests as normal, making sure the TG_TOKEN environment variable
-is set. The Interceptor will log its actions and the results of the XPath/CSS
-selector healing process to the terminal console. It will also provide a results
-URL where you can browse the results of each encounter and the outcomes of the
-healing process.
+Run your Selenium or Cypress tests as normal, making sure the `TG_TOKEN`
+(`CYPRESS_TG_TOKEN` for Cypress) environment variable is set. The Interceptor
+will log its actions and the results of the XPath/CSS selector healing process
+to the terminal console. It will also provide a results URL where you can browse
+the results of each encounter and the outcomes of the healing process.
 
 ## Selenium Setup
 
