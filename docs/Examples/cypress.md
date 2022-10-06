@@ -14,11 +14,11 @@ Instructions for Windows:
 4. Then `$env:CYPRESS_TG_ENABLED='true'`
 5. `./node_modules/.bin/cypress open`
 
-![Cypress](/img/installation5.png)
+![Cypress](/img/installation6.png)
 
 6. Cypress will open, then you can click on a (existing)test it finds.
 
-![Cypress](/img/installation6.png)
+![Cypress](/img/i6.png)
 
 This is how test looks like running:
 
