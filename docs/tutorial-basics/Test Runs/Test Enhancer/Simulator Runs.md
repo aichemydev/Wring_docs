@@ -35,6 +35,8 @@ After you press run, you see a modal window and look at four options there.
 
 *Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps*
 
+- **Exploration** -
+
 ![Wring Dashboard](/img/runn.png)
 
 If you select any agent, e.g. `permutation` - it gets every `select` action that we valued as `yes` on `explore` from `edit` steps.
