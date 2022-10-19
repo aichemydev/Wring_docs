@@ -38,3 +38,5 @@ After you click that, you will see your test running in `Test runs`
 ![Pageview](/img/running.png)
 
 After the run is finished, it will be considered as a regular test run.
+
+Adding more info when we release the new feature
