@@ -3,7 +3,7 @@
   "id": "TG Smart Observer/Tutorials",
   "isDocsHomePage": false,
   "title": "Get Started",
-  "description": "First, one thing you can get when you start using our Quikly Smart Observer is that you can easily be guided into all the steps to start recording a testcase.",
+  "description": "Wring Smart Observer is one of the most user friendly tools out there. Wring Smart Observer will guide through all the steps to start recording a testcase.",
   "source": "@site/docs/TG Smart Observer/Tutorials.md",
   "sourceDirName": "TG Smart Observer",
   "slug": "/TG Smart Observer/Tutorials",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quikly Smart Observer - Introduction",
+    "title": "Wring Smart Observer - Introduction",
     "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
   },
   "next": {

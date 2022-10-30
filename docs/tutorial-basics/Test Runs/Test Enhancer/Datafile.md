@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-# Data file Upload Variables
+# Data File Upload Variables
 
-On the Simulator page, you can upload files for variable analysis and attribute analysis. Variable analysis and attribute analysis each require an event data file. 
+To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the simulator interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.
 
 ![Datafile](/img/datafile.png)
 
-When you click add File, you get the option to upload the file by clickin on it or just drag and drop. 
+When you click on the add File button, you can upload a file by clicking on it or dragging and dropping it directly. You can also upload a folder with multiple files.
 
 ![Datafile](/img/upload.png)
 

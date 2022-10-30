@@ -3,7 +3,7 @@
   "id": "tutorial-basics/congratulations",
   "isDocsHomePage": false,
   "title": "Congratulations!",
-  "description": "You have now explored the Wring UI and you are now ready to checkout some of the advanced features and get to know how they work.",
+  "description": "You have now explored some of the basic features in the Wring UI, and how to use them. Now you are ready to explore a few advanced features and get to know how they work.",
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",

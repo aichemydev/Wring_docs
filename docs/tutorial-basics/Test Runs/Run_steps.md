@@ -8,11 +8,11 @@ Here, you can see all test steps with selectors and screenshots with hightlights
 
 ![Filter](/img/rsteps.png)
 
-1. In Run steps, you will see `Rerun` button, which allows you to rerun the test again. 
+1. Rerun is a button, which will appear in run steps and allows you to rerun the test again.
 
 ![Filter](/img/rerun.png)
 
-2. You can see screenshots for each step with details. 
+2. Nothing you do is useless when it comes to wringing out your tests. You can see screenshots with details for each step in the process. It is simple, intuitive and quick!
 
 ![Filter](/img/run.gif)
 
@@ -20,13 +20,13 @@ Here, you can see all test steps with selectors and screenshots with hightlights
 
 ![Filter](/img/selector.png)
 
-4. You can edit a step, change the value and so on. 
+4. Wring is the easiest way to analyze your data and get answers.           Editing is easy. You can even change the value of a field after you create it! 
 
 ![Filter](/img/editsteps.gif)
 
 5. You can add a step with selectors and values you want. 
 
-*// add a photo here*
+![Filter](/img/AddStep.gif)
 
 
 6. You can delete the steps you don't need.

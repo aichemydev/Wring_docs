@@ -3,7 +3,7 @@
   "id": "tutorial-basics/Dashboard",
   "isDocsHomePage": false,
   "title": "Dashboard",
-  "description": "Welcome to the Dashboard. This is where you can get quick statistics on your tests.",
+  "description": "Welcome to the Dashboard!",
   "source": "@site/docs/tutorial-basics/Dashboard.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/Dashboard",

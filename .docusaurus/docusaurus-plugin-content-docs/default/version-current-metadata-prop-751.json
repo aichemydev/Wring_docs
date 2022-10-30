@@ -63,7 +63,7 @@
                   },
                   {
                     "type": "link",
-                    "label": "Data file Upload Variables",
+                    "label": "Data File Upload Variables",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
                   },
                   {
@@ -112,6 +112,19 @@
       },
       {
         "type": "category",
+        "label": "Live Events",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Live Events",
+            "href": "/Wring_docs/docs/Live Events/Live Events"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Examples",
         "collapsible": true,
         "collapsed": true,
@@ -145,26 +158,13 @@
       },
       {
         "type": "category",
-        "label": "Live Events",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Live Events",
-            "href": "/Wring_docs/docs/Live Events/Live Events"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Wring Smart Observer",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Quikly Smart Observer - Introduction",
+            "label": "Wring Smart Observer - Introduction",
             "href": "/Wring_docs/docs/TG Smart Observer/Introduction"
           },
           {

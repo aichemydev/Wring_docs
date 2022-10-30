@@ -39,8 +39,8 @@
                 "permalink": "/Wring_docs/docs/Examples/side"
               },
               "next": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -87,8 +87,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Customizing Interceptor Execution",
-                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               },
               "next": {
                 "title": "Selenium Python Examples",
@@ -213,12 +213,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Cypress JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/cypress"
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
-                "title": "Quikly Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Selenium JS Examples",
+                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
               }
             },
             {
@@ -226,7 +226,7 @@
               "id": "TG Smart Observer/buttons",
               "isDocsHomePage": false,
               "title": "Observer and button functionality",
-              "description": "If you're new here and you don't know what's buttons functionality, check the instructions below for more info:",
+              "description": "If you're new here, and you don't know what the buttons do, check out the instructions below for more info.",
               "source": "@site/docs/TG Smart Observer/buttons.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/buttons",
@@ -251,8 +251,8 @@
               "unversionedId": "TG Smart Observer/Introduction",
               "id": "TG Smart Observer/Introduction",
               "isDocsHomePage": false,
-              "title": "Quikly Smart Observer - Introduction",
-              "description": "Quikly Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
+              "title": "Wring Smart Observer - Introduction",
+              "description": "Wring Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
               "source": "@site/docs/TG Smart Observer/Introduction.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/Introduction",
@@ -265,8 +265,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Cypress JS Examples",
+                "permalink": "/Wring_docs/docs/Examples/cypress"
               },
               "next": {
                 "title": "Get Started",
@@ -278,7 +278,7 @@
               "id": "TG Smart Observer/recorder",
               "isDocsHomePage": false,
               "title": "Welcome *User*",
-              "description": "If you're a user of Quikly Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times.",
+              "description": "If you're a user of Wring Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.",
               "source": "@site/docs/TG Smart Observer/recorder.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/recorder",
@@ -330,7 +330,7 @@
               "id": "TG Smart Observer/Tutorials",
               "isDocsHomePage": false,
               "title": "Get Started",
-              "description": "First, one thing you can get when you start using our Quikly Smart Observer is that you can easily be guided into all the steps to start recording a testcase.",
+              "description": "Wring Smart Observer is one of the most user friendly tools out there. Wring Smart Observer will guide through all the steps to start recording a testcase.",
               "source": "@site/docs/TG Smart Observer/Tutorials.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/Tutorials",
@@ -343,7 +343,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Quikly Smart Observer - Introduction",
+                "title": "Wring Smart Observer - Introduction",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               },
               "next": {
@@ -356,7 +356,7 @@
               "id": "TG Smart Observer/view",
               "isDocsHomePage": false,
               "title": "View Test",
-              "description": "After recording and sending the test to the server, go to View Test page.",
+              "description": "After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.",
               "source": "@site/docs/TG Smart Observer/view.md",
               "sourceDirName": "TG Smart Observer",
               "slug": "/TG Smart Observer/view",
@@ -382,7 +382,7 @@
               "id": "tutorial-basics/congratulations",
               "isDocsHomePage": false,
               "title": "Congratulations!",
-              "description": "You have now explored the Wring UI and you are now ready to checkout some of the advanced features and get to know how they work.",
+              "description": "You have now explored some of the basic features in the Wring UI, and how to use them. Now you are ready to explore a few advanced features and get to know how they work.",
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
@@ -408,7 +408,7 @@
               "id": "tutorial-basics/Dashboard",
               "isDocsHomePage": false,
               "title": "Dashboard",
-              "description": "Welcome to the Dashboard. This is where you can get quick statistics on your tests.",
+              "description": "Welcome to the Dashboard!",
               "source": "@site/docs/tutorial-basics/Dashboard.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Dashboard",
@@ -434,7 +434,7 @@
               "id": "tutorial-basics/Installation",
               "isDocsHomePage": false,
               "title": "Installation",
-              "description": "The installation page contains quick instructions for installing the Wring Interceptor for Selenium and Cypress for its supported languages.",
+              "description": "For the latest instructions on how to install Wring Interceptor, please visit our installation page. You'll find quick instructions for installing Wring Interceptor for Selenium and Cypress in the languages that we support.",
               "source": "@site/docs/tutorial-basics/Installation.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/Installation",
@@ -537,8 +537,8 @@
               "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
               "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
               "isDocsHomePage": false,
-              "title": "Data file Upload Variables",
-              "description": "On the Simulator page, you can upload files for variable analysis and attribute analysis. Variable analysis and attribute analysis each require an event data file.",
+              "title": "Data File Upload Variables",
+              "description": "To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the simulator interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.",
               "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile.md",
               "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
               "slug": "/tutorial-basics/Test Runs/Test Enhancer/Datafile",
@@ -590,7 +590,7 @@
               "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
               "isDocsHomePage": false,
               "title": "Salesforce Import Data",
-              "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.",
+              "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.  This is a very helpful tool for those who have an existing Salesforce account, but can't find their test variables.",
               "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce.md",
               "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
               "slug": "/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
@@ -603,7 +603,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Data file Upload Variables",
+                "title": "Data File Upload Variables",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
               },
               "next": {
@@ -633,7 +633,7 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
               },
               "next": {
-                "title": "Data file Upload Variables",
+                "title": "Data File Upload Variables",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
               }
             },
@@ -642,7 +642,7 @@
               "id": "tutorial-basics/Test Runs/Test-Explorer",
               "isDocsHomePage": false,
               "title": "Overview Page",
-              "description": "The test explorer is where you can browse all the tests you have added to Wring.",
+              "description": "The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.",
               "source": "@site/docs/tutorial-basics/Test Runs/Test-Explorer.md",
               "sourceDirName": "tutorial-basics/Test Runs",
               "slug": "/tutorial-basics/Test Runs/Test-Explorer",
@@ -685,8 +685,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
               },
               "next": {
-                "title": "Selenium JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               }
             },
             {
@@ -830,6 +830,18 @@
               },
               {
                 "type": "category",
+                "label": "Live Events",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Live Events"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "Examples",
                 "collapsible": true,
                 "collapsed": true,
@@ -853,18 +865,6 @@
                   {
                     "type": "doc",
                     "id": "Examples/cypress"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Live Events",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Live Events/Live Events"
                   }
                 ]
               },

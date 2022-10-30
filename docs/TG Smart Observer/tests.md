@@ -12,11 +12,12 @@ After you go to `New Test`, it will open a modal page for you to write the name 
 
 ![Quikly Dashboard](/img/Name.png)
 
-It will send you directly to the page for starting a test. 
+You'll be directed to the page where you start a test. Click 'Start Test' to begin.
+
 
 ![Quikly Dashboard](/img/333.png)
 
-Go and press `Rec` button to start your test. It will send you directly to `Google` - where you can write your wanted `url` to test. 
+Go and press Rec button to start your test. You will be taken directly to Google to write your wanted url.
 
 ![Quikly Dashboard](/img/Start.png)
 
@@ -24,7 +25,7 @@ We want to test this `url` - [https://calendar.testgold.dev/calendar?id=1](https
 
 ![Quikly Dashboard](/img/ss.png)
 
-Also, our recorder allows you to change the `command`, `target` and `value` too. 
+The most important feature of `Wring Smart Observer` is that it allows you to change the `command`, `target` and `value` of your testcase by just simple typing.
 
 ![Quikly Dashboard](/img/targets.png)
 
@@ -45,12 +46,11 @@ Details:
 5. **Minus** - *minimaze the mini-recorder.*
 6. **Maximaze/Minimaze** - *maximaze and minimaze the mini-recorder.*
 
-When you start clicking on some particular place on the `url` `(Website)` you wanted, it will automatically generate the steps and list them on big recorder and in mini-recorder as well.
+When you start clicking on some particular place on the `url` `(Website)` you wanted, it will automatically generate the steps and list them on big recorder and in mini-recorder as well. Designed with a dedicated recording button (pause/stop), so that you can easily pause or stop your recording without missing any detail of your analysis.
 
 ![Quikly Dashboard](/img/by.png)
 
-After finish testing, just `close` te chrome tab, `Stop recording` and go to `Send test` button to send your test to our server., which it will indicate a loading screen, until the test is done. 
-
+Once you've finished testing, just click the `Close` button on the Chrome tab, then hit `Stop recording` and go to the Send test button.
 
 Then you will get a notification that your test is already sent.
 

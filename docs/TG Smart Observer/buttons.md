@@ -5,8 +5,7 @@ sidebar_position: 7
 # Observer and button functionality
 
 
-If you're new here and you don't know what's buttons functionality, check the instructions below for more info: 
-
+If you're new here, and you don't know what the buttons do, check out the instructions below for more info.
 
 ![Wring Dashboard](/img/bbutons.png)
 

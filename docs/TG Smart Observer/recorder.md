@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Welcome *User*
 
-If you're a user of Quikly Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times.
+If you're a user of Wring Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.
 
 ![Quikly Dashboard](/img/Dashboarrrd.png)
 

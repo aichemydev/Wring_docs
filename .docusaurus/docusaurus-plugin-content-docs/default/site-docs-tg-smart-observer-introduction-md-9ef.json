@@ -2,8 +2,8 @@
   "unversionedId": "TG Smart Observer/Introduction",
   "id": "TG Smart Observer/Introduction",
   "isDocsHomePage": false,
-  "title": "Quikly Smart Observer - Introduction",
-  "description": "Quikly Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
+  "title": "Wring Smart Observer - Introduction",
+  "description": "Wring Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
   "source": "@site/docs/TG Smart Observer/Introduction.md",
   "sourceDirName": "TG Smart Observer",
   "slug": "/TG Smart Observer/Introduction",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Live Events",
-    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+    "title": "Cypress JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/cypress"
   },
   "next": {
     "title": "Get Started",

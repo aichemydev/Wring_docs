@@ -4,17 +4,20 @@ sidebar_position: 1
 
 # Overview Page
 
-The test explorer is where you can browse all the tests you have added to Wring. 
+The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.
 
 ![Test Explorer](/img/Test-Explorer.png)
 
-This page displays the test runs along with quick access to high level information such as descriptions, run times, total paths, and healed paths. By default, results will be displayed chronologically. Clicking on a Test Run shows you further detail about a particular Test Run.
+This page displays the test runs along with quick access to high level information such as descriptions, run times, total paths, and healed paths. 
+It lists all of the test runs that occurred over a particular period of time.                                                                    
+It allows you to quickly see if there were successful, failed or blocked paths and offers easy access to the output files to review what occurred during each test run.                                                    
+By default, results will be displayed chronologically. Clicking on a Test Run shows you further detail about a particular Test Run.
 
 The test explorer contains information for your test runs as well as test suites.
 
 ## Adding a Test Run
 
-The test explorer tab can is also the place to upload new tests. Here you can click on the `Add Test` button to upload test scripts and set run options.
+The performance test explorer tab can be used to upload new tests. Here you can click on the `Add Test` button to upload test scripts and set run options.
 
 :::note Currently Supported Formats 
 
@@ -29,6 +32,7 @@ This is the add test modal. You can also add tests via your selenium/Cypress cod
 This is where you can specify run properties and fill in details before adding a test to Wring. The run name is only required field and is a handy way to search for your test. You can also add a description to help you and others understand what is going on in each test. 
 
 
+Wring is the smart test search platform that helps you organize and track testing activities easily.                                                  
 We support a filter button which allows you to use search easily across tests. If you click the filter button the search is performed immediately. You can search by `run name`, `date`, `description`...etc
 One can clear filter data (`reset`) and `reset all` to go back to all results.
 
@@ -36,11 +40,13 @@ One can clear filter data (`reset`) and `reset all` to go back to all results.
 
 In Overview, you can see `test status`*(passed/failed)*, `run time`, `test steps`, `failures`, `auto healed` and `time saved`. 
 
-We also support videos for all our testcases, as you can see below.
+We also support videos for all our testcases, as you can see below. Rather than writing out a detailed explanation each time, we decided to show what really happens automatically with a video. We hope it helps make Unit Tests like this easier for you to read, write and understand!
 
 ![Filter](/img/overview.png)
 
-If you want to share your test with your colleague and allow them to see the test, edit/add steps, run the simulator, and modify variables,... Yes, it's possible - Wring allows you to generate a shareable url. 
+You can generate a shareable url that only you have control. Wring allow you to generate a shareable url and share your test with your colleague and allow them to see the test, edit/add steps, run the simulator, and modify variables. 
+
+It's a good idea to share your tests with colleagues. That way they can see what you were doing and make sure they don't make the same mistake again. You can also get away with leaving out all the details by sharing a test scenario with a detailed description, along with any bugs or steps that need to be fixed.
 
 ![Filter](/img/share.png)
 
@@ -52,7 +58,7 @@ You can share your shareable url in three options:
 
 ![Filter](/img/share.gif)
 
-In Settings, you have test script options to set browser width, browser height and max wait time (sec). 
+Use the test script options to set your browser width, height and max wait time to customize your website tests.
 
 ![Adding a Test](/img/setting.png)
 

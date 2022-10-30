@@ -3,7 +3,7 @@
   "id": "tutorial-basics/Test Runs/Test-Explorer",
   "isDocsHomePage": false,
   "title": "Overview Page",
-  "description": "The test explorer is where you can browse all the tests you have added to Wring.",
+  "description": "The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.",
   "source": "@site/docs/tutorial-basics/Test Runs/Test-Explorer.md",
   "sourceDirName": "tutorial-basics/Test Runs",
   "slug": "/tutorial-basics/Test Runs/Test-Explorer",

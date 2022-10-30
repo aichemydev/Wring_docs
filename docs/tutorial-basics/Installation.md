@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Installation
 
-The installation page contains quick instructions for installing the Wring Interceptor for Selenium and Cypress for its supported languages.
+For the latest instructions on how to install Wring Interceptor, please visit our installation page. You'll find quick instructions for installing Wring Interceptor for Selenium and Cypress in the languages that we support.
 
 This is also where you can access your `TG_TOKEN`
 
@@ -14,6 +14,6 @@ In the right side,  you can see Wring Interceptor packages for java, python and 
 
 ![Installation Page](/img/ad11.png)
 
-We also support Cypress, in the right side - you can see Wring Interceptor package and all the details in `Examples`.
+You can also get more details at Cypress, in the right side. You can see Wring Interceptor package and all the details in `Examples`.
 
 ![Installation Page](/img/cypress1.png)

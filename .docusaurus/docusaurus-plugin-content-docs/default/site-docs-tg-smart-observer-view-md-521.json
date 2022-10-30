@@ -3,7 +3,7 @@
   "id": "TG Smart Observer/view",
   "isDocsHomePage": false,
   "title": "View Test",
-  "description": "After recording and sending the test to the server, go to View Test page.",
+  "description": "After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.",
   "source": "@site/docs/TG Smart Observer/view.md",
   "sourceDirName": "TG Smart Observer",
   "slug": "/TG Smart Observer/view",

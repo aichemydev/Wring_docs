@@ -217,7 +217,7 @@ Other integrations such as Slack will need to be removed from those platforms.
 
 ## Scheduled runs
 
-Wring allows you to schedule runs every time you want.
+Wring is the easiest way to schedule your laundry for every day, every week, or any other days you want.
 
 ![Wring Dashboard](/img/scheduled.png)
 
@@ -239,11 +239,11 @@ To start a scheduled run with `Advanced Calendar`, check the video below:
 
 ![Wring Dashboard](/img/Adv_S.gif)
 
-Here is how the Scheduled modal looks like:
+Here is how the Scheduled modal looks like. Just click on it and task will be scheduled.
 
 ![Wring Dashboard](/img/advanced.png)
 
-After you add a scheduled run, you will see the screen below.
+Once you add a scheduled run, you will see the screen below. You can schedule different days of the week or different times of day.
 
 If the test is scheduled with `Simple calendar` :
 

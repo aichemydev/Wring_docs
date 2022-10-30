@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Customizing Interceptor Execution",
-    "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
   },
   "next": {
     "title": "Selenium Python Examples",
