@@ -112,19 +112,6 @@
       },
       {
         "type": "category",
-        "label": "Live Events",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Live Events",
-            "href": "/Wring_docs/docs/Live Events/Live Events"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Examples",
         "collapsible": true,
         "collapsed": true,
@@ -153,6 +140,24 @@
             "type": "link",
             "label": "Cypress JS Examples",
             "href": "/Wring_docs/docs/Examples/cypress"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Live Events",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Live Events",
+            "href": "/Wring_docs/docs/Live Events/Live Events"
+          },
+          {
+            "type": "link",
+            "label": "Get Started with Pageviews",
+            "href": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
           }
         ]
       },

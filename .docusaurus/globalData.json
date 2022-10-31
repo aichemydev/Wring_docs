@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Get Started with Pageviews",
+              "path": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Live Events/Live Events",
               "path": "/Wring_docs/docs/Live Events/Live Events",
               "sidebar": "tutorialSidebar"

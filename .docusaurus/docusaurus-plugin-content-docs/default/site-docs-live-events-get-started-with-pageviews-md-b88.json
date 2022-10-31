@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Get Started with Pageviews",
+  "id": "Live Events/Get Started with Pageviews",
+  "isDocsHomePage": false,
+  "title": "Get Started with Pageviews",
+  "description": "How to use Pageviews?",
+  "source": "@site/docs/Live Events/Get Started with Pageviews.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Get Started with Pageviews",
+  "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+  },
+  "next": {
+    "title": "Wring Smart Observer - Introduction",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+  }
+}

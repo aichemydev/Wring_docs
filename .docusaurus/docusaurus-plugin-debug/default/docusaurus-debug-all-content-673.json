@@ -39,8 +39,8 @@
                 "permalink": "/Wring_docs/docs/Examples/side"
               },
               "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
               }
             },
             {
@@ -87,8 +87,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
                 "title": "Selenium Python Examples",
@@ -196,6 +196,32 @@
               }
             },
             {
+              "unversionedId": "Live Events/Get Started with Pageviews",
+              "id": "Live Events/Get Started with Pageviews",
+              "isDocsHomePage": false,
+              "title": "Get Started with Pageviews",
+              "description": "How to use Pageviews?",
+              "source": "@site/docs/Live Events/Get Started with Pageviews.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Get Started with Pageviews",
+              "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+              },
+              "next": {
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+              }
+            },
+            {
               "unversionedId": "Live Events/Live Events",
               "id": "Live Events/Live Events",
               "isDocsHomePage": false,
@@ -213,12 +239,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Customizing Interceptor Execution",
-                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
+                "title": "Cypress JS Examples",
+                "permalink": "/Wring_docs/docs/Examples/cypress"
               },
               "next": {
-                "title": "Selenium JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+                "title": "Get Started with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
               }
             },
             {
@@ -265,8 +291,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Cypress JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/cypress"
+                "title": "Get Started with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
               },
               "next": {
                 "title": "Get Started",
@@ -685,8 +711,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
               },
               "next": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Selenium JS Examples",
+                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
               }
             },
             {
@@ -720,7 +746,7 @@
               "id": "versions",
               "isDocsHomePage": false,
               "title": "Supported Versions",
-              "description": "The table below contains information regarding the supported versions for each of our interceptors. If you a version you require is not supported, please reach out to support at support@wring.dev to discuss solutions.",
+              "description": "The table below contains information regarding the supported versions for each of our interceptors. If a version you require is not supported, please reach out to support at support@wring.dev to discuss solutions.",
               "source": "@site/docs/versions.md",
               "sourceDirName": ".",
               "slug": "/versions",
@@ -830,18 +856,6 @@
               },
               {
                 "type": "category",
-                "label": "Live Events",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Live Events/Live Events"
-                  }
-                ]
-              },
-              {
-                "type": "category",
                 "label": "Examples",
                 "collapsible": true,
                 "collapsed": true,
@@ -865,6 +879,22 @@
                   {
                     "type": "doc",
                     "id": "Examples/cypress"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Live Events",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Live Events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Get Started with Pageviews"
                   }
                 ]
               },

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/How to use Pageviews",
+  "id": "Live Events/How to use Pageviews",
+  "isDocsHomePage": false,
+  "title": "How to use Pageviews",
+  "description": "How to use Pageviews?",
+  "source": "@site/docs/Live Events/How to use Pageviews.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/How to use Pageviews",
+  "permalink": "/Wring_docs/docs/Live Events/How to use Pageviews",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+  },
+  "next": {
+    "title": "Selenium JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+  }
+}
