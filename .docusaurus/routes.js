@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','228'),
+    component: ComponentCreator('/Wring_docs/docs','201'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -123,6 +123,12 @@ export default [
       {
         path: '/Wring_docs/docs/Live Events/Live Events',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Live Events','8db'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Live Events/Multiple sessions with Pageviews',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Multiple sessions with Pageviews','b9f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

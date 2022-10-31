@@ -158,6 +158,11 @@
             "type": "link",
             "label": "Get Started with Pageviews",
             "href": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+          },
+          {
+            "type": "link",
+            "label": "Multiple sessions with Pageviews",
+            "href": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
           }
         ]
       },

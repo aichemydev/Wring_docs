@@ -217,8 +217,8 @@
                 "permalink": "/Wring_docs/docs/Live Events/Live Events"
               },
               "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Multiple sessions with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
               }
             },
             {
@@ -245,6 +245,32 @@
               "next": {
                 "title": "Get Started with Pageviews",
                 "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+              }
+            },
+            {
+              "unversionedId": "Live Events/Multiple sessions with Pageviews",
+              "id": "Live Events/Multiple sessions with Pageviews",
+              "isDocsHomePage": false,
+              "title": "Multiple sessions with Pageviews",
+              "description": "Live Events allows you to record and analyze user actions on your website, enabling you to understand each action in a testcase. You can then generate test cases based on the steps you did.",
+              "source": "@site/docs/Live Events/Multiple sessions with Pageviews.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Multiple sessions with Pageviews",
+              "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+              },
+              "next": {
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -291,8 +317,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Get Started with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+                "title": "Multiple sessions with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
               },
               "next": {
                 "title": "Get Started",
@@ -895,6 +921,10 @@
                   {
                     "type": "doc",
                     "id": "Live Events/Get Started with Pageviews"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Multiple sessions with Pageviews"
                   }
                 ]
               },

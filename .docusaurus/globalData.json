@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Multiple sessions with Pageviews",
+              "path": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "TG Smart Observer/buttons",
               "path": "/Wring_docs/docs/TG Smart Observer/buttons",
               "sidebar": "tutorialSidebar"
