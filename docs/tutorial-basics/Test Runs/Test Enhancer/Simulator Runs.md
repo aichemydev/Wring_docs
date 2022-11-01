@@ -11,11 +11,11 @@ Every step any algorithm generates list of candidate actions:
 - case when step contains variables with range: candidates are all buckets/values (if set).
 - If step has no “explore” flag and no variables: the only candidate is original action
 
-Algorithm is responsible for a strategy of selecting action from a list of candidates every step during simulator run.
+Algorithm should select an action from a list of candidates every step during simulator run. Here, the candidate can take multiple actions sequentially or simultaneously.
 
 After you press run, you see a modal window and look at four options there.
 - **Randomize** - *Randomize data used in testing.*
-*Final action will be sampled randomly from the candidate list at any step. Doesn’t take into consideration order or dependence between steps. Can repeat the same steps throughout episodes.*
+*Randomize is a deterministic algorithm, which means that it does not take into consideration order or dependence between steps. It provides final action sampling via a sampling technique called pseudo-randomness. This strategy repeats the same steps at every decision point, regardless of which actions have already been selected and whether those actions have already been performed. Final action will be sampled randomly from the candidate list at any step. Doesn’t take into consideration order or dependence between steps. Can repeat the same steps throughout episodes.*
 
 *Total amount of episodes: specified by user.*
 
@@ -35,9 +35,11 @@ After you press run, you see a modal window and look at four options there.
 
 *Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps*
 
-- **Exploration** -
+- **Exploration** - *Perform exploration runs. Auto verifications will be computed. Explore and validate new features for your app, including interactions and behaviors.*
 
-![Wring Dashboard](/img/runn.png)
+*Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps*
+
+![Wring Dashboard](/img/agents.png)
 
 If you select any agent, e.g. `permutation` - it gets every `select` action that we valued as `yes` on `explore` from `edit` steps.
  
