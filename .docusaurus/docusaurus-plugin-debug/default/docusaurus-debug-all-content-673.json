@@ -207,18 +207,44 @@
               "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Set Up Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
               },
               "next": {
-                "title": "Multiple sessions with Pageviews",
+                "title": "Multiple Sessions with Pageviews",
                 "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+              }
+            },
+            {
+              "unversionedId": "Live Events/Key Flows",
+              "id": "Live Events/Key Flows",
+              "isDocsHomePage": false,
+              "title": "Key Flows",
+              "description": "",
+              "source": "@site/docs/Live Events/Key Flows.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Key Flows",
+              "permalink": "/Wring_docs/docs/Live Events/Key Flows",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multiple Sessions with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+              },
+              "next": {
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -243,15 +269,15 @@
                 "permalink": "/Wring_docs/docs/Examples/cypress"
               },
               "next": {
-                "title": "Get Started with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+                "title": "Set Up Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
               }
             },
             {
               "unversionedId": "Live Events/Multiple sessions with Pageviews",
               "id": "Live Events/Multiple sessions with Pageviews",
               "isDocsHomePage": false,
-              "title": "Multiple sessions with Pageviews",
+              "title": "Multiple Sessions with Pageviews",
               "description": "Live Events allows you to record and analyze user actions on your website, enabling you to understand each action in a testcase. You can then generate test cases based on the steps you did.",
               "source": "@site/docs/Live Events/Multiple sessions with Pageviews.md",
               "sourceDirName": "Live Events",
@@ -259,9 +285,9 @@
               "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -269,8 +295,34 @@
                 "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
               },
               "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Key Flows",
+                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+              }
+            },
+            {
+              "unversionedId": "Live Events/Set Up Pageviews",
+              "id": "Live Events/Set Up Pageviews",
+              "isDocsHomePage": false,
+              "title": "Set Up Pageviews",
+              "description": "This section is a step-by-step guide to getting your first project. It includes information on what to do, how to do it and when you should do it.",
+              "source": "@site/docs/Live Events/Set Up Pageviews.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Set Up Pageviews",
+              "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Live Events",
+                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+              },
+              "next": {
+                "title": "Get Started with Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
               }
             },
             {
@@ -317,8 +369,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Multiple sessions with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+                "title": "Key Flows",
+                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
               },
               "next": {
                 "title": "Get Started",
@@ -920,11 +972,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Live Events/Set Up Pageviews"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Live Events/Get Started with Pageviews"
                   },
                   {
                     "type": "doc",
                     "id": "Live Events/Multiple sessions with Pageviews"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Key Flows"
                   }
                 ]
               },

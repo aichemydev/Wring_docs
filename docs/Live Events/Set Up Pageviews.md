@@ -1,19 +1,11 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-### Pageviews
+This section is a step-by-step guide to getting your first project. It includes information on what to do, how to do it and when you should do it.                                                                                                    
+You can start by adding a new project with our simple yet powerful pageviews feature.
 
-Wring offers a comprehensive set of tools to help you collect and analyze all the performance data you need. You can see how users interact with your site, including which links they click, how much time they spend on each page, which browsers they use, etc.. This data also serves as a basis for making your website better and more user friendly. 
-
-Live Events or as we call it - "Pageviews" is a tool that allows you to record user actions on a website and generate a test case from these actions. 
-We created Pageviews to help you test your website in a quick and engaging way. You can track live users and generate tests using their actions as soon as they appear on the page.
-
-Pageviews is a simple and reliable tool for tracking visitor behavior on your website. Not only can you see where people are moving from one webpage to another, but you also can see most common paths how users moves from one webpage to another that allows to improve website usability and to find and fix critical bugs.
-
-Live Events allows you to capture user actions on your website and generate a test case from these actions, including the mouse coordinates and keystrokes. You can even start a recording from a real device you are using (iPhone, iPad or Android). 
-
-### How to create a Project in Pageviews?
+## How to create a Project in Pageviews?
 
 Simplify your life and get live events from Wring. Wring allows you to create a project from which you want to get live events by going to `Set up pageviews` and clicking on `Add new project`.
 
@@ -64,5 +56,3 @@ Then run the following command:
 
 
 ![Pageview](/img/pag11.png)
-
-

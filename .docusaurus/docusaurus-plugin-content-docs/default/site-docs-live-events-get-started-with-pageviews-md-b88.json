@@ -10,17 +10,17 @@
   "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Live Events",
-    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+    "title": "Set Up Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
   },
   "next": {
-    "title": "Multiple sessions with Pageviews",
+    "title": "Multiple Sessions with Pageviews",
     "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
   }
 }

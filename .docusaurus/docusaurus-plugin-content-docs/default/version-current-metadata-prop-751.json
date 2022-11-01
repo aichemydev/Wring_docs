@@ -156,13 +156,23 @@
           },
           {
             "type": "link",
+            "label": "Set Up Pageviews",
+            "href": "/Wring_docs/docs/Live Events/Set Up Pageviews"
+          },
+          {
+            "type": "link",
             "label": "Get Started with Pageviews",
             "href": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
           },
           {
             "type": "link",
-            "label": "Multiple sessions with Pageviews",
+            "label": "Multiple Sessions with Pageviews",
             "href": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+          },
+          {
+            "type": "link",
+            "label": "Key Flows",
+            "href": "/Wring_docs/docs/Live Events/Key Flows"
           }
         ]
       },

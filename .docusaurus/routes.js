@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','201'),
+    component: ComponentCreator('/Wring_docs/docs','0ad'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -121,6 +121,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Wring_docs/docs/Live Events/Key Flows',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Key Flows','71a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/Wring_docs/docs/Live Events/Live Events',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Live Events','8db'),
         exact: true,
@@ -129,6 +135,12 @@ export default [
       {
         path: '/Wring_docs/docs/Live Events/Multiple sessions with Pageviews',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Multiple sessions with Pageviews','b9f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Live Events/Set Up Pageviews',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Set Up Pageviews','0dd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

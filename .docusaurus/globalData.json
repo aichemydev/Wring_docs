@@ -51,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Key Flows",
+              "path": "/Wring_docs/docs/Live Events/Key Flows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Live Events/Live Events",
               "path": "/Wring_docs/docs/Live Events/Live Events",
               "sidebar": "tutorialSidebar"
@@ -58,6 +63,11 @@
             {
               "id": "Live Events/Multiple sessions with Pageviews",
               "path": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Live Events/Set Up Pageviews",
+              "path": "/Wring_docs/docs/Live Events/Set Up Pageviews",
               "sidebar": "tutorialSidebar"
             },
             {
