@@ -11,7 +11,7 @@ We created Pageviews to help you test your website in a quick and engaging way. 
 
 Pageviews is a simple and reliable tool for tracking visitor behavior on your website. Not only can you see where people are moving from one webpage to another, but you also can see most common paths how users moves from one webpage to another that allows to improve website usability and to find and fix critical bugs.
 
-Live Events allows you to capture user actions on your website and generate a test case from these actions, including the mouse coordinates and keystrokes. You can even start a recording from a real device you are using (iPhone, iPad or Android). 
+Live Events allows you to capture user actions on your website and generate a test case from these actions, including the mouse coordinates and keystrokes. You can even start a recording from a real device you are using (Laptop, iPhone, iPad or Android). 
 
 
 
