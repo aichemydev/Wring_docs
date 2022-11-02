@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/aichemydev/Wring-issues',
+                href: 'https://github.com/aichemydev/Wring_docs/issues',
               },
             ],
           },
