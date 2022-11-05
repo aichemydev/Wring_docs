@@ -217,7 +217,7 @@ Other integrations such as Slack will need to be removed from those platforms.
 
 ## Scheduled runs
 
-Wring is the easiest way to schedule your laundry for every day, every week, or any other days you want.
+Wring is the easiest way to schedule your test runs for every day, every week, or any other days you want.
 
 ![Wring Dashboard](/img/scheduled.png)
 
