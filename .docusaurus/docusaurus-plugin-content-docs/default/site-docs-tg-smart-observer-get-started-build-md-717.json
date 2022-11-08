@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/Get started - Build",
+  "id": "TG Smart Observer/Get started - Build",
+  "isDocsHomePage": false,
+  "title": "Wring Smart Observer - Get Started with our Build",
+  "description": "Once you get started with Wring Platform, we will send you a build for the Wring Smart Observer.",
+  "source": "@site/docs/TG Smart Observer/Get started - Build.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/Get started - Build",
+  "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wring Smart Observer - Introduction",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+  },
+  "next": {
+    "title": "Wring Smart Observer - Ready to start!",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
+  }
+}

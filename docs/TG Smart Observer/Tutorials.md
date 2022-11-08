@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Get Started
+# Wring Smart Observer - Ready to start!
 
 Wring Smart Observer is one of the most user friendly tools out there. Wring Smart Observer will guide through all the steps to start recording a testcase.
 

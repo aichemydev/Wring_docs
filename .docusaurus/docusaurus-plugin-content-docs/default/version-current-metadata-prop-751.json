@@ -189,12 +189,17 @@
           },
           {
             "type": "link",
-            "label": "Get Started",
+            "label": "Wring Smart Observer - Get Started with our Build",
+            "href": "/Wring_docs/docs/TG Smart Observer/Get started - Build"
+          },
+          {
+            "type": "link",
+            "label": "Wring Smart Observer - Ready to start!",
             "href": "/Wring_docs/docs/TG Smart Observer/Tutorials"
           },
           {
             "type": "link",
-            "label": "Welcome *User*",
+            "label": "Welcome User",
             "href": "/Wring_docs/docs/TG Smart Observer/recorder"
           },
           {

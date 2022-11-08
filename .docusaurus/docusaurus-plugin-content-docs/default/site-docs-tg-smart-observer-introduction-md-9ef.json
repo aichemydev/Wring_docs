@@ -10,9 +10,9 @@
   "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/Live Events/Key Flows"
   },
   "next": {
-    "title": "Get Started",
-    "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
+    "title": "Wring Smart Observer - Get Started with our Build",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build"
   }
 }

@@ -2,7 +2,7 @@
   "unversionedId": "TG Smart Observer/Tutorials",
   "id": "TG Smart Observer/Tutorials",
   "isDocsHomePage": false,
-  "title": "Get Started",
+  "title": "Wring Smart Observer - Ready to start!",
   "description": "Wring Smart Observer is one of the most user friendly tools out there. Wring Smart Observer will guide through all the steps to start recording a testcase.",
   "source": "@site/docs/TG Smart Observer/Tutorials.md",
   "sourceDirName": "TG Smart Observer",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Wring Smart Observer - Introduction",
-    "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+    "title": "Wring Smart Observer - Get Started with our Build",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build"
   },
   "next": {
-    "title": "Welcome *User*",
+    "title": "Welcome User",
     "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
   }
 }
