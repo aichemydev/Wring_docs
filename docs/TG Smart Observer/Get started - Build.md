@@ -10,7 +10,7 @@ You can customize this extension to record as many tests as you need and adjust 
 You will be able to sign up for a Wring account right now and get started with Wring Smart Observer. We will send you instructions on how to install and use the product, so you can get started.                                                                             
 We’ll also send you updates about any features that are being added to the platform in the future.
 
-## Get started with Wring Platform today!
+## Get started with Wring Smart Observer today!
 
 We will provide you with a build in rar or zip files, you can install the new program by extracting files.
 
@@ -35,7 +35,7 @@ Instructions:
 
 ![Quikly Dashboard](/img/rec4.png)
 
-6. Once you click, it will open a file explorer - navigate to where you have stored/exctracted Build folder.
+6. Once you click, it will open a file explorer - navigate to where you have stored/extracted Build folder.
 
 ![Quikly Dashboard](/img/rec5.png)
 
