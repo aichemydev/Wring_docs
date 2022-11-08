@@ -16,7 +16,7 @@ We will provide you with a build in rar or zip files, you can install the new pr
 
 ![Quikly Dashboard](/img/rec1.png)
 
-Once you got the build go to your browser ( we support Chrome, Edge, Opera, etc...) 
+Once you got the build go to your browser ( we support Chrome, Edge, Opera, etc...)                                                     
 Right now, I will show you how to install it on Chrome - you can do the same with other browsers.
 
 Instructions: 
