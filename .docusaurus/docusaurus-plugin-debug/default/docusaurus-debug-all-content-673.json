@@ -555,8 +555,8 @@
                 "permalink": "/Wring_docs/docs/intro"
               },
               "next": {
-                "title": "Overview Page",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
+                "title": "Overview Page - Start a test!",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
               }
             },
             {
@@ -577,8 +577,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Integrations",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
+                "title": "Scheduled Runs",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
               },
               "next": {
                 "title": "Congratulations!",
@@ -586,15 +586,41 @@
               }
             },
             {
-              "unversionedId": "tutorial-basics/Integrations",
-              "id": "tutorial-basics/Integrations",
+              "unversionedId": "tutorial-basics/Integrations/integration",
+              "id": "tutorial-basics/Integrations/integration",
               "isDocsHomePage": false,
-              "title": "Integrations",
+              "title": "CI Integrations",
               "description": "Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
-              "source": "@site/docs/tutorial-basics/Integrations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/Integrations",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations",
+              "source": "@site/docs/tutorial-basics/Integrations/integration.md",
+              "sourceDirName": "tutorial-basics/Integrations",
+              "slug": "/tutorial-basics/Integrations/integration",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+              },
+              "next": {
+                "title": "Triggered runs",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Integrations/Scheduled",
+              "id": "tutorial-basics/Integrations/Scheduled",
+              "isDocsHomePage": false,
+              "title": "Scheduled Runs",
+              "description": "Wring is the easiest way to schedule your test runs for every day, every week, or any other days you want.",
+              "source": "@site/docs/tutorial-basics/Integrations/Scheduled.md",
+              "sourceDirName": "tutorial-basics/Integrations",
+              "slug": "/tutorial-basics/Integrations/Scheduled",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -603,12 +629,90 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                "title": "Triggered runs",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
               },
               "next": {
                 "title": "Installation",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Integrations/Triggers",
+              "id": "tutorial-basics/Integrations/Triggers",
+              "isDocsHomePage": false,
+              "title": "Triggered runs",
+              "description": "The Wring platform can execute test runs based on a trigger from an external",
+              "source": "@site/docs/tutorial-basics/Integrations/Triggers.md",
+              "sourceDirName": "tutorial-basics/Integrations",
+              "slug": "/tutorial-basics/Integrations/Triggers",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CI Integrations",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+              },
+              "next": {
+                "title": "Scheduled Runs",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Overview Page/overview",
+              "id": "tutorial-basics/Overview Page/overview",
+              "isDocsHomePage": false,
+              "title": "Overview Page - Start a test!",
+              "description": "The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.",
+              "source": "@site/docs/tutorial-basics/Overview Page/overview.md",
+              "sourceDirName": "tutorial-basics/Overview Page",
+              "slug": "/tutorial-basics/Overview Page/overview",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
+              },
+              "next": {
+                "title": "Create a Testsuite",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Overview Page/TestSuite",
+              "id": "tutorial-basics/Overview Page/TestSuite",
+              "isDocsHomePage": false,
+              "title": "Create a Testsuite",
+              "description": "Wring allows you to have test suites with multiple tests on them. Test suites can be run with completion of the entire suite or simply one different test.",
+              "source": "@site/docs/tutorial-basics/Overview Page/TestSuite.md",
+              "sourceDirName": "tutorial-basics/Overview Page",
+              "slug": "/tutorial-basics/Overview Page/TestSuite",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview Page - Start a test!",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
+              },
+              "next": {
+                "title": "Run steps",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
               }
             },
             {
@@ -655,8 +759,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Overview Page",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
+                "title": "Create a Testsuite",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
               },
               "next": {
                 "title": "Advanced",
@@ -737,8 +841,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
               },
               "next": {
-                "title": "Integrations",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations"
+                "title": "CI Integrations",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
               }
             },
             {
@@ -765,32 +869,6 @@
               "next": {
                 "title": "Data File Upload Variables",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Test Runs/Test-Explorer",
-              "id": "tutorial-basics/Test Runs/Test-Explorer",
-              "isDocsHomePage": false,
-              "title": "Overview Page",
-              "description": "The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.",
-              "source": "@site/docs/tutorial-basics/Test Runs/Test-Explorer.md",
-              "sourceDirName": "tutorial-basics/Test Runs",
-              "slug": "/tutorial-basics/Test Runs/Test-Explorer",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
-              },
-              "next": {
-                "title": "Run steps",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
               }
             },
             {
@@ -886,14 +964,26 @@
                   },
                   {
                     "type": "category",
-                    "label": "Test Runs",
+                    "label": "Overview Page",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
-                        "id": "tutorial-basics/Test Runs/Test-Explorer"
+                        "id": "tutorial-basics/Overview Page/overview"
                       },
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Overview Page/TestSuite"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Test Runs",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
                       {
                         "type": "doc",
                         "id": "tutorial-basics/Test Runs/Run_steps"
@@ -929,8 +1019,24 @@
                     ]
                   },
                   {
-                    "type": "doc",
-                    "id": "tutorial-basics/Integrations"
+                    "type": "category",
+                    "label": "Integrations",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Integrations/integration"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Integrations/Triggers"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tutorial-basics/Integrations/Scheduled"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",

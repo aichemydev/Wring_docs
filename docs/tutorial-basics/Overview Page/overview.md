@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview Page
+# Overview Page - Start a test!
 
 The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.
 

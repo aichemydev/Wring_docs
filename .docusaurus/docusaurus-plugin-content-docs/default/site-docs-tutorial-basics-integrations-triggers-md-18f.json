@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations/Triggers",
+  "id": "tutorial-basics/Integrations/Triggers",
+  "isDocsHomePage": false,
+  "title": "Triggered runs",
+  "description": "The Wring platform can execute test runs based on a trigger from an external",
+  "source": "@site/docs/tutorial-basics/Integrations/Triggers.md",
+  "sourceDirName": "tutorial-basics/Integrations",
+  "slug": "/tutorial-basics/Integrations/Triggers",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CI Integrations",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+  },
+  "next": {
+    "title": "Scheduled Runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
+  }
+}

@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','5ed'),
+    component: ComponentCreator('/Wring_docs/docs','b5d'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -205,8 +205,32 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/tutorial-basics/Integrations',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations','0bc'),
+        path: '/Wring_docs/docs/tutorial-basics/Integrations/integration',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/integration','007'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Integrations/Scheduled',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/Scheduled','c13'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Integrations/Triggers',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/Triggers','336'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Overview Page/overview',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Overview Page/overview','7bd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite','9f8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -243,12 +267,6 @@ export default [
       {
         path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs',
         component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs','f41'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer','f73'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Overview Page/TestSuite",
+  "id": "tutorial-basics/Overview Page/TestSuite",
+  "isDocsHomePage": false,
+  "title": "Create a Testsuite",
+  "description": "Wring allows you to have test suites with multiple tests on them. Test suites can be run with completion of the entire suite or simply one different test.",
+  "source": "@site/docs/tutorial-basics/Overview Page/TestSuite.md",
+  "sourceDirName": "tutorial-basics/Overview Page",
+  "slug": "/tutorial-basics/Overview Page/TestSuite",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview Page - Start a test!",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
+  },
+  "next": {
+    "title": "Run steps",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+  }
+}

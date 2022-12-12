@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations/integration",
+  "id": "tutorial-basics/Integrations/integration",
+  "isDocsHomePage": false,
+  "title": "CI Integrations",
+  "description": "Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+  "source": "@site/docs/tutorial-basics/Integrations/integration.md",
+  "sourceDirName": "tutorial-basics/Integrations",
+  "slug": "/tutorial-basics/Integrations/integration",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+  },
+  "next": {
+    "title": "Triggered runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
+  }
+}

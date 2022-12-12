@@ -121,8 +121,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Integrations",
-              "path": "/Wring_docs/docs/tutorial-basics/Integrations",
+              "id": "tutorial-basics/Integrations/integration",
+              "path": "/Wring_docs/docs/tutorial-basics/Integrations/integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Integrations/Scheduled",
+              "path": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Integrations/Triggers",
+              "path": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Overview Page/overview",
+              "path": "/Wring_docs/docs/tutorial-basics/Overview Page/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Overview Page/TestSuite",
+              "path": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -153,11 +173,6 @@
             {
               "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
               "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/Test Runs/Test-Explorer",
-              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer",
               "sidebar": "tutorialSidebar"
             },
             {

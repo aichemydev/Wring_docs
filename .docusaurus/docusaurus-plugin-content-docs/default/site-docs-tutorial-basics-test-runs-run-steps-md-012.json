@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Overview Page",
-    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
+    "title": "Create a Testsuite",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
   },
   "next": {
     "title": "Advanced",

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations/Scheduled",
+  "id": "tutorial-basics/Integrations/Scheduled",
+  "isDocsHomePage": false,
+  "title": "Scheduled Runs",
+  "description": "Wring is the easiest way to schedule your test runs for every day, every week, or any other days you want.",
+  "source": "@site/docs/tutorial-basics/Integrations/Scheduled.md",
+  "sourceDirName": "tutorial-basics/Integrations",
+  "slug": "/tutorial-basics/Integrations/Scheduled",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Triggered runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
+  }
+}

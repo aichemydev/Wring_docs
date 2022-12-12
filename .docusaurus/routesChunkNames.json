@@ -59,7 +59,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-5ed": {
+  "/Wring_docs/docs-b5d": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -151,9 +151,25 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-tutorial-basics-installation-238-f6c"
   },
-  "/Wring_docs/docs/tutorial-basics/Integrations-0bc": {
+  "/Wring_docs/docs/tutorial-basics/Integrations/integration-007": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-integrations-052-bd5"
+    "content": "content---wring-docs-docs-tutorial-basics-integrations-integration-638-5e1"
+  },
+  "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled-c13": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-integrations-scheduledad-0-f7f"
+  },
+  "/Wring_docs/docs/tutorial-basics/Integrations/Triggers-336": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-integrations-triggers-18-f-c38"
+  },
+  "/Wring_docs/docs/tutorial-basics/Overview Page/overview-7bd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-overview-page-overviewd-8-f-cc5"
+  },
+  "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite-9f8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-tutorial-basics-overview-page-test-suite-3-f-7-8c4"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced-c6f": {
     "component": "component---theme-doc-item-178-a40",
@@ -178,10 +194,6 @@
   "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs-f41": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-simulator-runs-27-e-7f6"
-  },
-  "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer-f73": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-explorere-16-fa7"
   },
   "/Wring_docs/docs/tutorial-extras/customizing-interceptor-a7c": {
     "component": "component---theme-doc-item-178-a40",

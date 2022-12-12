@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Overview Page/overview",
+  "id": "tutorial-basics/Overview Page/overview",
+  "isDocsHomePage": false,
+  "title": "Overview Page - Start a test!",
+  "description": "The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.",
+  "source": "@site/docs/tutorial-basics/Overview Page/overview.md",
+  "sourceDirName": "tutorial-basics/Overview Page",
+  "slug": "/tutorial-basics/Overview Page/overview",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
+  },
+  "next": {
+    "title": "Create a Testsuite",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
+  }
+}

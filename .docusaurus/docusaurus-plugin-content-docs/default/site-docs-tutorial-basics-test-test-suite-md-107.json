@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Test/TestSuite",
+  "id": "tutorial-basics/Test/TestSuite",
+  "isDocsHomePage": false,
+  "title": "TestSuite",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/Test/TestSuite.md",
+  "sourceDirName": "tutorial-basics/Test",
+  "slug": "/tutorial-basics/Test/TestSuite",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test/TestSuite",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview Page",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test/overview"
+  },
+  "next": {
+    "title": "Run steps",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+  }
+}

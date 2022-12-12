@@ -26,15 +26,28 @@
           },
           {
             "type": "category",
-            "label": "Test Runs",
+            "label": "Overview Page",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
-                "label": "Overview Page",
-                "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test-Explorer"
+                "label": "Overview Page - Start a test!",
+                "href": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
               },
+              {
+                "type": "link",
+                "label": "Create a Testsuite",
+                "href": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Test Runs",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
               {
                 "type": "link",
                 "label": "Run steps",
@@ -76,9 +89,27 @@
             ]
           },
           {
-            "type": "link",
+            "type": "category",
             "label": "Integrations",
-            "href": "/Wring_docs/docs/tutorial-basics/Integrations"
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "CI Integrations",
+                "href": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+              },
+              {
+                "type": "link",
+                "label": "Triggered runs",
+                "href": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
+              },
+              {
+                "type": "link",
+                "label": "Scheduled Runs",
+                "href": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
+              }
+            ]
           },
           {
             "type": "link",
