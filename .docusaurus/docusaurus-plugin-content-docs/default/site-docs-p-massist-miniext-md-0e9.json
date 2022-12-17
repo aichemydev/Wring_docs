@@ -3,7 +3,7 @@
   "id": "PMassist/miniext",
   "isDocsHomePage": false,
   "title": "PM Assist - Powerful product assistant",
-  "description": "Want to automate your tests, but don't know where to start? PM Assist is an automated test tool that lets you do full page screenshots and a lot more. It makes your automated test cases 100% more efficient by allowing you to define custom controls, automate common tasks, and so much more.",
+  "description": "Want to automate your tests, but don't know where to start?",
   "source": "@site/docs/PMassist/miniext.md",
   "sourceDirName": "PMassist",
   "slug": "/PMassist/miniext",
