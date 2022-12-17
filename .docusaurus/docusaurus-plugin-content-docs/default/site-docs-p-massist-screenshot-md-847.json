@@ -1,0 +1,26 @@
+{
+  "unversionedId": "PMassist/screenshot",
+  "id": "PMassist/screenshot",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Screenshots",
+  "description": "What's awesome about PM Assist?",
+  "source": "@site/docs/PMassist/screenshot.md",
+  "sourceDirName": "PMassist",
+  "slug": "/PMassist/screenshot",
+  "permalink": "/Wring_docs/docs/PMassist/screenshot",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Start recording",
+    "permalink": "/Wring_docs/docs/PMassist/record"
+  },
+  "next": {
+    "title": "Wring Smart Observer - Introduction",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+  }
+}

@@ -243,8 +243,8 @@
                 "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
               },
               "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "PM Assist - Powerful product assistant",
+                "permalink": "/Wring_docs/docs/PMassist/miniext"
               }
             },
             {
@@ -252,7 +252,7 @@
               "id": "Live Events/Live Events",
               "isDocsHomePage": false,
               "title": "Live Events",
-              "description": "Pageviews",
+              "description": "Pageviews - Introduction",
               "source": "@site/docs/Live Events/Live Events.md",
               "sourceDirName": "Live Events",
               "slug": "/Live Events/Live Events",
@@ -326,6 +326,110 @@
               }
             },
             {
+              "unversionedId": "PMassist/miniext",
+              "id": "PMassist/miniext",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Powerful product assistant",
+              "description": "Want to automate your tests, but don't know where to start? PM Assist is an automated test tool that lets you do full page screenshots and a lot more. It makes your automated test cases 100% more efficient by allowing you to define custom controls, automate common tasks, and so much more.",
+              "source": "@site/docs/PMassist/miniext.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/miniext",
+              "permalink": "/Wring_docs/docs/PMassist/miniext",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Key Flows",
+                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+              },
+              "next": {
+                "title": "PM Assist - Ready to start!",
+                "permalink": "/Wring_docs/docs/PMassist/starting_miniext"
+              }
+            },
+            {
+              "unversionedId": "PMassist/record",
+              "id": "PMassist/record",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Start recording",
+              "description": "Before we start recording a website, you have to know that this extension is linked with Live events (for more information about Live Events, please go to Live Events section).",
+              "source": "@site/docs/PMassist/record.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/record",
+              "permalink": "/Wring_docs/docs/PMassist/record",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PM Assist - Ready to start!",
+                "permalink": "/Wring_docs/docs/PMassist/starting_miniext"
+              },
+              "next": {
+                "title": "PM Assist - Screenshots",
+                "permalink": "/Wring_docs/docs/PMassist/screenshot"
+              }
+            },
+            {
+              "unversionedId": "PMassist/screenshot",
+              "id": "PMassist/screenshot",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Screenshots",
+              "description": "What's awesome about PM Assist?",
+              "source": "@site/docs/PMassist/screenshot.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/screenshot",
+              "permalink": "/Wring_docs/docs/PMassist/screenshot",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PM Assist - Start recording",
+                "permalink": "/Wring_docs/docs/PMassist/record"
+              },
+              "next": {
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+              }
+            },
+            {
+              "unversionedId": "PMassist/starting_miniext",
+              "id": "PMassist/starting_miniext",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Ready to start!",
+              "description": "PM Assist is one of the most user friendly tools out there. PM Assist will guide through all the steps to start recording a testcase.",
+              "source": "@site/docs/PMassist/starting_miniext.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/starting_miniext",
+              "permalink": "/Wring_docs/docs/PMassist/starting_miniext",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PM Assist - Powerful product assistant",
+                "permalink": "/Wring_docs/docs/PMassist/miniext"
+              },
+              "next": {
+                "title": "PM Assist - Start recording",
+                "permalink": "/Wring_docs/docs/PMassist/record"
+              }
+            },
+            {
               "unversionedId": "TG Smart Observer/buttons",
               "id": "TG Smart Observer/buttons",
               "isDocsHomePage": false,
@@ -343,7 +447,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "View Test",
+                "title": "Wring Smart Observer - View Test",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/view"
               },
               "next": {
@@ -395,8 +499,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Key Flows",
-                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+                "title": "PM Assist - Screenshots",
+                "permalink": "/Wring_docs/docs/PMassist/screenshot"
               },
               "next": {
                 "title": "Wring Smart Observer - Get Started with our Build",
@@ -407,7 +511,7 @@
               "unversionedId": "TG Smart Observer/recorder",
               "id": "TG Smart Observer/recorder",
               "isDocsHomePage": false,
-              "title": "Welcome User",
+              "title": "Wring Smart Observer - Welcome User",
               "description": "If you're a user of Wring Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.",
               "source": "@site/docs/TG Smart Observer/recorder.md",
               "sourceDirName": "TG Smart Observer",
@@ -425,7 +529,7 @@
                 "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
               },
               "next": {
-                "title": "Start recording",
+                "title": "Wring Smart Observer - Start recording",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
               }
             },
@@ -433,7 +537,7 @@
               "unversionedId": "TG Smart Observer/tests",
               "id": "TG Smart Observer/tests",
               "isDocsHomePage": false,
-              "title": "Start recording",
+              "title": "Wring Smart Observer - Start recording",
               "description": "To start recording, first you need to go to New Test - Check below:",
               "source": "@site/docs/TG Smart Observer/tests.md",
               "sourceDirName": "TG Smart Observer",
@@ -447,11 +551,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Welcome User",
+                "title": "Wring Smart Observer - Welcome User",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
               },
               "next": {
-                "title": "View Test",
+                "title": "Wring Smart Observer - View Test",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/view"
               }
             },
@@ -477,7 +581,7 @@
                 "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build"
               },
               "next": {
-                "title": "Welcome User",
+                "title": "Wring Smart Observer - Welcome User",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
               }
             },
@@ -485,7 +589,7 @@
               "unversionedId": "TG Smart Observer/view",
               "id": "TG Smart Observer/view",
               "isDocsHomePage": false,
-              "title": "View Test",
+              "title": "Wring Smart Observer - View Test",
               "description": "After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.",
               "source": "@site/docs/TG Smart Observer/view.md",
               "sourceDirName": "TG Smart Observer",
@@ -499,7 +603,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Start recording",
+                "title": "Wring Smart Observer - Start recording",
                 "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
               },
               "next": {
@@ -1117,6 +1221,30 @@
                   {
                     "type": "doc",
                     "id": "Live Events/Key Flows"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "PM Assist",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "PMassist/miniext"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "PMassist/starting_miniext"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "PMassist/record"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "PMassist/screenshot"
                   }
                 ]
               },

@@ -209,6 +209,34 @@
       },
       {
         "type": "category",
+        "label": "PM Assist",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "PM Assist - Powerful product assistant",
+            "href": "/Wring_docs/docs/PMassist/miniext"
+          },
+          {
+            "type": "link",
+            "label": "PM Assist - Ready to start!",
+            "href": "/Wring_docs/docs/PMassist/starting_miniext"
+          },
+          {
+            "type": "link",
+            "label": "PM Assist - Start recording",
+            "href": "/Wring_docs/docs/PMassist/record"
+          },
+          {
+            "type": "link",
+            "label": "PM Assist - Screenshots",
+            "href": "/Wring_docs/docs/PMassist/screenshot"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Wring Smart Observer",
         "collapsible": true,
         "collapsed": true,
@@ -230,17 +258,17 @@
           },
           {
             "type": "link",
-            "label": "Welcome User",
+            "label": "Wring Smart Observer - Welcome User",
             "href": "/Wring_docs/docs/TG Smart Observer/recorder"
           },
           {
             "type": "link",
-            "label": "Start recording",
+            "label": "Wring Smart Observer - Start recording",
             "href": "/Wring_docs/docs/TG Smart Observer/tests"
           },
           {
             "type": "link",
-            "label": "View Test",
+            "label": "Wring Smart Observer - View Test",
             "href": "/Wring_docs/docs/TG Smart Observer/view"
           },
           {

@@ -2,7 +2,7 @@
   "unversionedId": "TG Smart Observer/view",
   "id": "TG Smart Observer/view",
   "isDocsHomePage": false,
-  "title": "View Test",
+  "title": "Wring Smart Observer - View Test",
   "description": "After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.",
   "source": "@site/docs/TG Smart Observer/view.md",
   "sourceDirName": "TG Smart Observer",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Start recording",
+    "title": "Wring Smart Observer - Start recording",
     "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
   },
   "next": {

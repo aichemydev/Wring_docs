@@ -37,7 +37,7 @@ After you click that, it will open a modal and let you see your test. Click the 
 
 Once the run has started you will be notified and your run will appear in `Test Runs`. 
 
-![Pageview](/img/start1.png)
+![Pageview](/img/pag22.png)
 ![Pageview](/img/running.png)
 
 Once the run is finished, it will be considered as a regular test run so that you can track your progress.

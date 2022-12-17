@@ -2,7 +2,7 @@
   "unversionedId": "TG Smart Observer/recorder",
   "id": "TG Smart Observer/recorder",
   "isDocsHomePage": false,
-  "title": "Welcome User",
+  "title": "Wring Smart Observer - Welcome User",
   "description": "If you're a user of Wring Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.",
   "source": "@site/docs/TG Smart Observer/recorder.md",
   "sourceDirName": "TG Smart Observer",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
   },
   "next": {
-    "title": "Start recording",
+    "title": "Wring Smart Observer - Start recording",
     "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
   }
 }

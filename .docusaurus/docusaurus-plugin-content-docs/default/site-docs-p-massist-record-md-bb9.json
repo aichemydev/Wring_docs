@@ -1,0 +1,26 @@
+{
+  "unversionedId": "PMassist/record",
+  "id": "PMassist/record",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Start recording",
+  "description": "Before we start recording a website, you have to know that this extension is linked with Live events (for more information about Live Events, please go to Live Events section).",
+  "source": "@site/docs/PMassist/record.md",
+  "sourceDirName": "PMassist",
+  "slug": "/PMassist/record",
+  "permalink": "/Wring_docs/docs/PMassist/record",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Ready to start!",
+    "permalink": "/Wring_docs/docs/PMassist/starting_miniext"
+  },
+  "next": {
+    "title": "PM Assist - Screenshots",
+    "permalink": "/Wring_docs/docs/PMassist/screenshot"
+  }
+}

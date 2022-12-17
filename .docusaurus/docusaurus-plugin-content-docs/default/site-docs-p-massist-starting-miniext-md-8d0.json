@@ -1,0 +1,26 @@
+{
+  "unversionedId": "PMassist/starting_miniext",
+  "id": "PMassist/starting_miniext",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Ready to start!",
+  "description": "PM Assist is one of the most user friendly tools out there. PM Assist will guide through all the steps to start recording a testcase.",
+  "source": "@site/docs/PMassist/starting_miniext.md",
+  "sourceDirName": "PMassist",
+  "slug": "/PMassist/starting_miniext",
+  "permalink": "/Wring_docs/docs/PMassist/starting_miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Powerful product assistant",
+    "permalink": "/Wring_docs/docs/PMassist/miniext"
+  },
+  "next": {
+    "title": "PM Assist - Start recording",
+    "permalink": "/Wring_docs/docs/PMassist/record"
+  }
+}

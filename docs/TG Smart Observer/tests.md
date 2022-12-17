@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Start recording
+# Wring Smart Observer - Start recording
 
 To start recording, first you need to go to `New Test` - Check below: 
 

@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# View Test
+# Wring Smart Observer - View Test
 
 After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.
 
