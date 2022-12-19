@@ -59,12 +59,9 @@ Instructions:
 
 ![Miniext](/img/miniext3.png)
 
-10. Click on it to activate PM Assist and start using it. 
-
-![Miniext](/img/minext4.png)
 
 Don’t forget to give us feedback when you have your first test. We really appreciate your input so that we can make it even more awesome!
 
-## Whats Next?
+## What's Next?
 
  **Congrats!** You are all set. You are ready to discover PM Assist.

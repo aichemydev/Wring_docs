@@ -17,4 +17,4 @@ To do a full page screenshot is simple, all you have to do is:
 
 Check video below:
 
-![Miniext](/img/screenshot.gif)
+![Miniext](/img/screenshot.gif.gif)
