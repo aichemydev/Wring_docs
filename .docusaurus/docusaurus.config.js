@@ -84,7 +84,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 AiChemy Inc."
+      "copyright": "Copyright © 2023 AiChemy Inc."
     },
     "prism": {
       "theme": {

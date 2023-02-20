@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Details/Advanced",
+  "id": "tutorial-basics/Test Runs/Details/Advanced",
+  "isDocsHomePage": false,
+  "title": "Advanced",
+  "description": "Selectors and download options",
+  "source": "@site/docs/tutorial-basics/Test Runs/Details/Advanced.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Details",
+  "slug": "/tutorial-basics/Test Runs/Details/Advanced",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run steps",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
+  },
+  "next": {
+    "title": "CI Integrations",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+  }
+}

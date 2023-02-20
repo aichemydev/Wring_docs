@@ -243,8 +243,8 @@
                 "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
               },
               "next": {
-                "title": "PM Assist - Powerful product assistant",
-                "permalink": "/Wring_docs/docs/PMassist/miniext"
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -326,110 +326,6 @@
               }
             },
             {
-              "unversionedId": "PMassist/miniext",
-              "id": "PMassist/miniext",
-              "isDocsHomePage": false,
-              "title": "PM Assist - Powerful product assistant",
-              "description": "Want to automate your tests, but don't know where to start?",
-              "source": "@site/docs/PMassist/miniext.md",
-              "sourceDirName": "PMassist",
-              "slug": "/PMassist/miniext",
-              "permalink": "/Wring_docs/docs/PMassist/miniext",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Key Flows",
-                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
-              },
-              "next": {
-                "title": "PM Assist - Ready to start!",
-                "permalink": "/Wring_docs/docs/PMassist/starting_miniext"
-              }
-            },
-            {
-              "unversionedId": "PMassist/record",
-              "id": "PMassist/record",
-              "isDocsHomePage": false,
-              "title": "PM Assist - Start recording",
-              "description": "Before we start recording a website, you have to know that this extension is linked with Live events (for more information about Live Events, please go to Live Events section).",
-              "source": "@site/docs/PMassist/record.md",
-              "sourceDirName": "PMassist",
-              "slug": "/PMassist/record",
-              "permalink": "/Wring_docs/docs/PMassist/record",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "PM Assist - Ready to start!",
-                "permalink": "/Wring_docs/docs/PMassist/starting_miniext"
-              },
-              "next": {
-                "title": "PM Assist - Screenshots",
-                "permalink": "/Wring_docs/docs/PMassist/screenshot"
-              }
-            },
-            {
-              "unversionedId": "PMassist/screenshot",
-              "id": "PMassist/screenshot",
-              "isDocsHomePage": false,
-              "title": "PM Assist - Screenshots",
-              "description": "What's awesome about PM Assist?",
-              "source": "@site/docs/PMassist/screenshot.md",
-              "sourceDirName": "PMassist",
-              "slug": "/PMassist/screenshot",
-              "permalink": "/Wring_docs/docs/PMassist/screenshot",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "PM Assist - Start recording",
-                "permalink": "/Wring_docs/docs/PMassist/record"
-              },
-              "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
-              }
-            },
-            {
-              "unversionedId": "PMassist/starting_miniext",
-              "id": "PMassist/starting_miniext",
-              "isDocsHomePage": false,
-              "title": "PM Assist - Ready to start!",
-              "description": "PM Assist is one of the most user friendly tools out there. PM Assist will guide through all the steps to start recording a testcase.",
-              "source": "@site/docs/PMassist/starting_miniext.md",
-              "sourceDirName": "PMassist",
-              "slug": "/PMassist/starting_miniext",
-              "permalink": "/Wring_docs/docs/PMassist/starting_miniext",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "PM Assist - Powerful product assistant",
-                "permalink": "/Wring_docs/docs/PMassist/miniext"
-              },
-              "next": {
-                "title": "PM Assist - Start recording",
-                "permalink": "/Wring_docs/docs/PMassist/record"
-              }
-            },
-            {
               "unversionedId": "TG Smart Observer/buttons",
               "id": "TG Smart Observer/buttons",
               "isDocsHomePage": false,
@@ -499,8 +395,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "PM Assist - Screenshots",
-                "permalink": "/Wring_docs/docs/PMassist/screenshot"
+                "title": "Key Flows",
+                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
               },
               "next": {
                 "title": "Wring Smart Observer - Get Started with our Build",
@@ -707,8 +603,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                "title": "Advanced",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
               },
               "next": {
                 "title": "Triggered runs",
@@ -815,20 +711,20 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
               },
               "next": {
-                "title": "Run steps",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+                "title": "Get Started with Simulator",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test Runs/Advanced",
-              "id": "tutorial-basics/Test Runs/Advanced",
+              "unversionedId": "tutorial-basics/Test Runs/Details/Advanced",
+              "id": "tutorial-basics/Test Runs/Details/Advanced",
               "isDocsHomePage": false,
               "title": "Advanced",
               "description": "Selectors and download options",
-              "source": "@site/docs/tutorial-basics/Test Runs/Advanced.md",
-              "sourceDirName": "tutorial-basics/Test Runs",
-              "slug": "/tutorial-basics/Test Runs/Advanced",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced",
+              "source": "@site/docs/tutorial-basics/Test Runs/Details/Advanced.md",
+              "sourceDirName": "tutorial-basics/Test Runs/Details",
+              "slug": "/tutorial-basics/Test Runs/Details/Advanced",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -838,23 +734,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Run steps",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
               },
               "next": {
-                "title": "Get Started with Simulator",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
+                "title": "CI Integrations",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test Runs/Run_steps",
-              "id": "tutorial-basics/Test Runs/Run_steps",
+              "unversionedId": "tutorial-basics/Test Runs/Details/Run_steps",
+              "id": "tutorial-basics/Test Runs/Details/Run_steps",
               "isDocsHomePage": false,
               "title": "Run steps",
               "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
-              "source": "@site/docs/tutorial-basics/Test Runs/Run_steps.md",
-              "sourceDirName": "tutorial-basics/Test Runs",
-              "slug": "/tutorial-basics/Test Runs/Run_steps",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps",
+              "source": "@site/docs/tutorial-basics/Test Runs/Details/Run_steps.md",
+              "sourceDirName": "tutorial-basics/Test Runs/Details",
+              "slug": "/tutorial-basics/Test Runs/Details/Run_steps",
+              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -863,12 +759,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Testsuite",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
+                "title": "Salesforce Import Data",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
               },
               "next": {
                 "title": "Advanced",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
               }
             },
             {
@@ -915,8 +811,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Advanced",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
+                "title": "Create a Testsuite",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
               },
               "next": {
                 "title": "Simulator Runs",
@@ -945,8 +841,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
               },
               "next": {
-                "title": "CI Integrations",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+                "title": "Run steps",
+                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
               }
             },
             {
@@ -1089,14 +985,6 @@
                     "collapsed": true,
                     "items": [
                       {
-                        "type": "doc",
-                        "id": "tutorial-basics/Test Runs/Run_steps"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Test Runs/Advanced"
-                      },
-                      {
                         "type": "category",
                         "label": "Simulator",
                         "collapsible": true,
@@ -1117,6 +1005,22 @@
                           {
                             "type": "doc",
                             "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "Details",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tutorial-basics/Test Runs/Details/Run_steps"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tutorial-basics/Test Runs/Details/Advanced"
                           }
                         ]
                       }
@@ -1221,30 +1125,6 @@
                   {
                     "type": "doc",
                     "id": "Live Events/Key Flows"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "PM Assist",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "PMassist/miniext"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "PMassist/starting_miniext"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "PMassist/record"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "PMassist/screenshot"
                   }
                 ]
               },

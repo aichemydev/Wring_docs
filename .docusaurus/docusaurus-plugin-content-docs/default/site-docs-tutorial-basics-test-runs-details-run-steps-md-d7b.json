@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Details/Run_steps",
+  "id": "tutorial-basics/Test Runs/Details/Run_steps",
+  "isDocsHomePage": false,
+  "title": "Run steps",
+  "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
+  "source": "@site/docs/tutorial-basics/Test Runs/Details/Run_steps.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Details",
+  "slug": "/tutorial-basics/Test Runs/Details/Run_steps",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+  },
+  "next": {
+    "title": "Advanced",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
+  }
+}
