@@ -71,26 +71,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "PMassist/miniext",
-              "path": "/Wring_docs/docs/PMassist/miniext",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "PMassist/record",
-              "path": "/Wring_docs/docs/PMassist/record",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "PMassist/screenshot",
-              "path": "/Wring_docs/docs/PMassist/screenshot",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "PMassist/starting_miniext",
-              "path": "/Wring_docs/docs/PMassist/starting_miniext",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "TG Smart Observer/buttons",
               "path": "/Wring_docs/docs/TG Smart Observer/buttons",
               "sidebar": "tutorialSidebar"
@@ -166,13 +146,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Test Runs/Advanced",
-              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced",
+              "id": "tutorial-basics/Test Runs/Details/Advanced",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Test Runs/Run_steps",
-              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps",
+              "id": "tutorial-basics/Test Runs/Details/Run_steps",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps",
               "sidebar": "tutorialSidebar"
             },
             {

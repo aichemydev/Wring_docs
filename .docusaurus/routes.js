@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/Wring_docs/__docusaurus/debug',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug','fd8'),
+    exact: true
+  },
+  {
+    path: '/Wring_docs/__docusaurus/debug/config',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/config','e39'),
+    exact: true
+  },
+  {
+    path: '/Wring_docs/__docusaurus/debug/content',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/content','a84'),
+    exact: true
+  },
+  {
+    path: '/Wring_docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/globalData','544'),
+    exact: true
+  },
+  {
+    path: '/Wring_docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/metadata','48d'),
+    exact: true
+  },
+  {
+    path: '/Wring_docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/registry','4fb'),
+    exact: true
+  },
+  {
+    path: '/Wring_docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/Wring_docs/__docusaurus/debug/routes','67a'),
+    exact: true
+  },
+  {
     path: '/Wring_docs/blog',
     component: ComponentCreator('/Wring_docs/blog','0f4'),
     exact: true
@@ -35,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','eb7'),
+    component: ComponentCreator('/Wring_docs/docs','2f4'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -106,30 +141,6 @@ export default [
       {
         path: '/Wring_docs/docs/Live Events/Set Up Pageviews',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Set Up Pageviews','0dd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/PMassist/miniext',
-        component: ComponentCreator('/Wring_docs/docs/PMassist/miniext','3c8'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/PMassist/record',
-        component: ComponentCreator('/Wring_docs/docs/PMassist/record','c63'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/PMassist/screenshot',
-        component: ComponentCreator('/Wring_docs/docs/PMassist/screenshot','d47'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/PMassist/starting_miniext',
-        component: ComponentCreator('/Wring_docs/docs/PMassist/starting_miniext','107'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -224,14 +235,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Advanced',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Advanced','c6f'),
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced','cbb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps','0c5'),
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps','82d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -49,16 +49,6 @@
             "collapsed": true,
             "items": [
               {
-                "type": "link",
-                "label": "Run steps",
-                "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Run_steps"
-              },
-              {
-                "type": "link",
-                "label": "Advanced",
-                "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Advanced"
-              },
-              {
                 "type": "category",
                 "label": "Simulator",
                 "collapsible": true,
@@ -83,6 +73,24 @@
                     "type": "link",
                     "label": "Salesforce Import Data",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Details",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Run steps",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Advanced",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
                   }
                 ]
               }
@@ -204,34 +212,6 @@
             "type": "link",
             "label": "Key Flows",
             "href": "/Wring_docs/docs/Live Events/Key Flows"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "PM Assist",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "PM Assist - Powerful product assistant",
-            "href": "/Wring_docs/docs/PMassist/miniext"
-          },
-          {
-            "type": "link",
-            "label": "PM Assist - Ready to start!",
-            "href": "/Wring_docs/docs/PMassist/starting_miniext"
-          },
-          {
-            "type": "link",
-            "label": "PM Assist - Start recording",
-            "href": "/Wring_docs/docs/PMassist/record"
-          },
-          {
-            "type": "link",
-            "label": "PM Assist - Screenshots",
-            "href": "/Wring_docs/docs/PMassist/screenshot"
           }
         ]
       },
