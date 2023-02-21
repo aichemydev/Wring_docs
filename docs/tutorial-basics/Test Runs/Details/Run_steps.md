@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Run steps
+# View/edit run steps
 
 Here, you can see all test steps with selectors and screenshots with hightlights for each step. 
 

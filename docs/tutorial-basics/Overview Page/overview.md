@@ -44,7 +44,7 @@ We also support videos for all our testcases, as you can see below. Rather than 
 
 ![Filter](/img/overview.png)
 
-You can generate a shareable url that only you have control. Wring allow you to generate a shareable url and share your test with your colleague and allow them to see the test, edit/add steps, run the simulator, and modify variables. 
+You can generate a shareable url that only you have control. Wring allow you to generate a shareable url and share your test with your colleague and allow them to see the test, edit/add steps, run the Expander, and modify variables. 
 
 It's a good idea to share your tests with colleagues. That way they can see what you were doing and make sure they don't make the same mistake again. You can also get away with leaving out all the details by sharing a test scenario with a detailed description, along with any bugs or steps that need to be fixed.
 

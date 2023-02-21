@@ -2,7 +2,7 @@
   "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
   "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
   "isDocsHomePage": false,
-  "title": "Simulator Runs",
+  "title": "Expander Runs",
   "description": "Strategies (Algorithms)",
   "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs.md",
   "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Started with Simulator",
+    "title": "Get Started with Expander",
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
   },
   "next": {

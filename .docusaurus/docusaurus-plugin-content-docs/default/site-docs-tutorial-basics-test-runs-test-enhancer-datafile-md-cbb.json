@@ -3,7 +3,7 @@
   "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
   "isDocsHomePage": false,
   "title": "Data File Upload Variables",
-  "description": "To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the simulator interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.",
+  "description": "To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the Expander interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.",
   "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile.md",
   "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
   "slug": "/tutorial-basics/Test Runs/Test Enhancer/Datafile",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Simulator Runs",
+    "title": "Expander Runs",
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
   },
   "next": {

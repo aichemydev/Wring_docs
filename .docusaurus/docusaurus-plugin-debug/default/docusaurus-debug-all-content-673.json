@@ -35,7 +35,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Side file -Simulator Example",
+                "title": "Side file - Expander Example",
                 "permalink": "/Wring_docs/docs/Examples/side"
               },
               "next": {
@@ -65,7 +65,7 @@
                 "permalink": "/Wring_docs/docs/Examples/Selenium-Python"
               },
               "next": {
-                "title": "Side file -Simulator Example",
+                "title": "Side file - Expander Example",
                 "permalink": "/Wring_docs/docs/Examples/side"
               }
             },
@@ -125,8 +125,8 @@
               "unversionedId": "Examples/side",
               "id": "Examples/side",
               "isDocsHomePage": false,
-              "title": "Side file -Simulator Example",
-              "description": "How to run Simulator for side files?",
+              "title": "Side file - Expander Example",
+              "description": "How to run Expander for side files?",
               "source": "@site/docs/Examples/side.md",
               "sourceDirName": "Examples",
               "slug": "/Examples/side",
@@ -603,7 +603,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Advanced",
+                "title": "Test Run Selectors",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
               },
               "next": {
@@ -711,7 +711,7 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
               },
               "next": {
-                "title": "Get Started with Simulator",
+                "title": "Get Started with Expander",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
               }
             },
@@ -719,7 +719,7 @@
               "unversionedId": "tutorial-basics/Test Runs/Details/Advanced",
               "id": "tutorial-basics/Test Runs/Details/Advanced",
               "isDocsHomePage": false,
-              "title": "Advanced",
+              "title": "Test Run Selectors",
               "description": "Selectors and download options",
               "source": "@site/docs/tutorial-basics/Test Runs/Details/Advanced.md",
               "sourceDirName": "tutorial-basics/Test Runs/Details",
@@ -733,7 +733,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Run steps",
+                "title": "View/edit run steps",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
               },
               "next": {
@@ -745,7 +745,7 @@
               "unversionedId": "tutorial-basics/Test Runs/Details/Run_steps",
               "id": "tutorial-basics/Test Runs/Details/Run_steps",
               "isDocsHomePage": false,
-              "title": "Run steps",
+              "title": "View/edit run steps",
               "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
               "source": "@site/docs/tutorial-basics/Test Runs/Details/Run_steps.md",
               "sourceDirName": "tutorial-basics/Test Runs/Details",
@@ -763,7 +763,7 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
               },
               "next": {
-                "title": "Advanced",
+                "title": "Test Run Selectors",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
               }
             },
@@ -772,7 +772,7 @@
               "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
               "isDocsHomePage": false,
               "title": "Data File Upload Variables",
-              "description": "To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the simulator interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.",
+              "description": "To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the Expander interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.",
               "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile.md",
               "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
               "slug": "/tutorial-basics/Test Runs/Test Enhancer/Datafile",
@@ -785,7 +785,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Simulator Runs",
+                "title": "Expander Runs",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
               },
               "next": {
@@ -797,8 +797,8 @@
               "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
               "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
               "isDocsHomePage": false,
-              "title": "Get Started with Simulator",
-              "description": "What is Simulator?",
+              "title": "Get Started with Expander",
+              "description": "What is Expander?",
               "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started.md",
               "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
               "slug": "/tutorial-basics/Test Runs/Test Enhancer/Get Started",
@@ -815,7 +815,7 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
               },
               "next": {
-                "title": "Simulator Runs",
+                "title": "Expander Runs",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
               }
             },
@@ -841,7 +841,7 @@
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
               },
               "next": {
-                "title": "Run steps",
+                "title": "View/edit run steps",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
               }
             },
@@ -849,7 +849,7 @@
               "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
               "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
               "isDocsHomePage": false,
-              "title": "Simulator Runs",
+              "title": "Expander Runs",
               "description": "Strategies (Algorithms)",
               "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs.md",
               "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
@@ -863,7 +863,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Get Started with Simulator",
+                "title": "Get Started with Expander",
                 "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
               },
               "next": {
@@ -928,7 +928,7 @@
               "id": "versions",
               "isDocsHomePage": false,
               "title": "Supported Versions",
-              "description": "The table below contains information regarding the supported versions for each of our interceptors. If a version you require is not supported, please reach out to support at support@wring.dev to discuss solutions.",
+              "description": "The table below contains information regarding the supported versions for each of our interceptors. If a version you require is not supported, please reach out to support at team@wring.dev to discuss solutions.",
               "source": "@site/docs/versions.md",
               "sourceDirName": ".",
               "slug": "/versions",
@@ -986,7 +986,7 @@
                     "items": [
                       {
                         "type": "category",
-                        "label": "Simulator",
+                        "label": "Expander",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [

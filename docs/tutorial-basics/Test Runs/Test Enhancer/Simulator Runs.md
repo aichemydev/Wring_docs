@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Simulator Runs
+# Expander Runs
 
 ## Strategies (Algorithms)
  
@@ -11,9 +11,21 @@ Every step any algorithm generates list of candidate actions:
 - case when step contains variables with range: candidates are all buckets/values (if set).
 - If step has no “explore” flag and no variables: the only candidate is original action
 
-Algorithm should select an action from a list of candidates every step during simulator run. Here, the candidate can take multiple actions sequentially or simultaneously.
+Algorithm should select an action from a list of candidates every step during Expander run. Here, the candidate can take multiple actions sequentially or simultaneously.
 
-After you press run, you see a modal window and look at four options there.
+After you press run, you see a modal window and look at two options there.
+
+Recommended - *run exploration by default*
+
+- **Exploration** - *Perform exploration runs. Auto verifications will be computed. Explore and validate new features for your app, including interactions and behaviors.*
+
+*Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps* 
+
+![Wring Dashboard](/img/expander1.png)
+
+
+Advanced runs - *There are four options*
+
 - **Randomize** - *Randomize data used in testing.*
 *Randomize is a deterministic algorithm, which means that it does not take into consideration order or dependence between steps. It provides final action sampling via a sampling technique called pseudo-randomness. This strategy repeats the same steps at every decision point, regardless of which actions have already been selected and whether those actions have already been performed. Final action will be sampled randomly from the candidate list at any step. Doesn’t take into consideration order or dependence between steps. Can repeat the same steps throughout episodes.*
 
@@ -26,7 +38,7 @@ After you press run, you see a modal window and look at four options there.
 *Total amount of episodes: number of rows in datafile (number of elements in “set” array).*
 
 - **Exhaustive** - *Covers all data combinations. Larger episode sizes provide better results.*
-*Each simulator episode only one step with candidates changes the current candidate, other steps are fixed. When all candidates of that one step are exhausted, the algorithm moves to another step and tries candidates of that step. That is happening until all possible candidate combinations are explored.*
+*Each Expander episode only one step with candidates changes the current candidate, other steps are fixed. When all candidates of that one step are exhausted, the algorithm moves to another step and tries candidates of that step. That is happening until all possible candidate combinations are explored.*
 
 *Total amount of episodes:  num_cand_1 * num_cand_2 *... * num_cand_n, where n is number of steps with candidates*
 
@@ -35,11 +47,12 @@ After you press run, you see a modal window and look at four options there.
 
 *Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps*
 
-- **Exploration** - *Perform exploration runs. Auto verifications will be computed. Explore and validate new features for your app, including interactions and behaviors.*
-
-*Total amount of episodes:  num_explorable_steps! - number of ways to arrange steps*
-
 ![Wring Dashboard](/img/agents.png)
+
+One thing Expander lets you do is connect its runs with Live events with only one click away. Those can be merged with the existing projects inside your account and also, you can see this session on live events and see what expander does.
+
+![Wring Dashboard](/img/connect.png)
+
 
 If you select any agent, e.g. `permutation` - it gets every `select` action that we valued as `yes` on `explore` from `edit` steps.
  
@@ -62,10 +75,10 @@ In the `Detail button`, you have `steps` button - where you can check all the st
 
 ![Wring Dashboard](/img/v.png)
 
-- **Delete** - *you can easily delete simulator runs* 
+- **Delete** - *you can easily delete Expander runs* 
 
 ![Wring Dashboard](/img/delete.png)
 
-You can also download the Simulator runs report, which it provides screenshots and all the necessary details.
+<!-- You can also download the Expander runs report, which it provides screenshots and all the necessary details.
 
-![Wring Dashboard](/img/r1.png)
+![Wring Dashboard](/img/r1.png) -->

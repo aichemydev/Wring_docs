@@ -50,18 +50,18 @@
             "items": [
               {
                 "type": "category",
-                "label": "Simulator",
+                "label": "Expander",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
-                    "label": "Get Started with Simulator",
+                    "label": "Get Started with Expander",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
                   },
                   {
                     "type": "link",
-                    "label": "Simulator Runs",
+                    "label": "Expander Runs",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
                   },
                   {
@@ -84,12 +84,12 @@
                 "items": [
                   {
                     "type": "link",
-                    "label": "Run steps",
+                    "label": "View/edit run steps",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
                   },
                   {
                     "type": "link",
-                    "label": "Advanced",
+                    "label": "Test Run Selectors",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
                   }
                 ]
@@ -172,7 +172,7 @@
           },
           {
             "type": "link",
-            "label": "Side file -Simulator Example",
+            "label": "Side file - Expander Example",
             "href": "/Wring_docs/docs/Examples/side"
           },
           {

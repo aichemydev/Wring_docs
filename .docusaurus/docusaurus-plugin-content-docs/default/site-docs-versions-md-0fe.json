@@ -3,7 +3,7 @@
   "id": "versions",
   "isDocsHomePage": false,
   "title": "Supported Versions",
-  "description": "The table below contains information regarding the supported versions for each of our interceptors. If a version you require is not supported, please reach out to support at support@wring.dev to discuss solutions.",
+  "description": "The table below contains information regarding the supported versions for each of our interceptors. If a version you require is not supported, please reach out to support at team@wring.dev to discuss solutions.",
   "source": "@site/docs/versions.md",
   "sourceDirName": ".",
   "slug": "/versions",

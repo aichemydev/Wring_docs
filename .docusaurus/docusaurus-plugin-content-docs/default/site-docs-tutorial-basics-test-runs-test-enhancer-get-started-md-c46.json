@@ -2,8 +2,8 @@
   "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
   "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
   "isDocsHomePage": false,
-  "title": "Get Started with Simulator",
-  "description": "What is Simulator?",
+  "title": "Get Started with Expander",
+  "description": "What is Expander?",
   "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started.md",
   "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
   "slug": "/tutorial-basics/Test Runs/Test Enhancer/Get Started",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
   },
   "next": {
-    "title": "Simulator Runs",
+    "title": "Expander Runs",
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
   }
 }

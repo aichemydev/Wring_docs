@@ -20,7 +20,7 @@ Page`.
 
 The installation page requires an activated account. Account activation can take
 up to 24 hours. If your account has not been activated within 24 hours please
-contact <support@wring.dev>
+contact <team@wring.dev>
 
 :::
 

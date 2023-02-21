@@ -2,7 +2,7 @@
   "unversionedId": "tutorial-basics/Test Runs/Details/Advanced",
   "id": "tutorial-basics/Test Runs/Details/Advanced",
   "isDocsHomePage": false,
-  "title": "Advanced",
+  "title": "Test Run Selectors",
   "description": "Selectors and download options",
   "source": "@site/docs/tutorial-basics/Test Runs/Details/Advanced.md",
   "sourceDirName": "tutorial-basics/Test Runs/Details",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Run steps",
+    "title": "View/edit run steps",
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
   },
   "next": {

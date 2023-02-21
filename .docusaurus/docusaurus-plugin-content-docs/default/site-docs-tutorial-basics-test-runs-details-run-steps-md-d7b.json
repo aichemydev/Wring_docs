@@ -2,7 +2,7 @@
   "unversionedId": "tutorial-basics/Test Runs/Details/Run_steps",
   "id": "tutorial-basics/Test Runs/Details/Run_steps",
   "isDocsHomePage": false,
-  "title": "Run steps",
+  "title": "View/edit run steps",
   "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
   "source": "@site/docs/tutorial-basics/Test Runs/Details/Run_steps.md",
   "sourceDirName": "tutorial-basics/Test Runs/Details",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
   },
   "next": {
-    "title": "Advanced",
+    "title": "Test Run Selectors",
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
   }
 }

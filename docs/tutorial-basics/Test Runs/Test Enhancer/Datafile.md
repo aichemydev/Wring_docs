@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Data File Upload Variables
 
-To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the simulator interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.
+To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the Expander interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.
 
 ![Datafile](/img/datafile.png)
 
