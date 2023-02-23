@@ -35,7 +35,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','2f4'),
+    component: ComponentCreator('/Wring_docs/docs','ffc'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -214,6 +214,12 @@ export default [
       {
         path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile',
         component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile','6e6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Expander',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Expander','9a9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

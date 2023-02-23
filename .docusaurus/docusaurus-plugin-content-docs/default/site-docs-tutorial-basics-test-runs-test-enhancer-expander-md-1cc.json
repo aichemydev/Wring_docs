@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Expander",
+  "id": "tutorial-basics/Test Runs/Test Enhancer/Expander",
+  "isDocsHomePage": false,
+  "title": "Expander",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Expander.md",
+  "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
+  "slug": "/tutorial-basics/Test Runs/Test Enhancer/Expander",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Expander",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+  },
+  "next": {
+    "title": "View/edit run steps",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
+  }
+}

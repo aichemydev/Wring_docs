@@ -161,6 +161,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-basics/Test Runs/Test Enhancer/Expander",
+              "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Expander",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
               "path": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started",
               "sidebar": "tutorialSidebar"

@@ -8,6 +8,7 @@ export default {
   '1824248d': [() => import(/* webpackChunkName: '1824248d' */ "@site/docs/TG Smart Observer/tests.md"), "@site/docs/TG Smart Observer/tests.md", require.resolveWeak("@site/docs/TG Smart Observer/tests.md")],
   '18f8e0ca': [() => import(/* webpackChunkName: '18f8e0ca' */ "@site/docs/tutorial-basics/Integrations/Triggers.md"), "@site/docs/tutorial-basics/Integrations/Triggers.md", require.resolveWeak("@site/docs/tutorial-basics/Integrations/Triggers.md")],
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
+  '1cc3c1a9': [() => import(/* webpackChunkName: '1cc3c1a9' */ "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Expander.md"), "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Expander.md", require.resolveWeak("@site/docs/tutorial-basics/Test Runs/Test Enhancer/Expander.md")],
   '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ "@theme/MDXPage"), "@theme/MDXPage", require.resolveWeak("@theme/MDXPage")],
   '209a475d': [() => import(/* webpackChunkName: '209a475d' */ "~blog/default/wring-docs-blog-archive-ef7.json"), "~blog/default/wring-docs-blog-archive-ef7.json", require.resolveWeak("~blog/default/wring-docs-blog-archive-ef7.json")],
   '22c79102': [() => import(/* webpackChunkName: '22c79102' */ "@site/docs/Live Events/Multiple sessions with Pageviews.md"), "@site/docs/Live Events/Multiple sessions with Pageviews.md", require.resolveWeak("@site/docs/Live Events/Multiple sessions with Pageviews.md")],

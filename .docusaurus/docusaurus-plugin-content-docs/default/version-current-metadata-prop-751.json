@@ -73,6 +73,11 @@
                     "type": "link",
                     "label": "Salesforce Import Data",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Expander",
+                    "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Expander"
                   }
                 ]
               },
