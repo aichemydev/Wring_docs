@@ -17,3 +17,7 @@ In the right side,  you can see Wring Interceptor packages for java, python and 
 You can also get more details at Cypress, in the right side. You can see Wring Interceptor package and all the details in `Examples`.
 
 ![Installation Page](/img/cypress1.png)
+
+Once you get started with Wring Platform, you can get Wring Observer build on Installation page. For more details, please check Wring Smart Observer section.
+
+![Installation Page](/img/wso.png)
