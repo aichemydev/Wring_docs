@@ -25,7 +25,7 @@ On the top of the screenshot, you can see some buttons that allow you to manovra
 ![Expander](/img/Expander1.gif)
 5. Advanced - Expander allows quick, easy navigation between data and selectors. On the right side of the screenshot, you are able to see action, selectors(also method), similar selectors(if explore is ON), data etc.
 ![Expander](/img/expander5.png)
-5. 1. If explore is ON, it will look like this. You can also go to advanced tab and uncheck explore for this screenshot.
+ - If explore is ON, it will look like this. You can also go to advanced tab and uncheck explore for this screenshot.
 ![Expander](/img/expander6.png)
 
 Now you're ready to start an Expander run.
