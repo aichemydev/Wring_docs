@@ -4,6 +4,32 @@ sidebar_position: 2
 
 # Expander Runs
 
+## Expander Feature
+
+Expander is a tool that helps you explore different paths/selectors on your website. You are able to edit and explore all the selectors you want, which can increase its functionality. When you start using this tool, it will let you see all of the selectors on your website, edit them with ease and continue on with your current path or choose a new one.
+
+You can expand details of any step by clicking on the screenshot with that step highlighted.
+
+![Expander](/img/expander2.png)
+
+On the top of the screenshot, you can see some buttons that allow you to manovrate with your path/selectors.
+
+![Expander](/img/expander3.png)
+
+1. Expander will help you navigate through your upcoming/previous steps.
+2. Explore button allows you to explore all the similar selectors easier(green highlight).
+![Expander](/img/expander4.png)
+
+3. Save all your changes (actions, selectors, similar selectors) with just one click.
+4. If you delete something without saving, you can always reset it.
+![Expander](/img/Expander1.gif)
+5. Advanced - Expander allows quick, easy navigation between data and selectors. On the right side of the screenshot, you are able to see action, selectors(also method), similar selectors(if explore is ON), data etc.
+![Expander](/img/expander5.png)
+5. 1. If explore is ON, it will look like this. You can also go to advanced tab and uncheck explore for this screenshot.
+![Expander](/img/expander6.png)
+
+Now you're ready to start an Expander run.
+
 ## Strategies (Algorithms)
  
 Every step any algorithm generates list of candidate actions:
