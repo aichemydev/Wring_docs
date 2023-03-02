@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/Gauge_test",
+  "id": "tutorial-extras/Gauge_test",
+  "isDocsHomePage": false,
+  "title": "Convert gauge to cypress (via Live Events)",
+  "description": "How to run gauge tests?",
+  "source": "@site/docs/tutorial-extras/Gauge_test.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Gauge_test",
+  "permalink": "/Wring_docs/docs/tutorial-extras/Gauge_test",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customizing Interceptor Execution",
+    "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
+  },
+  "next": {
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+  }
+}

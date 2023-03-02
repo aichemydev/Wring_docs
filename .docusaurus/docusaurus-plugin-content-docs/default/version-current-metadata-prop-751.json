@@ -179,6 +179,11 @@
             "type": "link",
             "label": "Cypress JS Examples",
             "href": "/Wring_docs/docs/Examples/cypress"
+          },
+          {
+            "type": "link",
+            "label": "Convert gauge to cypress (via Live Events)",
+            "href": "/Wring_docs/docs/Examples/Gauge_test"
           }
         ]
       },

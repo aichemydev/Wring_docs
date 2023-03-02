@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/Gauge_test",
+  "id": "Examples/Gauge_test",
+  "isDocsHomePage": false,
+  "title": "Convert gauge to cypress (via Live Events)",
+  "description": "How to run gauge tests?",
+  "source": "@site/docs/Examples/Gauge_test.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/Gauge_test",
+  "permalink": "/Wring_docs/docs/Examples/Gauge_test",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cypress JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/cypress"
+  },
+  "next": {
+    "title": "Live Events",
+    "permalink": "/Wring_docs/docs/Live Events/Live Events"
+  }
+}

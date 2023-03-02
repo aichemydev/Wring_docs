@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Examples/Gauge_test",
+              "path": "/Wring_docs/docs/Examples/Gauge_test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Examples/Selenium-Java",
               "path": "/Wring_docs/docs/Examples/Selenium-Java",
               "sidebar": "tutorialSidebar"

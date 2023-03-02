@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cypress JS Examples",
-    "permalink": "/Wring_docs/docs/Examples/cypress"
+    "title": "Convert gauge to cypress (via Live Events)",
+    "permalink": "/Wring_docs/docs/Examples/Gauge_test"
   },
   "next": {
     "title": "Set Up Pageviews",
