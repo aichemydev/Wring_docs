@@ -6,12 +6,15 @@ sidebar_position: 6
 
 *How to run gauge tests?*
 
-## Instructions (*Linux*): 
+## Instructions (*Linux and Mac*): 
+
+Note: See the `specs` directory for the narrative specifications and the tests directory for the implementation of the steps.
+
 
 1. Navigate to where you have stored these Gauge tests examples by using cd, for example: cd ~/Github/gauge-examples
 2. Make sure to do get `Taiko plugin`, check: https://www.npmjs.com/package/taiko-delay
-3. npm install
-4. npm test
+3. Then install the dependencies in this repo: `npm install`
+4. Then run the test: `npm test`
 
 and it will bring up a browser and looks like this: 
 
@@ -38,13 +41,15 @@ Now you can run your cypress script (check [Examples/Cypress JS Examples](https:
 
 ## Instructions(*for Windows*)
 
+Note: See the `specs` directory for the narrative specifications and the tests directory for the implementation of the steps.
+
 1. Open powershell
 2. npm install -g @getgauge/cli
 3. Navigate to where you have stored these Gauge tests examples by using cd, for example: cd ~/Github/gauge-examples
-4. npm install
+4. Then install the dependencies in this repo:`npm install`
 5. $env:TAIKO_PLUGIN='delay'
 6. $env:TAIKO_DELAY_SECONDS=2
-7. npm test
+7. Then run the test: `npm test`
 
   ![Gauge](/img/taiko6.png)
 

@@ -1,218 +1,196 @@
 {
-  "/Wring_docs/__docusaurus/debug-fd8": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/Wring_docs/__docusaurus/debug/config-e39": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/Wring_docs/__docusaurus/debug/content-a84": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---wring-docs-docusaurus-debug-content-246-a24"
-  },
-  "/Wring_docs/__docusaurus/debug/globalData-544": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/Wring_docs/__docusaurus/debug/metadata-48d": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/Wring_docs/__docusaurus/debug/registry-4fb": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/Wring_docs/__docusaurus/debug/routes-67a": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/Wring_docs/blog-0f4": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---wring-docs-blog-814-210",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---wring-docs-blog-2-f-0-51c"
+        "content": "2f0da50d"
       }
     ],
-    "metadata": "metadata---wring-docs-blog-757-a02"
+    "metadata": "757eabc6"
   },
   "/Wring_docs/blog/archive-fd1": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---wring-docs-blog-archive-209-604"
+    "component": "9e4087bc",
+    "archive": "209a475d"
   },
   "/Wring_docs/blog/introducing-Wring-9a6": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---wring-docs-blog-814-210",
-    "content": "content---wring-docs-blog-introducing-wring-52-c-750"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "52c713b8"
   },
   "/Wring_docs/blog/tags-976": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---wring-docs-blog-814-210",
-    "tags": "tags---wring-docs-blog-tags-3-f-2-01d"
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "3f28b786"
   },
   "/Wring_docs/blog/tags/introduction-1fe": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---wring-docs-blog-814-210",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---wring-docs-blog-2-f-0-51c"
+        "content": "2f0da50d"
       }
     ],
-    "metadata": "metadata---wring-docs-blog-tags-introductionadb-01d"
+    "metadata": "adbd6e4a"
   },
   "/Wring_docs/markdown-page-23e": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---wring-docs-markdown-page-393-2fc"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/Wring_docs/docs-a53": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/Wring_docs/docs/Examples/cypress-97f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-examples-cypress-6-ef-95e"
+    "component": "17896441",
+    "content": "6ef5831f"
   },
   "/Wring_docs/docs/Examples/Gauge_test-39c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-examples-gauge-testa-71-96b"
+    "component": "17896441",
+    "content": "a715141f"
   },
   "/Wring_docs/docs/Examples/Selenium-Java-87d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-examples-selenium-java-01-e-41a"
+    "component": "17896441",
+    "content": "01effb49"
   },
   "/Wring_docs/docs/Examples/Selenium-JS-95c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-examples-selenium-j-sc-89-2cf"
+    "component": "17896441",
+    "content": "c895019e"
   },
   "/Wring_docs/docs/Examples/Selenium-Python-6bb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-examples-selenium-python-4-c-5-19a"
+    "component": "17896441",
+    "content": "4c55582f"
   },
   "/Wring_docs/docs/Examples/side-efe": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-examples-sided-42-d69"
+    "component": "17896441",
+    "content": "d4279514"
   },
   "/Wring_docs/docs/faq-976": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-faq-048-1b6"
+    "component": "17896441",
+    "content": "0480b142"
   },
   "/Wring_docs/docs/intro-9b1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-intro-0-e-3-f85"
+    "component": "17896441",
+    "content": "0e384e19"
   },
   "/Wring_docs/docs/Live Events/Get Started with Pageviews-740": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-live-events-get-started-with-pageviewsb-88-c20"
+    "component": "17896441",
+    "content": "b88fc7f7"
   },
   "/Wring_docs/docs/Live Events/Key Flows-71a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-live-events-key-flowseba-68b"
+    "component": "17896441",
+    "content": "ebacaec2"
   },
   "/Wring_docs/docs/Live Events/Live Events-8db": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-live-events-live-events-6-fe-c48"
+    "component": "17896441",
+    "content": "6fe73ff7"
   },
   "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews-b9f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-live-events-multiple-sessions-with-pageviews-22-c-516"
+    "component": "17896441",
+    "content": "22c79102"
   },
   "/Wring_docs/docs/Live Events/Set Up Pageviews-0dd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-live-events-set-up-pageviews-3-b-7-772"
+    "component": "17896441",
+    "content": "3b7a1862"
   },
   "/Wring_docs/docs/TG Smart Observer/buttons-f06": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-buttons-2-d-9-dfa"
+    "component": "17896441",
+    "content": "2d99a4f9"
   },
   "/Wring_docs/docs/TG Smart Observer/Get started - Build-7da": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-get-started-build-717-b8e"
+    "component": "17896441",
+    "content": "71792baa"
   },
   "/Wring_docs/docs/TG Smart Observer/Introduction-f32": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-introduction-9-ef-910"
+    "component": "17896441",
+    "content": "9ef9afd6"
   },
   "/Wring_docs/docs/TG Smart Observer/recorder-e94": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-recorder-74-c-b36"
+    "component": "17896441",
+    "content": "74cd387a"
   },
   "/Wring_docs/docs/TG Smart Observer/tests-0ee": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-tests-182-a7f"
+    "component": "17896441",
+    "content": "1824248d"
   },
   "/Wring_docs/docs/TG Smart Observer/Tutorials-483": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-tutorialsd-9-d-e73"
+    "component": "17896441",
+    "content": "d9d00357"
   },
   "/Wring_docs/docs/TG Smart Observer/view-a9b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tg-smart-observer-view-521-71e"
+    "component": "17896441",
+    "content": "5210f197"
   },
   "/Wring_docs/docs/tutorial-basics/congratulations-51a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-congratulations-822-98a"
+    "component": "17896441",
+    "content": "822bd8ab"
   },
   "/Wring_docs/docs/tutorial-basics/Dashboard-c6a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-dashboard-5-e-1-fe1"
+    "component": "17896441",
+    "content": "5e1b8198"
   },
   "/Wring_docs/docs/tutorial-basics/Installation-45c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-installation-238-f6c"
+    "component": "17896441",
+    "content": "2386fe0f"
   },
   "/Wring_docs/docs/tutorial-basics/Integrations/integration-007": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-integrations-integration-638-5e1"
+    "component": "17896441",
+    "content": "6385f03a"
   },
   "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled-c13": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-integrations-scheduledad-0-f7f"
+    "component": "17896441",
+    "content": "ad01fd51"
   },
   "/Wring_docs/docs/tutorial-basics/Integrations/Triggers-336": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-integrations-triggers-18-f-c38"
+    "component": "17896441",
+    "content": "18f8e0ca"
   },
   "/Wring_docs/docs/tutorial-basics/Overview Page/overview-7bd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-overview-page-overviewd-8-f-cc5"
+    "component": "17896441",
+    "content": "d8fd9a8f"
   },
   "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite-9f8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-overview-page-test-suite-3-f-7-8c4"
+    "component": "17896441",
+    "content": "3f767a4d"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced-cbb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-details-advanced-2-a-1-056"
+    "component": "17896441",
+    "content": "2a134152"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps-82d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-details-run-stepsd-7-b-7c4"
+    "component": "17896441",
+    "content": "d7becd07"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile-6e6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-datafilecbb-0c0"
+    "component": "17896441",
+    "content": "cbbcee8a"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started-dc9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-get-startedc-46-fde"
+    "component": "17896441",
+    "content": "c460ae7f"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce-894": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-salesforce-3-a-2-9f1"
+    "component": "17896441",
+    "content": "3a270eaf"
   },
   "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs-f41": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-basics-test-runs-test-enhancer-simulator-runs-27-e-7f6"
+    "component": "17896441",
+    "content": "27e938e1"
   },
   "/Wring_docs/docs/tutorial-extras/customizing-interceptor-a7c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-extras-customizing-interceptorcca-81a"
+    "component": "17896441",
+    "content": "cca263c6"
   },
   "/Wring_docs/docs/tutorial-extras/getting-started-492": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-tutorial-extras-getting-started-34-a-317"
+    "component": "17896441",
+    "content": "34a9789e"
   },
   "/Wring_docs/docs/versions-cdf": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-versions-0-fe-77f"
+    "component": "17896441",
+    "content": "0fe8a02a"
   },
   "/Wring_docs/-b36": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---wring-docs-5-e-9-444"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }
