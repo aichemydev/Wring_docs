@@ -374,9 +374,9 @@
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.2f7b66e0.js",
-          "hash": "35ad22661355cde1",
-          "publicPath": "/Wring_docs/assets/js/runtime~main.2f7b66e0.js"
+          "file": "assets/js/runtime~main.f55e5cf1.js",
+          "hash": "2b26b8bc8202cae0",
+          "publicPath": "/Wring_docs/assets/js/runtime~main.f55e5cf1.js"
         }
       ]
     },
@@ -455,9 +455,9 @@
     "3572": {
       "js": [
         {
-          "file": "assets/js/a715141f.7cc03abd.js",
-          "hash": "7f7184fdf8e4384e",
-          "publicPath": "/Wring_docs/assets/js/a715141f.7cc03abd.js"
+          "file": "assets/js/a715141f.7fbaba70.js",
+          "hash": "4a8582dfa78f5f50",
+          "publicPath": "/Wring_docs/assets/js/a715141f.7fbaba70.js"
         }
       ]
     },

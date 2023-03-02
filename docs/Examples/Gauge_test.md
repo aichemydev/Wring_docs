@@ -10,11 +10,11 @@ sidebar_position: 6
 
 Note: See the `specs` directory for the narrative specifications and the tests directory for the implementation of the steps.
 
-
-1. Navigate to where you have stored these Gauge tests examples by using cd, for example: cd ~/Github/gauge-examples
-2. Make sure to do get `Taiko plugin`, check: https://www.npmjs.com/package/taiko-delay
-3. Then install the dependencies in this repo: `npm install`
-4. Then run the test: `npm test`
+1. Clone our gauge example on github - [https://github.com/aichemydev/gauge-testsgit](https://github.com/aichemydev/gauge-tests)
+2. Navigate to where you have stored these Gauge tests examples by using cd, for example: cd ~/Github/gauge-examples 
+3. Make sure to do get `Taiko plugin`, check: https://www.npmjs.com/package/taiko-delay (That will install the gauge CLI globally, so sudo npm install -g @getgauge/cli may be required)
+4. Then install the dependencies in this repo: `npm install`
+5. Then run the test: `npm test`
 
 and it will bring up a browser and looks like this: 
 
@@ -43,13 +43,14 @@ Now you can run your cypress script (check [Examples/Cypress JS Examples](https:
 
 Note: See the `specs` directory for the narrative specifications and the tests directory for the implementation of the steps.
 
-1. Open powershell
-2. npm install -g @getgauge/cli
-3. Navigate to where you have stored these Gauge tests examples by using cd, for example: cd ~/Github/gauge-examples
-4. Then install the dependencies in this repo:`npm install`
-5. $env:TAIKO_PLUGIN='delay'
-6. $env:TAIKO_DELAY_SECONDS=2
-7. Then run the test: `npm test`
+1. Clone our gauge example on github - [https://github.com/aichemydev/gauge-testsgit](https://github.com/aichemydev/gauge-tests)
+2. Open powershell
+3. npm install -g @getgauge/cli
+4. Navigate to where you have stored these Gauge tests examples by using cd, for example: cd ~/Github/gauge-examples
+5. Then install the dependencies in this repo:`npm install`
+6. $env:TAIKO_PLUGIN='delay'
+7. $env:TAIKO_DELAY_SECONDS=2
+8. Then run the test: `npm test`
 
   ![Gauge](/img/taiko6.png)
 
