@@ -69,6 +69,8 @@ pip install <interceptor-package-name>.whl -U --force-reinstall
 Please make sure that your python and pip paths are properly configured. You can
 check those with `which python` and `which pip` in your terminal.
 
+For Live-Events, you need to have the installation above, nothing more.
+
 ## Cypress Setup
 
 Download the Cypress Interceptor Package and install it using NPM.
@@ -79,3 +81,32 @@ npm install @aichemy/wring-cypress-plugin
 
 For Cypress settings visit this link:
 https://www.npmjs.com/package/@aichemy/wring-cypress-plugin
+
+To create Live Events, please set ` “commandWaitSeconds”: 1 ` on cypress.json.
+
+```yml title="cypress.json"
+{
+  “viewportHeight”: 1000,
+  “viewportWidth”: 1280,
+  “retries”: {
+    “runMode”: 0,
+    “openMode”: 0
+  },
+  “defaultCommandTimeout”: 30000,
+  “wring”: {
+    “enabled”: true,
+    “serverTimeout”: 180.0,
+    “handleFailure”: “exception”,
+    “filterEnabled”: true,
+    “filterDisplayed”: true,
+    “neighborMaxDist”: 100.0,
+    “fastHeal”: false,
+    “takeScreenshots”: false,
+    “imageComparison”: false,
+    “allSuggestEnabled”: false,
+    “commandWaitSeconds”: 1
+  }
+}
+```
+
+Then, you can have/generate live events for your app.

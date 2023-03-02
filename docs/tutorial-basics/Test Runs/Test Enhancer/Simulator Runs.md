@@ -49,6 +49,18 @@ Recommended - *run exploration by default*
 
 ![Wring Dashboard](/img/expander1.png)
 
+Once you run Exploration, the agent will generate AI_Verify steps in order to find a bug.
+
+![Wring Dashboard](/img/expander_7.png)
+
+On Runs List/Episode runs, you will see all the steps with screenshots and details(bug logs and more).
+
+![Wring Dashboard](/img/expander_8.png)
+
+Click on `view log` and you'll see bug details/logs.
+
+![Wring Dashboard](/img/expander_9.png)
+
 
 Advanced runs - *There are four options*
 
@@ -85,6 +97,24 @@ If you select any agent, e.g. `permutation` - it gets every `select` action that
  And if you go to `Runs` - it will look like this:
 
  ![Wring Dashboard](/img/runn1.png)
+
+If you add the steps that we did on Expander/Get Started.md section and run Permutation agent, it will check for bugs for this added steps.
+
+```note
+SAVE "//*[@id="__next"]/div/div[1]/div/div/div[2]/div/div[2]/div/span" into "duration" 
+SAVE "//a[contains(string(), "Confirm")]/preceding-sibling::a/div[1]" into "timeslot"
+VERIFY_CONTAINS css selector "div.af-confirm" - ${timeslot} + ${duration}
+
+```
+On episode, you can check the simulator bug.
+
+ ![Wring Dashboard](/img/expander7.png)
+
+If you hover on screenshots, you will be able to see this step highlighted.
+
+ ![Wring Dashboard](/img/expander8.png)
+
+
 
 On the test run, you can notice three buttons there: 
 
