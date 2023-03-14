@@ -24,7 +24,7 @@ jobs:
       - name: Release to GitHub Pages
         env:
           GIT_USER: waqasbhatti
-          GIT_PASS: $PAT
+          GIT_PASS: ${{ secrets.PAT }}
         run: |
           git config --global user.email "waqas.afzal.bhatti@gmail.com"
           git config --global user.name "Waqas Bhatti"
