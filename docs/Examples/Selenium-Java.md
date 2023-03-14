@@ -30,13 +30,13 @@ Now you're ready to run Java Selenium examples.
 1. Open Powershell
 2. Navigate to where you have stored these Java examples by using cd, for example: `cd ~/Github/selenium-java-examples`
 3. Change to the reactbank directory `cd reactbank`
-4. Make sure Maven validates the current package installs: 
+4. Make sure Maven validates the current package installs:
 
-  4.1. `mvn clean` 
+  4.1. `mvn clean`
 
   4.2. `mvn validate`
 5. Copy/Paste `TG_TOKEN` from [Installation page](https://app.wring.dev/details/installation)
-6. If you run our public [Java example\( https://github.com/aichemydev/selenium-java-examples), run the two examples provided as PowerShell ps1 files. 
+6. If you run our public [Java example\( https://github.com/aichemydev/selenium-java-examples), run the two examples provided as PowerShell ps1 files.
 
   6.1. `./test_original_app.ps1`
 
@@ -54,7 +54,7 @@ Now you're ready to run Java Selenium examples.
 - mvn install
 :::
 
-![Pageview](/img/installation3.png)
+![Pageview](/img/Installation3.png)
 
 
 
@@ -81,13 +81,13 @@ Now you're ready to run Java Selenium examples.
 1. Open shell
 2. Navigate to where you have stored these Java examples by using cd, for example: `cd ~/Github/selenium-java-examples`
 3. Change to the reactbank directory `cd reactbank`
-4. Make sure Maven validates the current package installs: 
+4. Make sure Maven validates the current package installs:
 
-  4.1. `mvn clean` 
+  4.1. `mvn clean`
 
   4.2. `mvn validate`
 5. Copy/Paste `TG_TOKEN` from [Installation page](https://app.wring.dev/details/installation)
-6. If you run our public [Java example\( https://github.com/aichemydev/selenium-java-examples), run the two examples provided as PowerShell ps1 files. 
+6. If you run our public [Java example\( https://github.com/aichemydev/selenium-java-examples), run the two examples provided as PowerShell ps1 files.
 
   6.1. `./test_original_app.sh`
 
@@ -105,7 +105,7 @@ Now you're ready to run Java Selenium examples.
 - mvn install
 :::
 
-![Pageview](/img/installation4.png)
+![Pageview](/img/Installation4.png)
 
 
 Check [Selenium Java example](https://github.com/aichemydev/selenium-java-examples) below :
