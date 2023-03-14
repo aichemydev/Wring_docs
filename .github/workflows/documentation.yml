@@ -26,4 +26,6 @@ jobs:
           GIT_USER: waqasbhatti
           GIT_PASS: $PAT
         run: |
+          git config user.email "waqas.afzal.bhatti@gmail.com"
+          git config user.name "Github Action o/b/o Waqas Bhatti"
           yarn deploy
