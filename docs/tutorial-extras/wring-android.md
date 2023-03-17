@@ -196,7 +196,7 @@ public class ButtonClickActivity extends Activity {
     private void handleTargetButtonClicked(View view) {
       final AlertDialog alertDialog = new AlertDialog.Builder(c).create();
       alertDialog.setTitle("Clicked the button!");
-      alertDialog.setMessage("Clicked the button!);
+      alertDialog.setMessage("Clicked the button!");
       alertDialog.setButton(AlertDialog.BUTTON_POSITIVE, "OK", new DialogInterface.OnClickListener() {
         public void onClick(DialogInterface dialog, int which) {
           alertDialog.hide();
