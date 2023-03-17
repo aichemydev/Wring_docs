@@ -24,15 +24,15 @@ const config = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-        },
-        blog: {
-          showReadingTime: true,
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+	docs: {
+	  sidebarPath: require.resolve('./sidebars.js'),
+	},
+	blog: {
+	  showReadingTime: true,
+	},
+	theme: {
+	  customCss: require.resolve('./src/css/custom.css'),
+	},
       }),
     ],
   ],
@@ -41,63 +41,64 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Wring',
-        logo: {
-          alt: 'Wring Logo',
-          src: 'img/aiChemy_Logo.svg',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Documentation',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/aichemydev/Wring_docs/issues',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+	title: 'Wring',
+	logo: {
+	  alt: 'Wring Logo',
+	  src: 'img/aiChemy_Logo.svg',
+	},
+	items: [
+	  {
+	    type: 'doc',
+	    docId: 'intro',
+	    position: 'left',
+	    label: 'Documentation',
+	  },
+	  {to: '/blog', label: 'Blog', position: 'left'},
+	  {
+	    href: 'https://github.com/aichemydev/Wring_docs/issues',
+	    label: 'GitHub',
+	    position: 'right',
+	  },
+	],
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Documentation',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/aichemydev/Wring_docs/issues',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} AiChemy Inc.`,
+	style: 'dark',
+	links: [
+	  {
+	    title: 'Docs',
+	    items: [
+	      {
+		label: 'Documentation',
+		to: '/docs/intro',
+	      },
+	    ],
+	  },
+	  {
+	    title: 'Community',
+	    items: [
+	      {
+		label: 'GitHub',
+		href: 'https://github.com/aichemydev/Wring_docs/issues',
+	      },
+	    ],
+	  },
+	  {
+	    title: 'More',
+	    items: [
+	      {
+		label: 'Blog',
+		to: '/blog',
+	      },
+
+	    ],
+	  },
+	],
+	copyright: `Copyright © ${new Date().getFullYear()} AiChemy Inc.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+	theme: lightCodeTheme,
+	darkTheme: darkCodeTheme,
+	additionalLanguages: ['java']
       },
     }),
 };
