@@ -148,8 +148,19 @@ The `captureScr()` method takes the following arguments:
 - View `targetView`: the instance of the `View` that the action is being
   captured from
 
-For example, to capture a button click, use something like the following snippet
-of code:
+To mask out sensitive information on the screenshot of the app view, for
+example: SSNs, secrets, or PINs, call the `WringAndroid.captureScr()` method
+with the following arguments:
+
+- String `eventName`: this describes the event that is being captured
+- Activity `targetActivity`: the instance of the `Activity` that the action is
+  being captured from
+- View `targetView`: the instance of the `View` that the action is being
+  captured from
+- `censorElementIds`: Array of integer view IDs to mask out on the screenshot
+  (e.g. an array of `[R.id.a_textview_id, R.id.another_textview_id]`)
+
+The example below shows how to capture a button click:
 
 ```java
 package com.company.yourapp;
@@ -209,6 +220,22 @@ public class ButtonClickActivity extends Activity {
 
 }
 ```
+
+## Viewing screenshots
+
+We recommend making a new **Live Events** project specifically for mobile
+events. Once events have been captured using the API key for this project, they
+may be viewed in the Wring dashboard by navigating to **Live Events**, then
+clicking on the project in the list that appears.
+
+The dashboard will then show a list of mobile sessions that have been captured.
+
+![list of mobile sessions](/img/list-of-mobile-sessions.png)
+
+Click on a session in this list to bring up the screenshot viewer.
+
+![screenshot events viewer](/img/screenshot-events-viewer.png)
+
 
 ## Using the library package in Kotlin apps
 
