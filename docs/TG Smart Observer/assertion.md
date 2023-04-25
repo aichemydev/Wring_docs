@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Wring Smart Observer Commands
 
-If you check the observer after your testcase, you will see all the necessary details there.
+If you check the observer after you finish your testcase, you will see all the necessary details there.
 
 ![Command](/img/command.png)
 
