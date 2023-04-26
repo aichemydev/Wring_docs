@@ -32,7 +32,7 @@ Then, add the dependency to your app module's `build.gradle` file's
 ```
 dependencies {
     ...
-    implementation 'dev.wring:wringandroid:1.0.1'
+    implementation 'dev.wring:wringandroid:1.1.0'
 }
 ```
 
