@@ -28,7 +28,7 @@ export default function SnippetWidget() {
 
   return (
     <div>
-      <p>Include the following snippet in your <code>index.html</code> or main template HTML file:</p>
+      <p>Include the following snippet in the <code>&lt;head&gt;</code> element of your <code>index.html</code> or main template HTML file:</p>
       <pre>
 	{ generatePreItem(checksum) }
       </pre>
