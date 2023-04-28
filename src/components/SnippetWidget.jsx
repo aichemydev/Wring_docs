@@ -7,9 +7,9 @@ export default function SnippetWidget() {
 
   const [ checksum, setCheckSum ] = useState("");
 
-  const generatePreItem = () => {
+  const generatePreItem = (receivedChecksum) => {
     return `<script src="${snippetUrl}"
-  integrity="sha384-${checksum}"
+  integrity="sha384-${receivedChecksum}"
   crossorigin="anonymous"></script>
 <script>
   wringInterceptor.init("phc_XXXX");
@@ -30,7 +30,7 @@ export default function SnippetWidget() {
     <div>
       <p>Include the following snippet in your <code>index.html</code> or main template HTML file:</p>
       <pre>
-	{ generatePreItem() }
+	{ generatePreItem(checksum) }
       </pre>
     </div>
   );
