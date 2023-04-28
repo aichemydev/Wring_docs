@@ -23,6 +23,13 @@ example:
 In this way, you will be able to analyze API calls and user actions at the same
 time.
 
+After the interceptor is initialized as described above, it will begin capturing
+API calls from your web app and will send these to the Wring API, where they are
+securely stored. You can monitor this operation using your browser's dev
+console, for example:
+
+![Browser console showing API call interceptor working](/img/apicall-interceptor-browser-console.png)
+
 ## Viewing API calls in the Wring dashboard
 
 :::info
