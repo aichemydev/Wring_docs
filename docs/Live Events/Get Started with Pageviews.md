@@ -27,7 +27,7 @@ This tool will remember every mouse move that you make and draw them red. It mak
 ![Pageview](/img/pagg.png)
 
 
-With our new Live Events 'recorded' test in Pageviews, you can run a live event that was previously recorded and tagged as a test. This reduces the number of times you have to click to run tests from pageviews, making your testing go further - faster!
+With our new apps 'recorded' test in Pageviews, you can run a live event that was previously recorded and tagged as a test. This reduces the number of times you have to click to run tests from pageviews, making your testing go further - faster!
 
 ![Pageview](/img/runbutton.png)
 
@@ -46,7 +46,7 @@ Once the run is finished, it will be considered as a regular test run so that yo
 
 This feature is not just designed to give you the files of your tests but also the results,If you are taking a test outside the platform, you can also download your tests by clicking the corresponding download button.                                                                                         
 
-All the tests that you did during live events can be downloaded by clicking download button.
+All the tests that you did during apps can be downloaded by clicking download button.
 
 ![Pageview](/img/test2.png)
 

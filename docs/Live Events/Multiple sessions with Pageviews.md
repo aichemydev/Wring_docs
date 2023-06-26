@@ -1,8 +1,8 @@
 # Multiple Sessions with Pageviews
 
-Live Events allows you to record and analyze user actions on your website, enabling you to understand each action in a testcase. You can then generate test cases based on the steps you did.
+apps allows you to record and analyze user actions on your website, enabling you to understand each action in a testcase. You can then generate test cases based on the steps you did.
 
-This can then be used to see how different users navigate a website and where they interact with the site. Live Events also gives you the option of recording multiple sessions so you can gain multiple generated testcases by only checking a website/application more than once.
+This can then be used to see how different users navigate a website and where they interact with the site. apps also gives you the option of recording multiple sessions so you can gain multiple generated testcases by only checking a website/application more than once.
 By recording the same page over and over again, we will generate multiple sessions.
 
  ### How to know if you did multiple sessions?
