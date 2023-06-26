@@ -1338,7 +1338,7 @@
               },
               {
                 "type": "category",
-                "label": "Live Events - Apps",
+                "label": "Apps",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
