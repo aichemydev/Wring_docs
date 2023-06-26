@@ -65,8 +65,8 @@
                 "permalink": "/Wring_docs/docs/Examples/cypress"
               },
               "next": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Apps",
+                "permalink": "/Wring_docs/docs/Live Events/Apps"
               }
             },
             {
@@ -248,6 +248,32 @@
               }
             },
             {
+              "unversionedId": "Live Events/Apps",
+              "id": "Live Events/Apps",
+              "isDocsHomePage": false,
+              "title": "Apps",
+              "description": "Pageviews - Introduction",
+              "source": "@site/docs/Live Events/Apps.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Apps",
+              "permalink": "/Wring_docs/docs/Live Events/Apps",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Convert gauge to cypress (via Live Events)",
+                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+              },
+              "next": {
+                "title": "Set Up Pageviews",
+                "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
+              }
+            },
+            {
               "unversionedId": "Live Events/capture-api-calls",
               "id": "Live Events/capture-api-calls",
               "isDocsHomePage": false,
@@ -323,32 +349,6 @@
               }
             },
             {
-              "unversionedId": "Live Events/Live Events",
-              "id": "Live Events/Live Events",
-              "isDocsHomePage": false,
-              "title": "Live Events",
-              "description": "Pageviews - Introduction",
-              "source": "@site/docs/Live Events/Live Events.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Live Events",
-              "permalink": "/Wring_docs/docs/Live Events/Live Events",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Convert gauge to cypress (via Live Events)",
-                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
-              },
-              "next": {
-                "title": "Set Up Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
-              }
-            },
-            {
               "unversionedId": "Live Events/Multiple sessions with Pageviews",
               "id": "Live Events/Multiple sessions with Pageviews",
               "isDocsHomePage": false,
@@ -389,8 +389,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Live Events",
-                "permalink": "/Wring_docs/docs/Live Events/Live Events"
+                "title": "Apps",
+                "permalink": "/Wring_docs/docs/Live Events/Apps"
               },
               "next": {
                 "title": "capture-api-calls",
@@ -1344,7 +1344,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Live Events/Live Events"
+                    "id": "Live Events/Apps"
                   },
                   {
                     "type": "doc",

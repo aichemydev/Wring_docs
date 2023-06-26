@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Apps",
+  "id": "Live Events/Apps",
+  "isDocsHomePage": false,
+  "title": "Apps",
+  "description": "Pageviews - Introduction",
+  "source": "@site/docs/Live Events/Apps.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Apps",
+  "permalink": "/Wring_docs/docs/Live Events/Apps",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Convert gauge to cypress (via Live Events)",
+    "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+  },
+  "next": {
+    "title": "Set Up Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
+  }
+}

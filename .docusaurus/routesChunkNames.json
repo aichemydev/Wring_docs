@@ -59,7 +59,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-777": {
+  "/Wring_docs/docs-348": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -99,6 +99,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-live-events-appmap-2-b-6-195"
   },
+  "/Wring_docs/docs/Live Events/Apps-841": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-live-events-apps-2-e-5-bbf"
+  },
   "/Wring_docs/docs/Live Events/capture-api-calls-bec": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-live-events-capture-api-callsf-14-6ca"
@@ -110,10 +114,6 @@
   "/Wring_docs/docs/Live Events/Key Flows-71a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-live-events-key-flowseba-68b"
-  },
-  "/Wring_docs/docs/Live Events/Live Events-8db": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-live-events-live-events-6-fe-c48"
   },
   "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews-b9f": {
     "component": "component---theme-doc-item-178-a40",

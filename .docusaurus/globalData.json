@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Apps",
+              "path": "/Wring_docs/docs/Live Events/Apps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Live Events/capture-api-calls",
               "path": "/Wring_docs/docs/Live Events/capture-api-calls",
               "sidebar": "tutorialSidebar"
@@ -68,11 +73,6 @@
             {
               "id": "Live Events/Key Flows",
               "path": "/Wring_docs/docs/Live Events/Key Flows",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Live Events/Live Events",
-              "path": "/Wring_docs/docs/Live Events/Live Events",
               "sidebar": "tutorialSidebar"
             },
             {
