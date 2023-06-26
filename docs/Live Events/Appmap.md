@@ -4,12 +4,10 @@ sidebar_position: 4
 
 ## AppMap
 
+"Appmap" is a utility that enables the visualization and analysis of key user action flows within a web application. It allows for the analysis of transitions between web pages and user actions within a single page. The map of web page transitions is displayed as a directed graph, where nodes represent different web pages (with screenshots) and edges represent user actions.
 
 
-
-
-
-
+![Pageview](/img/appmap1.png)
 
 
 
