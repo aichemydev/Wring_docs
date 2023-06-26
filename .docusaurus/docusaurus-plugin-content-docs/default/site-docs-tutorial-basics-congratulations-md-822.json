@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Installation",
-    "permalink": "/Wring_docs/docs/tutorial-basics/Installation"
+    "title": "Scheduled Runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
   },
   "next": {
     "title": "Getting Started",

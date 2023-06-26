@@ -10,14 +10,14 @@
   "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Test Run Selectors",
-    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
+    "title": "Installation",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Installation"
   },
   "next": {
     "title": "Triggered runs",

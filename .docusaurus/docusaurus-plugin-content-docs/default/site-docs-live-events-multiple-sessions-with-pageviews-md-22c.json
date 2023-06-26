@@ -10,17 +10,14 @@
   "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
-  "frontMatter": {
-    "sidebar_position": 4
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Started with Pageviews",
-    "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
-  },
-  "next": {
     "title": "Key Flows",
     "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
   }
 }

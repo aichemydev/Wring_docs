@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Testsuites",
+  "id": "Live Events/Testsuites",
+  "isDocsHomePage": false,
+  "title": "Testsuites",
+  "description": "TestSuites",
+  "source": "@site/docs/Live Events/Testsuites.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Testsuites",
+  "permalink": "/Wring_docs/docs/Live Events/Testsuites",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Appmap",
+    "permalink": "/Wring_docs/docs/Live Events/Appmap"
+  },
+  "next": {
+    "title": "Key Flows",
+    "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+  }
+}

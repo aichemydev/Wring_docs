@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','a53'),
+    component: ComponentCreator('/Wring_docs/docs','c8b'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -121,6 +121,18 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Wring_docs/docs/Live Events/Appmap',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Appmap','e50'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Live Events/capture-api-calls',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/capture-api-calls','bec'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/Wring_docs/docs/Live Events/Get Started with Pageviews',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Get Started with Pageviews','740'),
         exact: true,
@@ -147,6 +159,30 @@ export default [
       {
         path: '/Wring_docs/docs/Live Events/Set Up Pageviews',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Set Up Pageviews','0dd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html','c64'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react','462'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Live Events/Testsuites',
+        component: ComponentCreator('/Wring_docs/docs/Live Events/Testsuites','a2e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/TG Smart Observer/assertion',
+        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/assertion','127'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -205,8 +241,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/tutorial-basics/Installation',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Installation','45c'),
+        path: '/Wring_docs/docs/tutorial-basics/Integrations/Installation',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/Installation','250'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -285,6 +321,12 @@ export default [
       {
         path: '/Wring_docs/docs/tutorial-extras/getting-started',
         component: ComponentCreator('/Wring_docs/docs/tutorial-extras/getting-started','492'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/tutorial-extras/wring-android',
+        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/wring-android','aa1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

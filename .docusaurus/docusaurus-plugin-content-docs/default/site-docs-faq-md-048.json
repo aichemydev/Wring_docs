@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Observer and button functionality",
-    "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
+    "title": "Wring Smart Observer Commands",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/assertion"
   },
   "next": {
     "title": "Supported Versions",

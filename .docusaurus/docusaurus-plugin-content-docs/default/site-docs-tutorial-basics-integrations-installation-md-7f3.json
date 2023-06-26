@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations/Installation",
+  "id": "tutorial-basics/Integrations/Installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "For the latest instructions on how to install Wring Interceptor, please visit our installation page. You'll find quick instructions for installing Wring Interceptor for Selenium and Cypress in the languages that we support.",
+  "source": "@site/docs/tutorial-basics/Integrations/Installation.md",
+  "sourceDirName": "tutorial-basics/Integrations",
+  "slug": "/tutorial-basics/Integrations/Installation",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Installation",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Run Selectors - Advanced",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
+  },
+  "next": {
+    "title": "CI Integrations",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+  }
+}

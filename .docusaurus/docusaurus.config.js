@@ -278,7 +278,9 @@ export default {
           }
         ]
       },
-      "additionalLanguages": []
+      "additionalLanguages": [
+        "java"
+      ]
     },
     "colorMode": {
       "defaultMode": "light",

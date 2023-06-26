@@ -89,7 +89,7 @@
                   },
                   {
                     "type": "link",
-                    "label": "Test Run Selectors",
+                    "label": "Test Run Selectors - Advanced",
                     "href": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
                   }
                 ]
@@ -98,10 +98,15 @@
           },
           {
             "type": "category",
-            "label": "Integrations",
+            "label": "Connect",
             "collapsible": true,
             "collapsed": true,
             "items": [
+              {
+                "type": "link",
+                "label": "Installation",
+                "href": "/Wring_docs/docs/tutorial-basics/Integrations/Installation"
+              },
               {
                 "type": "link",
                 "label": "CI Integrations",
@@ -118,11 +123,6 @@
                 "href": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
               }
             ]
-          },
-          {
-            "type": "link",
-            "label": "Installation",
-            "href": "/Wring_docs/docs/tutorial-basics/Installation"
           },
           {
             "type": "link",
@@ -146,6 +146,11 @@
             "type": "link",
             "label": "Customizing Interceptor Execution",
             "href": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
+          },
+          {
+            "type": "link",
+            "label": "Capture Android Events",
+            "href": "/Wring_docs/docs/tutorial-extras/wring-android"
           }
         ]
       },
@@ -189,7 +194,7 @@
       },
       {
         "type": "category",
-        "label": "Live Events",
+        "label": "Live Events - Apps",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -205,8 +210,28 @@
           },
           {
             "type": "link",
+            "label": "capture-api-calls",
+            "href": "/Wring_docs/docs/Live Events/capture-api-calls"
+          },
+          {
+            "type": "link",
             "label": "Get Started with Pageviews",
             "href": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+          },
+          {
+            "type": "link",
+            "label": "Appmap",
+            "href": "/Wring_docs/docs/Live Events/Appmap"
+          },
+          {
+            "type": "link",
+            "label": "Testsuites",
+            "href": "/Wring_docs/docs/Live Events/Testsuites"
+          },
+          {
+            "type": "link",
+            "label": "Key Flows",
+            "href": "/Wring_docs/docs/Live Events/Key Flows"
           },
           {
             "type": "link",
@@ -214,9 +239,22 @@
             "href": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
           },
           {
-            "type": "link",
-            "label": "Key Flows",
-            "href": "/Wring_docs/docs/Live Events/Key Flows"
+            "type": "category",
+            "label": "Set up Pageviews",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "JavaScript",
+                "href": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
+              },
+              {
+                "type": "link",
+                "label": "ReactJS",
+                "href": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
+              }
+            ]
           }
         ]
       },
@@ -260,6 +298,11 @@
             "type": "link",
             "label": "Observer and button functionality",
             "href": "/Wring_docs/docs/TG Smart Observer/buttons"
+          },
+          {
+            "type": "link",
+            "label": "Wring Smart Observer Commands",
+            "href": "/Wring_docs/docs/TG Smart Observer/assertion"
           }
         ]
       },

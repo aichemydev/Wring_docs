@@ -2,7 +2,7 @@
   "unversionedId": "tutorial-basics/Test Runs/Details/Advanced",
   "id": "tutorial-basics/Test Runs/Details/Advanced",
   "isDocsHomePage": false,
-  "title": "Test Run Selectors",
+  "title": "Test Run Selectors - Advanced",
   "description": "Selectors and download options",
   "source": "@site/docs/tutorial-basics/Test Runs/Details/Advanced.md",
   "sourceDirName": "tutorial-basics/Test Runs/Details",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
   },
   "next": {
-    "title": "CI Integrations",
-    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
+    "title": "Installation",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Installation"
   }
 }

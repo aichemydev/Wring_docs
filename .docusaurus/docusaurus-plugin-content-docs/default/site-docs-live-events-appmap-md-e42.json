@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/appmap",
+  "id": "Live Events/appmap",
+  "isDocsHomePage": false,
+  "title": "appmap",
+  "description": "",
+  "source": "@site/docs/Live Events/appmap.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/appmap",
+  "permalink": "/Wring_docs/docs/Live Events/appmap",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Up Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
+  },
+  "next": {
+    "title": "capture-api-calls",
+    "permalink": "/Wring_docs/docs/Live Events/capture-api-calls"
+  }
+}

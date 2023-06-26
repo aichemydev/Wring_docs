@@ -10,17 +10,14 @@
   "permalink": "/Wring_docs/docs/Live Events/Key Flows",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
-  "frontMatter": {
-    "sidebar_position": 5
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Multiple Sessions with Pageviews",
-    "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+    "title": "Testsuites",
+    "permalink": "/Wring_docs/docs/Live Events/Testsuites"
   },
   "next": {
-    "title": "Wring Smart Observer - Introduction",
-    "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+    "title": "Multiple Sessions with Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
   }
 }

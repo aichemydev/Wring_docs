@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Key Flows
 
 Key flows is a tool that allows to find the best test coverage among all tests generated from live events. By default, it groups tests that cover at least 20% of the most frequent webpage elements. Rel Cov % means relative coverage percentage and it shows the coverage of a test against other tests in the list.

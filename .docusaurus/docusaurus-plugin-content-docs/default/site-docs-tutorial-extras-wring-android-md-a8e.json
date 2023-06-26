@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/wring-android",
+  "id": "tutorial-extras/wring-android",
+  "isDocsHomePage": false,
+  "title": "Capture Android Events",
+  "description": "The wringandroid library for Android allows you to capture user interaction",
+  "source": "@site/docs/tutorial-extras/wring-android.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/wring-android",
+  "permalink": "/Wring_docs/docs/tutorial-extras/wring-android",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customizing Interceptor Execution",
+    "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
+  },
+  "next": {
+    "title": "Selenium JS Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+  }
+}

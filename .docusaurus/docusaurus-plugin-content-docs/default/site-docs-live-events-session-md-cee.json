@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Live Events/session",
+  "id": "Live Events/session",
+  "isDocsHomePage": false,
+  "title": "session",
+  "description": "",
+  "source": "@site/docs/Live Events/session.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/session",
+  "permalink": "/Wring_docs/docs/Live Events/session",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "appmap",
+    "permalink": "/Wring_docs/docs/Live Events/appmap"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
+  }
+}

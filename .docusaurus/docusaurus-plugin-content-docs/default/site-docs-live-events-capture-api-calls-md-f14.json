@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/capture-api-calls",
+  "id": "Live Events/capture-api-calls",
+  "isDocsHomePage": false,
+  "title": "capture-api-calls",
+  "description": "The Wring API call interceptor can be used to intercept API calls made during",
+  "source": "@site/docs/Live Events/capture-api-calls.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/capture-api-calls",
+  "permalink": "/Wring_docs/docs/Live Events/capture-api-calls",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Up Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
+  },
+  "next": {
+    "title": "Get Started with Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
+  }
+}

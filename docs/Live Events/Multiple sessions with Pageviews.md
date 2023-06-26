@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # Multiple Sessions with Pageviews
 
 Live Events allows you to record and analyze user actions on your website, enabling you to understand each action in a testcase. You can then generate test cases based on the steps you did.

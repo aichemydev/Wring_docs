@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Set Up Pageviews",
-    "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
+    "title": "capture-api-calls",
+    "permalink": "/Wring_docs/docs/Live Events/capture-api-calls"
   },
   "next": {
-    "title": "Multiple Sessions with Pageviews",
-    "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+    "title": "Appmap",
+    "permalink": "/Wring_docs/docs/Live Events/Appmap"
   }
 }

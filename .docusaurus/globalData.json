@@ -51,6 +51,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Appmap",
+              "path": "/Wring_docs/docs/Live Events/Appmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Live Events/capture-api-calls",
+              "path": "/Wring_docs/docs/Live Events/capture-api-calls",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Live Events/Get Started with Pageviews",
               "path": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
               "sidebar": "tutorialSidebar"
@@ -73,6 +83,26 @@
             {
               "id": "Live Events/Set Up Pageviews",
               "path": "/Wring_docs/docs/Live Events/Set Up Pageviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Live Events/Set up Pageviews/pageviews-html",
+              "path": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Live Events/Set up Pageviews/pageviews-react",
+              "path": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Live Events/Testsuites",
+              "path": "/Wring_docs/docs/Live Events/Testsuites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TG Smart Observer/assertion",
+              "path": "/Wring_docs/docs/TG Smart Observer/assertion",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -121,8 +151,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Installation",
-              "path": "/Wring_docs/docs/tutorial-basics/Installation",
+              "id": "tutorial-basics/Integrations/Installation",
+              "path": "/Wring_docs/docs/tutorial-basics/Integrations/Installation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -188,6 +218,11 @@
             {
               "id": "tutorial-extras/getting-started",
               "path": "/Wring_docs/docs/tutorial-extras/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/wring-android",
+              "path": "/Wring_docs/docs/tutorial-extras/wring-android",
               "sidebar": "tutorialSidebar"
             },
             {

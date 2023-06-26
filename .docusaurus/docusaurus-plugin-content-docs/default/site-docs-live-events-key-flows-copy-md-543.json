@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Live Events/Key Flows copy",
+  "id": "Live Events/Key Flows copy",
+  "isDocsHomePage": false,
+  "title": "Key Flows",
+  "description": "Key flows is a tool that allows to find the best test coverage among all tests generated from live events. By default, it groups tests that cover at least 20% of the most frequent webpage elements. Rel Cov % means relative coverage percentage and it shows the coverage of a test against other tests in the list.",
+  "source": "@site/docs/Live Events/Key Flows copy.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Key Flows copy",
+  "permalink": "/Wring_docs/docs/Live Events/Key Flows copy",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testsuites",
+    "permalink": "/Wring_docs/docs/Live Events/Testsuites"
+  },
+  "next": {
+    "title": "Key Flows",
+    "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+  }
+}

@@ -31,9 +31,9 @@ With our new Live Events 'recorded' test in Pageviews, you can run a live event 
 
 ![Pageview](/img/runbutton.png)
 
-After you click that, it will open a modal and let you see your test. Click the “Start Run” button to start the run.
+After you click that, it will open a modal and let you see your test. Click the “Add to Testsuites” button to start the run.
 
-![Pageview](/img/pag1.png)
+<!-- ![Pageview](/img/pag1.png) -->
 
 Once the run has started you will be notified and your run will appear in `Test Runs`. 
 

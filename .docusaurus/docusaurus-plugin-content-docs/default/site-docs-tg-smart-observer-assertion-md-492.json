@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/assertion",
+  "id": "TG Smart Observer/assertion",
+  "isDocsHomePage": false,
+  "title": "Wring Smart Observer Commands",
+  "description": "If you check the observer after you finish your testcase, you will see all the necessary details there.",
+  "source": "@site/docs/TG Smart Observer/assertion.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/assertion",
+  "permalink": "/Wring_docs/docs/TG Smart Observer/assertion",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Observer and button functionality",
+    "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
+  }
+}

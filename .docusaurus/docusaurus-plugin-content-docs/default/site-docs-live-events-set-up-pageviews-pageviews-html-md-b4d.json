@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Set up Pageviews/pageviews-html",
+  "id": "Live Events/Set up Pageviews/pageviews-html",
+  "isDocsHomePage": false,
+  "title": "JavaScript",
+  "description": "This page of the Docs refers to our Live event's sessions.",
+  "source": "@site/docs/Live Events/Set up Pageviews/pageviews-html.md",
+  "sourceDirName": "Live Events/Set up Pageviews",
+  "slug": "/Live Events/Set up Pageviews/pageviews-html",
+  "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multiple Sessions with Pageviews",
+    "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+  },
+  "next": {
+    "title": "ReactJS",
+    "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
+  }
+}
