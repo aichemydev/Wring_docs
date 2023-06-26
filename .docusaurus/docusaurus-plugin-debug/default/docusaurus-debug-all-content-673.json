@@ -314,8 +314,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Testsuites",
-                "permalink": "/Wring_docs/docs/Live Events/Testsuites"
+                "title": "Shared testsuites",
+                "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
               },
               "next": {
                 "title": "Multiple Sessions with Pageviews",
@@ -450,6 +450,32 @@
               }
             },
             {
+              "unversionedId": "Live Events/Shared testsuites",
+              "id": "Live Events/Shared testsuites",
+              "isDocsHomePage": false,
+              "title": "Shared testsuites",
+              "description": "Share your project with everyone",
+              "source": "@site/docs/Live Events/Shared testsuites.md",
+              "sourceDirName": "Live Events",
+              "slug": "/Live Events/Shared testsuites",
+              "permalink": "/Wring_docs/docs/Live Events/Shared testsuites",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Testsuites",
+                "permalink": "/Wring_docs/docs/Live Events/Testsuites"
+              },
+              "next": {
+                "title": "Key Flows",
+                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+              }
+            },
+            {
               "unversionedId": "Live Events/Testsuites",
               "id": "Live Events/Testsuites",
               "isDocsHomePage": false,
@@ -471,8 +497,8 @@
                 "permalink": "/Wring_docs/docs/Live Events/Appmap"
               },
               "next": {
-                "title": "Key Flows",
-                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+                "title": "Shared testsuites",
+                "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
               }
             },
             {
@@ -1339,6 +1365,10 @@
                   {
                     "type": "doc",
                     "id": "Live Events/Testsuites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Live Events/Shared testsuites"
                   },
                   {
                     "type": "doc",

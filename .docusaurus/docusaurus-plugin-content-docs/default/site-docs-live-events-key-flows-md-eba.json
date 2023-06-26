@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Testsuites",
-    "permalink": "/Wring_docs/docs/Live Events/Testsuites"
+    "title": "Shared testsuites",
+    "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
   },
   "next": {
     "title": "Multiple Sessions with Pageviews",

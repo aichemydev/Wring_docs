@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Shared testsuites",
+  "id": "Live Events/Shared testsuites",
+  "isDocsHomePage": false,
+  "title": "Shared testsuites",
+  "description": "Share your project with everyone",
+  "source": "@site/docs/Live Events/Shared testsuites.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Shared testsuites",
+  "permalink": "/Wring_docs/docs/Live Events/Shared testsuites",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testsuites",
+    "permalink": "/Wring_docs/docs/Live Events/Testsuites"
+  },
+  "next": {
+    "title": "Key Flows",
+    "permalink": "/Wring_docs/docs/Live Events/Key Flows"
+  }
+}

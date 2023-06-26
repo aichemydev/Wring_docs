@@ -230,6 +230,11 @@
           },
           {
             "type": "link",
+            "label": "Shared testsuites",
+            "href": "/Wring_docs/docs/Live Events/Shared testsuites"
+          },
+          {
+            "type": "link",
             "label": "Key Flows",
             "href": "/Wring_docs/docs/Live Events/Key Flows"
           },

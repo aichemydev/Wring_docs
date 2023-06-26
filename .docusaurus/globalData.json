@@ -96,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Live Events/Shared testsuites",
+              "path": "/Wring_docs/docs/Live Events/Shared testsuites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Live Events/Testsuites",
               "path": "/Wring_docs/docs/Live Events/Testsuites",
               "sidebar": "tutorialSidebar"
