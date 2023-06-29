@@ -65,8 +65,34 @@
                 "permalink": "/Wring_docs/docs/Examples/cypress"
               },
               "next": {
-                "title": "Apps",
-                "permalink": "/Wring_docs/docs/Live Events/Apps"
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+              }
+            },
+            {
+              "unversionedId": "Examples/ngrok",
+              "id": "Examples/ngrok",
+              "isDocsHomePage": false,
+              "title": "Run Sessions with Ngrok",
+              "description": "First, install ngrok//ngrok.com/download. You may need to sign up for their service, but it is free.",
+              "source": "@site/docs/Examples/ngrok.md",
+              "sourceDirName": "Examples",
+              "slug": "/Examples/ngrok",
+              "permalink": "/Wring_docs/docs/Examples/ngrok",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Selenium Java Examples",
+                "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+              },
+              "next": {
+                "title": "Side file - Expander Example",
+                "permalink": "/Wring_docs/docs/Examples/side"
               }
             },
             {
@@ -91,8 +117,8 @@
                 "permalink": "/Wring_docs/docs/Examples/Selenium-Python"
               },
               "next": {
-                "title": "Side file - Expander Example",
-                "permalink": "/Wring_docs/docs/Examples/side"
+                "title": "Run Sessions with Ngrok",
+                "permalink": "/Wring_docs/docs/Examples/ngrok"
               }
             },
             {
@@ -113,8 +139,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Capture Android Events",
-                "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
+                "title": "ReactJS",
+                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
               },
               "next": {
                 "title": "Selenium Python Examples",
@@ -165,8 +191,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Selenium Java Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+                "title": "Run Sessions with Ngrok",
+                "permalink": "/Wring_docs/docs/Examples/ngrok"
               },
               "next": {
                 "title": "Cypress JS Examples",
@@ -265,8 +291,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Convert gauge to cypress (via Live Events)",
-                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+                "title": "Capture Android Events",
+                "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
               },
               "next": {
                 "title": "Set Up Pageviews",
@@ -445,8 +471,8 @@
                 "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
               },
               "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Selenium JS Examples",
+                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
               }
             },
             {
@@ -597,8 +623,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ReactJS",
-                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
+                "title": "Convert gauge to cypress (via Live Events)",
+                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
               },
               "next": {
                 "title": "Wring Smart Observer - Get Started with our Build",
@@ -1147,8 +1173,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
-                "title": "Selenium JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+                "title": "Apps",
+                "permalink": "/Wring_docs/docs/Live Events/Apps"
               }
             },
             {
@@ -1306,38 +1332,6 @@
               },
               {
                 "type": "category",
-                "label": "Examples",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-JS"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-Python"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-Java"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/side"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/cypress"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Gauge_test"
-                  }
-                ]
-              },
-              {
-                "type": "category",
                 "label": "Apps",
                 "collapsible": true,
                 "collapsed": true,
@@ -1393,6 +1387,42 @@
                         "id": "Live Events/Set up Pageviews/pageviews-react"
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Examples",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Examples/Selenium-JS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Selenium-Python"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Selenium-Java"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/ngrok"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/side"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/cypress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Gauge_test"
                   }
                 ]
               },

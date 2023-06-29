@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Examples/ngrok",
+              "path": "/Wring_docs/docs/Examples/ngrok",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Examples/Selenium-Java",
               "path": "/Wring_docs/docs/Examples/Selenium-Java",
               "sidebar": "tutorialSidebar"

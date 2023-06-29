@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Selenium Java Examples",
-    "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+    "title": "Run Sessions with Ngrok",
+    "permalink": "/Wring_docs/docs/Examples/ngrok"
   },
   "next": {
     "title": "Cypress JS Examples",

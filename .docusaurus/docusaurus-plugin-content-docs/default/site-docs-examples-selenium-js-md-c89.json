@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Capture Android Events",
-    "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
+    "title": "ReactJS",
+    "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
   },
   "next": {
     "title": "Selenium Python Examples",

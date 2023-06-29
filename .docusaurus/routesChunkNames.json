@@ -59,7 +59,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-348": {
+  "/Wring_docs/docs-387": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -70,6 +70,10 @@
   "/Wring_docs/docs/Examples/Gauge_test-39c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-examples-gauge-testa-71-96b"
+  },
+  "/Wring_docs/docs/Examples/ngrok-af5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-ngrokf-92-1ae"
   },
   "/Wring_docs/docs/Examples/Selenium-Java-87d": {
     "component": "component---theme-doc-item-178-a40",

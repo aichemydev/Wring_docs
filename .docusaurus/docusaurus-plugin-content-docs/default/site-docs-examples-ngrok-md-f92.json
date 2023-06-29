@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/ngrok",
+  "id": "Examples/ngrok",
+  "isDocsHomePage": false,
+  "title": "Run Sessions with Ngrok",
+  "description": "First, install ngrok//ngrok.com/download. You may need to sign up for their service, but it is free.",
+  "source": "@site/docs/Examples/ngrok.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/ngrok",
+  "permalink": "/Wring_docs/docs/Examples/ngrok",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Selenium Java Examples",
+    "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+  },
+  "next": {
+    "title": "Side file - Expander Example",
+    "permalink": "/Wring_docs/docs/Examples/side"
+  }
+}

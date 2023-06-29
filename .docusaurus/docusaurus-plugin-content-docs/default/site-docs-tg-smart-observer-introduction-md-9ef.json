@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ReactJS",
-    "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
+    "title": "Convert gauge to cypress (via Live Events)",
+    "permalink": "/Wring_docs/docs/Examples/Gauge_test"
   },
   "next": {
     "title": "Wring Smart Observer - Get Started with our Build",

@@ -156,44 +156,6 @@
       },
       {
         "type": "category",
-        "label": "Examples",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Selenium JS Examples",
-            "href": "/Wring_docs/docs/Examples/Selenium-JS"
-          },
-          {
-            "type": "link",
-            "label": "Selenium Python Examples",
-            "href": "/Wring_docs/docs/Examples/Selenium-Python"
-          },
-          {
-            "type": "link",
-            "label": "Selenium Java Examples",
-            "href": "/Wring_docs/docs/Examples/Selenium-Java"
-          },
-          {
-            "type": "link",
-            "label": "Side file - Expander Example",
-            "href": "/Wring_docs/docs/Examples/side"
-          },
-          {
-            "type": "link",
-            "label": "Cypress JS Examples",
-            "href": "/Wring_docs/docs/Examples/cypress"
-          },
-          {
-            "type": "link",
-            "label": "Convert gauge to cypress (via Live Events)",
-            "href": "/Wring_docs/docs/Examples/Gauge_test"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Apps",
         "collapsible": true,
         "collapsed": true,
@@ -260,6 +222,49 @@
                 "href": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Examples",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Selenium JS Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-JS"
+          },
+          {
+            "type": "link",
+            "label": "Selenium Python Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-Python"
+          },
+          {
+            "type": "link",
+            "label": "Selenium Java Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-Java"
+          },
+          {
+            "type": "link",
+            "label": "Run Sessions with Ngrok",
+            "href": "/Wring_docs/docs/Examples/ngrok"
+          },
+          {
+            "type": "link",
+            "label": "Side file - Expander Example",
+            "href": "/Wring_docs/docs/Examples/side"
+          },
+          {
+            "type": "link",
+            "label": "Cypress JS Examples",
+            "href": "/Wring_docs/docs/Examples/cypress"
+          },
+          {
+            "type": "link",
+            "label": "Convert gauge to cypress (via Live Events)",
+            "href": "/Wring_docs/docs/Examples/Gauge_test"
           }
         ]
       },

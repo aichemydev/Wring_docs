@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Convert gauge to cypress (via Live Events)",
-    "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+    "title": "Capture Android Events",
+    "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
   },
   "next": {
     "title": "Set Up Pageviews",
