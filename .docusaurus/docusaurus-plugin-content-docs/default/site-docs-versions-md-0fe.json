@@ -18,5 +18,9 @@
   "previous": {
     "title": "Frequently Asked Questions",
     "permalink": "/Wring_docs/docs/faq"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/Wring_docs/docs/release-notes"
   }
 }

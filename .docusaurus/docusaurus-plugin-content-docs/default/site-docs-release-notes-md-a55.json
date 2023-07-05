@@ -1,0 +1,22 @@
+{
+  "unversionedId": "release-notes",
+  "id": "release-notes",
+  "isDocsHomePage": false,
+  "title": "Release Notes",
+  "description": "",
+  "source": "@site/docs/release-notes.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/Wring_docs/docs/release-notes",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supported Versions",
+    "permalink": "/Wring_docs/docs/versions"
+  }
+}

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Capture Android Events",
-    "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
+    "title": "Sessions without login",
+    "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
   },
   "next": {
     "title": "Set Up Pageviews",

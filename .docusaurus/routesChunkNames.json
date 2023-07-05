@@ -59,13 +59,17 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-387": {
+  "/Wring_docs/docs-095": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
   "/Wring_docs/docs/Examples/cypress-97f": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-examples-cypress-6-ef-95e"
+  },
+  "/Wring_docs/docs/Examples/Demo_with_without_login-56a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-examples-demo-with-without-login-488-e3b"
   },
   "/Wring_docs/docs/Examples/Gauge_test-39c": {
     "component": "component---theme-doc-item-178-a40",
@@ -142,6 +146,10 @@
   "/Wring_docs/docs/Live Events/Testsuites-a2e": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-live-events-testsuitesfc-3-c67"
+  },
+  "/Wring_docs/docs/release-notes-b60": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-release-notesa-55-671"
   },
   "/Wring_docs/docs/TG Smart Observer/assertion-127": {
     "component": "component---theme-doc-item-178-a40",

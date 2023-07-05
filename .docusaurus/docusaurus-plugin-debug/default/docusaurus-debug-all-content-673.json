@@ -44,6 +44,32 @@
               }
             },
             {
+              "unversionedId": "Examples/Demo_with_without_login",
+              "id": "Examples/Demo_with_without_login",
+              "isDocsHomePage": false,
+              "title": "Sessions without login",
+              "description": "It is necessary to understand that we can easily create sessions without login.  You can do it with our Wring Smart Observer, we can showcase it step by step.",
+              "source": "@site/docs/Examples/Demo_with_without_login.md",
+              "sourceDirName": "Examples",
+              "slug": "/Examples/Demo_with_without_login",
+              "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Convert gauge to cypress (via Live Events)",
+                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+              },
+              "next": {
+                "title": "Apps",
+                "permalink": "/Wring_docs/docs/Live Events/Apps"
+              }
+            },
+            {
               "unversionedId": "Examples/Gauge_test",
               "id": "Examples/Gauge_test",
               "isDocsHomePage": false,
@@ -65,8 +91,8 @@
                 "permalink": "/Wring_docs/docs/Examples/cypress"
               },
               "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
+                "title": "Sessions without login",
+                "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
               }
             },
             {
@@ -139,8 +165,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ReactJS",
-                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
+                "title": "Capture Android Events",
+                "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
               },
               "next": {
                 "title": "Selenium Python Examples",
@@ -291,8 +317,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Capture Android Events",
-                "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
+                "title": "Sessions without login",
+                "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
               },
               "next": {
                 "title": "Set Up Pageviews",
@@ -471,8 +497,8 @@
                 "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
               },
               "next": {
-                "title": "Selenium JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+                "title": "Wring Smart Observer - Introduction",
+                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
               }
             },
             {
@@ -525,6 +551,28 @@
               "next": {
                 "title": "Shared testsuites",
                 "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
+              }
+            },
+            {
+              "unversionedId": "release-notes",
+              "id": "release-notes",
+              "isDocsHomePage": false,
+              "title": "Release Notes",
+              "description": "",
+              "source": "@site/docs/release-notes.md",
+              "sourceDirName": ".",
+              "slug": "/release-notes",
+              "permalink": "/Wring_docs/docs/release-notes",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Supported Versions",
+                "permalink": "/Wring_docs/docs/versions"
               }
             },
             {
@@ -623,8 +671,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Convert gauge to cypress (via Live Events)",
-                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+                "title": "ReactJS",
+                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
               },
               "next": {
                 "title": "Wring Smart Observer - Get Started with our Build",
@@ -1173,8 +1221,8 @@
                 "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
               },
               "next": {
-                "title": "Apps",
-                "permalink": "/Wring_docs/docs/Live Events/Apps"
+                "title": "Selenium JS Examples",
+                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
               }
             },
             {
@@ -1197,6 +1245,10 @@
               "previous": {
                 "title": "Frequently Asked Questions",
                 "permalink": "/Wring_docs/docs/faq"
+              },
+              "next": {
+                "title": "Release Notes",
+                "permalink": "/Wring_docs/docs/release-notes"
               }
             }
           ],
@@ -1332,6 +1384,46 @@
               },
               {
                 "type": "category",
+                "label": "Examples",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Examples/Selenium-JS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Selenium-Python"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Selenium-Java"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/ngrok"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/side"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/cypress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Gauge_test"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/Demo_with_without_login"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "Apps",
                 "collapsible": true,
                 "collapsed": true,
@@ -1392,42 +1484,6 @@
               },
               {
                 "type": "category",
-                "label": "Examples",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-JS"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-Python"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-Java"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/ngrok"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/side"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/cypress"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Gauge_test"
-                  }
-                ]
-              },
-              {
-                "type": "category",
                 "label": "Wring Smart Observer",
                 "collapsible": true,
                 "collapsed": true,
@@ -1473,6 +1529,10 @@
               {
                 "type": "doc",
                 "id": "versions"
+              },
+              {
+                "type": "doc",
+                "id": "release-notes"
               }
             ]
           }

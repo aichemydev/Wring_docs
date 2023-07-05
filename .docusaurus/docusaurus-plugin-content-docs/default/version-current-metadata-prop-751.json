@@ -156,6 +156,54 @@
       },
       {
         "type": "category",
+        "label": "Examples",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Selenium JS Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-JS"
+          },
+          {
+            "type": "link",
+            "label": "Selenium Python Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-Python"
+          },
+          {
+            "type": "link",
+            "label": "Selenium Java Examples",
+            "href": "/Wring_docs/docs/Examples/Selenium-Java"
+          },
+          {
+            "type": "link",
+            "label": "Run Sessions with Ngrok",
+            "href": "/Wring_docs/docs/Examples/ngrok"
+          },
+          {
+            "type": "link",
+            "label": "Side file - Expander Example",
+            "href": "/Wring_docs/docs/Examples/side"
+          },
+          {
+            "type": "link",
+            "label": "Cypress JS Examples",
+            "href": "/Wring_docs/docs/Examples/cypress"
+          },
+          {
+            "type": "link",
+            "label": "Convert gauge to cypress (via Live Events)",
+            "href": "/Wring_docs/docs/Examples/Gauge_test"
+          },
+          {
+            "type": "link",
+            "label": "Sessions without login",
+            "href": "/Wring_docs/docs/Examples/Demo_with_without_login"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Apps",
         "collapsible": true,
         "collapsed": true,
@@ -227,49 +275,6 @@
       },
       {
         "type": "category",
-        "label": "Examples",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Selenium JS Examples",
-            "href": "/Wring_docs/docs/Examples/Selenium-JS"
-          },
-          {
-            "type": "link",
-            "label": "Selenium Python Examples",
-            "href": "/Wring_docs/docs/Examples/Selenium-Python"
-          },
-          {
-            "type": "link",
-            "label": "Selenium Java Examples",
-            "href": "/Wring_docs/docs/Examples/Selenium-Java"
-          },
-          {
-            "type": "link",
-            "label": "Run Sessions with Ngrok",
-            "href": "/Wring_docs/docs/Examples/ngrok"
-          },
-          {
-            "type": "link",
-            "label": "Side file - Expander Example",
-            "href": "/Wring_docs/docs/Examples/side"
-          },
-          {
-            "type": "link",
-            "label": "Cypress JS Examples",
-            "href": "/Wring_docs/docs/Examples/cypress"
-          },
-          {
-            "type": "link",
-            "label": "Convert gauge to cypress (via Live Events)",
-            "href": "/Wring_docs/docs/Examples/Gauge_test"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Wring Smart Observer",
         "collapsible": true,
         "collapsed": true,
@@ -325,6 +330,11 @@
         "type": "link",
         "label": "Supported Versions",
         "href": "/Wring_docs/docs/versions"
+      },
+      {
+        "type": "link",
+        "label": "Release Notes",
+        "href": "/Wring_docs/docs/release-notes"
       }
     ]
   }

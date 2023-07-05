@@ -7,7 +7,7 @@ You can start by adding a new project with our simple yet powerful pageviews fea
 
 ## How to create a Project in Pageviews?
 
-Simplify your life and get live events from Wring. Wring allows you to create a project from which you want to get live events by going to `Set up pageviews` and clicking on `Add new project`.
+Simplify your life and get apps from Wring. Wring allows you to create a project from which you want to get apps by going to `Set up pageviews` and clicking on `Add new project`.
 
 ![Pageview](/img/pag5.png)
 
@@ -36,7 +36,7 @@ e.__SV=1)}(document,window.wring||[]);wring.init('phc_mpnh4A9NHitMnJuC0xznUpFv2l
 Wring is the all in one solution for your application and website. The single easiest way to get started with Wring is right within your terminal and go direct to your website/application.                                                            
 Then run the following command:
 
-1. ssh `https://name-of-site.dev`, in our case `https://demo1.testgold.dev`
+1. ssh `https://name-of-site.dev`, in our case `https://demo-calendar.wring.dev`
 
 ![Pageview](/img/pag7.png)
 
@@ -48,7 +48,7 @@ Then run the following command:
 
 ![Pageview](/img/pag9.png)
 
-4. Copy/paste JS snippet from Wring platform into your html page.
+4. Copy/paste JS snippet from Wring platform into your html page. We suggest to put it in the header of your site.
 
 ![Pageview](/img/pag10.png)
 

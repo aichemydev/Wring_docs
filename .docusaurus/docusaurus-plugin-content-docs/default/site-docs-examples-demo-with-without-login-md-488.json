@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/Demo_with_without_login",
+  "id": "Examples/Demo_with_without_login",
+  "isDocsHomePage": false,
+  "title": "Sessions without login",
+  "description": "It is necessary to understand that we can easily create sessions without login.  You can do it with our Wring Smart Observer, we can showcase it step by step.",
+  "source": "@site/docs/Examples/Demo_with_without_login.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/Demo_with_without_login",
+  "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Convert gauge to cypress (via Live Events)",
+    "permalink": "/Wring_docs/docs/Examples/Gauge_test"
+  },
+  "next": {
+    "title": "Apps",
+    "permalink": "/Wring_docs/docs/Live Events/Apps"
+  }
+}

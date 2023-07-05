@@ -70,11 +70,17 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','387'),
+    component: ComponentCreator('/Wring_docs/docs','095'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
         component: ComponentCreator('/Wring_docs/docs/Examples/cypress','97f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/Demo_with_without_login',
+        component: ComponentCreator('/Wring_docs/docs/Examples/Demo_with_without_login','56a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -189,6 +195,12 @@ export default [
       {
         path: '/Wring_docs/docs/Live Events/Testsuites',
         component: ComponentCreator('/Wring_docs/docs/Live Events/Testsuites','a2e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/release-notes',
+        component: ComponentCreator('/Wring_docs/docs/release-notes','b60'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
