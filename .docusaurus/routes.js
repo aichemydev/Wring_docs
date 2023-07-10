@@ -70,7 +70,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','095'),
+    component: ComponentCreator('/Wring_docs/docs','b28'),
     routes: [
       {
         path: '/Wring_docs/docs/Examples/cypress',
@@ -87,6 +87,12 @@ export default [
       {
         path: '/Wring_docs/docs/Examples/Gauge_test',
         component: ComponentCreator('/Wring_docs/docs/Examples/Gauge_test','39c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Examples/localtunnel',
+        component: ComponentCreator('/Wring_docs/docs/Examples/localtunnel','eb0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

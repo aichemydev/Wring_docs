@@ -199,6 +199,11 @@
             "type": "link",
             "label": "Sessions without login",
             "href": "/Wring_docs/docs/Examples/Demo_with_without_login"
+          },
+          {
+            "type": "link",
+            "label": "Run Sessions with LocalTunnel",
+            "href": "/Wring_docs/docs/Examples/localtunnel"
           }
         ]
       },

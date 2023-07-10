@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sessions without login",
-    "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
+    "title": "Run Sessions with LocalTunnel",
+    "permalink": "/Wring_docs/docs/Examples/localtunnel"
   },
   "next": {
     "title": "Set Up Pageviews",

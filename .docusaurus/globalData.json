@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Examples/localtunnel",
+              "path": "/Wring_docs/docs/Examples/localtunnel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Examples/ngrok",
               "path": "/Wring_docs/docs/Examples/ngrok",
               "sidebar": "tutorialSidebar"

@@ -65,8 +65,8 @@
                 "permalink": "/Wring_docs/docs/Examples/Gauge_test"
               },
               "next": {
-                "title": "Apps",
-                "permalink": "/Wring_docs/docs/Live Events/Apps"
+                "title": "Run Sessions with LocalTunnel",
+                "permalink": "/Wring_docs/docs/Examples/localtunnel"
               }
             },
             {
@@ -93,6 +93,32 @@
               "next": {
                 "title": "Sessions without login",
                 "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
+              }
+            },
+            {
+              "unversionedId": "Examples/localtunnel",
+              "id": "Examples/localtunnel",
+              "isDocsHomePage": false,
+              "title": "Run Sessions with LocalTunnel",
+              "description": "First, install localtunnel//theboroer.github.io/localtunnel-www/.",
+              "source": "@site/docs/Examples/localtunnel.md",
+              "sourceDirName": "Examples",
+              "slug": "/Examples/localtunnel",
+              "permalink": "/Wring_docs/docs/Examples/localtunnel",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sessions without login",
+                "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
+              },
+              "next": {
+                "title": "Apps",
+                "permalink": "/Wring_docs/docs/Live Events/Apps"
               }
             },
             {
@@ -317,8 +343,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sessions without login",
-                "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
+                "title": "Run Sessions with LocalTunnel",
+                "permalink": "/Wring_docs/docs/Examples/localtunnel"
               },
               "next": {
                 "title": "Set Up Pageviews",
@@ -1419,6 +1445,10 @@
                   {
                     "type": "doc",
                     "id": "Examples/Demo_with_without_login"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Examples/localtunnel"
                   }
                 ]
               },
