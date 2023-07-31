@@ -39,28 +39,8 @@ export default [
     exact: true
   },
   {
-    path: '/Wring_docs/blog',
-    component: ComponentCreator('/Wring_docs/blog','0f4'),
-    exact: true
-  },
-  {
     path: '/Wring_docs/blog/archive',
     component: ComponentCreator('/Wring_docs/blog/archive','fd1'),
-    exact: true
-  },
-  {
-    path: '/Wring_docs/blog/introducing-Wring',
-    component: ComponentCreator('/Wring_docs/blog/introducing-Wring','9a6'),
-    exact: true
-  },
-  {
-    path: '/Wring_docs/blog/tags',
-    component: ComponentCreator('/Wring_docs/blog/tags','976'),
-    exact: true
-  },
-  {
-    path: '/Wring_docs/blog/tags/introduction',
-    component: ComponentCreator('/Wring_docs/blog/tags/introduction','1fe'),
     exact: true
   },
   {

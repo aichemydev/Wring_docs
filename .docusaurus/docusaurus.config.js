@@ -41,11 +41,6 @@ export default {
           "label": "Documentation"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/aichemydev/Wring_docs/issues",
           "label": "GitHub",
           "position": "right"
