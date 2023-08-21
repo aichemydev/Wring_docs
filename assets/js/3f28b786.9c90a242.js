@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_gold=self.webpackChunktest_gold||[]).push([[1668],{539:function(t){t.exports=JSON.parse('{"/Wring_docs/blog/tags/introduction":{"allTagsPath":"/Wring_docs/blog/tags","slug":"/Wring_docs/blog/tags/introduction","name":"Introduction","count":1,"permalink":"/Wring_docs/blog/tags/introduction"}}')}}]);
