@@ -11,7 +11,7 @@ Instructions:
 1. Download Python on your machine.
 2. After downloading Python on your machine, you have to create a virtual environments. 
 3. Install pip package.
-4. Download Python wheel in [Wring Interceptor packages](https://app.wring.dev/details/installation) and add it to the virtual environment you created for Python.
+4. Download Python wheel in [Wring Plugins packages](https://app.wring.dev/details/installation) and add it to the virtual environment you created for Python.
 
 Now you're ready to run Python Selenium examples.
 

@@ -51,7 +51,7 @@ package and our API heals your tests:
   get to the initial known-good state of an XPath/CSS selector in a Selenium
   test.
 
-- **TG_FAST_HEAL** (set to '0' by default): Every time the Wring Interceptor
+- **TG_FAST_HEAL** (set to '0' by default): Every time the Wring Plugins
   encounters an XPath or CSS selector and the resulting element selection is
   successful, it collects information on the element and the current state of
   the web page to send to the Wring API for training our healing engine. This

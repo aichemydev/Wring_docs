@@ -47,7 +47,7 @@ Gitlab. To set this up you will need to provide a few things:
 The Wring Reporter Slack app keeps your team up to date with the status of your tests to a slack channel. Get started by selecting the Slack card on the integrations page. This will redirect you to slack where you will be prompted to accept permissions and select a slack channel to receive notifications to. Once you select the `Allow` button on Slack, you will be redirected back to the integrations page.
 
 ### Jenkins
-Automate your tests with Jenkins while taking advantage of the advanced healing and intelligence offered by Wring by integrating Jenkins with the Wring Interceptor. To configure this, select your Jenkins job and add a new build step in the build environment.
+Automate your tests with Jenkins while taking advantage of the advanced healing and intelligence offered by Wring by integrating Jenkins with the Wring Plugins. To configure this, select your Jenkins job and add a new build step in the build environment.
 
 ``` bash
 #!/bin/bash
@@ -63,7 +63,7 @@ npm install selenium-webdriver-20.11.0.Wringz
 
 
 ### CircleCI
-Use the Wring Interceptor with your CircleCI builds! Getting Started with CircleCI is easy.
+Use the Wring Plugins with your CircleCI builds! Getting Started with CircleCI is easy.
 #### Creating a New Configuration
 If you are starting from scratch, we have a couple templates to help you get started.
 ```yml title="config.yml"
@@ -105,10 +105,10 @@ jobs:
       - browser-tools/install-chrome
       - browser-tools/install-chromedriver
 
-      # Now, we will configure the Wring interceptor. Make sure to add your TG_TOKEN to your project secrets.
+      # Now, we will configure the Wring Plugins. Make sure to add your TG_TOKEN to your project secrets.
       # For a full list of interceptor options check out the documentation: https://Wring.readthedocs.io/en/latest/externaluse.html
       - run:
-          name: Download and Configure Wring Interceptor
+          name: Download and Configure Wring Plugins
           command: |
             wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
             pip install selenium-20.11.0-py2.py3-none-any.whl -U
@@ -140,11 +140,11 @@ You will need to add a TG_TOKEN to your project secrets on CircleCI. For more in
 
 
 #### Adding Wring to your Existing Configurations
-If you already have a config with CircleCI to run your Selenium Scripts, then the only thing you need to do is add a new run to configure the Wring Interceptor.
+If you already have a config with CircleCI to run your Selenium Scripts, then the only thing you need to do is add a new run to configure the Wring Plugins.
 
 ```yml title="config.yml"
 - run:
-    name: Download and Configure Wring Interceptor
+    name: Download and Configure Wring Plugins
     command: |
       wget https://Wringapiutils.blob.core.windows.net/interceptor-packages/selenium-20.11.0-py2.py3-none-any.whl -O selenium-20.11.0-py2.py3-none-any.whl
       pip install selenium-20.11.0-py2.py3-none-any.whl -U
@@ -158,12 +158,12 @@ You will need to add a TG_TOKEN to your project secrets on CircleCI. For more in
 
 :::
 
-This will now use the Wring interceptor as the default selenium package. To learn more about using the interceptor, see the documentation at:
+This will now use the Wring Plugins as the default selenium package. To learn more about using the interceptor, see the documentation at:
 
 ### Travis CI
-Use the Wring Interceptor with Travis CI in a couple simple steps.
+Use the Wring Plugins with Travis CI in a couple simple steps.
 
-In this example, we setup the Wring Interceptor for Selenium Python.
+In this example, we setup the Wring Plugins for Selenium Python.
 ```yml title=".travis.yml"
 sudo: required
 language: python

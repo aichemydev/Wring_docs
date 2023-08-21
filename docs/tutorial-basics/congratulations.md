@@ -10,7 +10,7 @@ Remember, if at any point you want to reference the documentation, **the link is
 
 ## What's next?
 
-- Configuring the ***Wring Interceptor***.
+- Configuring the ***Wring Plugins***.
 - Check ***Supported Versions***.
 - Read our ***Security Highlights***.
 
