@@ -68,15 +68,6 @@ export default {
               "href": "https://github.com/aichemydev/Wring_docs/issues"
             }
           ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            }
-          ]
         }
       ],
       "copyright": "Copyright © 2023 AiChemy Inc."
