@@ -12,11 +12,11 @@ To commence, the first step involves leveraging our intuitive yet robust Apps fe
 
 Simplify your life and get apps from Wring. Wring allows you to create a project from which you want to get apps by going to `Set up Apps` and clicking on `Add new project`.
 
-![Pageview](/img/pag5.png)
+![Session Replay](/img/pag5.png)
 
 Wring allows you to easily generate a project for your first-time build. After the app is successfully created, the interface will resemble the following configuration:
 
-![Pageview](/img/pag6.png)
+![Session Replay](/img/pag6.png)
 
 Copy the JS snippet from Wring and paste it into your html page.
 
@@ -41,28 +41,28 @@ Then run the following command:
 
 1. ssh `https://name-of-site.dev`, in our case `https://demo-calendar.wring.dev`
 
-![Pageview](/img/pag7.png)
+![Session Replay](/img/pag7.png)
 
 2. Navigate to where you have stored your website folder by using cd, for example: `cd ~/dev/demosites/demo1`
 
-![Pageview](/img/pag8.png)
+![Session Replay](/img/pag8.png)
 
 3. Type `wim web/public/index.html` to go to your html page
 
-![Pageview](/img/pag9.png)
+![Session Replay](/img/pag9.png)
 
 4. Copy/paste JS snippet from Wring platform into your html page. We suggest to put it in the header of your site.
 
-![Pageview](/img/pag10.png)
+![Session Replay](/img/pag10.png)
 
 5. In Wring/Live Event tab you will see your project `Test`.
 
 
-![Pageview](/img/pag6.png)
+![Session Replay](/img/pag6.png)
 
 Upon creating the app, you will encounter a set of buttons, each serving a distinct purpose within the interface. Let's delve into the functionalities they offer:
 
-![Pageview](/img/pag11.png)
+![Session Replay](/img/pag11.png)
 
 1. **Edit Project:**
 
