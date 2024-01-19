@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations copy/Scheduled",
+  "id": "tutorial-basics/Integrations copy/Scheduled",
+  "isDocsHomePage": false,
+  "title": "Scheduled Runs",
+  "description": "Wring is the easiest way to schedule your test runs for every day, every week, or any other days you want.",
+  "source": "@site/docs/tutorial-basics/Integrations copy/Scheduled.md",
+  "sourceDirName": "tutorial-basics/Integrations copy",
+  "slug": "/tutorial-basics/Integrations copy/Scheduled",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Integrations copy/Scheduled",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Triggered runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations copy/Triggers"
+  },
+  "next": {
+    "title": "Authentication Integrations",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations copy/example"
+  }
+}

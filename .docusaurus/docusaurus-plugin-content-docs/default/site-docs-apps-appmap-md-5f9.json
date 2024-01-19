@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Appmap",
+  "id": "APPS/Appmap",
+  "isDocsHomePage": false,
+  "title": "Appmap",
+  "description": "\"Appmap\" serves as a utility that empowers the visualization and analysis of critical user action flows within a web application. This tool facilitates the detailed examination of transitions between web pages and user actions within a singular page. The representation of web page transitions takes the form of a directed graph, wherein nodes depict distinct web pages accompanied by screenshots, and edges symbolize user actions. This graphical representation provides a comprehensive overview, enabling a thorough analysis of the intricate interactions and user journeys within the web application.",
+  "source": "@site/docs/APPS/Appmap.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Appmap",
+  "permalink": "/Wring_docs/docs/APPS/Appmap",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apps - Step by step",
+    "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
+  },
+  "next": {
+    "title": "Replay",
+    "permalink": "/Wring_docs/docs/APPS/Replay"
+  }
+}

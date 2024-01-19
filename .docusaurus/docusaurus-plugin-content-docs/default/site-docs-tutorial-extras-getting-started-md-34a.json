@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Congratulations!",
-    "permalink": "/Wring_docs/docs/tutorial-basics/congratulations"
+    "title": "Dashboard",
+    "permalink": "/Wring_docs/docs/Dash"
   },
   "next": {
     "title": "Customizing Interceptor Execution",

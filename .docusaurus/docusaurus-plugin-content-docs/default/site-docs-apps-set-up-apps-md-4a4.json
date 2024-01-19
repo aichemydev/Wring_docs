@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Set Up Apps",
+  "id": "APPS/Set Up Apps",
+  "isDocsHomePage": false,
+  "title": "Set Up Apps",
+  "description": "This section serves as a comprehensive step-by-step guide for initiating your project. It provides detailed information on what actions to take, the methodology to follow, and the optimal timing for each step in the process.",
+  "source": "@site/docs/APPS/Set Up Apps.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Set Up Apps",
+  "permalink": "/Wring_docs/docs/APPS/Set Up Apps",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started",
+    "permalink": "/Wring_docs/docs/APPS/Get Started"
+  },
+  "next": {
+    "title": "Apps - Step by step",
+    "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations copy/integration",
+  "id": "tutorial-basics/Integrations copy/integration",
+  "isDocsHomePage": false,
+  "title": "CI Integrations",
+  "description": "Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+  "source": "@site/docs/tutorial-basics/Integrations copy/integration.md",
+  "sourceDirName": "tutorial-basics/Integrations copy",
+  "slug": "/tutorial-basics/Integrations copy/integration",
+  "permalink": "/Wring_docs/docs/tutorial-basics/Integrations copy/integration",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations copy/Installation"
+  },
+  "next": {
+    "title": "Triggered runs",
+    "permalink": "/Wring_docs/docs/tutorial-basics/Integrations copy/Triggers"
+  }
+}

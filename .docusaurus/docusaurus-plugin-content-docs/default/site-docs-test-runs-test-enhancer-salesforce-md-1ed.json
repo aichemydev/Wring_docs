@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Runs/Test Enhancer/Salesforce",
+  "id": "Test Runs/Test Enhancer/Salesforce",
+  "isDocsHomePage": false,
+  "title": "Salesforce Import Data",
+  "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.  This is a very helpful tool for those who have an existing Salesforce account, but can't find their test variables.",
+  "source": "@site/docs/Test Runs/Test Enhancer/Salesforce.md",
+  "sourceDirName": "Test Runs/Test Enhancer",
+  "slug": "/Test Runs/Test Enhancer/Salesforce",
+  "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Salesforce",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data File Upload Variables",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/Wring_docs/docs/Connect/Installation"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Connect/schedules",
+  "id": "Connect/schedules",
+  "isDocsHomePage": false,
+  "title": "Schedules",
+  "description": "",
+  "source": "@site/docs/Connect/schedules.md",
+  "sourceDirName": "Connect",
+  "slug": "/Connect/schedules",
+  "permalink": "/Wring_docs/docs/Connect/schedules",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scheduled Runs",
+    "permalink": "/Wring_docs/docs/Connect/Scheduled"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/Wring_docs/docs/Connect/tutorial-extras/getting-started"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Get Started",
+  "id": "APPS/Get Started",
+  "isDocsHomePage": false,
+  "title": "Get Started",
+  "description": "Introduction",
+  "source": "@site/docs/APPS/Get Started.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Get Started",
+  "permalink": "/Wring_docs/docs/APPS/Get Started",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/Wring_docs/docs/Dash"
+  },
+  "next": {
+    "title": "Set Up Apps",
+    "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+  }
+}

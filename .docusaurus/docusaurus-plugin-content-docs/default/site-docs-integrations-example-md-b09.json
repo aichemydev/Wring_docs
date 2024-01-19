@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Integrations/example",
+  "id": "Integrations/example",
+  "isDocsHomePage": false,
+  "title": "Authentication Integrations",
+  "description": "Wring is built to be enterprise friendly. Integrations to authentication systems are supported internally via KeyCloak. Our admin console allows access to Keycloak for authentication.",
+  "source": "@site/docs/Integrations/example.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/example",
+  "permalink": "/Wring_docs/docs/Integrations/example",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scheduled Runs",
+    "permalink": "/Wring_docs/docs/Integrations/Scheduled"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
+  }
+}

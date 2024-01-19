@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Replay",
+  "id": "APPS/Replay",
+  "isDocsHomePage": false,
+  "title": "Replay",
+  "description": "How to use sessions?",
+  "source": "@site/docs/APPS/Replay.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Replay",
+  "permalink": "/Wring_docs/docs/APPS/Replay",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Appmap",
+    "permalink": "/Wring_docs/docs/APPS/Appmap"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/Wring_docs/docs/APPS/Api"
+  }
+}

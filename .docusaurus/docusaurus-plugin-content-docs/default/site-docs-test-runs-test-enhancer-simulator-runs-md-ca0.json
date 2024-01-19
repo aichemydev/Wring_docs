@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Runs/Test Enhancer/Simulator Runs",
+  "id": "Test Runs/Test Enhancer/Simulator Runs",
+  "isDocsHomePage": false,
+  "title": "Expander Runs",
+  "description": "Expander Feature",
+  "source": "@site/docs/Test Runs/Test Enhancer/Simulator Runs.md",
+  "sourceDirName": "Test Runs/Test Enhancer",
+  "slug": "/Test Runs/Test Enhancer/Simulator Runs",
+  "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started with Expander",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started"
+  },
+  "next": {
+    "title": "Data File Upload Variables",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
+  }
+}

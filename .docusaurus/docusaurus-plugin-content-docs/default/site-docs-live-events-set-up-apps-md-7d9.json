@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Set Up Apps",
+  "id": "Live Events/Set Up Apps",
+  "isDocsHomePage": false,
+  "title": "Set Up Apps",
+  "description": "This section serves as a comprehensive step-by-step guide for initiating your project. It provides detailed information on what actions to take, the methodology to follow, and the optimal timing for each step in the process.",
+  "source": "@site/docs/Live Events/Set Up Apps.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Set Up Apps",
+  "permalink": "/Wring_docs/docs/Live Events/Set Up Apps",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started",
+    "permalink": "/Wring_docs/docs/Live Events/Get Started"
+  },
+  "next": {
+    "title": "Get Started with Expander",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started"
+  }
+}

@@ -50,59 +50,101 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','b28'),
+    component: ComponentCreator('/Wring_docs/docs','614'),
     routes: [
       {
-        path: '/Wring_docs/docs/Examples/cypress',
-        component: ComponentCreator('/Wring_docs/docs/Examples/cypress','97f'),
+        path: '/Wring_docs/docs/APPS/Api',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Api','da2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/Demo_with_without_login',
-        component: ComponentCreator('/Wring_docs/docs/Examples/Demo_with_without_login','56a'),
+        path: '/Wring_docs/docs/APPS/Appmap',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Appmap','3f5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/Gauge_test',
-        component: ComponentCreator('/Wring_docs/docs/Examples/Gauge_test','39c'),
+        path: '/Wring_docs/docs/APPS/Get Started',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Get Started','af7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/localtunnel',
-        component: ComponentCreator('/Wring_docs/docs/Examples/localtunnel','eb0'),
+        path: '/Wring_docs/docs/APPS/Replay',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Replay','f34'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/ngrok',
-        component: ComponentCreator('/Wring_docs/docs/Examples/ngrok','af5'),
+        path: '/Wring_docs/docs/APPS/Set Up Apps',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Set Up Apps','8cd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/Selenium-Java',
-        component: ComponentCreator('/Wring_docs/docs/Examples/Selenium-Java','87d'),
+        path: '/Wring_docs/docs/APPS/Step-by-Step',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Step-by-Step','7c9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/Selenium-JS',
-        component: ComponentCreator('/Wring_docs/docs/Examples/Selenium-JS','95c'),
+        path: '/Wring_docs/docs/APPS/Testsuite',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Testsuite','9d3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/Selenium-Python',
-        component: ComponentCreator('/Wring_docs/docs/Examples/Selenium-Python','6bb'),
+        path: '/Wring_docs/docs/Connect/example',
+        component: ComponentCreator('/Wring_docs/docs/Connect/example','ebd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Examples/side',
-        component: ComponentCreator('/Wring_docs/docs/Examples/side','efe'),
+        path: '/Wring_docs/docs/Connect/Installation',
+        component: ComponentCreator('/Wring_docs/docs/Connect/Installation','54c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Connect/integration',
+        component: ComponentCreator('/Wring_docs/docs/Connect/integration','732'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Connect/Scheduled',
+        component: ComponentCreator('/Wring_docs/docs/Connect/Scheduled','425'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Connect/Triggers',
+        component: ComponentCreator('/Wring_docs/docs/Connect/Triggers','5e0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor',
+        component: ComponentCreator('/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor','b71'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Connect/tutorial-extras/getting-started',
+        component: ComponentCreator('/Wring_docs/docs/Connect/tutorial-extras/getting-started','783'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Connect/tutorial-extras/wring-android',
+        component: ComponentCreator('/Wring_docs/docs/Connect/tutorial-extras/wring-android','700'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Dash',
+        component: ComponentCreator('/Wring_docs/docs/Dash','3dd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -119,224 +161,50 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Live Events/Appmap',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Appmap','e50'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Apps',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Apps','841'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/capture-api-calls',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/capture-api-calls','bec'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Get Started with Pageviews',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Get Started with Pageviews','740'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Key Flows',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Key Flows','71a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Multiple sessions with Pageviews',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Multiple sessions with Pageviews','b9f'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Set Up Pageviews',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Set Up Pageviews','0dd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html','c64'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react','462'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Shared testsuites',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Shared testsuites','538'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Live Events/Testsuites',
-        component: ComponentCreator('/Wring_docs/docs/Live Events/Testsuites','a2e'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/Wring_docs/docs/release-notes',
         component: ComponentCreator('/Wring_docs/docs/release-notes','b60'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/assertion',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/assertion','127'),
+        path: '/Wring_docs/docs/Test Runs/Details/Advanced',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Details/Advanced','19c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/buttons',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/buttons','f06'),
+        path: '/Wring_docs/docs/Test Runs/Details/overview',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Details/overview','cba'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/Get started - Build',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/Get started - Build','7da'),
+        path: '/Wring_docs/docs/Test Runs/Details/Run_steps',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Details/Run_steps','d22'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/Introduction',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/Introduction','f32'),
+        path: '/Wring_docs/docs/Test Runs/Test Enhancer/Datafile',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Test Enhancer/Datafile','fd7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/recorder',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/recorder','e94'),
+        path: '/Wring_docs/docs/Test Runs/Test Enhancer/Get Started',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Test Enhancer/Get Started','4d8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/tests',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/tests','0ee'),
+        path: '/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs','b87'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/TG Smart Observer/Tutorials',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/Tutorials','483'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/TG Smart Observer/view',
-        component: ComponentCreator('/Wring_docs/docs/TG Smart Observer/view','a9b'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/congratulations','51a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Dashboard',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Dashboard','c6a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Integrations/Installation',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/Installation','250'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Integrations/integration',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/integration','007'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Integrations/Scheduled',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/Scheduled','c13'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Integrations/Triggers',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Integrations/Triggers','336'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Overview Page/overview',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Overview Page/overview','7bd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite','9f8'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced','cbb'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps','82d'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile','6e6'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started','dc9'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce','894'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs','f41'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-extras/customizing-interceptor',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/customizing-interceptor','a7c'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-extras/getting-started',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/getting-started','492'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/tutorial-extras/wring-android',
-        component: ComponentCreator('/Wring_docs/docs/tutorial-extras/wring-android','aa1'),
+        path: '/Wring_docs/docs/Test Runs/Test Runs',
+        component: ComponentCreator('/Wring_docs/docs/Test Runs/Test Runs','99f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

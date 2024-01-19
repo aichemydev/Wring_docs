@@ -21,7 +21,7 @@ Wring can be up and running in your environment in less than 10 minutes without 
 
 The first step is **creating a new account**.
 
-Click here to go to the registration page: **[Wring Registration](https://app.wring.dev/register)**.
+Click here to go to the registration page: **[Wring Registration](https://keycloak.dev.wring.dev/realms/Wring/protocol/openid-connect/auth?response_type=code&client_id=Wring-client&redirect_uri=https%3A%2F%2Fdev.wring.dev%2Finterceptor%2Fauth%2Fv1%2Foauth2%2Fkeycloak&scope=openid+email+profile)**.
 You can either choose to sign up using Github, Google or enter a suitable email and password.
 
 After signing up, you will receive an email from the Wring team. Click on the link contained in the email to verify your account. Once verified, your user profile will be activated by the Wring team within 24 hours. You now have a unique Token known as `TG_TOKEN`. This enables you to run scripts using Wring

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Capture Android Events",
-    "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
+    "title": "Authentication Integrations",
+    "permalink": "/Wring_docs/docs/Connect/example"
   },
   "next": {
     "title": "Selenium Python Examples",

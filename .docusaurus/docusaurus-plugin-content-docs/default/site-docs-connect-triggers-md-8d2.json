@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Connect/Triggers",
+  "id": "Connect/Triggers",
+  "isDocsHomePage": false,
+  "title": "Triggered runs",
+  "description": "The Wring platform can execute test runs based on a trigger from an external",
+  "source": "@site/docs/Connect/Triggers.md",
+  "sourceDirName": "Connect",
+  "slug": "/Connect/Triggers",
+  "permalink": "/Wring_docs/docs/Connect/Triggers",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CI Integrations",
+    "permalink": "/Wring_docs/docs/Connect/integration"
+  },
+  "next": {
+    "title": "Scheduled Runs",
+    "permalink": "/Wring_docs/docs/Connect/Scheduled"
+  }
+}

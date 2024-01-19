@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Connect/tutorial-extras/customizing-interceptor",
+  "id": "Connect/tutorial-extras/customizing-interceptor",
+  "isDocsHomePage": false,
+  "title": "Customizing Interceptor Execution",
+  "description": "You may set the following environment variables to customize how the Interceptor",
+  "source": "@site/docs/Connect/tutorial-extras/customizing-interceptor.md",
+  "sourceDirName": "Connect/tutorial-extras",
+  "slug": "/Connect/tutorial-extras/customizing-interceptor",
+  "permalink": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/Wring_docs/docs/Connect/tutorial-extras/getting-started"
+  },
+  "next": {
+    "title": "Capture Android Events",
+    "permalink": "/Wring_docs/docs/Connect/tutorial-extras/wring-android"
+  }
+}

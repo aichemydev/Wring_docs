@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Shared testsuites",
-    "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
+    "title": "Appmap",
+    "permalink": "/Wring_docs/docs/Live Events/Appmap"
   },
   "next": {
-    "title": "Multiple Sessions with Pageviews",
-    "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
+    "title": "JavaScript",
+    "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
   }
 }

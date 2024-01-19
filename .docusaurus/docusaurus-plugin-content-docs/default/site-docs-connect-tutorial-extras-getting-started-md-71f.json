@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Connect/tutorial-extras/getting-started",
+  "id": "Connect/tutorial-extras/getting-started",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "We support direct calls to our healing API from Selenium and Cypress tests",
+  "source": "@site/docs/Connect/tutorial-extras/getting-started.md",
+  "sourceDirName": "Connect/tutorial-extras",
+  "slug": "/Connect/tutorial-extras/getting-started",
+  "permalink": "/Wring_docs/docs/Connect/tutorial-extras/getting-started",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scheduled Runs",
+    "permalink": "/Wring_docs/docs/Connect/Scheduled"
+  },
+  "next": {
+    "title": "Customizing Interceptor Execution",
+    "permalink": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor"
+  }
+}

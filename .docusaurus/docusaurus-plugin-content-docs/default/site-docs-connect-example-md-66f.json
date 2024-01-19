@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Connect/example",
+  "id": "Connect/example",
+  "isDocsHomePage": false,
+  "title": "Authentication Integrations",
+  "description": "Wring is built to be enterprise friendly. Integrations to authentication systems are supported internally via KeyCloak. Our admin console allows access to Keycloak for authentication.",
+  "source": "@site/docs/Connect/example.md",
+  "sourceDirName": "Connect",
+  "slug": "/Connect/example",
+  "permalink": "/Wring_docs/docs/Connect/example",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capture Android Events",
+    "permalink": "/Wring_docs/docs/Connect/tutorial-extras/wring-android"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
+  }
+}

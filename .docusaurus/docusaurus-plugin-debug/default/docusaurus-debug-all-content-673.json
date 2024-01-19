@@ -18,67 +18,15 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "unversionedId": "Examples/cypress",
-              "id": "Examples/cypress",
+              "unversionedId": "APPS/Api",
+              "id": "APPS/Api",
               "isDocsHomePage": false,
-              "title": "Cypress JS Examples",
-              "description": "How to run Cypress JS",
-              "source": "@site/docs/Examples/cypress.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/cypress",
-              "permalink": "/Wring_docs/docs/Examples/cypress",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Side file - Expander Example",
-                "permalink": "/Wring_docs/docs/Examples/side"
-              },
-              "next": {
-                "title": "Convert gauge to cypress (via Live Events)",
-                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
-              }
-            },
-            {
-              "unversionedId": "Examples/Demo_with_without_login",
-              "id": "Examples/Demo_with_without_login",
-              "isDocsHomePage": false,
-              "title": "Sessions without login",
-              "description": "It is necessary to understand that we can easily create sessions without login.  You can do it with our Wring Smart Observer, we can showcase it step by step.",
-              "source": "@site/docs/Examples/Demo_with_without_login.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/Demo_with_without_login",
-              "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {
-                "sidebar_position": 9
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Convert gauge to cypress (via Live Events)",
-                "permalink": "/Wring_docs/docs/Examples/Gauge_test"
-              },
-              "next": {
-                "title": "Run Sessions with LocalTunnel",
-                "permalink": "/Wring_docs/docs/Examples/localtunnel"
-              }
-            },
-            {
-              "unversionedId": "Examples/Gauge_test",
-              "id": "Examples/Gauge_test",
-              "isDocsHomePage": false,
-              "title": "Convert gauge to cypress (via Live Events)",
-              "description": "How to run gauge tests?",
-              "source": "@site/docs/Examples/Gauge_test.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/Gauge_test",
-              "permalink": "/Wring_docs/docs/Examples/Gauge_test",
+              "title": "API",
+              "description": "coming soon",
+              "source": "@site/docs/APPS/Api.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Api",
+              "permalink": "/Wring_docs/docs/APPS/Api",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -87,50 +35,24 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Cypress JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/cypress"
+                "title": "Replay",
+                "permalink": "/Wring_docs/docs/APPS/Replay"
               },
               "next": {
-                "title": "Sessions without login",
-                "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
+                "title": "Testsuite",
+                "permalink": "/Wring_docs/docs/APPS/Testsuite"
               }
             },
             {
-              "unversionedId": "Examples/localtunnel",
-              "id": "Examples/localtunnel",
+              "unversionedId": "APPS/Appmap",
+              "id": "APPS/Appmap",
               "isDocsHomePage": false,
-              "title": "Run Sessions with LocalTunnel",
-              "description": "First, install localtunnel//theboroer.github.io/localtunnel-www/.",
-              "source": "@site/docs/Examples/localtunnel.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/localtunnel",
-              "permalink": "/Wring_docs/docs/Examples/localtunnel",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 10,
-              "frontMatter": {
-                "sidebar_position": 10
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Sessions without login",
-                "permalink": "/Wring_docs/docs/Examples/Demo_with_without_login"
-              },
-              "next": {
-                "title": "Apps",
-                "permalink": "/Wring_docs/docs/Live Events/Apps"
-              }
-            },
-            {
-              "unversionedId": "Examples/ngrok",
-              "id": "Examples/ngrok",
-              "isDocsHomePage": false,
-              "title": "Run Sessions with Ngrok",
-              "description": "First, install ngrok//ngrok.com/download. You may need to sign up for their service, but it is free.",
-              "source": "@site/docs/Examples/ngrok.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/ngrok",
-              "permalink": "/Wring_docs/docs/Examples/ngrok",
+              "title": "Appmap",
+              "description": "\"Appmap\" serves as a utility that empowers the visualization and analysis of critical user action flows within a web application. This tool facilitates the detailed examination of transitions between web pages and user actions within a singular page. The representation of web page transitions takes the form of a directed graph, wherein nodes depict distinct web pages accompanied by screenshots, and edges symbolize user actions. This graphical representation provides a comprehensive overview, enabling a thorough analysis of the intricate interactions and user journeys within the web application.",
+              "source": "@site/docs/APPS/Appmap.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Appmap",
+              "permalink": "/Wring_docs/docs/APPS/Appmap",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -139,50 +61,24 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Selenium Java Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+                "title": "Apps - Step by step",
+                "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
               },
               "next": {
-                "title": "Side file - Expander Example",
-                "permalink": "/Wring_docs/docs/Examples/side"
+                "title": "Replay",
+                "permalink": "/Wring_docs/docs/APPS/Replay"
               }
             },
             {
-              "unversionedId": "Examples/Selenium-Java",
-              "id": "Examples/Selenium-Java",
+              "unversionedId": "APPS/Get Started",
+              "id": "APPS/Get Started",
               "isDocsHomePage": false,
-              "title": "Selenium Java Examples",
-              "description": "Java Selenium testing provides thorough and functioning test cases that can test every aspect of your application. The Wring service generates robust selectors, heals broken selectors, and helps maintains your Java Selenium tests.",
-              "source": "@site/docs/Examples/Selenium-Java.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/Selenium-Java",
-              "permalink": "/Wring_docs/docs/Examples/Selenium-Java",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Selenium Python Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-Python"
-              },
-              "next": {
-                "title": "Run Sessions with Ngrok",
-                "permalink": "/Wring_docs/docs/Examples/ngrok"
-              }
-            },
-            {
-              "unversionedId": "Examples/Selenium-JS",
-              "id": "Examples/Selenium-JS",
-              "isDocsHomePage": false,
-              "title": "Selenium JS Examples",
-              "description": "How to run Selenium JS?",
-              "source": "@site/docs/Examples/Selenium-JS.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/Selenium-JS",
-              "permalink": "/Wring_docs/docs/Examples/Selenium-JS",
+              "title": "Get Started",
+              "description": "Introduction",
+              "source": "@site/docs/APPS/Get Started.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Get Started",
+              "permalink": "/Wring_docs/docs/APPS/Get Started",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -191,24 +87,50 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Capture Android Events",
-                "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/Dash"
               },
               "next": {
-                "title": "Selenium Python Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-Python"
+                "title": "Set Up Apps",
+                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
               }
             },
             {
-              "unversionedId": "Examples/Selenium-Python",
-              "id": "Examples/Selenium-Python",
+              "unversionedId": "APPS/Replay",
+              "id": "APPS/Replay",
               "isDocsHomePage": false,
-              "title": "Selenium Python Examples",
-              "description": "How to run Selenium Python?",
-              "source": "@site/docs/Examples/Selenium-Python.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/Selenium-Python",
-              "permalink": "/Wring_docs/docs/Examples/Selenium-Python",
+              "title": "Replay",
+              "description": "How to use sessions?",
+              "source": "@site/docs/APPS/Replay.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Replay",
+              "permalink": "/Wring_docs/docs/APPS/Replay",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Appmap",
+                "permalink": "/Wring_docs/docs/APPS/Appmap"
+              },
+              "next": {
+                "title": "API",
+                "permalink": "/Wring_docs/docs/APPS/Api"
+              }
+            },
+            {
+              "unversionedId": "APPS/Set Up Apps",
+              "id": "APPS/Set Up Apps",
+              "isDocsHomePage": false,
+              "title": "Set Up Apps",
+              "description": "This section serves as a comprehensive step-by-step guide for initiating your project. It provides detailed information on what actions to take, the methodology to follow, and the optimal timing for each step in the process.",
+              "source": "@site/docs/APPS/Set Up Apps.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Set Up Apps",
+              "permalink": "/Wring_docs/docs/APPS/Set Up Apps",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -217,38 +139,298 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Selenium JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+                "title": "Get Started",
+                "permalink": "/Wring_docs/docs/APPS/Get Started"
               },
               "next": {
-                "title": "Selenium Java Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-Java"
+                "title": "Apps - Step by step",
+                "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
               }
             },
             {
-              "unversionedId": "Examples/side",
-              "id": "Examples/side",
+              "unversionedId": "APPS/Step-by-Step",
+              "id": "APPS/Step-by-Step",
               "isDocsHomePage": false,
-              "title": "Side file - Expander Example",
-              "description": "How to run Expander for side files?",
-              "source": "@site/docs/Examples/side.md",
-              "sourceDirName": "Examples",
-              "slug": "/Examples/side",
-              "permalink": "/Wring_docs/docs/Examples/side",
+              "title": "Apps - Step by step",
+              "description": "Once you've recorded sessions and incorporated them into your project, you gain the capability to explore additional integrations within our platform",
+              "source": "@site/docs/APPS/Step-by-Step.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Step-by-Step",
+              "permalink": "/Wring_docs/docs/APPS/Step-by-Step",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Run Sessions with Ngrok",
-                "permalink": "/Wring_docs/docs/Examples/ngrok"
+                "title": "Set Up Apps",
+                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
               },
               "next": {
-                "title": "Cypress JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/cypress"
+                "title": "Appmap",
+                "permalink": "/Wring_docs/docs/APPS/Appmap"
+              }
+            },
+            {
+              "unversionedId": "APPS/Testsuite",
+              "id": "APPS/Testsuite",
+              "isDocsHomePage": false,
+              "title": "Testsuite",
+              "description": "A testsuite is a collection of test cases that are designed to test the functionality of a software system or application. We create a testsuite to get all our tests there so we can run them easily. By creating a testsuite, we centralize our tests, enabling efficient and straightforward execution, contributing to a more organized and comprehensive testing approach.",
+              "source": "@site/docs/APPS/Testsuite.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Testsuite",
+              "permalink": "/Wring_docs/docs/APPS/Testsuite",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API",
+                "permalink": "/Wring_docs/docs/APPS/Api"
+              },
+              "next": {
+                "title": "Test Runs Overview",
+                "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
+              }
+            },
+            {
+              "unversionedId": "Connect/example",
+              "id": "Connect/example",
+              "isDocsHomePage": false,
+              "title": "Authentication Integrations",
+              "description": "Wring is built to be enterprise friendly. Integrations to authentication systems are supported internally via KeyCloak. Our admin console allows access to Keycloak for authentication.",
+              "source": "@site/docs/Connect/example.md",
+              "sourceDirName": "Connect",
+              "slug": "/Connect/example",
+              "permalink": "/Wring_docs/docs/Connect/example",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Capture Android Events",
+                "permalink": "/Wring_docs/docs/Connect/tutorial-extras/wring-android"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/Wring_docs/docs/faq"
+              }
+            },
+            {
+              "unversionedId": "Connect/Installation",
+              "id": "Connect/Installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "For the latest instructions on how to install Wring Plugins, please visit our installation page. You'll find quick instructions for installing Wring Plugins for Selenium and Cypress in the languages that we support.",
+              "source": "@site/docs/Connect/Installation.md",
+              "sourceDirName": "Connect",
+              "slug": "/Connect/Installation",
+              "permalink": "/Wring_docs/docs/Connect/Installation",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data File Upload Variables",
+                "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
+              },
+              "next": {
+                "title": "CI Integrations",
+                "permalink": "/Wring_docs/docs/Connect/integration"
+              }
+            },
+            {
+              "unversionedId": "Connect/integration",
+              "id": "Connect/integration",
+              "isDocsHomePage": false,
+              "title": "CI Integrations",
+              "description": "Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+              "source": "@site/docs/Connect/integration.md",
+              "sourceDirName": "Connect",
+              "slug": "/Connect/integration",
+              "permalink": "/Wring_docs/docs/Connect/integration",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/Wring_docs/docs/Connect/Installation"
+              },
+              "next": {
+                "title": "Triggered runs",
+                "permalink": "/Wring_docs/docs/Connect/Triggers"
+              }
+            },
+            {
+              "unversionedId": "Connect/Scheduled",
+              "id": "Connect/Scheduled",
+              "isDocsHomePage": false,
+              "title": "Scheduled Runs",
+              "description": "Wring is the easiest way to schedule your test runs for every day, every week, or any other days you want.",
+              "source": "@site/docs/Connect/Scheduled.md",
+              "sourceDirName": "Connect",
+              "slug": "/Connect/Scheduled",
+              "permalink": "/Wring_docs/docs/Connect/Scheduled",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Triggered runs",
+                "permalink": "/Wring_docs/docs/Connect/Triggers"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/Wring_docs/docs/Connect/tutorial-extras/getting-started"
+              }
+            },
+            {
+              "unversionedId": "Connect/Triggers",
+              "id": "Connect/Triggers",
+              "isDocsHomePage": false,
+              "title": "Triggered runs",
+              "description": "The Wring platform can execute test runs based on a trigger from an external",
+              "source": "@site/docs/Connect/Triggers.md",
+              "sourceDirName": "Connect",
+              "slug": "/Connect/Triggers",
+              "permalink": "/Wring_docs/docs/Connect/Triggers",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CI Integrations",
+                "permalink": "/Wring_docs/docs/Connect/integration"
+              },
+              "next": {
+                "title": "Scheduled Runs",
+                "permalink": "/Wring_docs/docs/Connect/Scheduled"
+              }
+            },
+            {
+              "unversionedId": "Connect/tutorial-extras/customizing-interceptor",
+              "id": "Connect/tutorial-extras/customizing-interceptor",
+              "isDocsHomePage": false,
+              "title": "Customizing Interceptor Execution",
+              "description": "You may set the following environment variables to customize how the Interceptor",
+              "source": "@site/docs/Connect/tutorial-extras/customizing-interceptor.md",
+              "sourceDirName": "Connect/tutorial-extras",
+              "slug": "/Connect/tutorial-extras/customizing-interceptor",
+              "permalink": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/Wring_docs/docs/Connect/tutorial-extras/getting-started"
+              },
+              "next": {
+                "title": "Capture Android Events",
+                "permalink": "/Wring_docs/docs/Connect/tutorial-extras/wring-android"
+              }
+            },
+            {
+              "unversionedId": "Connect/tutorial-extras/getting-started",
+              "id": "Connect/tutorial-extras/getting-started",
+              "isDocsHomePage": false,
+              "title": "Getting Started",
+              "description": "We support direct calls to our healing API from Selenium and Cypress tests",
+              "source": "@site/docs/Connect/tutorial-extras/getting-started.md",
+              "sourceDirName": "Connect/tutorial-extras",
+              "slug": "/Connect/tutorial-extras/getting-started",
+              "permalink": "/Wring_docs/docs/Connect/tutorial-extras/getting-started",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Scheduled Runs",
+                "permalink": "/Wring_docs/docs/Connect/Scheduled"
+              },
+              "next": {
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor"
+              }
+            },
+            {
+              "unversionedId": "Connect/tutorial-extras/wring-android",
+              "id": "Connect/tutorial-extras/wring-android",
+              "isDocsHomePage": false,
+              "title": "Capture Android Events",
+              "description": "The wringandroid library for Android allows you to capture user interaction",
+              "source": "@site/docs/Connect/tutorial-extras/wring-android.md",
+              "sourceDirName": "Connect/tutorial-extras",
+              "slug": "/Connect/tutorial-extras/wring-android",
+              "permalink": "/Wring_docs/docs/Connect/tutorial-extras/wring-android",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Customizing Interceptor Execution",
+                "permalink": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor"
+              },
+              "next": {
+                "title": "Authentication Integrations",
+                "permalink": "/Wring_docs/docs/Connect/example"
+              }
+            },
+            {
+              "unversionedId": "Dash",
+              "id": "Dash",
+              "isDocsHomePage": false,
+              "title": "Dashboard",
+              "description": "Welcome to the Dashboard!",
+              "source": "@site/docs/Dash.md",
+              "sourceDirName": ".",
+              "slug": "/Dash",
+              "permalink": "/Wring_docs/docs/Dash",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/Wring_docs/docs/intro"
+              },
+              "next": {
+                "title": "Get Started",
+                "permalink": "/Wring_docs/docs/APPS/Get Started"
               }
             },
             {
@@ -263,14 +445,14 @@
               "permalink": "/Wring_docs/docs/faq",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Wring Smart Observer Commands",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/assertion"
+                "title": "Authentication Integrations",
+                "permalink": "/Wring_docs/docs/Connect/example"
               },
               "next": {
                 "title": "Supported Versions",
@@ -296,287 +478,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Appmap",
-              "id": "Live Events/Appmap",
-              "isDocsHomePage": false,
-              "title": "Appmap",
-              "description": "AppMap",
-              "source": "@site/docs/Live Events/Appmap.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Appmap",
-              "permalink": "/Wring_docs/docs/Live Events/Appmap",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Get Started with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
-              },
-              "next": {
-                "title": "Testsuites",
-                "permalink": "/Wring_docs/docs/Live Events/Testsuites"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Apps",
-              "id": "Live Events/Apps",
-              "isDocsHomePage": false,
-              "title": "Apps",
-              "description": "Pageviews - Introduction",
-              "source": "@site/docs/Live Events/Apps.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Apps",
-              "permalink": "/Wring_docs/docs/Live Events/Apps",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Run Sessions with LocalTunnel",
-                "permalink": "/Wring_docs/docs/Examples/localtunnel"
-              },
-              "next": {
-                "title": "Set Up Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
-              }
-            },
-            {
-              "unversionedId": "Live Events/capture-api-calls",
-              "id": "Live Events/capture-api-calls",
-              "isDocsHomePage": false,
-              "title": "capture-api-calls",
-              "description": "The Wring API call interceptor can be used to intercept API calls made during",
-              "source": "@site/docs/Live Events/capture-api-calls.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/capture-api-calls",
-              "permalink": "/Wring_docs/docs/Live Events/capture-api-calls",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Set Up Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews"
-              },
-              "next": {
-                "title": "Get Started with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Get Started with Pageviews",
-              "id": "Live Events/Get Started with Pageviews",
-              "isDocsHomePage": false,
-              "title": "Get Started with Pageviews",
-              "description": "How to use Pageviews?",
-              "source": "@site/docs/Live Events/Get Started with Pageviews.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Get Started with Pageviews",
-              "permalink": "/Wring_docs/docs/Live Events/Get Started with Pageviews",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "capture-api-calls",
-                "permalink": "/Wring_docs/docs/Live Events/capture-api-calls"
-              },
-              "next": {
-                "title": "Appmap",
-                "permalink": "/Wring_docs/docs/Live Events/Appmap"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Key Flows",
-              "id": "Live Events/Key Flows",
-              "isDocsHomePage": false,
-              "title": "Key Flows",
-              "description": "Key flows is a tool that allows to find the best test coverage among all tests generated from apps. By default, it groups tests that cover at least 20% of the most frequent webpage elements. Rel Cov % means relative coverage percentage and it shows the coverage of a test against other tests in the list.",
-              "source": "@site/docs/Live Events/Key Flows.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Key Flows",
-              "permalink": "/Wring_docs/docs/Live Events/Key Flows",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Shared testsuites",
-                "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
-              },
-              "next": {
-                "title": "Multiple Sessions with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Multiple sessions with Pageviews",
-              "id": "Live Events/Multiple sessions with Pageviews",
-              "isDocsHomePage": false,
-              "title": "Multiple Sessions with Pageviews",
-              "description": "apps allows you to record and analyze user actions on your website, enabling you to understand each action in a testcase. You can then generate test cases based on the steps you did.",
-              "source": "@site/docs/Live Events/Multiple sessions with Pageviews.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Multiple sessions with Pageviews",
-              "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Key Flows",
-                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
-              },
-              "next": {
-                "title": "JavaScript",
-                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Set Up Pageviews",
-              "id": "Live Events/Set Up Pageviews",
-              "isDocsHomePage": false,
-              "title": "Set Up Pageviews",
-              "description": "This section is a step-by-step guide to getting your first project. It includes information on what to do, how to do it and when you should do it.",
-              "source": "@site/docs/Live Events/Set Up Pageviews.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Set Up Pageviews",
-              "permalink": "/Wring_docs/docs/Live Events/Set Up Pageviews",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Apps",
-                "permalink": "/Wring_docs/docs/Live Events/Apps"
-              },
-              "next": {
-                "title": "capture-api-calls",
-                "permalink": "/Wring_docs/docs/Live Events/capture-api-calls"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Set up Pageviews/pageviews-html",
-              "id": "Live Events/Set up Pageviews/pageviews-html",
-              "isDocsHomePage": false,
-              "title": "JavaScript",
-              "description": "This page of the Docs refers to our Live event's sessions.",
-              "source": "@site/docs/Live Events/Set up Pageviews/pageviews-html.md",
-              "sourceDirName": "Live Events/Set up Pageviews",
-              "slug": "/Live Events/Set up Pageviews/pageviews-html",
-              "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Multiple Sessions with Pageviews",
-                "permalink": "/Wring_docs/docs/Live Events/Multiple sessions with Pageviews"
-              },
-              "next": {
-                "title": "ReactJS",
-                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Set up Pageviews/pageviews-react",
-              "id": "Live Events/Set up Pageviews/pageviews-react",
-              "isDocsHomePage": false,
-              "title": "ReactJS",
-              "description": "This page of the Docs refers to our Live event's sessions.",
-              "source": "@site/docs/Live Events/Set up Pageviews/pageviews-react.md",
-              "sourceDirName": "Live Events/Set up Pageviews",
-              "slug": "/Live Events/Set up Pageviews/pageviews-react",
-              "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "JavaScript",
-                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-html"
-              },
-              "next": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Shared testsuites",
-              "id": "Live Events/Shared testsuites",
-              "isDocsHomePage": false,
-              "title": "Shared testsuites",
-              "description": "Share your project with everyone",
-              "source": "@site/docs/Live Events/Shared testsuites.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Shared testsuites",
-              "permalink": "/Wring_docs/docs/Live Events/Shared testsuites",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Testsuites",
-                "permalink": "/Wring_docs/docs/Live Events/Testsuites"
-              },
-              "next": {
-                "title": "Key Flows",
-                "permalink": "/Wring_docs/docs/Live Events/Key Flows"
-              }
-            },
-            {
-              "unversionedId": "Live Events/Testsuites",
-              "id": "Live Events/Testsuites",
-              "isDocsHomePage": false,
-              "title": "Testsuites",
-              "description": "TestSuites",
-              "source": "@site/docs/Live Events/Testsuites.md",
-              "sourceDirName": "Live Events",
-              "slug": "/Live Events/Testsuites",
-              "permalink": "/Wring_docs/docs/Live Events/Testsuites",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Appmap",
-                "permalink": "/Wring_docs/docs/Live Events/Appmap"
-              },
-              "next": {
-                "title": "Shared testsuites",
-                "permalink": "/Wring_docs/docs/Live Events/Shared testsuites"
+                "permalink": "/Wring_docs/docs/Dash"
               }
             },
             {
@@ -584,16 +486,16 @@
               "id": "release-notes",
               "isDocsHomePage": false,
               "title": "Release Notes",
-              "description": "",
+              "description": "Release Notes: Wring [2.0]",
               "source": "@site/docs/release-notes.md",
               "sourceDirName": ".",
               "slug": "/release-notes",
               "permalink": "/Wring_docs/docs/release-notes",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 11,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 11
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -602,431 +504,15 @@
               }
             },
             {
-              "unversionedId": "TG Smart Observer/assertion",
-              "id": "TG Smart Observer/assertion",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer Commands",
-              "description": "If you check the observer after you finish your testcase, you will see all the necessary details there.",
-              "source": "@site/docs/TG Smart Observer/assertion.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/assertion",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/assertion",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {
-                "sidebar_position": 8
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Observer and button functionality",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
-              },
-              "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/Wring_docs/docs/faq"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/buttons",
-              "id": "TG Smart Observer/buttons",
-              "isDocsHomePage": false,
-              "title": "Observer and button functionality",
-              "description": "If you're new here, and you don't know what the buttons do, check out the instructions below for more info.",
-              "source": "@site/docs/TG Smart Observer/buttons.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/buttons",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/buttons",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wring Smart Observer - View Test",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/view"
-              },
-              "next": {
-                "title": "Wring Smart Observer Commands",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/assertion"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/Get started - Build",
-              "id": "TG Smart Observer/Get started - Build",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer - Get Started with our Build",
-              "description": "Once you get started with Wring Platform, we will send you a build for the Wring Smart Observer.",
-              "source": "@site/docs/TG Smart Observer/Get started - Build.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/Get started - Build",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wring Smart Observer - Introduction",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction"
-              },
-              "next": {
-                "title": "Wring Smart Observer - Ready to start!",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/Introduction",
-              "id": "TG Smart Observer/Introduction",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer - Introduction",
-              "description": "Wring Smart Observer is a popular solution to quickly generate selectors in preparation for testing a webpage. In the following pages, we will discuss how to effectively use the record to enhance , automate , and strengthen your testing processes.",
-              "source": "@site/docs/TG Smart Observer/Introduction.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/Introduction",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/Introduction",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "ReactJS",
-                "permalink": "/Wring_docs/docs/Live Events/Set up Pageviews/pageviews-react"
-              },
-              "next": {
-                "title": "Wring Smart Observer - Get Started with our Build",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/recorder",
-              "id": "TG Smart Observer/recorder",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer - Welcome User",
-              "description": "If you're a user of Wring Smart Observer, as a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.",
-              "source": "@site/docs/TG Smart Observer/recorder.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/recorder",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/recorder",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wring Smart Observer - Ready to start!",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials"
-              },
-              "next": {
-                "title": "Wring Smart Observer - Start recording",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/tests",
-              "id": "TG Smart Observer/tests",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer - Start recording",
-              "description": "To start recording, first you need to go to New Test - Check below:",
-              "source": "@site/docs/TG Smart Observer/tests.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/tests",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/tests",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wring Smart Observer - Welcome User",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
-              },
-              "next": {
-                "title": "Wring Smart Observer - View Test",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/view"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/Tutorials",
-              "id": "TG Smart Observer/Tutorials",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer - Ready to start!",
-              "description": "Wring Smart Observer is one of the most user friendly tools out there. Wring Smart Observer will guide through all the steps to start recording a testcase.",
-              "source": "@site/docs/TG Smart Observer/Tutorials.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/Tutorials",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/Tutorials",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wring Smart Observer - Get Started with our Build",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/Get started - Build"
-              },
-              "next": {
-                "title": "Wring Smart Observer - Welcome User",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/recorder"
-              }
-            },
-            {
-              "unversionedId": "TG Smart Observer/view",
-              "id": "TG Smart Observer/view",
-              "isDocsHomePage": false,
-              "title": "Wring Smart Observer - View Test",
-              "description": "After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.",
-              "source": "@site/docs/TG Smart Observer/view.md",
-              "sourceDirName": "TG Smart Observer",
-              "slug": "/TG Smart Observer/view",
-              "permalink": "/Wring_docs/docs/TG Smart Observer/view",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wring Smart Observer - Start recording",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/tests"
-              },
-              "next": {
-                "title": "Observer and button functionality",
-                "permalink": "/Wring_docs/docs/TG Smart Observer/buttons"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "isDocsHomePage": false,
-              "title": "Congratulations!",
-              "description": "You have now explored some of the basic features in the Wring UI, and how to use them. Now you are ready to explore a few advanced features and get to know how they work.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/Wring_docs/docs/tutorial-basics/congratulations",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Scheduled Runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
-              },
-              "next": {
-                "title": "Getting Started",
-                "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Dashboard",
-              "id": "tutorial-basics/Dashboard",
-              "isDocsHomePage": false,
-              "title": "Dashboard",
-              "description": "Welcome to the Dashboard!",
-              "source": "@site/docs/tutorial-basics/Dashboard.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/Dashboard",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Getting Started",
-                "permalink": "/Wring_docs/docs/intro"
-              },
-              "next": {
-                "title": "Overview Page - Start a test!",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Integrations/Installation",
-              "id": "tutorial-basics/Integrations/Installation",
-              "isDocsHomePage": false,
-              "title": "Installation",
-              "description": "For the latest instructions on how to install Wring Interceptor, please visit our installation page. You'll find quick instructions for installing Wring Interceptor for Selenium and Cypress in the languages that we support.",
-              "source": "@site/docs/tutorial-basics/Integrations/Installation.md",
-              "sourceDirName": "tutorial-basics/Integrations",
-              "slug": "/tutorial-basics/Integrations/Installation",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Installation",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Test Run Selectors - Advanced",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
-              },
-              "next": {
-                "title": "CI Integrations",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Integrations/integration",
-              "id": "tutorial-basics/Integrations/integration",
-              "isDocsHomePage": false,
-              "title": "CI Integrations",
-              "description": "Wring offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
-              "source": "@site/docs/tutorial-basics/Integrations/integration.md",
-              "sourceDirName": "tutorial-basics/Integrations",
-              "slug": "/tutorial-basics/Integrations/integration",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Installation",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Installation"
-              },
-              "next": {
-                "title": "Triggered runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Integrations/Scheduled",
-              "id": "tutorial-basics/Integrations/Scheduled",
-              "isDocsHomePage": false,
-              "title": "Scheduled Runs",
-              "description": "Wring is the easiest way to schedule your test runs for every day, every week, or any other days you want.",
-              "source": "@site/docs/tutorial-basics/Integrations/Scheduled.md",
-              "sourceDirName": "tutorial-basics/Integrations",
-              "slug": "/tutorial-basics/Integrations/Scheduled",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Triggered runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/Wring_docs/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Integrations/Triggers",
-              "id": "tutorial-basics/Integrations/Triggers",
-              "isDocsHomePage": false,
-              "title": "Triggered runs",
-              "description": "The Wring platform can execute test runs based on a trigger from an external",
-              "source": "@site/docs/tutorial-basics/Integrations/Triggers.md",
-              "sourceDirName": "tutorial-basics/Integrations",
-              "slug": "/tutorial-basics/Integrations/Triggers",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Triggers",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "CI Integrations",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/integration"
-              },
-              "next": {
-                "title": "Scheduled Runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Scheduled"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Overview Page/overview",
-              "id": "tutorial-basics/Overview Page/overview",
-              "isDocsHomePage": false,
-              "title": "Overview Page - Start a test!",
-              "description": "The test explorer allows you to see all the tests you have added to Wring. You can also browse through your saved runs and see how they performed, run a particular test again or remove it entirely, and add notes or attachments to each test.",
-              "source": "@site/docs/tutorial-basics/Overview Page/overview.md",
-              "sourceDirName": "tutorial-basics/Overview Page",
-              "slug": "/tutorial-basics/Overview Page/overview",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Dashboard"
-              },
-              "next": {
-                "title": "Create a Testsuite",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Overview Page/TestSuite",
-              "id": "tutorial-basics/Overview Page/TestSuite",
-              "isDocsHomePage": false,
-              "title": "Create a Testsuite",
-              "description": "Wring allows you to have test suites with multiple tests on them. Test suites can be run with completion of the entire suite or simply one different test.",
-              "source": "@site/docs/tutorial-basics/Overview Page/TestSuite.md",
-              "sourceDirName": "tutorial-basics/Overview Page",
-              "slug": "/tutorial-basics/Overview Page/TestSuite",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Overview Page - Start a test!",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/overview"
-              },
-              "next": {
-                "title": "Get Started with Expander",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Test Runs/Details/Advanced",
-              "id": "tutorial-basics/Test Runs/Details/Advanced",
+              "unversionedId": "Test Runs/Details/Advanced",
+              "id": "Test Runs/Details/Advanced",
               "isDocsHomePage": false,
               "title": "Test Run Selectors - Advanced",
               "description": "Selectors and download options",
-              "source": "@site/docs/tutorial-basics/Test Runs/Details/Advanced.md",
-              "sourceDirName": "tutorial-basics/Test Runs/Details",
-              "slug": "/tutorial-basics/Test Runs/Details/Advanced",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced",
+              "source": "@site/docs/Test Runs/Details/Advanced.md",
+              "sourceDirName": "Test Runs/Details",
+              "slug": "/Test Runs/Details/Advanced",
+              "permalink": "/Wring_docs/docs/Test Runs/Details/Advanced",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -1036,23 +522,49 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "View/edit run steps",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
+                "permalink": "/Wring_docs/docs/Test Runs/Details/Run_steps"
               },
               "next": {
-                "title": "Installation",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Integrations/Installation"
+                "title": "Get Started with Expander",
+                "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started"
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test Runs/Details/Run_steps",
-              "id": "tutorial-basics/Test Runs/Details/Run_steps",
+              "unversionedId": "Test Runs/Details/overview",
+              "id": "Test Runs/Details/overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "In this section, users have the capability to delve into more detailed metrics and video recordings specific to individual tests. This granular view provides comprehensive insights into the performance, outcomes, and visual representation of each test run. By accessing this detailed information, users can conduct thorough analysis, identify potential issues, and gain a deeper understanding of the test execution, enhancing the overall quality assurance and testing process.",
+              "source": "@site/docs/Test Runs/Details/overview.md",
+              "sourceDirName": "Test Runs/Details",
+              "slug": "/Test Runs/Details/overview",
+              "permalink": "/Wring_docs/docs/Test Runs/Details/overview",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Runs Overview",
+                "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
+              },
+              "next": {
+                "title": "View/edit run steps",
+                "permalink": "/Wring_docs/docs/Test Runs/Details/Run_steps"
+              }
+            },
+            {
+              "unversionedId": "Test Runs/Details/Run_steps",
+              "id": "Test Runs/Details/Run_steps",
               "isDocsHomePage": false,
               "title": "View/edit run steps",
               "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
-              "source": "@site/docs/tutorial-basics/Test Runs/Details/Run_steps.md",
-              "sourceDirName": "tutorial-basics/Test Runs/Details",
-              "slug": "/tutorial-basics/Test Runs/Details/Run_steps",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps",
+              "source": "@site/docs/Test Runs/Details/Run_steps.md",
+              "sourceDirName": "Test Runs/Details",
+              "slug": "/Test Runs/Details/Run_steps",
+              "permalink": "/Wring_docs/docs/Test Runs/Details/Run_steps",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1061,24 +573,24 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                "title": "Overview",
+                "permalink": "/Wring_docs/docs/Test Runs/Details/overview"
               },
               "next": {
                 "title": "Test Run Selectors - Advanced",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Advanced"
+                "permalink": "/Wring_docs/docs/Test Runs/Details/Advanced"
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
-              "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "unversionedId": "Test Runs/Test Enhancer/Datafile",
+              "id": "Test Runs/Test Enhancer/Datafile",
               "isDocsHomePage": false,
               "title": "Data File Upload Variables",
               "description": "To analyze variables, use a data file that contains events and their associated variables. You can upload these in a file format such as CSV, XLS or other text files. Alternatively, you can enter event data directly into the Expander interface. To perform an attribute analysis, use an event data file that includes attribute values for your events.",
-              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile.md",
-              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
-              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Datafile",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile",
+              "source": "@site/docs/Test Runs/Test Enhancer/Datafile.md",
+              "sourceDirName": "Test Runs/Test Enhancer",
+              "slug": "/Test Runs/Test Enhancer/Datafile",
+              "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -1088,23 +600,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Expander Runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+                "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs"
               },
               "next": {
-                "title": "Salesforce Import Data",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+                "title": "Installation",
+                "permalink": "/Wring_docs/docs/Connect/Installation"
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
-              "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "unversionedId": "Test Runs/Test Enhancer/Get Started",
+              "id": "Test Runs/Test Enhancer/Get Started",
               "isDocsHomePage": false,
               "title": "Get Started with Expander",
               "description": "What is Expander?",
-              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started.md",
-              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
-              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Get Started",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started",
+              "source": "@site/docs/Test Runs/Test Enhancer/Get Started.md",
+              "sourceDirName": "Test Runs/Test Enhancer",
+              "slug": "/Test Runs/Test Enhancer/Get Started",
+              "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1113,50 +625,24 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Testsuite",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Overview Page/TestSuite"
+                "title": "Test Run Selectors - Advanced",
+                "permalink": "/Wring_docs/docs/Test Runs/Details/Advanced"
               },
               "next": {
                 "title": "Expander Runs",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
+                "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs"
               }
             },
             {
-              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
-              "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce",
-              "isDocsHomePage": false,
-              "title": "Salesforce Import Data",
-              "description": "Wring Platform offer users the option to generated existing variables from your Salesforce account.  This is a very helpful tool for those who have an existing Salesforce account, but can't find their test variables.",
-              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce.md",
-              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
-              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Data File Upload Variables",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
-              },
-              "next": {
-                "title": "View/edit run steps",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Details/Run_steps"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
-              "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "unversionedId": "Test Runs/Test Enhancer/Simulator Runs",
+              "id": "Test Runs/Test Enhancer/Simulator Runs",
               "isDocsHomePage": false,
               "title": "Expander Runs",
               "description": "Expander Feature",
-              "source": "@site/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs.md",
-              "sourceDirName": "tutorial-basics/Test Runs/Test Enhancer",
-              "slug": "/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
-              "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Simulator Runs",
+              "source": "@site/docs/Test Runs/Test Enhancer/Simulator Runs.md",
+              "sourceDirName": "Test Runs/Test Enhancer",
+              "slug": "/Test Runs/Test Enhancer/Simulator Runs",
+              "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1166,49 +652,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Get Started with Expander",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Get Started"
+                "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started"
               },
               "next": {
                 "title": "Data File Upload Variables",
-                "permalink": "/Wring_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Datafile"
+                "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
               }
             },
             {
-              "unversionedId": "tutorial-extras/customizing-interceptor",
-              "id": "tutorial-extras/customizing-interceptor",
+              "unversionedId": "Test Runs/Test Runs",
+              "id": "Test Runs/Test Runs",
               "isDocsHomePage": false,
-              "title": "Customizing Interceptor Execution",
-              "description": "You may set the following environment variables to customize how the Interceptor",
-              "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/customizing-interceptor",
-              "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Getting Started",
-                "permalink": "/Wring_docs/docs/tutorial-extras/getting-started"
-              },
-              "next": {
-                "title": "Capture Android Events",
-                "permalink": "/Wring_docs/docs/tutorial-extras/wring-android"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/getting-started",
-              "id": "tutorial-extras/getting-started",
-              "isDocsHomePage": false,
-              "title": "Getting Started",
-              "description": "We support direct calls to our healing API from Selenium and Cypress tests",
-              "source": "@site/docs/tutorial-extras/getting-started.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/getting-started",
-              "permalink": "/Wring_docs/docs/tutorial-extras/getting-started",
+              "title": "Test Runs Overview",
+              "description": "Test Runs represent a record or log of the various instances in which you executed a set of tests. The \"test runs\" section provides a comprehensive overview of all the runs you have conducted, allowing you to review and analyze the results of each test execution. This feature facilitates tracking the history of your testing activities, providing insights into the performance, success, or any encountered issues during different testing sessions. It serves as a valuable tool for test management and quality assurance, enabling you to monitor the progress and outcomes of your testing efforts over time.",
+              "source": "@site/docs/Test Runs/Test Runs.md",
+              "sourceDirName": "Test Runs",
+              "slug": "/Test Runs/Test Runs",
+              "permalink": "/Wring_docs/docs/Test Runs/Test Runs",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1217,38 +677,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Congratulations!",
-                "permalink": "/Wring_docs/docs/tutorial-basics/congratulations"
+                "title": "Testsuite",
+                "permalink": "/Wring_docs/docs/APPS/Testsuite"
               },
               "next": {
-                "title": "Customizing Interceptor Execution",
-                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/wring-android",
-              "id": "tutorial-extras/wring-android",
-              "isDocsHomePage": false,
-              "title": "Capture Android Events",
-              "description": "The wringandroid library for Android allows you to capture user interaction",
-              "source": "@site/docs/tutorial-extras/wring-android.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/wring-android",
-              "permalink": "/Wring_docs/docs/tutorial-extras/wring-android",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Customizing Interceptor Execution",
-                "permalink": "/Wring_docs/docs/tutorial-extras/customizing-interceptor"
-              },
-              "next": {
-                "title": "Selenium JS Examples",
-                "permalink": "/Wring_docs/docs/Examples/Selenium-JS"
+                "title": "Overview",
+                "permalink": "/Wring_docs/docs/Test Runs/Details/overview"
               }
             },
             {
@@ -1263,9 +697,9 @@
               "permalink": "/Wring_docs/docs/versions",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -1285,172 +719,8 @@
                 "id": "intro"
               },
               {
-                "type": "category",
-                "label": "Wring Basics",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/Dashboard"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Overview Page",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Overview Page/overview"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Overview Page/TestSuite"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "Test Runs",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "Expander",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "tutorial-basics/Test Runs/Test Enhancer/Get Started"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "tutorial-basics/Test Runs/Test Enhancer/Simulator Runs"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "tutorial-basics/Test Runs/Test Enhancer/Datafile"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "tutorial-basics/Test Runs/Test Enhancer/Salesforce"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "category",
-                        "label": "Details",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "tutorial-basics/Test Runs/Details/Run_steps"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "tutorial-basics/Test Runs/Details/Advanced"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "Connect",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Integrations/Installation"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Integrations/integration"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Integrations/Triggers"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "tutorial-basics/Integrations/Scheduled"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Wring Interceptor",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/getting-started"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/customizing-interceptor"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/wring-android"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Examples",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-JS"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-Python"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Selenium-Java"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/ngrok"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/side"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/cypress"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Gauge_test"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/Demo_with_without_login"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Examples/localtunnel"
-                  }
-                ]
+                "type": "doc",
+                "id": "Dash"
               },
               {
                 "type": "category",
@@ -1460,53 +730,81 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Live Events/Apps"
+                    "id": "APPS/Get Started"
                   },
                   {
                     "type": "doc",
-                    "id": "Live Events/Set Up Pageviews"
+                    "id": "APPS/Set Up Apps"
                   },
                   {
                     "type": "doc",
-                    "id": "Live Events/capture-api-calls"
+                    "id": "APPS/Step-by-Step"
                   },
                   {
                     "type": "doc",
-                    "id": "Live Events/Get Started with Pageviews"
+                    "id": "APPS/Appmap"
                   },
                   {
                     "type": "doc",
-                    "id": "Live Events/Appmap"
+                    "id": "APPS/Replay"
                   },
                   {
                     "type": "doc",
-                    "id": "Live Events/Testsuites"
+                    "id": "APPS/Api"
                   },
                   {
                     "type": "doc",
-                    "id": "Live Events/Shared testsuites"
-                  },
+                    "id": "APPS/Testsuite"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Test Runs",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
                   {
                     "type": "doc",
-                    "id": "Live Events/Key Flows"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Live Events/Multiple sessions with Pageviews"
+                    "id": "Test Runs/Test Runs"
                   },
                   {
                     "type": "category",
-                    "label": "Set up Pageviews",
+                    "label": "Details",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
-                        "id": "Live Events/Set up Pageviews/pageviews-html"
+                        "id": "Test Runs/Details/overview"
                       },
                       {
                         "type": "doc",
-                        "id": "Live Events/Set up Pageviews/pageviews-react"
+                        "id": "Test Runs/Details/Run_steps"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Test Runs/Details/Advanced"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Expander",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Test Runs/Test Enhancer/Get Started"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Test Runs/Test Enhancer/Simulator Runs"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Test Runs/Test Enhancer/Datafile"
                       }
                     ]
                   }
@@ -1514,41 +812,49 @@
               },
               {
                 "type": "category",
-                "label": "Wring Smart Observer",
+                "label": "Connect",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "TG Smart Observer/Introduction"
+                    "id": "Connect/Installation"
                   },
                   {
                     "type": "doc",
-                    "id": "TG Smart Observer/Get started - Build"
+                    "id": "Connect/integration"
                   },
                   {
                     "type": "doc",
-                    "id": "TG Smart Observer/Tutorials"
+                    "id": "Connect/Triggers"
                   },
                   {
                     "type": "doc",
-                    "id": "TG Smart Observer/recorder"
+                    "id": "Connect/Scheduled"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Wring Plugins",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Connect/tutorial-extras/getting-started"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Connect/tutorial-extras/customizing-interceptor"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Connect/tutorial-extras/wring-android"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",
-                    "id": "TG Smart Observer/tests"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "TG Smart Observer/view"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "TG Smart Observer/buttons"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "TG Smart Observer/assertion"
+                    "id": "Connect/example"
                   }
                 ]
               },

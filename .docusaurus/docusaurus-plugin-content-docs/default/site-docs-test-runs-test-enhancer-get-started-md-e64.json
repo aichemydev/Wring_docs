@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Runs/Test Enhancer/Get Started",
+  "id": "Test Runs/Test Enhancer/Get Started",
+  "isDocsHomePage": false,
+  "title": "Get Started with Expander",
+  "description": "What is Expander?",
+  "source": "@site/docs/Test Runs/Test Enhancer/Get Started.md",
+  "sourceDirName": "Test Runs/Test Enhancer",
+  "slug": "/Test Runs/Test Enhancer/Get Started",
+  "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Run Selectors - Advanced",
+    "permalink": "/Wring_docs/docs/Test Runs/Details/Advanced"
+  },
+  "next": {
+    "title": "Expander Runs",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs"
+  }
+}

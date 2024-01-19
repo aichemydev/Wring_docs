@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Connect/Installation",
+  "id": "Connect/Installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "For the latest instructions on how to install Wring Plugins, please visit our installation page. You'll find quick instructions for installing Wring Plugins for Selenium and Cypress in the languages that we support.",
+  "source": "@site/docs/Connect/Installation.md",
+  "sourceDirName": "Connect",
+  "slug": "/Connect/Installation",
+  "permalink": "/Wring_docs/docs/Connect/Installation",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data File Upload Variables",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
+  },
+  "next": {
+    "title": "CI Integrations",
+    "permalink": "/Wring_docs/docs/Connect/integration"
+  }
+}

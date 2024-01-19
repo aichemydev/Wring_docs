@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Step-by-Step",
+  "id": "APPS/Step-by-Step",
+  "isDocsHomePage": false,
+  "title": "Apps - Step by step",
+  "description": "Once you've recorded sessions and incorporated them into your project, you gain the capability to explore additional integrations within our platform",
+  "source": "@site/docs/APPS/Step-by-Step.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Step-by-Step",
+  "permalink": "/Wring_docs/docs/APPS/Step-by-Step",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Up Apps",
+    "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+  },
+  "next": {
+    "title": "Appmap",
+    "permalink": "/Wring_docs/docs/APPS/Appmap"
+  }
+}

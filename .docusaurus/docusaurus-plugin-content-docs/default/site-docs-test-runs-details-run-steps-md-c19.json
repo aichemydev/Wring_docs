@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Runs/Details/Run_steps",
+  "id": "Test Runs/Details/Run_steps",
+  "isDocsHomePage": false,
+  "title": "View/edit run steps",
+  "description": "Here, you can see all test steps with selectors and screenshots with hightlights for each step.",
+  "source": "@site/docs/Test Runs/Details/Run_steps.md",
+  "sourceDirName": "Test Runs/Details",
+  "slug": "/Test Runs/Details/Run_steps",
+  "permalink": "/Wring_docs/docs/Test Runs/Details/Run_steps",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Wring_docs/docs/Test Runs/Details/overview"
+  },
+  "next": {
+    "title": "Test Run Selectors - Advanced",
+    "permalink": "/Wring_docs/docs/Test Runs/Details/Advanced"
+  }
+}

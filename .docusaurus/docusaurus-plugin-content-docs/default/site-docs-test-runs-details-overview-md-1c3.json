@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Runs/Details/overview",
+  "id": "Test Runs/Details/overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "In this section, users have the capability to delve into more detailed metrics and video recordings specific to individual tests. This granular view provides comprehensive insights into the performance, outcomes, and visual representation of each test run. By accessing this detailed information, users can conduct thorough analysis, identify potential issues, and gain a deeper understanding of the test execution, enhancing the overall quality assurance and testing process.",
+  "source": "@site/docs/Test Runs/Details/overview.md",
+  "sourceDirName": "Test Runs/Details",
+  "slug": "/Test Runs/Details/overview",
+  "permalink": "/Wring_docs/docs/Test Runs/Details/overview",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Runs Overview",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
+  },
+  "next": {
+    "title": "View/edit run steps",
+    "permalink": "/Wring_docs/docs/Test Runs/Details/Run_steps"
+  }
+}

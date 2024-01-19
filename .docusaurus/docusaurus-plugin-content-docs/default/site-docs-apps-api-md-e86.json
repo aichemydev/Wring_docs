@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Api",
+  "id": "APPS/Api",
+  "isDocsHomePage": false,
+  "title": "API",
+  "description": "coming soon",
+  "source": "@site/docs/APPS/Api.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Api",
+  "permalink": "/Wring_docs/docs/APPS/Api",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Replay",
+    "permalink": "/Wring_docs/docs/APPS/Replay"
+  },
+  "next": {
+    "title": "Testsuite",
+    "permalink": "/Wring_docs/docs/APPS/Testsuite"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Runs/Details/Advanced",
+  "id": "Test Runs/Details/Advanced",
+  "isDocsHomePage": false,
+  "title": "Test Run Selectors - Advanced",
+  "description": "Selectors and download options",
+  "source": "@site/docs/Test Runs/Details/Advanced.md",
+  "sourceDirName": "Test Runs/Details",
+  "slug": "/Test Runs/Details/Advanced",
+  "permalink": "/Wring_docs/docs/Test Runs/Details/Advanced",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "View/edit run steps",
+    "permalink": "/Wring_docs/docs/Test Runs/Details/Run_steps"
+  },
+  "next": {
+    "title": "Get Started with Expander",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started"
+  }
+}
