@@ -3,7 +3,7 @@
   "id": "APPS/Api",
   "isDocsHomePage": false,
   "title": "API",
-  "description": "coming soon",
+  "description": "In our App framework, we systematically submit sessions, providing us with the capability to intricately monitor and scrutinize every API call executed within the confines of that particular app.",
   "source": "@site/docs/APPS/Api.md",
   "sourceDirName": "APPS",
   "slug": "/APPS/Api",
