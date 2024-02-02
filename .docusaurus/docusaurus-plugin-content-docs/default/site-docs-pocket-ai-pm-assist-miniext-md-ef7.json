@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pocket AI/Pm assist/miniext",
+  "id": "Pocket AI/Pm assist/miniext",
+  "isDocsHomePage": false,
+  "title": "PM Assist Pro - Get Started",
+  "description": "Getting started with PM Assist is easy!",
+  "source": "@site/docs/Pocket AI/Pm assist/miniext.md",
+  "sourceDirName": "Pocket AI/Pm assist",
+  "slug": "/Pocket AI/Pm assist/miniext",
+  "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/Wring_docs/docs/Pocket AI/intro"
+  },
+  "next": {
+    "title": "PM Assist - Ready to start!",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/starting_miniext"
+  }
+}

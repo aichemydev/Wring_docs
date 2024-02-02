@@ -177,6 +177,29 @@
         ]
       },
       {
+        "type": "category",
+        "label": "Pocket AI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/Wring_docs/docs/Pocket AI/intro"
+          },
+          {
+            "type": "link",
+            "label": "Pocket AI Pro - Get Started",
+            "href": "/Wring_docs/docs/Pocket AI/miniext"
+          },
+          {
+            "type": "link",
+            "label": "Pocket AI - Ready to start!",
+            "href": "/Wring_docs/docs/Pocket AI/extract"
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "Frequently Asked Questions",
         "href": "/Wring_docs/docs/faq"

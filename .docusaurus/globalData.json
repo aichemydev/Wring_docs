@@ -101,6 +101,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Pocket AI/extract",
+              "path": "/Wring_docs/docs/Pocket AI/extract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Pocket AI/intro",
+              "path": "/Wring_docs/docs/Pocket AI/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Pocket AI/miniext",
+              "path": "/Wring_docs/docs/Pocket AI/miniext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "release-notes",
               "path": "/Wring_docs/docs/release-notes",
               "sidebar": "tutorialSidebar"

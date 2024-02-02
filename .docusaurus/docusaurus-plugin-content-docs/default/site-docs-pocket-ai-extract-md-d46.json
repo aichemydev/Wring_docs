@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pocket AI/extract",
+  "id": "Pocket AI/extract",
+  "isDocsHomePage": false,
+  "title": "Pocket AI - Ready to start!",
+  "description": "Pocket AI is one of the most user friendly tools out there. Pocket AI will guide through all the steps to start recording a testcase.",
+  "source": "@site/docs/Pocket AI/extract.md",
+  "sourceDirName": "Pocket AI",
+  "slug": "/Pocket AI/extract",
+  "permalink": "/Wring_docs/docs/Pocket AI/extract",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pocket AI Pro - Get Started",
+    "permalink": "/Wring_docs/docs/Pocket AI/miniext"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
+  }
+}

@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','614'),
+    component: ComponentCreator('/Wring_docs/docs','78c'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -157,6 +157,24 @@ export default [
       {
         path: '/Wring_docs/docs/intro',
         component: ComponentCreator('/Wring_docs/docs/intro','9b1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Pocket AI/extract',
+        component: ComponentCreator('/Wring_docs/docs/Pocket AI/extract','148'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Pocket AI/intro',
+        component: ComponentCreator('/Wring_docs/docs/Pocket AI/intro','a32'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Pocket AI/miniext',
+        component: ComponentCreator('/Wring_docs/docs/Pocket AI/miniext','0ae'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

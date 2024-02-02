@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pocket AI/Pm assist/record",
+  "id": "Pocket AI/Pm assist/record",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Start recording",
+  "description": "Before we start recording a website, you have to know that this extension is linked with Live events (for more information about Live Events, please go to Live Events section).",
+  "source": "@site/docs/Pocket AI/Pm assist/record.md",
+  "sourceDirName": "Pocket AI/Pm assist",
+  "slug": "/Pocket AI/Pm assist/record",
+  "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/record",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Ready to start!",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/starting_miniext"
+  },
+  "next": {
+    "title": "PM Assist - Screenshots",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/screenshot"
+  }
+}

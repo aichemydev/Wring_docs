@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pocket AI/Pm_assist/miniext",
+  "id": "Pocket AI/Pm_assist/miniext",
+  "isDocsHomePage": false,
+  "title": "PM Designer - Get Started",
+  "description": "Getting started with PM Designer is easy!",
+  "source": "@site/docs/Pocket AI/Pm_assist/miniext.md",
+  "sourceDirName": "Pocket AI/Pm_assist",
+  "slug": "/Pocket AI/Pm_assist/miniext",
+  "permalink": "/Wring_docs/docs/Pocket AI/Pm_assist/miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Screenshots",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/screenshot"
+  },
+  "next": {
+    "title": "PM Designer - Screenshots",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm_assist/screenshot"
+  }
+}

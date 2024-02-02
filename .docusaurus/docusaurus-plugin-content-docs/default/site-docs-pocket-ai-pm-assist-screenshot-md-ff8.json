@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Pocket AI/Pm assist/screenshot",
+  "id": "Pocket AI/Pm assist/screenshot",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Screenshots",
+  "description": "What's awesome about PM Assist?",
+  "source": "@site/docs/Pocket AI/Pm assist/screenshot.md",
+  "sourceDirName": "Pocket AI/Pm assist",
+  "slug": "/Pocket AI/Pm assist/screenshot",
+  "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/screenshot",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Start recording",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/record"
+  }
+}

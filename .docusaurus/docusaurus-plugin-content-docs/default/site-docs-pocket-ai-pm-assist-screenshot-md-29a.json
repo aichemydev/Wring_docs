@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Pocket AI/Pm_assist/screenshot",
+  "id": "Pocket AI/Pm_assist/screenshot",
+  "isDocsHomePage": false,
+  "title": "PM Designer - Screenshots",
+  "description": "What's awesome about PM Designer?",
+  "source": "@site/docs/Pocket AI/Pm_assist/screenshot.md",
+  "sourceDirName": "Pocket AI/Pm_assist",
+  "slug": "/Pocket AI/Pm_assist/screenshot",
+  "permalink": "/Wring_docs/docs/Pocket AI/Pm_assist/screenshot",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Designer - Get Started",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm_assist/miniext"
+  }
+}

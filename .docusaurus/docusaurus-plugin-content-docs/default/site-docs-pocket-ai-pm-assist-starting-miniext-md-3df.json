@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pocket AI/Pm assist/starting_miniext",
+  "id": "Pocket AI/Pm assist/starting_miniext",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Ready to start!",
+  "description": "PM Assist is one of the most user friendly tools out there. PM Assist will guide through all the steps to start recording a testcase.",
+  "source": "@site/docs/Pocket AI/Pm assist/starting_miniext.md",
+  "sourceDirName": "Pocket AI/Pm assist",
+  "slug": "/Pocket AI/Pm assist/starting_miniext",
+  "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/starting_miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist Pro - Get Started",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/miniext"
+  },
+  "next": {
+    "title": "PM Assist - Start recording",
+    "permalink": "/Wring_docs/docs/Pocket AI/Pm assist/record"
+  }
+}
