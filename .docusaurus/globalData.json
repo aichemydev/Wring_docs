@@ -21,8 +21,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/cucumber",
-              "path": "/Wring_docs/docs/APPS/cucumber",
+              "id": "APPS/Cucumber/apiui",
+              "path": "/Wring_docs/docs/APPS/Cucumber/apiui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/Cucumber/cucumber",
+              "path": "/Wring_docs/docs/APPS/Cucumber/cucumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/Cucumber/Data Driven Tests",
+              "path": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests",
               "sidebar": "tutorialSidebar"
             },
             {

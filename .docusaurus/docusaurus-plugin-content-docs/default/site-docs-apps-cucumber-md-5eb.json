@@ -3,7 +3,7 @@
   "id": "APPS/cucumber",
   "isDocsHomePage": false,
   "title": "Guidelines for Using Cucumber for UI Testing",
-  "description": "",
+  "description": "In the fast-paced world of software development, ensuring that user interfaces function correctly across various platforms and devices is crucial. This is where automated UI testing comes into play, providing a reliable and efficient way to validate application behavior. Among the many tools available, Playwright and Cucumber stand out for their robustness and flexibility. When integrated with the Wring platform, these tools offer a powerful solution for comprehensive UI testing.",
   "source": "@site/docs/APPS/cucumber.md",
   "sourceDirName": "APPS",
   "slug": "/APPS/cucumber",

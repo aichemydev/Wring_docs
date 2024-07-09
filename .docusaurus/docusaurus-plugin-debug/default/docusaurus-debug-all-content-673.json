@@ -70,20 +70,46 @@
               }
             },
             {
-              "unversionedId": "APPS/cucumber",
-              "id": "APPS/cucumber",
+              "unversionedId": "APPS/Cucumber/apiui",
+              "id": "APPS/Cucumber/apiui",
               "isDocsHomePage": false,
-              "title": "Guidelines for Using Cucumber for UI Testing",
-              "description": "",
-              "source": "@site/docs/APPS/cucumber.md",
-              "sourceDirName": "APPS",
-              "slug": "/APPS/cucumber",
-              "permalink": "/Wring_docs/docs/APPS/cucumber",
+              "title": "Tests which support API + UI",
+              "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
+              "source": "@site/docs/APPS/Cucumber/apiui.md",
+              "sourceDirName": "APPS/Cucumber",
+              "slug": "/APPS/Cucumber/apiui",
+              "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr - Data Driven Tests",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests"
+              },
+              "next": {
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/APPS/playwright"
+              }
+            },
+            {
+              "unversionedId": "APPS/Cucumber/cucumber",
+              "id": "APPS/Cucumber/cucumber",
+              "isDocsHomePage": false,
+              "title": "Guidelines for Using Cucumber for UI Testing",
+              "description": "In the fast-paced world of software development, ensuring that user interfaces function correctly across various platforms and devices is crucial. This is where automated UI testing comes into play, providing a reliable and efficient way to validate application behavior. Among the many tools available, Playwright and Cucumber stand out for their robustness and flexibility. When integrated with the Wringr platform, these tools offer a powerful solution for comprehensive UI testing.",
+              "source": "@site/docs/APPS/Cucumber/cucumber.md",
+              "sourceDirName": "APPS/Cucumber",
+              "slug": "/APPS/Cucumber/cucumber",
+              "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -91,8 +117,34 @@
                 "permalink": "/Wring_docs/docs/APPS/Replay"
               },
               "next": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/APPS/playwright"
+                "title": "Wringr - Data Driven Tests",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests"
+              }
+            },
+            {
+              "unversionedId": "APPS/Cucumber/Data Driven Tests",
+              "id": "APPS/Cucumber/Data Driven Tests",
+              "isDocsHomePage": false,
+              "title": "Wringr - Data Driven Tests",
+              "description": "Wringr is a versatile and powerful platform that allows organizations to easily create and run data-driven tests. By offering a wide range of features and capabilities, Wringr empowers organizations to conduct tests with precision and accuracy, leading to more reliable results.",
+              "source": "@site/docs/APPS/Cucumber/Data Driven Tests.md",
+              "sourceDirName": "APPS/Cucumber",
+              "slug": "/APPS/Cucumber/Data Driven Tests",
+              "permalink": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guidelines for Using Cucumber for UI Testing",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+              },
+              "next": {
+                "title": "Tests which support API + UI",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
               }
             },
             {
@@ -126,7 +178,7 @@
               "id": "APPS/playwright",
               "isDocsHomePage": false,
               "title": "Guidelines for Using Playwright for UI Testing",
-              "description": "",
+              "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their applications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
               "source": "@site/docs/APPS/playwright.md",
               "sourceDirName": "APPS",
               "slug": "/APPS/playwright",
@@ -139,8 +191,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Guidelines for Using Cucumber for UI Testing",
-                "permalink": "/Wring_docs/docs/APPS/cucumber"
+                "title": "Tests which support API + UI",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
               },
               "next": {
                 "title": "Testsuite",
@@ -170,7 +222,7 @@
               },
               "next": {
                 "title": "Guidelines for Using Cucumber for UI Testing",
-                "permalink": "/Wring_docs/docs/APPS/cucumber"
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
               }
             },
             {
@@ -879,8 +931,24 @@
                     "id": "APPS/Replay"
                   },
                   {
-                    "type": "doc",
-                    "id": "APPS/cucumber"
+                    "type": "category",
+                    "label": "Cucumber",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "APPS/Cucumber/cucumber"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "APPS/Cucumber/Data Driven Tests"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "APPS/Cucumber/apiui"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",

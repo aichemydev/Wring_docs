@@ -50,9 +50,27 @@
             "href": "/Wring_docs/docs/APPS/Replay"
           },
           {
-            "type": "link",
-            "label": "Guidelines for Using Cucumber for UI Testing",
-            "href": "/Wring_docs/docs/APPS/cucumber"
+            "type": "category",
+            "label": "Cucumber",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Guidelines for Using Cucumber for UI Testing",
+                "href": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+              },
+              {
+                "type": "link",
+                "label": "Wringr - Data Driven Tests",
+                "href": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests"
+              },
+              {
+                "type": "link",
+                "label": "Tests which support API + UI",
+                "href": "/Wring_docs/docs/APPS/Cucumber/apiui"
+              }
+            ]
           },
           {
             "type": "link",

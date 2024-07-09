@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','716'),
+    component: ComponentCreator('/Wring_docs/docs','ca4'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -65,8 +65,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/APPS/cucumber',
-        component: ComponentCreator('/Wring_docs/docs/APPS/cucumber','471'),
+        path: '/Wring_docs/docs/APPS/Cucumber/apiui',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/apiui','9a8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/Cucumber/cucumber',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/cucumber','bf5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/Cucumber/Data Driven Tests',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/Data Driven Tests','bad'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
