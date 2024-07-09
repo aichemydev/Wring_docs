@@ -2,8 +2,8 @@
   "unversionedId": "Pocket AI/miniext",
   "id": "Pocket AI/miniext",
   "isDocsHomePage": false,
-  "title": "Pocket AI Pro - Get Started",
-  "description": "Getting started with Pocket AI is easy!",
+  "title": "Glean Pro - Get Started",
+  "description": "Getting started with Glean is easy!",
   "source": "@site/docs/Pocket AI/miniext.md",
   "sourceDirName": "Pocket AI",
   "slug": "/Pocket AI/miniext",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/Pocket AI/intro"
   },
   "next": {
-    "title": "Pocket AI - Ready to start!",
+    "title": "Glean - Ready to start!",
     "permalink": "/Wring_docs/docs/Pocket AI/extract"
   }
 }

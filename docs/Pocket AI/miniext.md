@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Pocket AI Pro - Get Started
+# Glean Pro - Get Started
 
-Getting started with Pocket AI is easy!
+Getting started with Glean is easy!
 
 You can install the extension with just a click and start using it as soon as you finish downloading.
 
@@ -43,15 +43,15 @@ Instructions:
 
 ![Miniext](/img/pro.png)
 
-7. Now you will see Pocket AI and you are ready to get started!
+7. Now you will see Glean and you are ready to get started!
 
 ![Miniext](/img/miniext11.png)
 
-8. After you have installed Pocket AI, you will see extension button in the toolbar and you'll be able to see the Pocket AI there.
+8. After you have installed Glean, you will see extension button in the toolbar and you'll be able to see the Glean there.
 
 ![Miniext](/img/minext12.png)
 
-9. Now you're one click away to open Pocket AI...
+9. Now you're one click away to open Glean...
 
 ![Miniext](/img/miniext13.png)
 
@@ -61,4 +61,4 @@ Don’t forget to give us feedback when you have your first session/test. We rea
 
 ## What's Next?
 
- **Congrats!** You are all set. You are ready to discover Pocket AI.
+ **Congrats!** You are all set. You are ready to discover Glean.

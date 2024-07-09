@@ -451,7 +451,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Pocket AI - Ready to start!",
+                "title": "Glean - Ready to start!",
                 "permalink": "/Wring_docs/docs/Pocket AI/extract"
               },
               "next": {
@@ -485,8 +485,8 @@
               "unversionedId": "Pocket AI/extract",
               "id": "Pocket AI/extract",
               "isDocsHomePage": false,
-              "title": "Pocket AI - Ready to start!",
-              "description": "Pocket AI is one of the most user friendly tools out there. Pocket AI will guide through all the steps to start recording a testcase.",
+              "title": "Glean - Ready to start!",
+              "description": "Glean is one of the most user friendly tools out there. Glean will guide through all the steps to start recording a testcase.",
               "source": "@site/docs/Pocket AI/extract.md",
               "sourceDirName": "Pocket AI",
               "slug": "/Pocket AI/extract",
@@ -499,7 +499,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Pocket AI Pro - Get Started",
+                "title": "Glean Pro - Get Started",
                 "permalink": "/Wring_docs/docs/Pocket AI/miniext"
               },
               "next": {
@@ -512,7 +512,7 @@
               "id": "Pocket AI/intro",
               "isDocsHomePage": false,
               "title": "Getting Started",
-              "description": "Pocket AI - Powerful product assistant",
+              "description": "Glean - Powerful product assistant",
               "source": "@site/docs/Pocket AI/intro.md",
               "sourceDirName": "Pocket AI",
               "slug": "/Pocket AI/intro",
@@ -529,7 +529,7 @@
                 "permalink": "/Wring_docs/docs/Connect/example"
               },
               "next": {
-                "title": "Pocket AI Pro - Get Started",
+                "title": "Glean Pro - Get Started",
                 "permalink": "/Wring_docs/docs/Pocket AI/miniext"
               }
             },
@@ -537,8 +537,8 @@
               "unversionedId": "Pocket AI/miniext",
               "id": "Pocket AI/miniext",
               "isDocsHomePage": false,
-              "title": "Pocket AI Pro - Get Started",
-              "description": "Getting started with Pocket AI is easy!",
+              "title": "Glean Pro - Get Started",
+              "description": "Getting started with Glean is easy!",
               "source": "@site/docs/Pocket AI/miniext.md",
               "sourceDirName": "Pocket AI",
               "slug": "/Pocket AI/miniext",
@@ -555,7 +555,7 @@
                 "permalink": "/Wring_docs/docs/Pocket AI/intro"
               },
               "next": {
-                "title": "Pocket AI - Ready to start!",
+                "title": "Glean - Ready to start!",
                 "permalink": "/Wring_docs/docs/Pocket AI/extract"
               }
             },
@@ -938,7 +938,7 @@
               },
               {
                 "type": "category",
-                "label": "Pocket AI",
+                "label": "Glean",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [

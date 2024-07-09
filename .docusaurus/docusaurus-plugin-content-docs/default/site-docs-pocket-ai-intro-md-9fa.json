@@ -3,7 +3,7 @@
   "id": "Pocket AI/intro",
   "isDocsHomePage": false,
   "title": "Getting Started",
-  "description": "Pocket AI - Powerful product assistant",
+  "description": "Glean - Powerful product assistant",
   "source": "@site/docs/Pocket AI/intro.md",
   "sourceDirName": "Pocket AI",
   "slug": "/Pocket AI/intro",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/Connect/example"
   },
   "next": {
-    "title": "Pocket AI Pro - Get Started",
+    "title": "Glean Pro - Get Started",
     "permalink": "/Wring_docs/docs/Pocket AI/miniext"
   }
 }

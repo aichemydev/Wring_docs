@@ -178,7 +178,7 @@
       },
       {
         "type": "category",
-        "label": "Pocket AI",
+        "label": "Glean",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -189,12 +189,12 @@
           },
           {
             "type": "link",
-            "label": "Pocket AI Pro - Get Started",
+            "label": "Glean Pro - Get Started",
             "href": "/Wring_docs/docs/Pocket AI/miniext"
           },
           {
             "type": "link",
-            "label": "Pocket AI - Ready to start!",
+            "label": "Glean - Ready to start!",
             "href": "/Wring_docs/docs/Pocket AI/extract"
           }
         ]

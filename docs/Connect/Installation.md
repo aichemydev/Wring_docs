@@ -18,6 +18,6 @@ You can also get more details at Cypress, in the right side. You can see Wring P
 
 ![Installation Page](/img/cypress1.png)
 
-Once you get started with Wring Platform, you can get Wring Observer build on Installation page. For more details, please check Wring Smart Observer section.
+Once you get started with Wring Platform, you can get Glean build on Installation page. For more details, please check Glean section.
 
 ![Installation Page](/img/wso.png)

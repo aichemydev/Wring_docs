@@ -2,15 +2,15 @@
 sidebar_position: 3
 ---
 
-# Pocket AI - Ready to start!
+# Glean - Ready to start!
 
-Pocket AI is one of the most user friendly tools out there. Pocket AI will guide through all the steps to start recording a testcase.
+Glean is one of the most user friendly tools out there. Glean will guide through all the steps to start recording a testcase.
 
-Pocket AI is designed to be the simple, powerful way for people to collect customer feedback and other data. Below, you get a summary on what our product does and what it can handle. As a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.
+Glean is designed to be the simple, powerful way for people to collect customer feedback and other data. Below, you get a summary on what our product does and what it can handle. As a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.
 
 ![Miniext](/img/miniext1.png)
 
-Now, we can check what Pocket AI can do!
+Now, we can check what Glean can do!
 
 - *select App* - Select apps that are created in your Wring environment.
 
