@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/APPS/Appmap"
   },
   "next": {
-    "title": "API",
-    "permalink": "/Wring_docs/docs/APPS/Api"
+    "title": "Guidelines for Using Cucumber for UI Testing",
+    "permalink": "/Wring_docs/docs/APPS/cucumber"
   }
 }

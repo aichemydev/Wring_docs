@@ -21,8 +21,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "APPS/cucumber",
+              "path": "/Wring_docs/docs/APPS/cucumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "APPS/Get Started",
               "path": "/Wring_docs/docs/APPS/Get Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/playwright",
+              "path": "/Wring_docs/docs/APPS/playwright",
               "sidebar": "tutorialSidebar"
             },
             {

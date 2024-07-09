@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','78c'),
+    component: ComponentCreator('/Wring_docs/docs','716'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -65,8 +65,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Wring_docs/docs/APPS/cucumber',
+        component: ComponentCreator('/Wring_docs/docs/APPS/cucumber','471'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/Wring_docs/docs/APPS/Get Started',
         component: ComponentCreator('/Wring_docs/docs/APPS/Get Started','af7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/playwright',
+        component: ComponentCreator('/Wring_docs/docs/APPS/playwright','424'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

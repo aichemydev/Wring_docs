@@ -51,13 +51,23 @@
           },
           {
             "type": "link",
-            "label": "API",
-            "href": "/Wring_docs/docs/APPS/Api"
+            "label": "Guidelines for Using Cucumber for UI Testing",
+            "href": "/Wring_docs/docs/APPS/cucumber"
+          },
+          {
+            "type": "link",
+            "label": "Guidelines for Using Playwright for UI Testing",
+            "href": "/Wring_docs/docs/APPS/playwright"
           },
           {
             "type": "link",
             "label": "Testsuite",
             "href": "/Wring_docs/docs/APPS/Testsuite"
+          },
+          {
+            "type": "link",
+            "label": "API",
+            "href": "/Wring_docs/docs/APPS/Api"
           }
         ]
       },

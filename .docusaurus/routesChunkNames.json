@@ -29,7 +29,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-78c": {
+  "/Wring_docs/docs-716": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -41,9 +41,17 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-appmap-5-f-9-4ac"
   },
+  "/Wring_docs/docs/APPS/cucumber-471": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-apps-cucumber-5-eb-853"
+  },
   "/Wring_docs/docs/APPS/Get Started-af7": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-get-started-755-a4e"
+  },
+  "/Wring_docs/docs/APPS/playwright-424": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-apps-playwright-10-b-82d"
   },
   "/Wring_docs/docs/APPS/Replay-f34": {
     "component": "component---theme-doc-item-178-a40",

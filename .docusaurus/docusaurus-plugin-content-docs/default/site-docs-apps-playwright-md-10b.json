@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/playwright",
+  "id": "APPS/playwright",
+  "isDocsHomePage": false,
+  "title": "Guidelines for Using Playwright for UI Testing",
+  "description": "",
+  "source": "@site/docs/APPS/playwright.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/playwright",
+  "permalink": "/Wring_docs/docs/APPS/playwright",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guidelines for Using Cucumber for UI Testing",
+    "permalink": "/Wring_docs/docs/APPS/cucumber"
+  },
+  "next": {
+    "title": "Testsuite",
+    "permalink": "/Wring_docs/docs/APPS/Testsuite"
+  }
+}

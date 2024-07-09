@@ -29,18 +29,18 @@
               "permalink": "/Wring_docs/docs/APPS/Api",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Replay",
-                "permalink": "/Wring_docs/docs/APPS/Replay"
-              },
-              "next": {
                 "title": "Testsuite",
                 "permalink": "/Wring_docs/docs/APPS/Testsuite"
+              },
+              "next": {
+                "title": "Test Runs Overview",
+                "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
               }
             },
             {
@@ -70,6 +70,32 @@
               }
             },
             {
+              "unversionedId": "APPS/cucumber",
+              "id": "APPS/cucumber",
+              "isDocsHomePage": false,
+              "title": "Guidelines for Using Cucumber for UI Testing",
+              "description": "",
+              "source": "@site/docs/APPS/cucumber.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/cucumber",
+              "permalink": "/Wring_docs/docs/APPS/cucumber",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Replay",
+                "permalink": "/Wring_docs/docs/APPS/Replay"
+              },
+              "next": {
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/APPS/playwright"
+              }
+            },
+            {
               "unversionedId": "APPS/Get Started",
               "id": "APPS/Get Started",
               "isDocsHomePage": false,
@@ -96,6 +122,32 @@
               }
             },
             {
+              "unversionedId": "APPS/playwright",
+              "id": "APPS/playwright",
+              "isDocsHomePage": false,
+              "title": "Guidelines for Using Playwright for UI Testing",
+              "description": "",
+              "source": "@site/docs/APPS/playwright.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/playwright",
+              "permalink": "/Wring_docs/docs/APPS/playwright",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guidelines for Using Cucumber for UI Testing",
+                "permalink": "/Wring_docs/docs/APPS/cucumber"
+              },
+              "next": {
+                "title": "Testsuite",
+                "permalink": "/Wring_docs/docs/APPS/Testsuite"
+              }
+            },
+            {
               "unversionedId": "APPS/Replay",
               "id": "APPS/Replay",
               "isDocsHomePage": false,
@@ -117,8 +169,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Appmap"
               },
               "next": {
-                "title": "API",
-                "permalink": "/Wring_docs/docs/APPS/Api"
+                "title": "Guidelines for Using Cucumber for UI Testing",
+                "permalink": "/Wring_docs/docs/APPS/cucumber"
               }
             },
             {
@@ -191,12 +243,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "API",
-                "permalink": "/Wring_docs/docs/APPS/Api"
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/APPS/playwright"
               },
               "next": {
-                "title": "Test Runs Overview",
-                "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
+                "title": "API",
+                "permalink": "/Wring_docs/docs/APPS/Api"
               }
             },
             {
@@ -755,8 +807,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Testsuite",
-                "permalink": "/Wring_docs/docs/APPS/Testsuite"
+                "title": "API",
+                "permalink": "/Wring_docs/docs/APPS/Api"
               },
               "next": {
                 "title": "Overview",
@@ -828,11 +880,19 @@
                   },
                   {
                     "type": "doc",
-                    "id": "APPS/Api"
+                    "id": "APPS/cucumber"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/playwright"
                   },
                   {
                     "type": "doc",
                     "id": "APPS/Testsuite"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/Api"
                   }
                 ]
               },
