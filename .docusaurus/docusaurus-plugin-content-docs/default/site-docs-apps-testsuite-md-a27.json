@@ -10,17 +10,17 @@
   "permalink": "/Wring_docs/docs/APPS/Testsuite",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Guidelines for Using Playwright for UI Testing",
-    "permalink": "/Wring_docs/docs/APPS/playwright"
-  },
-  "next": {
     "title": "API",
     "permalink": "/Wring_docs/docs/APPS/Api"
+  },
+  "next": {
+    "title": "Test Runs Overview",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
   }
 }

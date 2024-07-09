@@ -79,13 +79,13 @@
           },
           {
             "type": "link",
-            "label": "Testsuite",
-            "href": "/Wring_docs/docs/APPS/Testsuite"
+            "label": "API",
+            "href": "/Wring_docs/docs/APPS/Api"
           },
           {
             "type": "link",
-            "label": "API",
-            "href": "/Wring_docs/docs/APPS/Api"
+            "label": "Testsuite",
+            "href": "/Wring_docs/docs/APPS/Testsuite"
           }
         ]
       },
