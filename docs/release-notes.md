@@ -4,9 +4,9 @@ sidebar_position: 11
 
 # Release Notes
 
-### Release Notes: Wring [2.0]
+### Release Notes: Wringr [2.0]
 
-We're excited to share the latest enhancements in Wring [2.0], where we've focused on elevating your experience with notable upgrades in our Apps feature. Here's what you can expect:
+We're excited to share the latest enhancements in Wringr [2.0], where we've focused on elevating your experience with notable upgrades in our Apps feature. Here's what you can expect:
 
 **Date:** January, 2024
 

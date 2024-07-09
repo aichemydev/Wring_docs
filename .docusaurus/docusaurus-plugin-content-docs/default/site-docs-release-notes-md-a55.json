@@ -3,7 +3,7 @@
   "id": "release-notes",
   "isDocsHomePage": false,
   "title": "Release Notes",
-  "description": "Release Notes: Wring [2.0]",
+  "description": "Release Notes: Wringr [2.0]",
   "source": "@site/docs/release-notes.md",
   "sourceDirName": ".",
   "slug": "/release-notes",

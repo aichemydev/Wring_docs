@@ -1,0 +1,26 @@
+{
+  "unversionedId": "PROJECTS/Get Started",
+  "id": "PROJECTS/Get Started",
+  "isDocsHomePage": false,
+  "title": "Get Started",
+  "description": "Introduction",
+  "source": "@site/docs/PROJECTS/Get Started.md",
+  "sourceDirName": "PROJECTS",
+  "slug": "/PROJECTS/Get Started",
+  "permalink": "/Wring_docs/docs/PROJECTS/Get Started",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testsuite",
+    "permalink": "/Wring_docs/docs/APPS/Testsuite"
+  },
+  "next": {
+    "title": "Test Runs Overview",
+    "permalink": "/Wring_docs/docs/Test Runs/Test Runs"
+  }
+}
