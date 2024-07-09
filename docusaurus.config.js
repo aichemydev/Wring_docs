@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wring',
+  title: 'Wringr',
   tagline: 'Speed up the testing process!',
   //url: 'https://aichemydev.github.io/',
   url: 'https://github.com/',
@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-	title: 'Wring',
+	title: 'Wringr',
 	logo: {
 	  alt: 'Wring Logo',
 	  src: 'img/aiChemy_Logo.svg',

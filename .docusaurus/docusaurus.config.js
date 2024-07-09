@@ -1,5 +1,5 @@
 export default {
-  "title": "Wring",
+  "title": "Wringr",
   "tagline": "Speed up the testing process!",
   "url": "https://github.com/",
   "baseUrl": "/Wring_docs/",
@@ -28,7 +28,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Wring",
+      "title": "Wringr",
       "logo": {
         "alt": "Wring Logo",
         "src": "img/aiChemy_Logo.svg"
