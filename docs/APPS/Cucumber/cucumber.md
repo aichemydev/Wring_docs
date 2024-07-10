@@ -64,6 +64,42 @@ After the dependencies are installed, execute the following command to run the t
 ```bash
 npm test
 ```
+
+### View Test Runs Visually:
+
+The screenshot shows the visual output of the Playwright command `npx playwright show-trace`, which is used to visualize traces of test executions.
+
+### Breakdown
+
+#### Top Timeline
+The top of the screenshot displays a timeline of events during the test execution, with a sequence of small thumbnails representing different stages or steps in the test. Each step has a timestamp showing the duration of that particular action.
+
+#### Left Panel (Actions and Metadata)
+
+**Actions**:
+- This panel lists the different steps of the test script executed sequentially, such as "Before Hooks," "Given I navigate to the page," "When I make a GET call to," "When I click on the element," and "After Hooks."
+
+**Metadata**:
+- Each action is accompanied by a duration indicating how long it took to execute.
+
+#### Central Panel (Screenshot and Action Details)
+The main central area shows a screenshot captured during one of the steps of the test. This specific screenshot appears to capture the state of a web page after a search for "SAP" on Google, displaying the search results page with information about SAP.
+
+#### Tabs at the Bottom (Locator, Call, Log, Errors, Console, Network, Source, Attachments)
+
+- **Locator**: Provides details about the locator used for actions.
+- **Call**: Shows the function calls made during the test.
+- **Log**: Displays logs of actions performed during the test.
+- **Errors**: Lists any errors encountered.
+- **Console**: Shows console logs.
+- **Network**: Captures network requests and responses.
+- **Source**: Provides the source code or relevant parts of the script.
+- **Attachments**: Shows any attachments related to the test.
+
+### Summary
+The `npx playwright show-trace` command generates a visual and interactive representation of the test trace, allowing users to see the sequence of actions, view screenshots at each step, and inspect detailed logs and metadata for each action. This tool is useful for debugging and understanding the flow and outcomes of automated tests.
+
+
 Following these steps in your terminal or command prompt will ensure that the Cucumber files are properly set up, dependencies are installed, and tests are executed to validate the functionality of your application.
 
 ![Cucumber](/img/cucumber-5.png)
