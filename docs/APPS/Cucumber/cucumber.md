@@ -69,6 +69,9 @@ npm test
 
 The screenshot shows the visual output of the Playwright command `npx playwright show-trace`, which is used to visualize traces of test executions.
 
+<img width="1440" alt="image" src="https://github.com/aichemydev/Wring_docs/assets/1430554/c598fa9e-bf3e-4199-a0f9-0395467947a6">
+
+
 ### Breakdown
 
 #### Top Timeline
