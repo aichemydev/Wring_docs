@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Guidelines for Using Cucumber for UI Testing
+# Wringr Cucumber Testing
 
 
 In today's fast-paced software development environment, ensuring that user interfaces work flawlessly across multiple platforms and devices is essential. Automated UI testing offers a reliable and efficient solution to validate application behavior. Among the many tools available, Playwright and Cucumber are notable for their robustness and flexibility. When integrated with the Wringr platform, they provide a powerful solution for comprehensive UI testing.
@@ -13,7 +13,7 @@ With Glean, you can effortlessly record sessions and generate Cucumber files fro
 
 ![Cucumber](/img/cucumber-1.png)
 
-### Instructions for Viewing Session Steps
+### Viewing Session Steps
 
 #### Navigate to Your Project:
 1. Go to the **"Projects"** section in the left navigation panel.
