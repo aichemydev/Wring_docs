@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Tests which support API + UI
+# API Tests
 
 In Wringr, for tests that support APIs in the UI, you can generate feature files and code.
 
