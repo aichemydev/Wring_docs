@@ -4,17 +4,17 @@ sidebar_position: 2
 
 This section serves as a comprehensive step-by-step guide for initiating your project. It provides detailed information on what actions to take, the methodology to follow, and the optimal timing for each step in the process.
 
-To commence, the first step involves leveraging our intuitive yet robust Apps feature to seamlessly add a new project. This user-friendly functionality streamlines the project initiation process, ensuring a straightforward and powerful experience for users at every level of expertise.
+To commence, the first step involves leveraging our intuitive yet robust Projects feature to seamlessly add a new project. This user-friendly functionality streamlines the project initiation process, ensuring a straightforward and powerful experience for users at every level of expertise.
 
-*You can start by adding a new project with our simple yet powerful apps feature.*
+*You can start by adding a new project with our simple yet powerful Projects feature.*
 
-## How to create a Project in Apps?
+## How to create a Project in Projects?
 
-Simplify your life and get apps from Wring. Wring allows you to create a project from which you want to get apps by going to `Set up Apps` and clicking on `Add new project`.
+Simplify your life and get Projects from Wring. Wring allows you to create a project from which you want to get Projects by going to `Set up Projects` and clicking on `Add new project`.
 
 ![Session Replay](/img/pag5.png)
 
-Wring allows you to easily generate a project for your first-time build. After the app is successfully created, the interface will resemble the following configuration:
+Wring allows you to easily generate a project for your first-time build. After the Project is successfully created, the interface will resemble the following configuration:
 
 ![Session Replay](/img/pag6.png)
 
@@ -36,7 +36,7 @@ e.__SV=1)}(document,window.wring||[]);wring.init('phc_mpnh4A9NHitMnJuC0xznUpFv2l
 {advanced_capture_all_elements: true, enable_recording_console_log: true, api_host:'https://wes.wring.dev'}) </script> 
 ```
 
-Wring is the all in one solution for your application and website. The single easiest way to get started with Wring is right within your terminal and go direct to your website/application.                                                            
+Wring is the all in one solution for your Projectlication and website. The single easiest way to get started with Wring is right within your terminal and go direct to your website/Projectlication.                                                            
 Then run the following command:
 
 1. ssh `https://name-of-site.dev`, in our case `https://demo-calendar.wring.dev`
@@ -60,7 +60,7 @@ Then run the following command:
 
 ![Session Replay](/img/pag6.png)
 
-Upon creating the app, you will encounter a set of buttons, each serving a distinct purpose within the interface. Let's delve into the functionalities they offer:
+Upon creating the Project, you will encounter a set of buttons, each serving a distinct purpose within the interface. Let's delve into the functionalities they offer:
 
 ![Session Replay](/img/pag11.png)
 
@@ -78,7 +78,7 @@ Upon creating the app, you will encounter a set of buttons, each serving a disti
 
 3. **Delete Project:**
 
-- **Purpose:** Permanently removes the selected project from the app.
+- **Purpose:** Permanently removes the selected project from the Project.
 
 - **Usage:** Clicking on this button triggers a confirmation process, ensuring that you intend to delete the project. Once confirmed, the project and its associated data are irreversibly removed.
 

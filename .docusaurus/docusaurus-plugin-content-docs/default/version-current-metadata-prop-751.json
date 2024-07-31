@@ -20,7 +20,7 @@
       },
       {
         "type": "category",
-        "label": "Apps",
+        "label": "Projects",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -36,7 +36,7 @@
           },
           {
             "type": "link",
-            "label": "Apps - Step by step",
+            "label": "Projects - Step by step",
             "href": "/Wring_docs/docs/APPS/Step-by-Step"
           },
           {
@@ -57,7 +57,7 @@
             "items": [
               {
                 "type": "link",
-                "label": "Guidelines for Using Cucumber for UI Testing",
+                "label": "Wringr Cucumber Testing",
                 "href": "/Wring_docs/docs/APPS/Cucumber/cucumber"
               },
               {
@@ -67,7 +67,12 @@
               },
               {
                 "type": "link",
-                "label": "Tests which support API + UI",
+                "label": "Fixtures",
+                "href": "/Wring_docs/docs/APPS/Cucumber/Fixtures"
+              },
+              {
+                "type": "link",
+                "label": "API Tests",
                 "href": "/Wring_docs/docs/APPS/Cucumber/apiui"
               }
             ]
@@ -91,116 +96,14 @@
       },
       {
         "type": "category",
-        "label": "Test Runs",
+        "label": "Integrations",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Test Runs Overview",
-            "href": "/Wring_docs/docs/Test Runs/Test Runs"
-          },
-          {
-            "type": "category",
-            "label": "Details",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Overview",
-                "href": "/Wring_docs/docs/Test Runs/Details/overview"
-              },
-              {
-                "type": "link",
-                "label": "View/edit run steps",
-                "href": "/Wring_docs/docs/Test Runs/Details/Run_steps"
-              },
-              {
-                "type": "link",
-                "label": "Test Run Selectors - Advanced",
-                "href": "/Wring_docs/docs/Test Runs/Details/Advanced"
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "Expander",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Get Started with Expander",
-                "href": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started"
-              },
-              {
-                "type": "link",
-                "label": "Expander Runs",
-                "href": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs"
-              },
-              {
-                "type": "link",
-                "label": "Data File Upload Variables",
-                "href": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Connect",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Installation",
+            "label": "Wringr Plugins",
             "href": "/Wring_docs/docs/Connect/Installation"
-          },
-          {
-            "type": "link",
-            "label": "CI Integrations",
-            "href": "/Wring_docs/docs/Connect/integration"
-          },
-          {
-            "type": "link",
-            "label": "Triggered runs",
-            "href": "/Wring_docs/docs/Connect/Triggers"
-          },
-          {
-            "type": "link",
-            "label": "Scheduled Runs",
-            "href": "/Wring_docs/docs/Connect/Scheduled"
-          },
-          {
-            "type": "category",
-            "label": "Wring Plugins",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Getting Started",
-                "href": "/Wring_docs/docs/Connect/tutorial-extras/getting-started"
-              },
-              {
-                "type": "link",
-                "label": "Customizing Interceptor Execution",
-                "href": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor"
-              },
-              {
-                "type": "link",
-                "label": "Capture Android Events",
-                "href": "/Wring_docs/docs/Connect/tutorial-extras/wring-android"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "label": "Authentication Integrations",
-            "href": "/Wring_docs/docs/Connect/example"
           }
         ]
       },

@@ -29,7 +29,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-ca4": {
+  "/Wring_docs/docs-830": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -52,6 +52,10 @@
   "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests-bad": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-cucumber-data-driven-testsc-69-83a"
+  },
+  "/Wring_docs/docs/APPS/Cucumber/Fixtures-191": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-apps-cucumber-fixturesb-3-f-2c2"
   },
   "/Wring_docs/docs/APPS/Get Started-af7": {
     "component": "component---theme-doc-item-178-a40",
@@ -77,37 +81,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-testsuitea-27-8db"
   },
-  "/Wring_docs/docs/Connect/example-ebd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-example-66-f-64b"
-  },
   "/Wring_docs/docs/Connect/Installation-54c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-connect-installation-0-b-4-861"
-  },
-  "/Wring_docs/docs/Connect/integration-732": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-integrationb-8-d-8d9"
-  },
-  "/Wring_docs/docs/Connect/Scheduled-425": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-scheduled-97-d-39d"
-  },
-  "/Wring_docs/docs/Connect/Triggers-5e0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-triggers-8-d-2-026"
-  },
-  "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor-b71": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-tutorial-extras-customizing-interceptor-6-bc-d72"
-  },
-  "/Wring_docs/docs/Connect/tutorial-extras/getting-started-783": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-tutorial-extras-getting-started-71-f-3f6"
-  },
-  "/Wring_docs/docs/Connect/tutorial-extras/wring-android-700": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-connect-tutorial-extras-wring-androidd-9-a-4d0"
   },
   "/Wring_docs/docs/Dash-3dd": {
     "component": "component---theme-doc-item-178-a40",
@@ -136,34 +112,6 @@
   "/Wring_docs/docs/release-notes-b60": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-release-notesa-55-671"
-  },
-  "/Wring_docs/docs/Test Runs/Details/Advanced-19c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-details-advanced-73-d-b1c"
-  },
-  "/Wring_docs/docs/Test Runs/Details/overview-cba": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-details-overview-1-c-3-cbf"
-  },
-  "/Wring_docs/docs/Test Runs/Details/Run_steps-d22": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-details-run-stepsc-19-4d3"
-  },
-  "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile-fd7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-test-enhancer-datafile-403-767"
-  },
-  "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started-4d8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-test-enhancer-get-startede-64-459"
-  },
-  "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs-b87": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-test-enhancer-simulator-runsca-0-325"
-  },
-  "/Wring_docs/docs/Test Runs/Test Runs-99f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-runs-test-runs-2-fb-62a"
   },
   "/Wring_docs/docs/versions-cdf": {
     "component": "component---theme-doc-item-178-a40",

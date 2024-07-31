@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # API
 
-In our App framework, we systematically submit sessions, providing us with the capability to intricately monitor and scrutinize every API call executed within the confines of that particular app.
+In our project framework, we systematically submit sessions, providing us with the capability to intricately monitor and scrutinize every API call executed within the confines of that particular project.
 
 ![API](/img/api-1.png)
 

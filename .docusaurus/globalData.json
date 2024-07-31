@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "APPS/Cucumber/Fixtures",
+              "path": "/Wring_docs/docs/APPS/Cucumber/Fixtures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "APPS/Get Started",
               "path": "/Wring_docs/docs/APPS/Get Started",
               "sidebar": "tutorialSidebar"
@@ -66,43 +71,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Connect/example",
-              "path": "/Wring_docs/docs/Connect/example",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Connect/Installation",
               "path": "/Wring_docs/docs/Connect/Installation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Connect/integration",
-              "path": "/Wring_docs/docs/Connect/integration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Connect/Scheduled",
-              "path": "/Wring_docs/docs/Connect/Scheduled",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Connect/Triggers",
-              "path": "/Wring_docs/docs/Connect/Triggers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Connect/tutorial-extras/customizing-interceptor",
-              "path": "/Wring_docs/docs/Connect/tutorial-extras/customizing-interceptor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Connect/tutorial-extras/getting-started",
-              "path": "/Wring_docs/docs/Connect/tutorial-extras/getting-started",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Connect/tutorial-extras/wring-android",
-              "path": "/Wring_docs/docs/Connect/tutorial-extras/wring-android",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -138,41 +108,6 @@
             {
               "id": "release-notes",
               "path": "/Wring_docs/docs/release-notes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Details/Advanced",
-              "path": "/Wring_docs/docs/Test Runs/Details/Advanced",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Details/overview",
-              "path": "/Wring_docs/docs/Test Runs/Details/overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Details/Run_steps",
-              "path": "/Wring_docs/docs/Test Runs/Details/Run_steps",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Test Enhancer/Datafile",
-              "path": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Test Enhancer/Get Started",
-              "path": "/Wring_docs/docs/Test Runs/Test Enhancer/Get Started",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Test Enhancer/Simulator Runs",
-              "path": "/Wring_docs/docs/Test Runs/Test Enhancer/Simulator Runs",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test Runs/Test Runs",
-              "path": "/Wring_docs/docs/Test Runs/Test Runs",
               "sidebar": "tutorialSidebar"
             },
             {

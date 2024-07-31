@@ -8,40 +8,40 @@ sidebar_position: 4
 
  It allows for the analysis of transitions between web pages and user actions within a single page. The map of web page transitions is displayed as a directed graph, where nodes represent different web pages (with screenshots) and edges represent user actions.
 
- ![Appmap](/img/appmapp.png)
+ ![appmap](/img/appmapp.png)
 
-To update the Appmap with the latest sessions and changes, you can simply click the refresh button. This action triggers the system to fetch and incorporate the most recent data, ensuring that the Appmap accurately reflects the current state of the web application based on the latest user sessions. This streamlined process allows users to stay up-to-date with the evolving structure and interactions within the application.
+To update the appmap with the latest sessions and changes, you can simply click the refresh button. This action triggers the system to fetch and incorporate the most recent data, ensuring that the appmap accurately reflects the current state of the web application based on the latest user sessions. This streamlined process allows users to stay up-to-date with the evolving structure and interactions within the application.
 
- ![Appmap](/img/appmap-1.png)
+ ![appmap](/img/appmap-1.png)
 
-Wring offers an alternative, user-friendly view in the Appmap that provides a comprehensive look at snapshots and their connections. This view is designed to enhance the visual experience, making it easier for users to understand the relationships between different snapshots within the web application.
+Wring offers an alternative, user-friendly view in the appmap that provides a comprehensive look at snapshots and their connections. This view is designed to enhance the visual experience, making it easier for users to understand the relationships between different snapshots within the web application.
 
- ![Appmap](/img/appmap-2.png)
+ ![appmap](/img/appmap-2.png)
 
  The buttons in the top right corner of an interface often serve as quick-access controls or options
 
- ![Appmap](/img/appmap-3.png)
+ ![appmap](/img/appmap-3.png)
 
 - 1. If you have access to appmap and are looking for specific information, please check "Dataview" button 
 
- ![Appmap](/img/appmap-4.png)
+ ![appmap](/img/appmap-4.png)
 
-- 2. Restore Button: Users might have the option to click a "restore" button, which would prompt them to choose a specific version or revert the Appmap .
+- 2. Restore Button: Users might have the option to click a "restore" button, which would prompt them to choose a specific version or revert the appmap .
 
-- 3. Save as image - Wring provides a feature to export or save the Appmap as an image:
+- 3. Save as image - Wring provides a feature to export or save the appmap as an image:
 
 - 4. Zoom - Users can increase the magnification level to view details more closely.
 - 5. Zoom/Reset - It will return the view to its default or original magnification level.
 
 This approach provides a chronological or step-by-step representation of user actions, making it easier to analyze and understand the flow of the application. It's a valuable feature for visualizing user journeys, identifying potential bottlenecks, and gaining insights into how users navigate through different pages or elements.
 
- ![Appmap](/img/appmap-5.png)
+ ![appmap](/img/appmap-5.png)
 
- ![Appmap](/img/appmap-6.png)
+ ![appmap](/img/appmap-6.png)
 
-We have a visual representation of the Appmap in a sequential order with individual snapshots. Clicking on each snapshot allows you to trace the journey or road through the Appmap, offering a detailed view of how interactions unfold within your web application.
+We have a visual representation of the appmap in a sequential order with individual snapshots. Clicking on each snapshot allows you to trace the journey or road through the appmap, offering a detailed view of how interactions unfold within your web application.
 
- ![Appmap](/img/appmap-7.png)
+ ![appmap](/img/appmap-7.png)
 
 
 

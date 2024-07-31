@@ -3,7 +3,7 @@
   "id": "APPS/Cucumber/Data Driven Tests",
   "isDocsHomePage": false,
   "title": "Wringr - Data Driven Tests",
-  "description": "Wringr is a versatile and powerful platform that allows organizations to easily create and run data-driven tests. By offering a wide range of features and capabilities, Wringr empowers organizations to conduct tests with precision and accuracy, leading to more reliable results.",
+  "description": "Wringr is a versatile and powerful platform that enables organizations to easily create and run data-driven tests. With its extensive range of features and capabilities, Wringr allows organizations to conduct tests with precision and accuracy, ensuring more reliable results.",
   "source": "@site/docs/APPS/Cucumber/Data Driven Tests.md",
   "sourceDirName": "APPS/Cucumber",
   "slug": "/APPS/Cucumber/Data Driven Tests",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Guidelines for Using Cucumber for UI Testing",
+    "title": "Wringr Cucumber Testing",
     "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
   },
   "next": {
-    "title": "Tests which support API + UI",
-    "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber/Fixtures"
   }
 }

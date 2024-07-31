@@ -2,8 +2,8 @@
   "unversionedId": "Connect/Installation",
   "id": "Connect/Installation",
   "isDocsHomePage": false,
-  "title": "Installation",
-  "description": "For the latest instructions on how to install Wring Plugins, please visit our installation page. You'll find quick instructions for installing Wring Plugins for Selenium and Cypress in the languages that we support.",
+  "title": "Wringr Plugins",
+  "description": "For the latest instructions on how to install Wring Plugins, please visit our installation page. You'll find quick instructions for installing Wring Plugins in the languages that we support.",
   "source": "@site/docs/Connect/Installation.md",
   "sourceDirName": "Connect",
   "slug": "/Connect/Installation",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Data File Upload Variables",
-    "permalink": "/Wring_docs/docs/Test Runs/Test Enhancer/Datafile"
+    "title": "Testsuite",
+    "permalink": "/Wring_docs/docs/APPS/Testsuite"
   },
   "next": {
-    "title": "CI Integrations",
-    "permalink": "/Wring_docs/docs/Connect/integration"
+    "title": "Getting Started",
+    "permalink": "/Wring_docs/docs/Pocket AI/intro"
   }
 }

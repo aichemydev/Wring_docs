@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Scheduled Runs",
-    "permalink": "/Wring_docs/docs/Connect/Scheduled"
+    "title": "Installation",
+    "permalink": "/Wring_docs/docs/Connect/Installation"
   },
   "next": {
     "title": "Customizing Interceptor Execution",

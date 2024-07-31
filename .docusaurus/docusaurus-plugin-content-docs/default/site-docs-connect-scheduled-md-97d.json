@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Triggered runs",
-    "permalink": "/Wring_docs/docs/Connect/Triggers"
+    "title": "CI Integrations",
+    "permalink": "/Wring_docs/docs/Connect/integration"
   },
   "next": {
     "title": "Getting Started",

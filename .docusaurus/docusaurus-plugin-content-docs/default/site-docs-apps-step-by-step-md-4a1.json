@@ -2,7 +2,7 @@
   "unversionedId": "APPS/Step-by-Step",
   "id": "APPS/Step-by-Step",
   "isDocsHomePage": false,
-  "title": "Apps - Step by step",
+  "title": "Projects - Step by step",
   "description": "Once you've recorded sessions and incorporated them into your project, you gain the capability to explore additional integrations within our platform",
   "source": "@site/docs/APPS/Step-by-Step.md",
   "sourceDirName": "APPS",

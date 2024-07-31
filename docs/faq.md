@@ -13,9 +13,9 @@ sidebar_position: 9
 :::
 
 :::note  question 2
-  <summary>  Does Wringr work only on Cloud applications?</summary>
+  <summary>  Does Wringr work only on Cloud Projectlications?</summary>
 
-  - Wringr can work on both cloud and on-premise applications extremely easily.
+  - Wringr can work on both cloud and on-premise Projectlications extremely easily.
 
 :::
 
