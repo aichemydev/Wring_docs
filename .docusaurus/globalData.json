@@ -86,6 +86,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Google Recordings/googlerecorder",
+              "path": "/Wring_docs/docs/Google Recordings/googlerecorder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google Recordings/wringruirec",
+              "path": "/Wring_docs/docs/Google Recordings/wringruirec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/Wring_docs/docs/intro",
               "sidebar": "tutorialSidebar"

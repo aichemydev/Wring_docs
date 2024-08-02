@@ -131,6 +131,24 @@
         ]
       },
       {
+        "type": "category",
+        "label": "Google Recordings",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Wringr Ui with Google Recorder",
+            "href": "/Wring_docs/docs/Google Recordings/googlerecorder"
+          },
+          {
+            "type": "link",
+            "label": "**Integrating and Uploading Tests in Wringr UI**",
+            "href": "/Wring_docs/docs/Google Recordings/wringruirec"
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "Frequently Asked Questions",
         "href": "/Wring_docs/docs/faq"

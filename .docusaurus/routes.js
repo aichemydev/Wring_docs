@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','830'),
+    component: ComponentCreator('/Wring_docs/docs','bbc'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -139,6 +139,18 @@ export default [
       {
         path: '/Wring_docs/docs/faq',
         component: ComponentCreator('/Wring_docs/docs/faq','976'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Google Recordings/googlerecorder',
+        component: ComponentCreator('/Wring_docs/docs/Google Recordings/googlerecorder','2f3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Google Recordings/wringruirec',
+        component: ComponentCreator('/Wring_docs/docs/Google Recordings/wringruirec','b7a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

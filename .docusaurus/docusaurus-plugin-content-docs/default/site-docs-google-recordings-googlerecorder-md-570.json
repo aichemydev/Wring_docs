@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Google Recordings/googlerecorder",
+  "id": "Google Recordings/googlerecorder",
+  "isDocsHomePage": false,
+  "title": "Wringr Ui with Google Recorder",
+  "description": "Using the \"Recorder\" tool in browser developer tools (such as Chrome DevTools) can be an efficient way to automate and document your UI testing. This tool allows you to record user interactions with your web application and replay them to verify functionality or identify issues. Here's a step-by-step guide on how to use the Recorder tool from Inspect Elements for testing:",
+  "source": "@site/docs/Google Recordings/googlerecorder.md",
+  "sourceDirName": "Google Recordings",
+  "slug": "/Google Recordings/googlerecorder",
+  "permalink": "/Wring_docs/docs/Google Recordings/googlerecorder",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glean - Ready to start!",
+    "permalink": "/Wring_docs/docs/Pocket AI/extract"
+  },
+  "next": {
+    "title": "**Integrating and Uploading Tests in Wringr UI**",
+    "permalink": "/Wring_docs/docs/Google Recordings/wringruirec"
+  }
+}
