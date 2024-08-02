@@ -2,9 +2,7 @@
 sidebar_position: 2
 ---
 
-# **Integrating and Uploading Tests in Wringr UI**
-
-### Integrating and Uploading Tests in Wringr UI
+# Integrating and Uploading Tests in Wringr UI
 
 This documentation provides a comprehensive guide on how to integrate and upload recorded tests into the Wringr UI. Leveraging the power of the Chrome DevTools Recorder, users can capture detailed UI interactions and seamlessly add them to the Wringr platform for in-depth analysis, debugging, and validation. This process ensures efficient test management and enhances the overall quality assurance workflow.
 

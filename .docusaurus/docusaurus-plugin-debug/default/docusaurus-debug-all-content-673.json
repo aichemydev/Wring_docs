@@ -399,7 +399,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "**Integrating and Uploading Tests in Wringr UI**",
+                "title": "Integrating and Uploading Tests in Wringr UI",
                 "permalink": "/Wring_docs/docs/Google Recordings/wringruirec"
               },
               "next": {
@@ -429,7 +429,7 @@
                 "permalink": "/Wring_docs/docs/Pocket AI/extract"
               },
               "next": {
-                "title": "**Integrating and Uploading Tests in Wringr UI**",
+                "title": "Integrating and Uploading Tests in Wringr UI",
                 "permalink": "/Wring_docs/docs/Google Recordings/wringruirec"
               }
             },
@@ -437,8 +437,8 @@
               "unversionedId": "Google Recordings/wringruirec",
               "id": "Google Recordings/wringruirec",
               "isDocsHomePage": false,
-              "title": "**Integrating and Uploading Tests in Wringr UI**",
-              "description": "Integrating and Uploading Tests in Wringr UI",
+              "title": "Integrating and Uploading Tests in Wringr UI",
+              "description": "This documentation provides a comprehensive guide on how to integrate and upload recorded tests into the Wringr UI. Leveraging the power of the Chrome DevTools Recorder, users can capture detailed UI interactions and seamlessly add them to the Wringr platform for in-depth analysis, debugging, and validation. This process ensures efficient test management and enhances the overall quality assurance workflow.",
               "source": "@site/docs/Google Recordings/wringruirec.md",
               "sourceDirName": "Google Recordings",
               "slug": "/Google Recordings/wringruirec",
