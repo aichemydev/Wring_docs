@@ -61,6 +61,7 @@ Below the prompt, you will find a list of available test formats. Click on the f
 After selecting the desired format, click the "Submit" button to apply the format to your test.
 
 ![Recorder](/img/recupload7.png)
+
 By following these steps, you can provide specific guidance to Wringr AI on how to generate the tests, ensuring they meet your project's needs and cover all necessary aspects.
 
 
