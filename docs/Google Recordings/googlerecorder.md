@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Using the "Recorder" in Chrome DevTools can be an efficient way to automate and document your UX testing. This tool allows you to record user interactions with your web application and replay them to verify functionality or identify issues. Here's a step-by-step guide on how to use the Recorder:
 
-#### 1. Launch Chrome
+### 1. Launch Chrome
 1. Open Google Chrome.
 2. Navigate to the web application you want to test.
 
-#### 2. Open DevTools
+### 2. Open DevTools
 1. Right-click on the page and select **"Inspect."**
 2. Alternatively, press `Ctrl+Shift+I` (for Windows) or `Cmd+Opt+I` (for Mac) to open DevTools.
 
-#### 3. Access the Recorder Tool
+### 3. Access the Recorder Tool
 1. In the DevTools panel, find the **"Recorder"** tab.
 2. If you don't see the **"Recorder"** tab, click on the three vertical dots in the top right corner of the DevTools panel, select **"More tools,"** and then choose **"Recorder."**
 
