@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Replay
+# Sessions
 
 ### How to use sessions?
 

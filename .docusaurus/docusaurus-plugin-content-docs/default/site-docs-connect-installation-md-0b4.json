@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Testsuite",
-    "permalink": "/Wring_docs/docs/APPS/Testsuite"
+    "title": "API",
+    "permalink": "/Wring_docs/docs/APPS/Api"
   },
   "next": {
-    "title": "Getting Started",
-    "permalink": "/Wring_docs/docs/Pocket AI/intro"
+    "title": "Wringr AI with Google Recorder",
+    "permalink": "/Wring_docs/docs/Google Recordings/googlerecorder"
   }
 }

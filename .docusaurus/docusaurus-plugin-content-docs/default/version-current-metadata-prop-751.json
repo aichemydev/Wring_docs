@@ -41,12 +41,7 @@
           },
           {
             "type": "link",
-            "label": "Appmap",
-            "href": "/Wring_docs/docs/APPS/Appmap"
-          },
-          {
-            "type": "link",
-            "label": "Replay",
+            "label": "Sessions",
             "href": "/Wring_docs/docs/APPS/Replay"
           },
           {
@@ -86,11 +81,6 @@
             "type": "link",
             "label": "API",
             "href": "/Wring_docs/docs/APPS/Api"
-          },
-          {
-            "type": "link",
-            "label": "Testsuite",
-            "href": "/Wring_docs/docs/APPS/Testsuite"
           }
         ]
       },
@@ -109,41 +99,18 @@
       },
       {
         "type": "category",
-        "label": "Glean",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Getting Started",
-            "href": "/Wring_docs/docs/Pocket AI/intro"
-          },
-          {
-            "type": "link",
-            "label": "Glean Pro - Get Started",
-            "href": "/Wring_docs/docs/Pocket AI/miniext"
-          },
-          {
-            "type": "link",
-            "label": "Glean - Ready to start!",
-            "href": "/Wring_docs/docs/Pocket AI/extract"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Google Recordings",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Wringr Ui with Google Recorder",
+            "label": "Wringr AI with Google Recorder",
             "href": "/Wring_docs/docs/Google Recordings/googlerecorder"
           },
           {
             "type": "link",
-            "label": "Integrating and Uploading Tests in Wringr UI",
+            "label": "Integrating and Uploading Tests in Wringr AI",
             "href": "/Wring_docs/docs/Google Recordings/wringruirec"
           }
         ]

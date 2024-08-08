@@ -50,17 +50,11 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','bbc'),
+    component: ComponentCreator('/Wring_docs/docs','a0e'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
         component: ComponentCreator('/Wring_docs/docs/APPS/Api','da2'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Appmap',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Appmap','3f5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -119,12 +113,6 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/APPS/Testsuite',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Testsuite','9d3'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/Wring_docs/docs/Connect/Installation',
         component: ComponentCreator('/Wring_docs/docs/Connect/Installation','54c'),
         exact: true,
@@ -157,24 +145,6 @@ export default [
       {
         path: '/Wring_docs/docs/intro',
         component: ComponentCreator('/Wring_docs/docs/intro','9b1'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Pocket AI/extract',
-        component: ComponentCreator('/Wring_docs/docs/Pocket AI/extract','148'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Pocket AI/intro',
-        component: ComponentCreator('/Wring_docs/docs/Pocket AI/intro','a32'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Pocket AI/miniext',
-        component: ComponentCreator('/Wring_docs/docs/Pocket AI/miniext','0ae'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -3,21 +3,18 @@
   "id": "APPS/Testsuite",
   "isDocsHomePage": false,
   "title": "Testsuite",
-  "description": "A testsuite is a collection of test cases that are designed to test the functionality of a software system or Projectlication. We create a testsuite to get all our tests there so we can run them easily. By creating a testsuite, we centralize our tests, enabling efficient and straightforward execution, contributing to a more organized and comprehensive testing Projectroach.",
+  "description": "<!-- ---",
   "source": "@site/docs/APPS/Testsuite.md",
   "sourceDirName": "APPS",
   "slug": "/APPS/Testsuite",
   "permalink": "/Wring_docs/docs/APPS/Testsuite",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
-  "frontMatter": {
-    "sidebar_position": 9
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "API",
-    "permalink": "/Wring_docs/docs/APPS/Api"
+    "title": "Step-by-Step",
+    "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
   },
   "next": {
     "title": "Wringr Plugins",

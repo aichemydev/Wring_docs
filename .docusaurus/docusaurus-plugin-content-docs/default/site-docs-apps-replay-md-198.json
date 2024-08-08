@@ -2,7 +2,7 @@
   "unversionedId": "APPS/Replay",
   "id": "APPS/Replay",
   "isDocsHomePage": false,
-  "title": "Replay",
+  "title": "Sessions",
   "description": "How to use sessions?",
   "source": "@site/docs/APPS/Replay.md",
   "sourceDirName": "APPS",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Appmap",
-    "permalink": "/Wring_docs/docs/APPS/Appmap"
+    "title": "Projects - Step by step",
+    "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
   },
   "next": {
     "title": "Wringr Cucumber Testing",

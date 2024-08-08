@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/Appmap",
-              "path": "/Wring_docs/docs/APPS/Appmap",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "APPS/Cucumber/apiui",
               "path": "/Wring_docs/docs/APPS/Cucumber/apiui",
               "sidebar": "tutorialSidebar"
@@ -66,11 +61,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/Testsuite",
-              "path": "/Wring_docs/docs/APPS/Testsuite",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Connect/Installation",
               "path": "/Wring_docs/docs/Connect/Installation",
               "sidebar": "tutorialSidebar"
@@ -98,21 +88,6 @@
             {
               "id": "intro",
               "path": "/Wring_docs/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Pocket AI/extract",
-              "path": "/Wring_docs/docs/Pocket AI/extract",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Pocket AI/intro",
-              "path": "/Wring_docs/docs/Pocket AI/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Pocket AI/miniext",
-              "path": "/Wring_docs/docs/Pocket AI/miniext",
               "sidebar": "tutorialSidebar"
             },
             {

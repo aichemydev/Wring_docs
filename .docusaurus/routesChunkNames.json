@@ -29,17 +29,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-bbc": {
+  "/Wring_docs/docs-a0e": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
   "/Wring_docs/docs/APPS/Api-da2": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-apie-86-a48"
-  },
-  "/Wring_docs/docs/APPS/Appmap-3f5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-appmap-5-f-9-4ac"
   },
   "/Wring_docs/docs/APPS/Cucumber/apiui-9a8": {
     "component": "component---theme-doc-item-178-a40",
@@ -77,10 +73,6 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-step-by-step-4-a-1-900"
   },
-  "/Wring_docs/docs/APPS/Testsuite-9d3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-testsuitea-27-8db"
-  },
   "/Wring_docs/docs/Connect/Installation-54c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-connect-installation-0-b-4-861"
@@ -104,18 +96,6 @@
   "/Wring_docs/docs/intro-9b1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-intro-0-e-3-f85"
-  },
-  "/Wring_docs/docs/Pocket AI/extract-148": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-pocket-ai-extractd-46-fc8"
-  },
-  "/Wring_docs/docs/Pocket AI/intro-a32": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-pocket-ai-intro-9-fa-1a0"
-  },
-  "/Wring_docs/docs/Pocket AI/miniext-0ae": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-pocket-ai-miniext-39-a-fda"
   },
   "/Wring_docs/docs/release-notes-b60": {
     "component": "component---theme-doc-item-178-a40",
