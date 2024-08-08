@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','a0e'),
+    component: ComponentCreator('/Wring_docs/docs','49e'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -109,6 +109,12 @@ export default [
       {
         path: '/Wring_docs/docs/APPS/Step-by-Step',
         component: ComponentCreator('/Wring_docs/docs/APPS/Step-by-Step','7c9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/Wringr/wringrgpt',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Wringr/wringrgpt','2f0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

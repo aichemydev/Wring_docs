@@ -20,6 +20,19 @@
       },
       {
         "type": "category",
+        "label": "Integrations",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Wringr Plugins",
+            "href": "/Wring_docs/docs/Connect/Installation"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Projects",
         "collapsible": true,
         "collapsed": true,
@@ -81,19 +94,19 @@
             "type": "link",
             "label": "API",
             "href": "/Wring_docs/docs/APPS/Api"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Integrations",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
+          },
           {
-            "type": "link",
-            "label": "Wringr Plugins",
-            "href": "/Wring_docs/docs/Connect/Installation"
+            "type": "category",
+            "label": "Wringr Chat",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "WringGPT",
+                "href": "/Wring_docs/docs/APPS/Wringr/wringrgpt"
+              }
+            ]
           }
         ]
       },

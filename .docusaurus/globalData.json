@@ -61,6 +61,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "APPS/Wringr/wringrgpt",
+              "path": "/Wring_docs/docs/APPS/Wringr/wringrgpt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Connect/Installation",
               "path": "/Wring_docs/docs/Connect/Installation",
               "sidebar": "tutorialSidebar"

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Wringr/apiui",
+  "id": "APPS/Wringr/apiui",
+  "isDocsHomePage": false,
+  "title": "API Tests",
+  "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
+  "source": "@site/docs/APPS/Wringr/apiui.md",
+  "sourceDirName": "APPS/Wringr",
+  "slug": "/APPS/Wringr/apiui",
+  "permalink": "/Wring_docs/docs/APPS/Wringr/apiui",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/APPS/Wringr/Fixtures"
+  },
+  "next": {
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/APPS/playwright"
+  }
+}

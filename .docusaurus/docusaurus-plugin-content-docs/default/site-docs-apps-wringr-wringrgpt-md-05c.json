@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Wringr/wringrgpt",
+  "id": "APPS/Wringr/wringrgpt",
+  "isDocsHomePage": false,
+  "title": "WringGPT",
+  "description": "WringrGPT Chat",
+  "source": "@site/docs/APPS/Wringr/wringrgpt.md",
+  "sourceDirName": "APPS/Wringr",
+  "slug": "/APPS/Wringr/wringrgpt",
+  "permalink": "/Wring_docs/docs/APPS/Wringr/wringrgpt",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/Wring_docs/docs/APPS/Api"
+  },
+  "next": {
+    "title": "Wringr AI with Google Recorder",
+    "permalink": "/Wring_docs/docs/Google Recordings/googlerecorder"
+  }
+}

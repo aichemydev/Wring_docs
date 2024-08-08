@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Cucumber copy/apiui",
+  "id": "APPS/Cucumber copy/apiui",
+  "isDocsHomePage": false,
+  "title": "API Tests",
+  "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
+  "source": "@site/docs/APPS/Cucumber copy/apiui.md",
+  "sourceDirName": "APPS/Cucumber copy",
+  "slug": "/APPS/Cucumber copy/apiui",
+  "permalink": "/Wring_docs/docs/APPS/Cucumber copy/apiui",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber copy/Fixtures"
+  },
+  "next": {
+    "title": "Wringr Cucumber Testing",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+  }
+}

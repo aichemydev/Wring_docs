@@ -17,7 +17,7 @@ With Glean, you can effortlessly record sessions and generate Cucumber files fro
 
 #### Navigate to Your Project:
 1. Go to the **"Projects"** section in the left navigation panel.
-2. Select your project from the list, such as **"NewAppTest"**.
+2. Select your project from the list, such as **"Google Recordings"**.
 
 #### Select Mode:
 1. Ensure you're in the correct mode: **"Replay"**, **"API"**, or **"Test Suite"**.

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Cucumber copy/Fixtures",
+  "id": "APPS/Cucumber copy/Fixtures",
+  "isDocsHomePage": false,
+  "title": "Fixtures",
+  "description": "1. How to Add a Tag to a Project in Wringr",
+  "source": "@site/docs/APPS/Cucumber copy/Fixtures.md",
+  "sourceDirName": "APPS/Cucumber copy",
+  "slug": "/APPS/Cucumber copy/Fixtures",
+  "permalink": "/Wring_docs/docs/APPS/Cucumber copy/Fixtures",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr - Data Driven Tests",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber copy/Data Driven Tests"
+  },
+  "next": {
+    "title": "API Tests",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber copy/apiui"
+  }
+}

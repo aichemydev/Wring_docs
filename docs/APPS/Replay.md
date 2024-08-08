@@ -15,35 +15,43 @@ Wring comprehensively captures every user action during the execution of a test.
 
  ![session replay](/img/replay1.png)
 
-Wring offers a real-time display of every step in your test run, complemented by a visual representation of each action taken. Upon selecting your run, detailed statistics are presented, capturing every step taken throughout the process. Wring meticulously tracks and records your entire testing journey, and upon review, provides a video playback that encapsulates every individual step executed during the run. This feature-rich projectroach ensures users have comprehensive insights into their testing activities, facilitating detailed analysis and optimization of their testing processes.
+ For more detailed information on recording tests and adding them to sessions, please refer to the "Google Recordings" section. 
+ Once you're done with your test and downloaded it, you can use `Upload` button to upload excisting tests. 
 
  ![session replay](/img/replay2.png)
 
-It's akin to having a secondary monitor dedicated to tracking your mouse movements. This tool diligently records every action on your screen, whether it involves drawing, highlighting, or simply rearranging files. Notably, the tool retains a detailed log of each mouse movement, visually representing them in red. This functionality significantly streamlines the debugging process, providing a comprehensive and visual record of your interactions for enhanced troubleshooting and analysis.
+Now you can review the steps, descriptions, and screenshots, and even extract them for use in different integrations.
 
- ![session replay](/img/replay3.png)
+![session replay](/img/replay3.png)
 
-Our latest feature, 'Recorded Tests' in projects, empowers you to execute a live event that has been previously recorded and tagged as a test. This innovative functionality minimizes the need for repetitive clicks when running tests from projects, thereby significantly expediting your testing processes. With this capability, your testing efforts are maximized, enabling a more efficient and accelerated testing workflow.
+- Sauce Cucumber Run - This feature allows you to execute your Cucumber tests on the Sauce Labs platform directly from the Wringr interface. This integration streamlines the testing process, enabling you to run and manage your Cucumber test scenarios in a cloud-based environment with ease.
 
- ![session replay](/img/replay4.png)
+![session replay](/img/replay4.png)
 
-Upon clicking, a modal will open, providing you with a view of your test. To initiate the run, simply click the "Add to Testsuites" button within the modal. This streamlined process ensures quick and efficient integration of your test into the Testsuites, allowing for seamless execution and thorough testing of your projectlication.
+- Steps - Wringr AI  allows you to access and review the detailed sequence of actions recorded during your test session. By clicking on this button, you can view each individual step, analyze the corresponding descriptions, and make any necessary adjustments to ensure the accuracy and completeness of your test cases.
 
 ![session replay](/img/replay5.png)
 
-Once the run has commenced, you will receive a notification, and your ongoing run will be prominently displayed in the Test Runs section. This real-time update ensures that you are promptly informed of the testing progress and allows for convenient monitoring and management of your active test runs.
-
-We will talk more about it in Testsuite Section. 
-
- 
-This feature is engineered not only to furnish the files associated with your tests but also to provide comprehensive results. Even when conducting tests externally to the platform, you can seamlessly obtain your test data by selecting the corresponding download button. This ensures that users have convenient access to both their test files and results, fostering a versatile and user-centric testing experience.
-
-The entirety of tests conducted within the projects functionality can be effortlessly downloaded by simply clicking on the download button
+- Delete Session - The "Delete Session" button in the Wringr UI allows you to permanently remove an entire test session from the platform. This action will delete all associated data, including recorded steps, screenshots, and test results. Use this option carefully, as the deletion cannot be undone.
 
 ![session replay](/img/replay6.png)
 
-With the successful generation of your side file, you are now prepared to proceed with the Wring platform. This file is at your disposal and can be uploaded at your convenience, allowing for flexibility in your testing workflow. Whenever the need arises, you can seamlessly upload the file to initiate or continue your testing processes on the Wring platform.
+- Add Fixture - Wringr AI allows you to insert predefined data or setups into your test session. Fixtures are useful for establishing consistent test environments, ensuring that your tests run under the same conditions each time. By using this feature, you can streamline test preparation and enhance the reliability of your results.
 
-Nevertheless, it's not all. Check further for more details.
+ ![session replay](/img/replay7.png)
 
+In the Steps section, you will find detailed information about each recorded step in your test session. In the top right corner, you will see two buttons:
 
+ ![session replay](/img/replay8.png)
+
+1. Update Screenshots: This button allows you to refresh or replace the screenshots associated with each step, ensuring they accurately reflect the current state of the UI.
+
+2. Download: This button allows you to convert the current test session into different formats, such as Wringr files, SenseTalk scripts, or Cucumber scenarios, making it easy to integrate with other testing frameworks and tools.
+
+ ![session replay](/img/replay9.png)
+
+Additionally, you can:
+
+- Edit Steps: Modify existing steps to adjust descriptions or actions.
+- Add Steps: Insert new steps into the test session to enhance coverage.
+- Delete Steps: Remove unnecessary or incorrect steps to streamline your test case.

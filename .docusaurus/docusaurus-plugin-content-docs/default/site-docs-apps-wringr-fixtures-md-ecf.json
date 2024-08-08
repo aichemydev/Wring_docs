@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Wringr/Fixtures",
+  "id": "APPS/Wringr/Fixtures",
+  "isDocsHomePage": false,
+  "title": "Fixtures",
+  "description": "1. How to Add a Tag to a Project in Wringr",
+  "source": "@site/docs/APPS/Wringr/Fixtures.md",
+  "sourceDirName": "APPS/Wringr",
+  "slug": "/APPS/Wringr/Fixtures",
+  "permalink": "/Wring_docs/docs/APPS/Wringr/Fixtures",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Tests",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
+  },
+  "next": {
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/APPS/playwright"
+  }
+}
