@@ -15,11 +15,6 @@ Wringr supports two languages: English and Spanish. We're excited to build on ou
 
 ![Wringr Dashboard](/img/language.png)
 
-This is how it looks in `Spanish`: 
-
-![Wringr Dashboard](/img/language1.png)
-
-
 The dashboard provides important metrics such as: 
 
 - Test Run History
