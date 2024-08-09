@@ -4,16 +4,10 @@ sidebar_position: 1
 
 ### Introduction
 
-Wring offers a comprehensive set of tools to help you collect and analyze all the performance data you need. You can see how users interact with your site, including which links they click, how much time they spend on each page, which browsers they use, etc.. This data also serves as a basis for making your website better and more user friendly. 
+**Wringr Projects** effectively track visitor behavior, showing how they navigate between pages and identifying the most common paths. With precise recording of mouse coordinates and keystrokes, Wringr creates detailed test scenarios that emulate real interactions. User sessions are recorded using Google Chrome Recorder, increasing the accuracy of testing and improving the assessment of your site's performance and user experience.
 
-projects or as we call it - "Session Replays" is a tool that allows you to record user actions on a website and generate a test case from these actions. 
-We created projects to help you test your website in a quick and engaging way. You can track live users and generate tests using their actions as soon as they projectear on the page.
+**Wringr Projects** allow you to generate *numerous tests in just minutes with the help of AI*, significantly speeding up the development and testing processes. This powerful feature ensures comprehensive validation of your web application by automatically creating tests based on recorded user sessions.
 
-projects is a simple and reliable tool for tracking visitor behavior on your website. Not only can you see where people are moving from one webpage to another, but you also can see most common paths how users moves from one webpage to another that allows to improve website usability and to find and fix critical bugs.
-
-projects provides a robust capability to capture and translate user interactions on your website into comprehensive test cases. This includes meticulous recording of mouse coordinates and keystrokes, offering a detailed representation of user behavior during testing. Moreover, projects offers the unique functionality of initiating recordings directly from the real device in use, whether it be a laptop, iPhone, iPad, or Android device.
-
-This advanced feature set ensures a dynamic and accurate emulation of real-world user interactions, allowing for a thorough assessment of website functionality and performance. By seamlessly integrating real device recordings into the testing process, projects enhances the authenticity and precision of test scenarios, contributing to a more reliable evaluation of your website's responsiveness and user experience.
-
+**Importantly, your data and code are fully protected.** User sessions are recorded using Google Chrome Recorder, and test generation is performed directly within the Wringr application. There's no need to install additional utilities or software, eliminating the risks of data leakage and ensuring security. This convenient solution allows you to focus on improving your product *without worrying about data safety*.
 
 
