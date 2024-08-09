@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-## Getting Started
+# Getting Started
 
-# Let's Discover Wringr's Key Features
+## Let's Discover Wringr's Key Features
 
 ## Revolutionary Self-Healing Tests
 Wringr is more than just a test automation tool—it's a breakthrough in ensuring the longevity and accuracy of your testing process. With rapid feature additions and constant infrastructure changes, even the most robust regression tests can slowly degrade into failures. Wringr combats this with proprietary deep learning algorithms that automatically heal your tests, keeping them healthy and up-to-date to support new features with unmatched efficiency.
