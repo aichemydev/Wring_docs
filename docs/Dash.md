@@ -28,27 +28,23 @@ This dashboard is designed to give you quick insights into your testing activiti
 
 ![Wringr Dashboard](/img/Dashboard.png)
 
-The right-side panel in the Wringr Dashboard provides quick access to account management options and settings. Here’s how to navigate and use the features in this panel:
+The right-side panel in the Wringr Dashboard provides quick access to account management options and settings. 
 
-#### 1. **Welcome Message**
-   - The panel starts with a greeting that addresses the user by the account name, providing a friendly introduction to the available options.
-
-#### 2. **My Profile**
+#### 1. **My Profile**
    - **Option:** Click on "My profile" to view and edit your account details, such as your username, email, and other personal information.
 
-#### 3. **Subscription Plans**
+#### 2. **Subscription Plans**
    - **Option:** Click on "Subscription Plans" to view and manage your subscription. Here you can upgrade, downgrade, or renew your plan based on your needs.
 
-#### 4. **Documentation**
+#### 3. **Documentation**
    - **Option:** Selecting "Documentation" will redirect you to the help and support documentation. This section contains detailed guides and FAQs on using Wringr's features.
 
-#### 5. **Report a Bug**
+#### 4. **Report a Bug**
    - **Option:** If you encounter any issues or bugs while using Wringr, click on "Report a Bug" to submit feedback to the support team. This helps improve the platform.
 
-#### 6. **Language Selection**
+#### 5. **Language Selection**
    - **Dropdown:** The "Language" dropdown allows you to select the language in which the Wringr interface is displayed.
-   - **Available Options:** You can choose between "English" and "Spanish" to switch the language of the user interface.
-
+  
 ![Wringr Dashboard](/img/language.png)
 
 By using this panel, you can efficiently manage your account settings, access help documentation, report issues, and adjust language preferences to ensure the best user experience on the Wringr platform.
