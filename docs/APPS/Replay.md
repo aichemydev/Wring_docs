@@ -48,15 +48,21 @@ This feature integrates the powerful capabilities of Sauce Labs with Wringr, pro
 
 ![session replay](/img/replay4.png)
 
-- Steps - Wringr AI  allows you to access and review the detailed sequence of actions recorded during your test session. By clicking on this button, you can view each individual step, analyze the corresponding descriptions, and make any necessary adjustments to ensure the accuracy and completeness of your test cases.
+## Steps
+
+Wringr AI enables you to access and review the detailed sequence of actions captured during your test session. By navigating to this section, you can examine each recorded step, review the associated descriptions, and make any necessary adjustments to refine and ensure the accuracy of your test cases.
 
 ![session replay](/img/replay5.png)
 
-- Delete Session - The "Delete Session" button in the Wringr UI allows you to permanently remove an entire test session from the platform. This action will delete all associated data, including recorded steps, screenshots, and test results. Use this option carefully, as the deletion cannot be undone.
+### Delete Session
+
+The "Delete Session" feature in Wringr AI empowers you to permanently remove an entire test session from the platform. By using this option, all associated data—including recorded steps, screenshots, and test results—will be permanently deleted. Please proceed with caution, as this action is irreversible and cannot be undone.
 
 ![session replay](/img/replay6.png)
 
-- Add Fixture - Wringr AI allows you to insert predefined data or setups into your test session. Fixtures are useful for establishing consistent test environments, ensuring that your tests run under the same conditions each time. By using this feature, you can streamline test preparation and enhance the reliability of your results.
+### Add Fixture
+
+Wringr AI enables you to insert predefined data or setups into your test session. Fixtures are valuable for establishing consistent test environments, ensuring that your tests run under the same conditions each time. By leveraging this feature, you can streamline test preparation and enhance the reliability of your results.
 
  ![session replay](/img/replay7.png)
 
