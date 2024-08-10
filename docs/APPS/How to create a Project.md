@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-## How to Create a Project in Wringr
-
 To create a project in Wringr, follow these steps:
 
 1. **Navigate to the Projects Section**:
