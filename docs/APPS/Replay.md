@@ -4,19 +4,25 @@ sidebar_position: 5
 
 # Sessions
 
-### How to use sessions?
+### Uploading Recorded Sessions to Wringr
 
-Projects offer a straightforward and user-friendly experience. Simply launch your preferred browser, be it Google, Microsoft Edge, Opera, or any other, and navigate to the desired page you wish to record. Our system will capture your actions as you traverse the site, encompassing interactions such as clicks on menus, buttons, links, and any other elements you engage with. Concluding the recording process is as simple as exiting the page or pressing the designated stop button. This seamless projectroach ensures ease of use, allowing users to effortlessly record and analyze their interactions within the web environment.
+After recording a user session using the "Recorder" in Chrome DevTools (learn more about how to do this [here](https://aichemydev.github.io/Wring_docs/docs/Google%20Recordings/googlerecorder)), you can upload the session to your project on the Wringr platform for further analysis and testing.
 
- ![session replay](/img/replay1.png)
+#### Steps to Upload a Session:
+1. **Navigate to Your Project:**
+   - Once you're logged into Wringr, go to the "Projects" section and select the project to which you want to upload your session. This will take you to the project’s dashboard, where you can manage all related sessions.
 
+2. **Go to the "Sessions" Tab:**
+   - In your project’s interface, click on the "Sessions" tab. This section provides an overview of all recorded sessions associated with the project. 
 
-Wring comprehensively captures every user action during the execution of a test. Within the Wring project, users can access a detailed log of all steps performed, providing a comprehensive overview of the testing process. This includes information such as the duration of the test, the specific browser utilized, and the geographical location at the time of test creation. Wring's capability to record these intricacies ensures transparency and detailed insights into the testing environment, empowering users with a thorough understanding of the testing workflow and conditions.
+3. **Upload the Recorded Session:**
+   - Click on the "Upload" button located on the right side of the screen. A file dialog will appear, allowing you to select and upload your recorded session (typically in JSON format).
 
- ![session replay](/img/replay1.png)
+4. **Review the Uploaded Sessions:**
+   - After uploading, the session will appear in the list as shown in the screenshot. The list includes details such as the session name (e.g., `fokoui nopcommerce.json`), the creation date, and the number of steps involved in the session.
+   - You can perform various actions on each session, such as running tests, editing session details, deleting sessions, or tagging them for easier categorization.
 
- For more detailed information on recording tests and adding them to sessions, please refer to the "Google Recordings" section. 
- Once you're done with your test and downloaded it, you can use `Upload` button to upload excisting tests. 
+This process allows you to integrate real user interactions into your Wringr project, enabling comprehensive analysis and automated testing based on actual user behavior.
 
  ![session replay](/img/replay2.png)
 
