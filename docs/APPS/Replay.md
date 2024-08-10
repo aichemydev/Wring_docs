@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Sessions
+# User Sessions
 
 ### Uploading Recorded Sessions to Wringr
 
