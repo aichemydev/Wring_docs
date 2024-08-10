@@ -2,13 +2,7 @@
 sidebar_position: 2
 ---
 
-This section serves as a comprehensive step-by-step guide for initiating your project. It provides detailed information on what actions to take, the methodology to follow, and the optimal timing for each step in the process.
-
-To commence, the first step involves leveraging our intuitive yet robust Projects feature to seamlessly add a new project. This user-friendly functionality streamlines the project initiation process, ensuring a straightforward and powerful experience for users at every level of expertise.
-
-*You can start by adding a new project with our simple yet powerful Projects feature.*
-
-## How to create a Project in Projects?
+## How to create a Project?
 
 Simplify your life and get Projects from Wring. Wring allows you to create a project from which you want to get Projects by going to `Set up Projects` and clicking on `Add new project`.
 
