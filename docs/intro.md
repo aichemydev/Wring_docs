@@ -25,7 +25,7 @@ Wringr integrates seamlessly into your environment in under 10 minutes—no need
 
 Ready to experience the future of test automation? The first step is to create your new **Wringr account**.
 
-- **Sign Up:** Head to the **[Wringr Registration](https://keycloak.dev.Wringr.dev/realms/Wringr/protocol/openid-connect/auth?response_type=code&client_id=Wringr-client&redirect_uri=https%3A%2F%2Fdev.Wringr.dev%2Finterceptor%2Fauth%2Fv1%2Foauth2%2Fkeycloak&scope=openid+email+profile)**to get started. You can sign up using Github, Google, or by entering your email and password.
+- **Sign Up:** Head to the **[Wringr Registration](https://app.wring.dev/)**to get started. You can sign up using Github, Google, or by entering your email and password.
 - **Activate Your Account:** After signing up, you’ll receive a confirmation email. Click the link to verify your account.
 
 With Wringr, you’re not just keeping up with changes—you’re staying ahead of them.
