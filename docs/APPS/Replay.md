@@ -30,7 +30,21 @@ Now you can review the steps, descriptions, and screenshots, and even extract th
 
 ![session replay](/img/replay3.png)
 
-- Sauce Cucumber Run - This feature allows you to execute your Cucumber tests on the Sauce Labs platform directly from the Wringr interface. This integration streamlines the testing process, enabling you to run and manage your Cucumber test scenarios in a cloud-based environment with ease.
+### Sauce Cucumber Run
+
+The **Sauce Cucumber Run** feature allows you to execute your Cucumber tests on the Sauce Labs platform directly from the Wringr interface. This seamless integration simplifies your testing process by enabling you to run and manage your Cucumber test scenarios in a cloud-based environment with ease.
+
+#### Steps to Use Sauce Cucumber Run:
+1. **Run Name:**  
+   - Enter a unique name for your test run in the "Run name" field. This helps in organizing and identifying different test executions.
+
+2. **Select Account:**  
+   - From the "Account Sauce labs" dropdown, select the Sauce Labs account you want to use for this test run. This ensures that the tests are executed under the correct account with the appropriate settings.
+
+3. **Initiate the Test Run:**  
+   - Once you've entered the necessary information, click the "Run" button to start the test execution on Sauce Labs.
+
+This feature integrates the powerful capabilities of Sauce Labs with Wringr, providing a streamlined solution for running and managing Cucumber tests in a scalable and efficient manner.
 
 ![session replay](/img/replay4.png)
 
