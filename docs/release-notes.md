@@ -4,11 +4,11 @@ sidebar_position: 11
 
 # Release Notes
 
-### Release Notes: Wringr [2.0]
+### Release Notes: Wringr [3.0]
 
-We're excited to share the latest enhancements in Wringr [2.0], where we've focused on elevating your experience with notable upgrades in our Apps feature. Here's what you can expect:
+We're excited to share the latest enhancements in Wringr [3.0], where we've focused on elevating your experience with notable upgrades in our Apps feature. Here's what you can expect:
 
-**Date:** January, 2024
+**Date:** August, 2024
 
 **What's New:**
 
