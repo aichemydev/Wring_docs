@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Guidelines for Using Playwright for UI Testing
+# Playwright
 
 The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.
 
