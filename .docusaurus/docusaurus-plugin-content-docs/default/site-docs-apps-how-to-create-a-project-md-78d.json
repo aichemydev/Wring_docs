@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/How to create a Project",
+  "id": "APPS/How to create a Project",
+  "isDocsHomePage": false,
+  "title": "How to create a Project",
+  "description": "To create a project in Wringr, follow these steps:",
+  "source": "@site/docs/APPS/How to create a Project.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/How to create a Project",
+  "permalink": "/Wring_docs/docs/APPS/How to create a Project",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projects Intro",
+    "permalink": "/Wring_docs/docs/APPS/Projects Intro"
+  },
+  "next": {
+    "title": "Set Up Apps",
+    "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+  }
+}

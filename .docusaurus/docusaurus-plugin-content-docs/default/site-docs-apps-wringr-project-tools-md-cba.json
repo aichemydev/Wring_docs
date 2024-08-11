@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Wringr Project Tools",
+  "id": "APPS/Wringr Project Tools",
+  "isDocsHomePage": false,
+  "title": "Project details",
+  "description": "In Wringr, projects are divided into several key sections, each serving a unique function to help you manage and analyze your tests effectively:",
+  "source": "@site/docs/APPS/Wringr Project Tools.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Wringr Project Tools",
+  "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User session recording",
+    "permalink": "/Wring_docs/docs/APPS/googlerecorder"
+  },
+  "next": {
+    "title": "Integrating and Uploading Tests in Wringr AI",
+    "permalink": "/Wring_docs/docs/APPS/wringruirec"
+  }
+}

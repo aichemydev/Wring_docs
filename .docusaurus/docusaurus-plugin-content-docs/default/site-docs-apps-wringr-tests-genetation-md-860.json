@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Wringr Tests Genetation",
+  "id": "APPS/Wringr Tests Genetation",
+  "isDocsHomePage": false,
+  "title": "Wringr Tests Generation",
+  "description": "In this section, we'll guide you through the process of generating tests using Wringr's powerful AI capabilities.",
+  "source": "@site/docs/APPS/Wringr Tests Genetation.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/Wringr Tests Genetation",
+  "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Sessions",
+    "permalink": "/Wring_docs/docs/APPS/Replay"
+  },
+  "next": {
+    "title": "Wringr Cucumber Testing",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+  }
+}

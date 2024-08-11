@@ -60,7 +60,7 @@ Then run the following command:
 
 ![Session Replay](/img/pag6.png) -->
 
-Upon creating the Project, you will encounter a set of buttons, each serving a distinct purpose within the interface. Let's delve into the functionalities they offer:
+<!-- Upon creating the Project, you will encounter a set of buttons, each serving a distinct purpose within the interface. Let's delve into the functionalities they offer:
 
 ![Session Replay](/img/pag11.png)
 
@@ -97,4 +97,4 @@ Clicking on the second button opens a modal where you can input the email addres
 
 ![Shared](/img/shared3.png)
 
-![Shared](/img/shared4.png)
+![Shared](/img/shared4.png) -->
