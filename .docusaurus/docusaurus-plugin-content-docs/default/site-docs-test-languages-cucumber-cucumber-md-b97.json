@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/Wring_docs/docs/intro"
+    "title": "Wringr Tests Generation",
+    "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
   },
   "next": {
     "title": "Wringr - Data Driven Tests",

@@ -169,8 +169,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Replay"
               },
               "next": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+                "title": "Wringr Cucumber Testing",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
               }
             },
             {
@@ -217,8 +217,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Other Supporting Formats",
-                "permalink": "/Wring_docs/docs/Test Languages/format"
+                "title": "Getting Started",
+                "permalink": "/Wring_docs/docs/intro"
               },
               "next": {
                 "title": "Projects Intro",
@@ -269,8 +269,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/Dash"
               }
             },
             {
@@ -339,8 +339,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/Wring_docs/docs/intro"
+                "title": "Wringr Tests Generation",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
               },
               "next": {
                 "title": "Wringr - Data Driven Tests",
@@ -421,8 +421,8 @@
                 "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
               },
               "next": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/Dash"
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               }
             },
             {
@@ -495,8 +495,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Wringr Tests Generation",
-                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+                "title": "Other Supporting Formats",
+                "permalink": "/Wring_docs/docs/Test Languages/format"
               },
               "next": {
                 "title": "Frequently Asked Questions",
@@ -509,6 +509,46 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "Dash"
+              },
+              {
+                "type": "category",
+                "label": "Projects",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "APPS/Projects Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/How to create a Project"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/Wringr Project Tools"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/googlerecorder"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/wringruirec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/Replay"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/Wringr Tests Genetation"
+                  }
+                ]
               },
               {
                 "type": "category",
@@ -551,46 +591,6 @@
                   {
                     "type": "doc",
                     "id": "Test Languages/format"
-                  }
-                ]
-              },
-              {
-                "type": "doc",
-                "id": "Dash"
-              },
-              {
-                "type": "category",
-                "label": "Projects",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "APPS/Projects Intro"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/How to create a Project"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/Wringr Project Tools"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/googlerecorder"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/wringruirec"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/Replay"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/Wringr Tests Genetation"
                   }
                 ]
               },
