@@ -18,162 +18,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "unversionedId": "APPS/Api",
-              "id": "APPS/Api",
-              "isDocsHomePage": false,
-              "title": "API",
-              "description": "In our project framework, we systematically submit sessions, providing us with the capability to intricately monitor and scrutinize every API call executed within the confines of that particular project.",
-              "source": "@site/docs/APPS/Api.md",
-              "sourceDirName": "APPS",
-              "slug": "/APPS/Api",
-              "permalink": "/Wring_docs/docs/APPS/Api",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {
-                "sidebar_position": 8
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "API Tests",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
-              },
-              "next": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/playwright"
-              }
-            },
-            {
-              "unversionedId": "APPS/Cucumber/apiui",
-              "id": "APPS/Cucumber/apiui",
-              "isDocsHomePage": false,
-              "title": "API Tests",
-              "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
-              "source": "@site/docs/APPS/Cucumber/apiui.md",
-              "sourceDirName": "APPS/Cucumber",
-              "slug": "/APPS/Cucumber/apiui",
-              "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Fixtures",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/Fixtures"
-              },
-              "next": {
-                "title": "API",
-                "permalink": "/Wring_docs/docs/APPS/Api"
-              }
-            },
-            {
-              "unversionedId": "APPS/Cucumber/cucumber",
-              "id": "APPS/Cucumber/cucumber",
-              "isDocsHomePage": false,
-              "title": "Wringr Cucumber Testing",
-              "description": "In today's fast-paced software development environment, ensuring that user interfaces work flawlessly across multiple platforms and devices is essential. Automated UI testing offers a reliable and efficient solution to validate application behavior. Among the many tools available, Playwright and Cucumber are notable for their robustness and flexibility. When integrated with the Wringr platform, they provide a powerful solution for comprehensive UI testing.",
-              "source": "@site/docs/APPS/Cucumber/cucumber.md",
-              "sourceDirName": "APPS/Cucumber",
-              "slug": "/APPS/Cucumber/cucumber",
-              "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wringr Tests Generation",
-                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
-              },
-              "next": {
-                "title": "Wringr - Data Driven Tests",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests"
-              }
-            },
-            {
-              "unversionedId": "APPS/Cucumber/Data Driven Tests",
-              "id": "APPS/Cucumber/Data Driven Tests",
-              "isDocsHomePage": false,
-              "title": "Wringr - Data Driven Tests",
-              "description": "Wringr is a versatile and powerful platform that enables organizations to easily create and run data-driven tests. With its extensive range of features and capabilities, Wringr allows organizations to conduct tests with precision and accuracy, ensuring more reliable results.",
-              "source": "@site/docs/APPS/Cucumber/Data Driven Tests.md",
-              "sourceDirName": "APPS/Cucumber",
-              "slug": "/APPS/Cucumber/Data Driven Tests",
-              "permalink": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
-              },
-              "next": {
-                "title": "Fixtures",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/Fixtures"
-              }
-            },
-            {
-              "unversionedId": "APPS/Cucumber/Fixtures",
-              "id": "APPS/Cucumber/Fixtures",
-              "isDocsHomePage": false,
-              "title": "Fixtures",
-              "description": "1. How to Add a Tag to a Project in Wringr",
-              "source": "@site/docs/APPS/Cucumber/Fixtures.md",
-              "sourceDirName": "APPS/Cucumber",
-              "slug": "/APPS/Cucumber/Fixtures",
-              "permalink": "/Wring_docs/docs/APPS/Cucumber/Fixtures",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wringr - Data Driven Tests",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests"
-              },
-              "next": {
-                "title": "API Tests",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
-              }
-            },
-            {
-              "unversionedId": "APPS/Get Started",
-              "id": "APPS/Get Started",
-              "isDocsHomePage": false,
-              "title": "Get Started",
-              "description": "Project Intro",
-              "source": "@site/docs/APPS/Get Started.md",
-              "sourceDirName": "APPS",
-              "slug": "/APPS/Get Started",
-              "permalink": "/Wring_docs/docs/APPS/Get Started",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/Dash"
-              },
-              "next": {
-                "title": "Projects Intro",
-                "permalink": "/Wring_docs/docs/APPS/Projects Intro"
-              }
-            },
-            {
               "unversionedId": "APPS/googlerecorder",
               "id": "APPS/googlerecorder",
               "isDocsHomePage": false,
@@ -185,18 +29,18 @@
               "permalink": "/Wring_docs/docs/APPS/googlerecorder",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Set Up Apps",
-                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
-              },
-              "next": {
                 "title": "Project details",
                 "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
+              },
+              "next": {
+                "title": "Integrating and Uploading Tests in Wringr AI",
+                "permalink": "/Wring_docs/docs/APPS/wringruirec"
               }
             },
             {
@@ -221,8 +65,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Projects Intro"
               },
               "next": {
-                "title": "Set Up Apps",
-                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+                "title": "Project details",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
               }
             },
             {
@@ -243,8 +87,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Get Started",
-                "permalink": "/Wring_docs/docs/APPS/Get Started"
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/Dash"
               },
               "next": {
                 "title": "How to create a Project",
@@ -269,64 +113,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Projects - Step by step",
-                "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
-              },
-              "next": {
-                "title": "Wringr Tests Generation",
-                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
-              }
-            },
-            {
-              "unversionedId": "APPS/Set Up Apps",
-              "id": "APPS/Set Up Apps",
-              "isDocsHomePage": false,
-              "title": "Set Up Apps",
-              "description": "This section serves as a comprehensive step-by-step guide for initiating your project. It provides detailed information on what actions to take, the methodology to follow, and the optimal timing for each step in the process.",
-              "source": "@site/docs/APPS/Set Up Apps.md",
-              "sourceDirName": "APPS",
-              "slug": "/APPS/Set Up Apps",
-              "permalink": "/Wring_docs/docs/APPS/Set Up Apps",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "How to create a Project",
-                "permalink": "/Wring_docs/docs/APPS/How to create a Project"
-              },
-              "next": {
-                "title": "User session recording",
-                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
-              }
-            },
-            {
-              "unversionedId": "APPS/Step-by-Step",
-              "id": "APPS/Step-by-Step",
-              "isDocsHomePage": false,
-              "title": "Projects - Step by step",
-              "description": "Once you've recorded sessions and incorporated them into your project, you gain the capability to explore additional integrations within our platform",
-              "source": "@site/docs/APPS/Step-by-Step.md",
-              "sourceDirName": "APPS",
-              "slug": "/APPS/Step-by-Step",
-              "permalink": "/Wring_docs/docs/APPS/Step-by-Step",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
                 "title": "Integrating and Uploading Tests in Wringr AI",
                 "permalink": "/Wring_docs/docs/APPS/wringruirec"
               },
               "next": {
-                "title": "User Sessions",
-                "permalink": "/Wring_docs/docs/APPS/Replay"
+                "title": "Wringr Tests Generation",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
               }
             },
             {
@@ -347,12 +139,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "User session recording",
-                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
+                "title": "How to create a Project",
+                "permalink": "/Wring_docs/docs/APPS/How to create a Project"
               },
               "next": {
-                "title": "Integrating and Uploading Tests in Wringr AI",
-                "permalink": "/Wring_docs/docs/APPS/wringruirec"
+                "title": "User session recording",
+                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
               }
             },
             {
@@ -377,8 +169,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Replay"
               },
               "next": {
-                "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               }
             },
             {
@@ -399,12 +191,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Project details",
-                "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
+                "title": "User session recording",
+                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
               },
               "next": {
-                "title": "Projects - Step by step",
-                "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
+                "title": "User Sessions",
+                "permalink": "/Wring_docs/docs/APPS/Replay"
               }
             },
             {
@@ -425,12 +217,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/Wring_docs/docs/intro"
+                "title": "Other Supporting Formats",
+                "permalink": "/Wring_docs/docs/Test Languages/format"
               },
               "next": {
-                "title": "Get Started",
-                "permalink": "/Wring_docs/docs/APPS/Get Started"
+                "title": "Projects Intro",
+                "permalink": "/Wring_docs/docs/APPS/Projects Intro"
               }
             },
             {
@@ -455,8 +247,8 @@
                 "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               },
               "next": {
-                "title": "Supported Versions",
-                "permalink": "/Wring_docs/docs/versions"
+                "title": "Release Notes",
+                "permalink": "/Wring_docs/docs/release-notes"
               }
             },
             {
@@ -477,34 +269,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/Dash"
-              }
-            },
-            {
-              "unversionedId": "playwright",
-              "id": "playwright",
-              "isDocsHomePage": false,
-              "title": "Guidelines for Using Playwright for UI Testing",
-              "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
-              "source": "@site/docs/playwright.md",
-              "sourceDirName": ".",
-              "slug": "/playwright",
-              "permalink": "/Wring_docs/docs/playwright",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "API",
-                "permalink": "/Wring_docs/docs/APPS/Api"
-              },
-              "next": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+                "title": "Wringr Cucumber Testing",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
               }
             },
             {
@@ -512,7 +278,7 @@
               "id": "release-notes",
               "isDocsHomePage": false,
               "title": "Release Notes",
-              "description": "Release Notes: Wringr [2.0]",
+              "description": "Release Notes: Wringr [3.0]",
               "source": "@site/docs/release-notes.md",
               "sourceDirName": ".",
               "slug": "/release-notes",
@@ -525,34 +291,190 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Supported Versions",
-                "permalink": "/Wring_docs/docs/versions"
+                "title": "Frequently Asked Questions",
+                "permalink": "/Wring_docs/docs/faq"
               }
             },
             {
-              "unversionedId": "versions",
-              "id": "versions",
+              "unversionedId": "Test Languages/Cucumber/apiui",
+              "id": "Test Languages/Cucumber/apiui",
               "isDocsHomePage": false,
-              "title": "Supported Versions",
-              "description": "The table below contains information regarding the supported versions for each of our interceptors. If a version you require is not supported, please reach out to support at team@wring.dev to discuss solutions.",
-              "source": "@site/docs/versions.md",
-              "sourceDirName": ".",
-              "slug": "/versions",
-              "permalink": "/Wring_docs/docs/versions",
+              "title": "API Tests",
+              "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
+              "source": "@site/docs/Test Languages/Cucumber/apiui.md",
+              "sourceDirName": "Test Languages/Cucumber",
+              "slug": "/Test Languages/Cucumber/apiui",
+              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 10
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/Wring_docs/docs/faq"
+                "title": "Fixtures",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
               },
               "next": {
-                "title": "Release Notes",
-                "permalink": "/Wring_docs/docs/release-notes"
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/Test Languages/playwright"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/Cucumber/cucumber",
+              "id": "Test Languages/Cucumber/cucumber",
+              "isDocsHomePage": false,
+              "title": "Wringr Cucumber Testing",
+              "description": "In today's fast-paced software development environment, ensuring that user interfaces work flawlessly across multiple platforms and devices is essential. Automated UI testing offers a reliable and efficient solution to validate application behavior. Among the many tools available, Playwright and Cucumber are notable for their robustness and flexibility. When integrated with the Wringr platform, they provide a powerful solution for comprehensive UI testing.",
+              "source": "@site/docs/Test Languages/Cucumber/cucumber.md",
+              "sourceDirName": "Test Languages/Cucumber",
+              "slug": "/Test Languages/Cucumber/cucumber",
+              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/Wring_docs/docs/intro"
+              },
+              "next": {
+                "title": "Wringr - Data Driven Tests",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/Cucumber/Data Driven Tests",
+              "id": "Test Languages/Cucumber/Data Driven Tests",
+              "isDocsHomePage": false,
+              "title": "Wringr - Data Driven Tests",
+              "description": "Wringr is a versatile and powerful platform that enables organizations to easily create and run data-driven tests. With its extensive range of features and capabilities, Wringr allows organizations to conduct tests with precision and accuracy, ensuring more reliable results.",
+              "source": "@site/docs/Test Languages/Cucumber/Data Driven Tests.md",
+              "sourceDirName": "Test Languages/Cucumber",
+              "slug": "/Test Languages/Cucumber/Data Driven Tests",
+              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr Cucumber Testing",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
+              },
+              "next": {
+                "title": "Fixtures",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/Cucumber/Fixtures",
+              "id": "Test Languages/Cucumber/Fixtures",
+              "isDocsHomePage": false,
+              "title": "Fixtures",
+              "description": "1. How to Add a Tag to a Project in Wringr",
+              "source": "@site/docs/Test Languages/Cucumber/Fixtures.md",
+              "sourceDirName": "Test Languages/Cucumber",
+              "slug": "/Test Languages/Cucumber/Fixtures",
+              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr - Data Driven Tests",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
+              },
+              "next": {
+                "title": "API Tests",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/format",
+              "id": "Test Languages/format",
+              "isDocsHomePage": false,
+              "title": "Other Supporting Formats",
+              "description": "",
+              "source": "@site/docs/Test Languages/format.md",
+              "sourceDirName": "Test Languages",
+              "slug": "/Test Languages/format",
+              "permalink": "/Wring_docs/docs/Test Languages/format",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sensetalk",
+                "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
+              },
+              "next": {
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/Dash"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/playwright",
+              "id": "Test Languages/playwright",
+              "isDocsHomePage": false,
+              "title": "Guidelines for Using Playwright for UI Testing",
+              "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
+              "source": "@site/docs/Test Languages/playwright.md",
+              "sourceDirName": "Test Languages",
+              "slug": "/Test Languages/playwright",
+              "permalink": "/Wring_docs/docs/Test Languages/playwright",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API Tests",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+              },
+              "next": {
+                "title": "Sensetalk",
+                "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/sensetalk",
+              "id": "Test Languages/sensetalk",
+              "isDocsHomePage": false,
+              "title": "Sensetalk",
+              "description": "",
+              "source": "@site/docs/Test Languages/sensetalk.md",
+              "sourceDirName": "Test Languages",
+              "slug": "/Test Languages/sensetalk",
+              "permalink": "/Wring_docs/docs/Test Languages/sensetalk",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/Test Languages/playwright"
+              },
+              "next": {
+                "title": "Other Supporting Formats",
+                "permalink": "/Wring_docs/docs/Test Languages/format"
               }
             },
             {
@@ -573,8 +495,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/playwright"
+                "title": "Wringr Tests Generation",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
               },
               "next": {
                 "title": "Frequently Asked Questions",
@@ -589,6 +511,50 @@
                 "id": "intro"
               },
               {
+                "type": "category",
+                "label": "Test Languages",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Cucumber",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Test Languages/Cucumber/cucumber"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Test Languages/Cucumber/Data Driven Tests"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Test Languages/Cucumber/Fixtures"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Test Languages/Cucumber/apiui"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Languages/playwright"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Languages/sensetalk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Languages/format"
+                  }
+                ]
+              },
+              {
                 "type": "doc",
                 "id": "Dash"
               },
@@ -600,10 +566,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "APPS/Get Started"
-                  },
-                  {
-                    "type": "doc",
                     "id": "APPS/Projects Intro"
                   },
                   {
@@ -612,7 +574,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "APPS/Set Up Apps"
+                    "id": "APPS/Wringr Project Tools"
                   },
                   {
                     "type": "doc",
@@ -620,15 +582,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "APPS/Wringr Project Tools"
-                  },
-                  {
-                    "type": "doc",
                     "id": "APPS/wringruirec"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/Step-by-Step"
                   },
                   {
                     "type": "doc",
@@ -637,40 +591,8 @@
                   {
                     "type": "doc",
                     "id": "APPS/Wringr Tests Genetation"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Cucumber",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "APPS/Cucumber/cucumber"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "APPS/Cucumber/Data Driven Tests"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "APPS/Cucumber/Fixtures"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "APPS/Cucumber/apiui"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "doc",
-                    "id": "APPS/Api"
                   }
                 ]
-              },
-              {
-                "type": "doc",
-                "id": "playwright"
               },
               {
                 "type": "category",
@@ -687,10 +609,6 @@
               {
                 "type": "doc",
                 "id": "faq"
-              },
-              {
-                "type": "doc",
-                "id": "versions"
               },
               {
                 "type": "doc",

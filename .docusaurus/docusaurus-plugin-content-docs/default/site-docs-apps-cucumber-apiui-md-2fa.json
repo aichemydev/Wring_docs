@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/APPS/Cucumber/Fixtures"
   },
   "next": {
-    "title": "API",
-    "permalink": "/Wring_docs/docs/APPS/Api"
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/playwright"
   }
 }

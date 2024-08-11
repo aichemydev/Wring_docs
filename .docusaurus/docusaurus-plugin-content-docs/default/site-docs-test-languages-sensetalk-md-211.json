@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Languages/sensetalk",
+  "id": "Test Languages/sensetalk",
+  "isDocsHomePage": false,
+  "title": "Sensetalk",
+  "description": "",
+  "source": "@site/docs/Test Languages/sensetalk.md",
+  "sourceDirName": "Test Languages",
+  "slug": "/Test Languages/sensetalk",
+  "permalink": "/Wring_docs/docs/Test Languages/sensetalk",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/Test Languages/playwright"
+  },
+  "next": {
+    "title": "Other Supporting Formats",
+    "permalink": "/Wring_docs/docs/Test Languages/format"
+  }
+}

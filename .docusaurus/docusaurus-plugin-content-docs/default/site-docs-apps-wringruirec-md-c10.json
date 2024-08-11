@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Project details",
-    "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
+    "title": "User session recording",
+    "permalink": "/Wring_docs/docs/APPS/googlerecorder"
   },
   "next": {
-    "title": "Projects - Step by step",
-    "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
+    "title": "User Sessions",
+    "permalink": "/Wring_docs/docs/APPS/Replay"
   }
 }

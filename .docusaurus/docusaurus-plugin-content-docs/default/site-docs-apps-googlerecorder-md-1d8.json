@@ -10,17 +10,17 @@
   "permalink": "/Wring_docs/docs/APPS/googlerecorder",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Set Up Apps",
-    "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
-  },
-  "next": {
     "title": "Project details",
     "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
+  },
+  "next": {
+    "title": "Integrating and Uploading Tests in Wringr AI",
+    "permalink": "/Wring_docs/docs/APPS/wringruirec"
   }
 }

@@ -3,7 +3,7 @@
   "id": "release-notes",
   "isDocsHomePage": false,
   "title": "Release Notes",
-  "description": "Release Notes: Wringr [2.0]",
+  "description": "Release Notes: Wringr [3.0]",
   "source": "@site/docs/release-notes.md",
   "sourceDirName": ".",
   "slug": "/release-notes",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Supported Versions",
-    "permalink": "/Wring_docs/docs/versions"
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
   }
 }

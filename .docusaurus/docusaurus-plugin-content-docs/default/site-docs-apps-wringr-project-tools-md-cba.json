@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "User session recording",
-    "permalink": "/Wring_docs/docs/APPS/googlerecorder"
+    "title": "How to create a Project",
+    "permalink": "/Wring_docs/docs/APPS/How to create a Project"
   },
   "next": {
-    "title": "Integrating and Uploading Tests in Wringr AI",
-    "permalink": "/Wring_docs/docs/APPS/wringruirec"
+    "title": "User session recording",
+    "permalink": "/Wring_docs/docs/APPS/googlerecorder"
   }
 }

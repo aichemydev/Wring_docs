@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Guidelines for Using Playwright for UI Testing",
-    "permalink": "/Wring_docs/docs/playwright"
+    "title": "Wringr Tests Generation",
+    "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
   },
   "next": {
     "title": "Frequently Asked Questions",

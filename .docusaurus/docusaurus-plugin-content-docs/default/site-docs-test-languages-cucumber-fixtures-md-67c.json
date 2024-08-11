@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Languages/Cucumber/Fixtures",
+  "id": "Test Languages/Cucumber/Fixtures",
+  "isDocsHomePage": false,
+  "title": "Fixtures",
+  "description": "1. How to Add a Tag to a Project in Wringr",
+  "source": "@site/docs/Test Languages/Cucumber/Fixtures.md",
+  "sourceDirName": "Test Languages/Cucumber",
+  "slug": "/Test Languages/Cucumber/Fixtures",
+  "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr - Data Driven Tests",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
+  },
+  "next": {
+    "title": "API Tests",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+  }
+}

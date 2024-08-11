@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Languages/format",
+  "id": "Test Languages/format",
+  "isDocsHomePage": false,
+  "title": "Other Supporting Formats",
+  "description": "",
+  "source": "@site/docs/Test Languages/format.md",
+  "sourceDirName": "Test Languages",
+  "slug": "/Test Languages/format",
+  "permalink": "/Wring_docs/docs/Test Languages/format",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensetalk",
+    "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/Wring_docs/docs/Dash"
+  }
+}

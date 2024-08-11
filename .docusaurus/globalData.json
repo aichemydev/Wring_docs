@@ -11,36 +11,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "APPS/Api",
-              "path": "/Wring_docs/docs/APPS/Api",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Cucumber/apiui",
-              "path": "/Wring_docs/docs/APPS/Cucumber/apiui",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Cucumber/cucumber",
-              "path": "/Wring_docs/docs/APPS/Cucumber/cucumber",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Cucumber/Data Driven Tests",
-              "path": "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Cucumber/Fixtures",
-              "path": "/Wring_docs/docs/APPS/Cucumber/Fixtures",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Get Started",
-              "path": "/Wring_docs/docs/APPS/Get Started",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "APPS/googlerecorder",
               "path": "/Wring_docs/docs/APPS/googlerecorder",
               "sidebar": "tutorialSidebar"
@@ -58,16 +28,6 @@
             {
               "id": "APPS/Replay",
               "path": "/Wring_docs/docs/APPS/Replay",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Set Up Apps",
-              "path": "/Wring_docs/docs/APPS/Set Up Apps",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "APPS/Step-by-Step",
-              "path": "/Wring_docs/docs/APPS/Step-by-Step",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -101,18 +61,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "playwright",
-              "path": "/Wring_docs/docs/playwright",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "release-notes",
               "path": "/Wring_docs/docs/release-notes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "versions",
-              "path": "/Wring_docs/docs/versions",
+              "id": "Test Languages/Cucumber/apiui",
+              "path": "/Wring_docs/docs/Test Languages/Cucumber/apiui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/Cucumber/cucumber",
+              "path": "/Wring_docs/docs/Test Languages/Cucumber/cucumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/Cucumber/Data Driven Tests",
+              "path": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/Cucumber/Fixtures",
+              "path": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/format",
+              "path": "/Wring_docs/docs/Test Languages/format",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/playwright",
+              "path": "/Wring_docs/docs/Test Languages/playwright",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/sensetalk",
+              "path": "/Wring_docs/docs/Test Languages/sensetalk",
               "sidebar": "tutorialSidebar"
             },
             {

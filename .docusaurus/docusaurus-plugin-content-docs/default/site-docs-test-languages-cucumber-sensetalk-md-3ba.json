@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Languages/Cucumber/sensetalk",
+  "id": "Test Languages/Cucumber/sensetalk",
+  "isDocsHomePage": false,
+  "title": "Sensetalk",
+  "description": "",
+  "source": "@site/docs/Test Languages/Cucumber/sensetalk.md",
+  "sourceDirName": "Test Languages/Cucumber",
+  "slug": "/Test Languages/Cucumber/sensetalk",
+  "permalink": "/Wring_docs/docs/Test Languages/Cucumber/sensetalk",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
+  },
+  "next": {
+    "title": "API Tests",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+  }
+}

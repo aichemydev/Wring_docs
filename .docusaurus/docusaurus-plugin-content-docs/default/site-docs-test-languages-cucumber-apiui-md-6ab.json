@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Languages/Cucumber/apiui",
+  "id": "Test Languages/Cucumber/apiui",
+  "isDocsHomePage": false,
+  "title": "API Tests",
+  "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
+  "source": "@site/docs/Test Languages/Cucumber/apiui.md",
+  "sourceDirName": "Test Languages/Cucumber",
+  "slug": "/Test Languages/Cucumber/apiui",
+  "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
+  },
+  "next": {
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/Test Languages/playwright"
+  }
+}

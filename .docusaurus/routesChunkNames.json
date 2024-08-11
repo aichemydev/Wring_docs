@@ -29,33 +29,9 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-d81": {
+  "/Wring_docs/docs-a70": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
-  },
-  "/Wring_docs/docs/APPS/Api-da2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-apie-86-a48"
-  },
-  "/Wring_docs/docs/APPS/Cucumber/apiui-9a8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-cucumber-apiui-2-fa-734"
-  },
-  "/Wring_docs/docs/APPS/Cucumber/cucumber-bf5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-cucumber-cucumber-55-c-e63"
-  },
-  "/Wring_docs/docs/APPS/Cucumber/Data Driven Tests-bad": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-cucumber-data-driven-testsc-69-83a"
-  },
-  "/Wring_docs/docs/APPS/Cucumber/Fixtures-191": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-cucumber-fixturesb-3-f-2c2"
-  },
-  "/Wring_docs/docs/APPS/Get Started-af7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-get-started-755-a4e"
   },
   "/Wring_docs/docs/APPS/googlerecorder-322": {
     "component": "component---theme-doc-item-178-a40",
@@ -72,14 +48,6 @@
   "/Wring_docs/docs/APPS/Replay-f34": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-replay-198-11d"
-  },
-  "/Wring_docs/docs/APPS/Set Up Apps-8cd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-set-up-apps-4-a-4-1b5"
-  },
-  "/Wring_docs/docs/APPS/Step-by-Step-7c9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-step-by-step-4-a-1-900"
   },
   "/Wring_docs/docs/APPS/Wringr Project Tools-25d": {
     "component": "component---theme-doc-item-178-a40",
@@ -105,17 +73,37 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-intro-0-e-3-f85"
   },
-  "/Wring_docs/docs/playwright-d2f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-playwright-105-7d2"
-  },
   "/Wring_docs/docs/release-notes-b60": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-release-notesa-55-671"
   },
-  "/Wring_docs/docs/versions-cdf": {
+  "/Wring_docs/docs/Test Languages/Cucumber/apiui-3ea": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-versions-0-fe-77f"
+    "content": "content---wring-docs-docs-test-languages-cucumber-apiui-6-ab-28a"
+  },
+  "/Wring_docs/docs/Test Languages/Cucumber/cucumber-8bc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-cucumber-cucumberb-97-ff2"
+  },
+  "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests-16e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-cucumber-data-driven-testsd-86-083"
+  },
+  "/Wring_docs/docs/Test Languages/Cucumber/Fixtures-a5d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-cucumber-fixtures-67-c-3c2"
+  },
+  "/Wring_docs/docs/Test Languages/format-e10": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-format-811-59b"
+  },
+  "/Wring_docs/docs/Test Languages/playwright-243": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-playwrighteb-4-58c"
+  },
+  "/Wring_docs/docs/Test Languages/sensetalk-f3d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-sensetalk-211-15e"
   },
   "/Wring_docs/docs/Wringr/wringrgpt-909": {
     "component": "component---theme-doc-item-178-a40",

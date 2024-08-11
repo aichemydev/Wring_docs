@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/Wring_docs/docs/intro"
+    "title": "Other Supporting Formats",
+    "permalink": "/Wring_docs/docs/Test Languages/format"
   },
   "next": {
-    "title": "Get Started",
-    "permalink": "/Wring_docs/docs/APPS/Get Started"
+    "title": "Projects Intro",
+    "permalink": "/Wring_docs/docs/APPS/Projects Intro"
   }
 }

@@ -50,44 +50,8 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','d81'),
+    component: ComponentCreator('/Wring_docs/docs','a70'),
     routes: [
-      {
-        path: '/Wring_docs/docs/APPS/Api',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Api','da2'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Cucumber/apiui',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/apiui','9a8'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Cucumber/cucumber',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/cucumber','bf5'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Cucumber/Data Driven Tests',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/Data Driven Tests','bad'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Cucumber/Fixtures',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Cucumber/Fixtures','191'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Get Started',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Get Started','af7'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
       {
         path: '/Wring_docs/docs/APPS/googlerecorder',
         component: ComponentCreator('/Wring_docs/docs/APPS/googlerecorder','322'),
@@ -109,18 +73,6 @@ export default [
       {
         path: '/Wring_docs/docs/APPS/Replay',
         component: ComponentCreator('/Wring_docs/docs/APPS/Replay','f34'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Set Up Apps',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Set Up Apps','8cd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Step-by-Step',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Step-by-Step','7c9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -161,20 +113,50 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/playwright',
-        component: ComponentCreator('/Wring_docs/docs/playwright','d2f'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/Wring_docs/docs/release-notes',
         component: ComponentCreator('/Wring_docs/docs/release-notes','b60'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/versions',
-        component: ComponentCreator('/Wring_docs/docs/versions','cdf'),
+        path: '/Wring_docs/docs/Test Languages/Cucumber/apiui',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/apiui','3ea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/Cucumber/cucumber',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/cucumber','8bc'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests','16e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/Cucumber/Fixtures',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/Fixtures','a5d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/format',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/format','e10'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/playwright',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/playwright','243'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/sensetalk',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/sensetalk','f3d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

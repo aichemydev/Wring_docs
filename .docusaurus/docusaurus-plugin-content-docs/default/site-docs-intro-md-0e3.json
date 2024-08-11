@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Dashboard",
-    "permalink": "/Wring_docs/docs/Dash"
+    "title": "Wringr Cucumber Testing",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
   }
 }
