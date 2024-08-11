@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Uploading Recorded Sessions to Wringr
 
-After recording a user session using the "Recorder" in Chrome DevTools (learn more about how to do this [here]([https://aichemydev.github.io/Wring_docs/docs/APPS/googlerecorder])), you can upload the session to your project on the Wringr platform for further analysis and testing.
+After recording a user session using the "Recorder" in Chrome DevTools (learn more about how to do this [here](https://aichemydev.github.io/Wring_docs/docs/APPS/googlerecorder)), you can upload the session to your project on the Wringr platform for further analysis and testing.
 
 #### Steps to Upload a Session:
 1. **Navigate to Your Project:**
