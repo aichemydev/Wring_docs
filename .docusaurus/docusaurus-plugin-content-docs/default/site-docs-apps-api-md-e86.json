@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Guidelines for Using Playwright for UI Testing",
-    "permalink": "/Wring_docs/docs/APPS/playwright"
+    "title": "API Tests",
+    "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
   },
   "next": {
-    "title": "WringGPT",
-    "permalink": "/Wring_docs/docs/APPS/Wringr/wringrgpt"
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/playwright"
   }
 }

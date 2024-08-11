@@ -10,14 +10,14 @@
   "permalink": "/Wring_docs/docs/APPS/Step-by-Step",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Set Up Apps",
-    "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+    "title": "Integrating and Uploading Tests in Wringr AI",
+    "permalink": "/Wring_docs/docs/APPS/wringruirec"
   },
   "next": {
     "title": "Sessions",

@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Wringr AI with Google Recorder
+# User session recording
+## Wringr AI with Google Recorder
 
 Using the "Recorder" in Chrome DevTools can be an efficient way to automate and document your UX testing. This tool allows you to record user interactions with your web application and replay them to verify functionality or identify issues. Here's a step-by-step guide on how to use the Recorder:
 

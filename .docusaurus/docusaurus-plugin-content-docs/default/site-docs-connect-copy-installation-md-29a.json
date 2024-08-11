@@ -1,13 +1,13 @@
 {
-  "unversionedId": "Connect/Installation",
-  "id": "Connect/Installation",
+  "unversionedId": "Connect copy/Installation",
+  "id": "Connect copy/Installation",
   "isDocsHomePage": false,
   "title": "Wringr Plugins",
   "description": "For the latest instructions on how to install Wring Plugins, please visit our installation page. You'll find quick instructions for installing Wring Plugins in the languages that we support.",
-  "source": "@site/docs/Connect/Installation.md",
-  "sourceDirName": "Connect",
-  "slug": "/Connect/Installation",
-  "permalink": "/Wring_docs/docs/Connect/Installation",
+  "source": "@site/docs/Connect copy/Installation.md",
+  "sourceDirName": "Connect copy",
+  "slug": "/Connect copy/Installation",
+  "permalink": "/Wring_docs/docs/Connect copy/Installation",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Guidelines for Using Playwright for UI Testing",
-    "permalink": "/Wring_docs/docs/playwright"
+    "title": "Wringr Plugins",
+    "permalink": "/Wring_docs/docs/Connect/Installation"
   },
   "next": {
-    "title": "WringGPT",
-    "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
   }
 }

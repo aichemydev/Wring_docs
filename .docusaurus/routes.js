@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','49e'),
+    component: ComponentCreator('/Wring_docs/docs','380'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -89,8 +89,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/APPS/playwright',
-        component: ComponentCreator('/Wring_docs/docs/APPS/playwright','424'),
+        path: '/Wring_docs/docs/APPS/googlerecorder',
+        component: ComponentCreator('/Wring_docs/docs/APPS/googlerecorder','322'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -113,8 +113,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/APPS/Wringr/wringrgpt',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Wringr/wringrgpt','2f0'),
+        path: '/Wring_docs/docs/APPS/wringruirec',
+        component: ComponentCreator('/Wring_docs/docs/APPS/wringruirec','bd6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -137,20 +137,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Google Recordings/googlerecorder',
-        component: ComponentCreator('/Wring_docs/docs/Google Recordings/googlerecorder','2f3'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/Google Recordings/wringruirec',
-        component: ComponentCreator('/Wring_docs/docs/Google Recordings/wringruirec','b7a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/Wring_docs/docs/intro',
         component: ComponentCreator('/Wring_docs/docs/intro','9b1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/playwright',
+        component: ComponentCreator('/Wring_docs/docs/playwright','d2f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -163,6 +157,12 @@ export default [
       {
         path: '/Wring_docs/docs/versions',
         component: ComponentCreator('/Wring_docs/docs/versions','cdf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Wringr/wringrgpt',
+        component: ComponentCreator('/Wring_docs/docs/Wringr/wringrgpt','909'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

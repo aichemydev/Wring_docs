@@ -29,7 +29,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-49e": {
+  "/Wring_docs/docs-380": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -57,9 +57,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-get-started-755-a4e"
   },
-  "/Wring_docs/docs/APPS/playwright-424": {
+  "/Wring_docs/docs/APPS/googlerecorder-322": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-playwright-10-b-82d"
+    "content": "content---wring-docs-docs-apps-googlerecorder-1-d-8-30d"
   },
   "/Wring_docs/docs/APPS/Replay-f34": {
     "component": "component---theme-doc-item-178-a40",
@@ -73,9 +73,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-apps-step-by-step-4-a-1-900"
   },
-  "/Wring_docs/docs/APPS/Wringr/wringrgpt-2f0": {
+  "/Wring_docs/docs/APPS/wringruirec-bd6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-apps-wringr-wringrgpt-05-c-a85"
+    "content": "content---wring-docs-docs-apps-wringruirecc-10-252"
   },
   "/Wring_docs/docs/Connect/Installation-54c": {
     "component": "component---theme-doc-item-178-a40",
@@ -89,17 +89,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-faq-048-1b6"
   },
-  "/Wring_docs/docs/Google Recordings/googlerecorder-2f3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-google-recordings-googlerecorder-570-562"
-  },
-  "/Wring_docs/docs/Google Recordings/wringruirec-b7a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-google-recordings-wringruireced-6-3a7"
-  },
   "/Wring_docs/docs/intro-9b1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-intro-0-e-3-f85"
+  },
+  "/Wring_docs/docs/playwright-d2f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-playwright-105-7d2"
   },
   "/Wring_docs/docs/release-notes-b60": {
     "component": "component---theme-doc-item-178-a40",
@@ -108,6 +104,10 @@
   "/Wring_docs/docs/versions-cdf": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-versions-0-fe-77f"
+  },
+  "/Wring_docs/docs/Wringr/wringrgpt-909": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-wringr-wringrgptddf-ea8"
   },
   "/Wring_docs/-b36": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",

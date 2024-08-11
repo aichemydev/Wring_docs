@@ -1,26 +1,26 @@
 {
-  "unversionedId": "Google Recordings/wringruirec",
-  "id": "Google Recordings/wringruirec",
+  "unversionedId": "APPS/wringruirec",
+  "id": "APPS/wringruirec",
   "isDocsHomePage": false,
   "title": "Integrating and Uploading Tests in Wringr AI",
   "description": "This documentation provides a comprehensive guide on how to integrate and upload recorded tests into the Wringr AI. Leveraging the power of the Chrome DevTools Recorder, users can capture detailed AI interactions and seamlessly add them to the Wringr platform for in-depth analysis, debugging, and validation. This process ensures efficient test management and enhances the overall quality assurance workflow.",
-  "source": "@site/docs/Google Recordings/wringruirec.md",
-  "sourceDirName": "Google Recordings",
-  "slug": "/Google Recordings/wringruirec",
-  "permalink": "/Wring_docs/docs/Google Recordings/wringruirec",
+  "source": "@site/docs/APPS/wringruirec.md",
+  "sourceDirName": "APPS",
+  "slug": "/APPS/wringruirec",
+  "permalink": "/Wring_docs/docs/APPS/wringruirec",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Wringr Plugins",
-    "permalink": "/Wring_docs/docs/Connect/Installation"
+    "title": "User session recording",
+    "permalink": "/Wring_docs/docs/APPS/googlerecorder"
   },
   "next": {
-    "title": "Frequently Asked Questions",
-    "permalink": "/Wring_docs/docs/faq"
+    "title": "Projects - Step by step",
+    "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
   }
 }

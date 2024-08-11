@@ -3,7 +3,7 @@
   "id": "APPS/Get Started",
   "isDocsHomePage": false,
   "title": "Get Started",
-  "description": "Introduction",
+  "description": "Project Intro",
   "source": "@site/docs/APPS/Get Started.md",
   "sourceDirName": "APPS",
   "slug": "/APPS/Get Started",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Wringr Plugins",
-    "permalink": "/Wring_docs/docs/Connect/Installation"
+    "title": "Dashboard",
+    "permalink": "/Wring_docs/docs/Dash"
   },
   "next": {
     "title": "Set Up Apps",

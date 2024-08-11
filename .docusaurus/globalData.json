@@ -41,8 +41,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/playwright",
-              "path": "/Wring_docs/docs/APPS/playwright",
+              "id": "APPS/googlerecorder",
+              "path": "/Wring_docs/docs/APPS/googlerecorder",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,8 +61,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/Wringr/wringrgpt",
-              "path": "/Wring_docs/docs/APPS/Wringr/wringrgpt",
+              "id": "APPS/wringruirec",
+              "path": "/Wring_docs/docs/APPS/wringruirec",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,18 +81,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Google Recordings/googlerecorder",
-              "path": "/Wring_docs/docs/Google Recordings/googlerecorder",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Google Recordings/wringruirec",
-              "path": "/Wring_docs/docs/Google Recordings/wringruirec",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/Wring_docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "playwright",
+              "path": "/Wring_docs/docs/playwright",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -103,6 +98,11 @@
             {
               "id": "versions",
               "path": "/Wring_docs/docs/versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Wringr/wringrgpt",
+              "path": "/Wring_docs/docs/Wringr/wringrgpt",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -1,26 +1,26 @@
 {
-  "unversionedId": "APPS/playwright",
-  "id": "APPS/playwright",
+  "unversionedId": "playwright",
+  "id": "playwright",
   "isDocsHomePage": false,
   "title": "Guidelines for Using Playwright for UI Testing",
   "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
-  "source": "@site/docs/APPS/playwright.md",
-  "sourceDirName": "APPS",
-  "slug": "/APPS/playwright",
-  "permalink": "/Wring_docs/docs/APPS/playwright",
+  "source": "@site/docs/playwright.md",
+  "sourceDirName": ".",
+  "slug": "/playwright",
+  "permalink": "/Wring_docs/docs/playwright",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sessions",
-    "permalink": "/Wring_docs/docs/APPS/Replay"
+    "title": "API",
+    "permalink": "/Wring_docs/docs/APPS/Api"
   },
   "next": {
-    "title": "Wringr Cucumber Testing",
-    "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+    "title": "Wringr Plugins",
+    "permalink": "/Wring_docs/docs/Connect/Installation"
   }
 }

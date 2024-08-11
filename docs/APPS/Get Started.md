@@ -2,6 +2,7 @@
 sidebar_position: 1
 ---
 
+## Project Intro
 ### Introduction
 
 Wring offers a comprehensive set of tools to help you collect and analyze all the performance data you need. You can see how users interact with your site, including which links they click, how much time they spend on each page, which browsers they use, etc.. This data also serves as a basis for making your website better and more user friendly. 

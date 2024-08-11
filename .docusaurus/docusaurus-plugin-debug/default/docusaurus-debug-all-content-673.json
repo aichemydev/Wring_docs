@@ -35,12 +35,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/APPS/playwright"
+                "title": "API Tests",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
               },
               "next": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/APPS/Wringr/wringrgpt"
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/playwright"
               }
             },
             {
@@ -65,8 +65,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Cucumber/Fixtures"
               },
               "next": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/APPS/playwright"
+                "title": "API",
+                "permalink": "/Wring_docs/docs/APPS/Api"
               }
             },
             {
@@ -152,7 +152,7 @@
               "id": "APPS/Get Started",
               "isDocsHomePage": false,
               "title": "Get Started",
-              "description": "Introduction",
+              "description": "Project Intro",
               "source": "@site/docs/APPS/Get Started.md",
               "sourceDirName": "APPS",
               "slug": "/APPS/Get Started",
@@ -165,8 +165,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Wringr Plugins",
-                "permalink": "/Wring_docs/docs/Connect/Installation"
+                "title": "Dashboard",
+                "permalink": "/Wring_docs/docs/Dash"
               },
               "next": {
                 "title": "Set Up Apps",
@@ -174,29 +174,29 @@
               }
             },
             {
-              "unversionedId": "APPS/playwright",
-              "id": "APPS/playwright",
+              "unversionedId": "APPS/googlerecorder",
+              "id": "APPS/googlerecorder",
               "isDocsHomePage": false,
-              "title": "Guidelines for Using Playwright for UI Testing",
-              "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
-              "source": "@site/docs/APPS/playwright.md",
+              "title": "User session recording",
+              "description": "Wringr AI with Google Recorder",
+              "source": "@site/docs/APPS/googlerecorder.md",
               "sourceDirName": "APPS",
-              "slug": "/APPS/playwright",
-              "permalink": "/Wring_docs/docs/APPS/playwright",
+              "slug": "/APPS/googlerecorder",
+              "permalink": "/Wring_docs/docs/APPS/googlerecorder",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "API Tests",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/apiui"
+                "title": "Set Up Apps",
+                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
               },
               "next": {
-                "title": "API",
-                "permalink": "/Wring_docs/docs/APPS/Api"
+                "title": "Integrating and Uploading Tests in Wringr AI",
+                "permalink": "/Wring_docs/docs/APPS/wringruirec"
               }
             },
             {
@@ -211,9 +211,9 @@
               "permalink": "/Wring_docs/docs/APPS/Replay",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -247,8 +247,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Get Started"
               },
               "next": {
-                "title": "Projects - Step by step",
-                "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
+                "title": "User session recording",
+                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
               }
             },
             {
@@ -263,14 +263,14 @@
               "permalink": "/Wring_docs/docs/APPS/Step-by-Step",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Set Up Apps",
-                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+                "title": "Integrating and Uploading Tests in Wringr AI",
+                "permalink": "/Wring_docs/docs/APPS/wringruirec"
               },
               "next": {
                 "title": "Sessions",
@@ -278,29 +278,29 @@
               }
             },
             {
-              "unversionedId": "APPS/Wringr/wringrgpt",
-              "id": "APPS/Wringr/wringrgpt",
+              "unversionedId": "APPS/wringruirec",
+              "id": "APPS/wringruirec",
               "isDocsHomePage": false,
-              "title": "WringGPT",
-              "description": "WringrGPT Chat",
-              "source": "@site/docs/APPS/Wringr/wringrgpt.md",
-              "sourceDirName": "APPS/Wringr",
-              "slug": "/APPS/Wringr/wringrgpt",
-              "permalink": "/Wring_docs/docs/APPS/Wringr/wringrgpt",
+              "title": "Integrating and Uploading Tests in Wringr AI",
+              "description": "This documentation provides a comprehensive guide on how to integrate and upload recorded tests into the Wringr AI. Leveraging the power of the Chrome DevTools Recorder, users can capture detailed AI interactions and seamlessly add them to the Wringr platform for in-depth analysis, debugging, and validation. This process ensures efficient test management and enhances the overall quality assurance workflow.",
+              "source": "@site/docs/APPS/wringruirec.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/wringruirec",
+              "permalink": "/Wring_docs/docs/APPS/wringruirec",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "API",
-                "permalink": "/Wring_docs/docs/APPS/Api"
+                "title": "User session recording",
+                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
               },
               "next": {
-                "title": "Wringr AI with Google Recorder",
-                "permalink": "/Wring_docs/docs/Google Recordings/googlerecorder"
+                "title": "Projects - Step by step",
+                "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
               }
             },
             {
@@ -321,12 +321,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Dashboard",
-                "permalink": "/Wring_docs/docs/Dash"
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/playwright"
               },
               "next": {
-                "title": "Get Started",
-                "permalink": "/Wring_docs/docs/APPS/Get Started"
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               }
             },
             {
@@ -351,8 +351,8 @@
                 "permalink": "/Wring_docs/docs/intro"
               },
               "next": {
-                "title": "Wringr Plugins",
-                "permalink": "/Wring_docs/docs/Connect/Installation"
+                "title": "Get Started",
+                "permalink": "/Wring_docs/docs/APPS/Get Started"
               }
             },
             {
@@ -373,64 +373,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Integrating and Uploading Tests in Wringr AI",
-                "permalink": "/Wring_docs/docs/Google Recordings/wringruirec"
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               },
               "next": {
                 "title": "Supported Versions",
                 "permalink": "/Wring_docs/docs/versions"
-              }
-            },
-            {
-              "unversionedId": "Google Recordings/googlerecorder",
-              "id": "Google Recordings/googlerecorder",
-              "isDocsHomePage": false,
-              "title": "Wringr AI with Google Recorder",
-              "description": "Using the \"Recorder\" in Chrome DevTools can be an efficient way to automate and document your UX testing. This tool allows you to record user interactions with your web application and replay them to verify functionality or identify issues. Here's a step-by-step guide on how to use the Recorder:",
-              "source": "@site/docs/Google Recordings/googlerecorder.md",
-              "sourceDirName": "Google Recordings",
-              "slug": "/Google Recordings/googlerecorder",
-              "permalink": "/Wring_docs/docs/Google Recordings/googlerecorder",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/APPS/Wringr/wringrgpt"
-              },
-              "next": {
-                "title": "Integrating and Uploading Tests in Wringr AI",
-                "permalink": "/Wring_docs/docs/Google Recordings/wringruirec"
-              }
-            },
-            {
-              "unversionedId": "Google Recordings/wringruirec",
-              "id": "Google Recordings/wringruirec",
-              "isDocsHomePage": false,
-              "title": "Integrating and Uploading Tests in Wringr AI",
-              "description": "This documentation provides a comprehensive guide on how to integrate and upload recorded tests into the Wringr AI. Leveraging the power of the Chrome DevTools Recorder, users can capture detailed AI interactions and seamlessly add them to the Wringr platform for in-depth analysis, debugging, and validation. This process ensures efficient test management and enhances the overall quality assurance workflow.",
-              "source": "@site/docs/Google Recordings/wringruirec.md",
-              "sourceDirName": "Google Recordings",
-              "slug": "/Google Recordings/wringruirec",
-              "permalink": "/Wring_docs/docs/Google Recordings/wringruirec",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Wringr AI with Google Recorder",
-                "permalink": "/Wring_docs/docs/Google Recordings/googlerecorder"
-              },
-              "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/Wring_docs/docs/faq"
               }
             },
             {
@@ -453,6 +401,32 @@
               "next": {
                 "title": "Dashboard",
                 "permalink": "/Wring_docs/docs/Dash"
+              }
+            },
+            {
+              "unversionedId": "playwright",
+              "id": "playwright",
+              "isDocsHomePage": false,
+              "title": "Guidelines for Using Playwright for UI Testing",
+              "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
+              "source": "@site/docs/playwright.md",
+              "sourceDirName": ".",
+              "slug": "/playwright",
+              "permalink": "/Wring_docs/docs/playwright",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API",
+                "permalink": "/Wring_docs/docs/APPS/Api"
+              },
+              "next": {
+                "title": "Wringr Plugins",
+                "permalink": "/Wring_docs/docs/Connect/Installation"
               }
             },
             {
@@ -502,6 +476,32 @@
                 "title": "Release Notes",
                 "permalink": "/Wring_docs/docs/release-notes"
               }
+            },
+            {
+              "unversionedId": "Wringr/wringrgpt",
+              "id": "Wringr/wringrgpt",
+              "isDocsHomePage": false,
+              "title": "WringGPT",
+              "description": "WringrGPT Chat",
+              "source": "@site/docs/Wringr/wringrgpt.md",
+              "sourceDirName": "Wringr",
+              "slug": "/Wringr/wringrgpt",
+              "permalink": "/Wring_docs/docs/Wringr/wringrgpt",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr Plugins",
+                "permalink": "/Wring_docs/docs/Connect/Installation"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/Wring_docs/docs/faq"
+              }
             }
           ],
           "sidebars": {
@@ -516,18 +516,6 @@
               },
               {
                 "type": "category",
-                "label": "Integrations",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Connect/Installation"
-                  }
-                ]
-              },
-              {
-                "type": "category",
                 "label": "Projects",
                 "collapsible": true,
                 "collapsed": true,
@@ -539,6 +527,14 @@
                   {
                     "type": "doc",
                     "id": "APPS/Set Up Apps"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/googlerecorder"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/wringruirec"
                   },
                   {
                     "type": "doc",
@@ -574,39 +570,35 @@
                   },
                   {
                     "type": "doc",
-                    "id": "APPS/playwright"
-                  },
-                  {
-                    "type": "doc",
                     "id": "APPS/Api"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Wringr Chat",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "APPS/Wringr/wringrgpt"
-                      }
-                    ]
                   }
                 ]
               },
               {
+                "type": "doc",
+                "id": "playwright"
+              },
+              {
                 "type": "category",
-                "label": "Google Recordings",
+                "label": "Other Supporting Formats",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Google Recordings/googlerecorder"
-                  },
+                    "id": "Connect/Installation"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Wringr Chat",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
                   {
                     "type": "doc",
-                    "id": "Google Recordings/wringruirec"
+                    "id": "Wringr/wringrgpt"
                   }
                 ]
               },

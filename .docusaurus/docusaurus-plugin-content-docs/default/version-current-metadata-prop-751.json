@@ -20,19 +20,6 @@
       },
       {
         "type": "category",
-        "label": "Integrations",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Wringr Plugins",
-            "href": "/Wring_docs/docs/Connect/Installation"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Projects",
         "collapsible": true,
         "collapsed": true,
@@ -46,6 +33,16 @@
             "type": "link",
             "label": "Set Up Apps",
             "href": "/Wring_docs/docs/APPS/Set Up Apps"
+          },
+          {
+            "type": "link",
+            "label": "User session recording",
+            "href": "/Wring_docs/docs/APPS/googlerecorder"
+          },
+          {
+            "type": "link",
+            "label": "Integrating and Uploading Tests in Wringr AI",
+            "href": "/Wring_docs/docs/APPS/wringruirec"
           },
           {
             "type": "link",
@@ -87,44 +84,39 @@
           },
           {
             "type": "link",
-            "label": "Guidelines for Using Playwright for UI Testing",
-            "href": "/Wring_docs/docs/APPS/playwright"
-          },
-          {
-            "type": "link",
             "label": "API",
             "href": "/Wring_docs/docs/APPS/Api"
-          },
-          {
-            "type": "category",
-            "label": "Wringr Chat",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "WringGPT",
-                "href": "/Wring_docs/docs/APPS/Wringr/wringrgpt"
-              }
-            ]
           }
         ]
       },
       {
+        "type": "link",
+        "label": "Guidelines for Using Playwright for UI Testing",
+        "href": "/Wring_docs/docs/playwright"
+      },
+      {
         "type": "category",
-        "label": "Google Recordings",
+        "label": "Other Supporting Formats",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Wringr AI with Google Recorder",
-            "href": "/Wring_docs/docs/Google Recordings/googlerecorder"
-          },
+            "label": "Wringr Plugins",
+            "href": "/Wring_docs/docs/Connect/Installation"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Wringr Chat",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
           {
             "type": "link",
-            "label": "Integrating and Uploading Tests in Wringr AI",
-            "href": "/Wring_docs/docs/Google Recordings/wringruirec"
+            "label": "WringGPT",
+            "href": "/Wring_docs/docs/Wringr/wringrgpt"
           }
         ]
       },

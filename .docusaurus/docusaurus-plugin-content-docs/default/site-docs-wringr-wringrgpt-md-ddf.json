@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Wringr/wringrgpt",
+  "id": "Wringr/wringrgpt",
+  "isDocsHomePage": false,
+  "title": "WringGPT",
+  "description": "WringrGPT Chat",
+  "source": "@site/docs/Wringr/wringrgpt.md",
+  "sourceDirName": "Wringr",
+  "slug": "/Wringr/wringrgpt",
+  "permalink": "/Wring_docs/docs/Wringr/wringrgpt",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr Plugins",
+    "permalink": "/Wring_docs/docs/Connect/Installation"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Wring_docs/docs/faq"
+  }
+}

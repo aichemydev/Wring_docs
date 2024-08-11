@@ -8,7 +8,7 @@ To commence, the first step involves leveraging our intuitive yet robust Project
 
 *You can start by adding a new project with our simple yet powerful Projects feature.*
 
-## How to create a Project in Projects?
+## How to create a Project?
 
 Simplify your life and get Projects from Wring. Wring allows you to create a project from which you want to get Projects by going to `Set up Projects` and clicking on `Add new project`.
 
