@@ -87,8 +87,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sessions",
-                "permalink": "/Wring_docs/docs/APPS/Replay"
+                "title": "Wringr Tests Generation",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
               },
               "next": {
                 "title": "Wringr - Data Driven Tests",
@@ -169,8 +169,8 @@
                 "permalink": "/Wring_docs/docs/Dash"
               },
               "next": {
-                "title": "Set Up Apps",
-                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+                "title": "Projects Intro",
+                "permalink": "/Wring_docs/docs/APPS/Projects Intro"
               }
             },
             {
@@ -195,16 +195,68 @@
                 "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
               },
               "next": {
-                "title": "Integrating and Uploading Tests in Wringr AI",
-                "permalink": "/Wring_docs/docs/APPS/wringruirec"
+                "title": "Project details",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
+              }
+            },
+            {
+              "unversionedId": "APPS/How to create a Project",
+              "id": "APPS/How to create a Project",
+              "isDocsHomePage": false,
+              "title": "How to create a Project",
+              "description": "To create a project in Wringr, follow these steps:",
+              "source": "@site/docs/APPS/How to create a Project.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/How to create a Project",
+              "permalink": "/Wring_docs/docs/APPS/How to create a Project",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Projects Intro",
+                "permalink": "/Wring_docs/docs/APPS/Projects Intro"
+              },
+              "next": {
+                "title": "Set Up Apps",
+                "permalink": "/Wring_docs/docs/APPS/Set Up Apps"
+              }
+            },
+            {
+              "unversionedId": "APPS/Projects Intro",
+              "id": "APPS/Projects Intro",
+              "isDocsHomePage": false,
+              "title": "Projects Intro",
+              "description": "Introduction",
+              "source": "@site/docs/APPS/Projects Intro.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Projects Intro",
+              "permalink": "/Wring_docs/docs/APPS/Projects Intro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started",
+                "permalink": "/Wring_docs/docs/APPS/Get Started"
+              },
+              "next": {
+                "title": "How to create a Project",
+                "permalink": "/Wring_docs/docs/APPS/How to create a Project"
               }
             },
             {
               "unversionedId": "APPS/Replay",
               "id": "APPS/Replay",
               "isDocsHomePage": false,
-              "title": "Sessions",
-              "description": "How to use sessions?",
+              "title": "User Sessions",
+              "description": "Uploading Recorded Sessions to Wringr",
               "source": "@site/docs/APPS/Replay.md",
               "sourceDirName": "APPS",
               "slug": "/APPS/Replay",
@@ -221,8 +273,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
               },
               "next": {
-                "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+                "title": "Wringr Tests Generation",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
               }
             },
             {
@@ -243,8 +295,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Get Started",
-                "permalink": "/Wring_docs/docs/APPS/Get Started"
+                "title": "How to create a Project",
+                "permalink": "/Wring_docs/docs/APPS/How to create a Project"
               },
               "next": {
                 "title": "User session recording",
@@ -273,8 +325,60 @@
                 "permalink": "/Wring_docs/docs/APPS/wringruirec"
               },
               "next": {
-                "title": "Sessions",
+                "title": "User Sessions",
                 "permalink": "/Wring_docs/docs/APPS/Replay"
+              }
+            },
+            {
+              "unversionedId": "APPS/Wringr Project Tools",
+              "id": "APPS/Wringr Project Tools",
+              "isDocsHomePage": false,
+              "title": "Project details",
+              "description": "In Wringr, projects are divided into several key sections, each serving a unique function to help you manage and analyze your tests effectively:",
+              "source": "@site/docs/APPS/Wringr Project Tools.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Wringr Project Tools",
+              "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User session recording",
+                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
+              },
+              "next": {
+                "title": "Integrating and Uploading Tests in Wringr AI",
+                "permalink": "/Wring_docs/docs/APPS/wringruirec"
+              }
+            },
+            {
+              "unversionedId": "APPS/Wringr Tests Genetation",
+              "id": "APPS/Wringr Tests Genetation",
+              "isDocsHomePage": false,
+              "title": "Wringr Tests Generation",
+              "description": "In this section, we'll guide you through the process of generating tests using Wringr's powerful AI capabilities.",
+              "source": "@site/docs/APPS/Wringr Tests Genetation.md",
+              "sourceDirName": "APPS",
+              "slug": "/APPS/Wringr Tests Genetation",
+              "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User Sessions",
+                "permalink": "/Wring_docs/docs/APPS/Replay"
+              },
+              "next": {
+                "title": "Wringr Cucumber Testing",
+                "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
               }
             },
             {
@@ -295,8 +399,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "User session recording",
-                "permalink": "/Wring_docs/docs/APPS/googlerecorder"
+                "title": "Project details",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
               },
               "next": {
                 "title": "Projects - Step by step",
@@ -304,37 +408,11 @@
               }
             },
             {
-              "unversionedId": "Connect/Installation",
-              "id": "Connect/Installation",
-              "isDocsHomePage": false,
-              "title": "Wringr Plugins",
-              "description": "For the latest instructions on how to install Wring Plugins, please visit our installation page. You'll find quick instructions for installing Wring Plugins in the languages that we support.",
-              "source": "@site/docs/Connect/Installation.md",
-              "sourceDirName": "Connect",
-              "slug": "/Connect/Installation",
-              "permalink": "/Wring_docs/docs/Connect/Installation",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/playwright"
-              },
-              "next": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
-              }
-            },
-            {
               "unversionedId": "Dash",
               "id": "Dash",
               "isDocsHomePage": false,
               "title": "Dashboard",
-              "description": "Welcome to the Dashboard!",
+              "description": "The Dashboard offers a comprehensive overview of your testing activities, presenting key metrics and statistics to help you monitor and manage your test executions effectively. Here's what you can find:",
               "source": "@site/docs/Dash.md",
               "sourceDirName": ".",
               "slug": "/Dash",
@@ -386,7 +464,7 @@
               "id": "intro",
               "isDocsHomePage": false,
               "title": "Getting Started",
-              "description": "Let's discover Wringr's Key Features.",
+              "description": "Let's Discover Wringr's Key Features",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -425,8 +503,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Api"
               },
               "next": {
-                "title": "Wringr Plugins",
-                "permalink": "/Wring_docs/docs/Connect/Installation"
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               }
             },
             {
@@ -495,8 +573,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Wringr Plugins",
-                "permalink": "/Wring_docs/docs/Connect/Installation"
+                "title": "Guidelines for Using Playwright for UI Testing",
+                "permalink": "/Wring_docs/docs/playwright"
               },
               "next": {
                 "title": "Frequently Asked Questions",
@@ -526,11 +604,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "APPS/Projects Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/How to create a Project"
+                  },
+                  {
+                    "type": "doc",
                     "id": "APPS/Set Up Apps"
                   },
                   {
                     "type": "doc",
                     "id": "APPS/googlerecorder"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/Wringr Project Tools"
                   },
                   {
                     "type": "doc",
@@ -543,6 +633,10 @@
                   {
                     "type": "doc",
                     "id": "APPS/Replay"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "APPS/Wringr Tests Genetation"
                   },
                   {
                     "type": "category",
@@ -577,18 +671,6 @@
               {
                 "type": "doc",
                 "id": "playwright"
-              },
-              {
-                "type": "category",
-                "label": "Other Supporting Formats",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Connect/Installation"
-                  }
-                ]
               },
               {
                 "type": "category",

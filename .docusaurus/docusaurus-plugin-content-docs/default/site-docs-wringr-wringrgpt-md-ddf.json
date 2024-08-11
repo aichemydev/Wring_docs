@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Wringr Plugins",
-    "permalink": "/Wring_docs/docs/Connect/Installation"
+    "title": "Guidelines for Using Playwright for UI Testing",
+    "permalink": "/Wring_docs/docs/playwright"
   },
   "next": {
     "title": "Frequently Asked Questions",

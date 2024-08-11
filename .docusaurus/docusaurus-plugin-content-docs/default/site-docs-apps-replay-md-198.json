@@ -2,8 +2,8 @@
   "unversionedId": "APPS/Replay",
   "id": "APPS/Replay",
   "isDocsHomePage": false,
-  "title": "Sessions",
-  "description": "How to use sessions?",
+  "title": "User Sessions",
+  "description": "Uploading Recorded Sessions to Wringr",
   "source": "@site/docs/APPS/Replay.md",
   "sourceDirName": "APPS",
   "slug": "/APPS/Replay",
@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/APPS/Step-by-Step"
   },
   "next": {
-    "title": "Wringr Cucumber Testing",
-    "permalink": "/Wring_docs/docs/APPS/Cucumber/cucumber"
+    "title": "Wringr Tests Generation",
+    "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
   }
 }

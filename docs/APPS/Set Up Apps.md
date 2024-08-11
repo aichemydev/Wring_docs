@@ -18,7 +18,7 @@ Wring allows you to easily generate a project for your first-time build. After t
 
 ![Session Replay](/img/pag6.png)
 
-Copy the JS snippet from Wring and paste it into your html page.
+<!-- Copy the JS snippet from Wring and paste it into your html page.
 
  ```yml title="An Example - JS Snippet"
 <script> !function(t,e){var o,n,p,r;e.__SV||(window.wring=e,e._i=[],e.init=function(i,s,a)
@@ -58,7 +58,7 @@ Then run the following command:
 5. In Wring/Live Event tab you will see your project `Test`.
 
 
-![Session Replay](/img/pag6.png)
+![Session Replay](/img/pag6.png) -->
 
 Upon creating the Project, you will encounter a set of buttons, each serving a distinct purpose within the interface. Let's delve into the functionalities they offer:
 

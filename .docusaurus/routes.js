@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','380'),
+    component: ComponentCreator('/Wring_docs/docs','d81'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/Api',
@@ -95,6 +95,18 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Wring_docs/docs/APPS/How to create a Project',
+        component: ComponentCreator('/Wring_docs/docs/APPS/How to create a Project','a68'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/Projects Intro',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Projects Intro','699'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/Wring_docs/docs/APPS/Replay',
         component: ComponentCreator('/Wring_docs/docs/APPS/Replay','f34'),
         exact: true,
@@ -113,14 +125,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/APPS/wringruirec',
-        component: ComponentCreator('/Wring_docs/docs/APPS/wringruirec','bd6'),
+        path: '/Wring_docs/docs/APPS/Wringr Project Tools',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Wringr Project Tools','25d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Connect/Installation',
-        component: ComponentCreator('/Wring_docs/docs/Connect/Installation','54c'),
+        path: '/Wring_docs/docs/APPS/Wringr Tests Genetation',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Wringr Tests Genetation','446'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/wringruirec',
+        component: ComponentCreator('/Wring_docs/docs/APPS/wringruirec','bd6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

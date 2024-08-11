@@ -3,7 +3,7 @@
   "id": "Dash",
   "isDocsHomePage": false,
   "title": "Dashboard",
-  "description": "Welcome to the Dashboard!",
+  "description": "The Dashboard offers a comprehensive overview of your testing activities, presenting key metrics and statistics to help you monitor and manage your test executions effectively. Here's what you can find:",
   "source": "@site/docs/Dash.md",
   "sourceDirName": ".",
   "slug": "/Dash",

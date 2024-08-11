@@ -46,6 +46,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "APPS/How to create a Project",
+              "path": "/Wring_docs/docs/APPS/How to create a Project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/Projects Intro",
+              "path": "/Wring_docs/docs/APPS/Projects Intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "APPS/Replay",
               "path": "/Wring_docs/docs/APPS/Replay",
               "sidebar": "tutorialSidebar"
@@ -61,13 +71,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/wringruirec",
-              "path": "/Wring_docs/docs/APPS/wringruirec",
+              "id": "APPS/Wringr Project Tools",
+              "path": "/Wring_docs/docs/APPS/Wringr Project Tools",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Connect/Installation",
-              "path": "/Wring_docs/docs/Connect/Installation",
+              "id": "APPS/Wringr Tests Genetation",
+              "path": "/Wring_docs/docs/APPS/Wringr Tests Genetation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/wringruirec",
+              "path": "/Wring_docs/docs/APPS/wringruirec",
               "sidebar": "tutorialSidebar"
             },
             {

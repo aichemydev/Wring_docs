@@ -31,6 +31,16 @@
           },
           {
             "type": "link",
+            "label": "Projects Intro",
+            "href": "/Wring_docs/docs/APPS/Projects Intro"
+          },
+          {
+            "type": "link",
+            "label": "How to create a Project",
+            "href": "/Wring_docs/docs/APPS/How to create a Project"
+          },
+          {
+            "type": "link",
             "label": "Set Up Apps",
             "href": "/Wring_docs/docs/APPS/Set Up Apps"
           },
@@ -38,6 +48,11 @@
             "type": "link",
             "label": "User session recording",
             "href": "/Wring_docs/docs/APPS/googlerecorder"
+          },
+          {
+            "type": "link",
+            "label": "Project details",
+            "href": "/Wring_docs/docs/APPS/Wringr Project Tools"
           },
           {
             "type": "link",
@@ -51,8 +66,13 @@
           },
           {
             "type": "link",
-            "label": "Sessions",
+            "label": "User Sessions",
             "href": "/Wring_docs/docs/APPS/Replay"
+          },
+          {
+            "type": "link",
+            "label": "Wringr Tests Generation",
+            "href": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
           },
           {
             "type": "category",
@@ -93,19 +113,6 @@
         "type": "link",
         "label": "Guidelines for Using Playwright for UI Testing",
         "href": "/Wring_docs/docs/playwright"
-      },
-      {
-        "type": "category",
-        "label": "Other Supporting Formats",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Wringr Plugins",
-            "href": "/Wring_docs/docs/Connect/Installation"
-          }
-        ]
       },
       {
         "type": "category",
