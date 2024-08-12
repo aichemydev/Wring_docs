@@ -14,7 +14,7 @@ Once you have selected the Selenium format and clicked the **"Submit"** button, 
 
 ![Seleniumt](/img/Selenium1.png)
 
-### Key Features of Selenium Scripts
+### Key Features of Selenium Scripts 
 
 The generated Selenium script, as seen in the screenshot, includes several distinct features:
 
