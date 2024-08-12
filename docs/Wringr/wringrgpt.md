@@ -18,20 +18,26 @@ WringrGPT Chat is an integrated feature within the Wringr user interface that al
 
 ![CHAT](/img/chat-1.png)
 
+
 2. **Get Instant Responses:** WringrGPT will instantly respond with answers or advice based on your input, helping you resolve issues or optimize your workflow in real-time.
 
 ![CHAT](/img/WringrGPTNew.png)
 
+
 3. **Continue Your Workflow:** Use the suggestions or solutions provided by WringrGPT to continue your testing process more efficiently.
+
 
 We automatically save all your previous chats, making it easy for you to revisit past conversations whenever you need a reference or want to pick up right where you left off.
 
 ![CHAT](/img/chat-3.png)
 
+
 At any point, you can start a new chat, allowing you to explore new topics or ask fresh questions without losing access to your earlier discussions. This ensures you always have the context and continuity needed to streamline your experience with WringrGPT.
 
 ![CHAT](/img/chat-4.png)
 
+
 WringrGPT Chat is a powerful ally in your testing journey, providing you with the support you need to make the most of the Wringr platform.
+
 
 
