@@ -5,72 +5,26 @@ sidebar_position: 9
 # Frequently Asked Questions
 
 
-:::note  question 1
-  <summary>  Do we need to learn any language or tool to start using Wringr ?</summary>
+1. **What is Wringr?**  
+   **Answer:** Wringr is a powerful AI-driven test automation platform that helps you generate, manage, and analyze test cases for your web applications. It offers tools to record user sessions, generate test scripts in multiple formats, and ensure your website performs optimally across different environments.
 
-  - **No** , Wringr works on your existing selenium or cypress code. You don’t need to rewrite any code.
+2. **How do I generate a test script in Wringr?**  
+   **Answer:** To generate a test script, navigate to the "Steps" section of your project, specify your test requirements in the "What Type Of Tests" panel, choose the desired test format from the list, and click the "Submit" button. Wringr will generate the test script and provide a download link.
 
-:::
+3. **What test formats does Wringr support?**  
+   **Answer:** Wringr supports various test formats including SenseTalk, Selenium, Playwright, Cucumber, Cypress, and more. Each format caters to different testing needs, allowing you to choose the one that best suits your project.
 
-:::note  question 2
-  <summary>  Does Wringr work only on Cloud Projectlications?</summary>
+4. **How does Wringr ensure the security of my data?**  
+   **Answer:** Wringr prioritizes the security of your data by recording user sessions using the Google Chrome Recorder and generating test scripts directly within the Wringr platform. There’s no need to install additional utilities, which minimizes the risk of data leakage.
 
-  - Wringr can work on both cloud and on-premise Projectlications extremely easily.
+5. **Can Wringr generate tests for cross-browser compatibility?**  
+   **Answer:** Yes, Wringr can generate tests for cross-browser compatibility. Simply specify your requirement in the "What Type Of Tests" panel, select the appropriate format, and Wringr will create a test to ensure your website functions properly across different browsers.
 
-:::
+6. **How can I delete a test session in Wringr?**  
+   **Answer:** To delete a test session, use the "Delete Session" button within the Wringr AI interface. This action will permanently remove the session and all associated data, including recorded steps, screenshots, and test results. Be cautious, as this action cannot be undone.
 
-:::note  question 3
-  <summary>  Does Wringr need any additional operating system needs ?</summary>
+7. **How do I ensure the accuracy of my generated tests in Wringr?**  
+   **Answer:** After generating a test in Wringr, you can review and refine the test steps in the "Steps" section. Wringr allows you to examine each recorded step, review descriptions, and make necessary adjustments to ensure the accuracy and completeness of your test cases.
 
-  - Wringr will work on Windows , Linux , Mac and on all browsers. No additional setup is required.
-
-:::
-
-:::note  question 3
-  <summary> What is the additional overhead of using Wringr ?</summary>
-
-  - The overhead is very low. **Less that 30% of the script time**. Also it helps you save lots of time on rework and maintainance of scripts.
-
-:::
-
-:::note  question 4
-  <summary> What languages are supported ?</summary>
-
-  - We support Selenium with Java , Javascript , Python , and Cypress
-
-:::
-
-:::note  question 5
-  <summary> Can I use the scripts recorded using Selenium IDE?</summary>
-
-  - **Yes**, Wringr lets you upload your .side scripts and will provide both suggestions and healing for the scripts.
-
-:::
-
-:::note  question 6
-  <summary> How much time does setup take ?</summary>
-
-  - Setting up Wringr takes **less than 10 minutes**. And you can see improvements almost immediately.
-
-:::
-
-:::note  question 7
-<summary> Can Wringr be integrated with Jira ? </summary>
-
-  - **Yes** , We can integrate it with Jira and everytime we heal your scripts we will raise an issue on Jira and upload all details.
-
-:::
-
-:::note  question 8
-<summary> What are the benefits of using Wringr ?</summary>
-
-  - Wringr automatically heals your testscripts and prevents it from failing. This will save you a lot of time in script maintainance. We also provide suggestions on the best locators to use in your scripts.
-
-:::
-
-:::note  question 9
-<summary>Who can use Wringr?</summary>
-
-  - **Anyone** who has selenium test scripts can gain immense value by using Wringr.
-
-:::
+8. **How quickly can I set up Wringr in my environment?**  
+   **Answer:** Wringr is designed for quick and easy integration. You can have Wringr up and running in your environment in less than 10 minutes, without the need for new test languages or frameworks. This allows you to start generating and managing tests with minimal setup time.
