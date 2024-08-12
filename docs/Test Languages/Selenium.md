@@ -4,7 +4,7 @@ sidebar_position: 4
 
 **Selenium** is a widely-used tool for automating web applications for testing purposes. It's particularly beneficial for developers and QA teams who need to execute repetitive tasks across different browsers and platforms. Selenium supports multiple programming languages and is known for its flexibility and ability to handle complex test scenarios.
 
-### How to Generate a Selenium Test in Wringr
+### How to Generate a Selenium Test in Wringr 
 
 To generate a test script in Selenium format using Wringr, navigate to the "Steps" section of your project. On the right-hand side, you'll find a panel labeled **"What Type Of Tests."** In this panel, enter your test requirements. Then, from the list of available formats, select **"Selenium"** from the dropdown menu.
 
