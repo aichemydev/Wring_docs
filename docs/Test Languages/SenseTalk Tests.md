@@ -2,8 +2,6 @@
 sidebar_position: 3
 ---
 
-## SenseTalk Tests
-
 **SenseTalk** is a versatile scripting language commonly used in test automation, particularly with Eggplant. It's designed for testers who need to create robust and flexible test scripts that can interact with various systems and user interfaces. SenseTalk is particularly beneficial for teams looking for a natural language approach to scripting that can handle complex automation tasks.
 
 ### How to Generate a SenseTalk Test in Wringr
