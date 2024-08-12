@@ -12,7 +12,7 @@ To generate a test script in Selenium format using Wringr, navigate to the "Step
 
 Once you have selected the Selenium format and clicked the **"Submit"** button, Wringr will process your request. After a short processing time, a download link for the generated Selenium script will appear on the screen. You can click this link to download the script file.
 
-![Seleniumt](/img/Selenium.png)
+![Seleniumt](/img/Selenium1.png)
 
 ### Key Features of Selenium Scripts
 
