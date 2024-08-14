@@ -87,28 +87,33 @@
                 "type": "link",
                 "label": "Fixtures",
                 "href": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
-              },
-              {
-                "type": "link",
-                "label": "API Tests",
-                "href": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
               }
             ]
           },
           {
             "type": "link",
-            "label": "Guidelines for Using Playwright for UI Testing",
+            "label": "Playwright",
             "href": "/Wring_docs/docs/Test Languages/playwright"
           },
           {
             "type": "link",
-            "label": "Sensetalk",
-            "href": "/Wring_docs/docs/Test Languages/sensetalk"
+            "label": "SenseTalk",
+            "href": "/Wring_docs/docs/Test Languages/SenseTalk"
           },
           {
             "type": "link",
-            "label": "Other Supporting Formats",
-            "href": "/Wring_docs/docs/Test Languages/format"
+            "label": "Selenium",
+            "href": "/Wring_docs/docs/Test Languages/Selenium"
+          },
+          {
+            "type": "link",
+            "label": "Cypress",
+            "href": "/Wring_docs/docs/Test Languages/Cypress"
+          },
+          {
+            "type": "link",
+            "label": "Puppeteer",
+            "href": "/Wring_docs/docs/Test Languages/Puppeteer"
           }
         ]
       },

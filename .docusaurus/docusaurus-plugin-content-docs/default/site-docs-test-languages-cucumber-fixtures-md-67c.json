@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
   },
   "next": {
-    "title": "API Tests",
-    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+    "title": "Playwright",
+    "permalink": "/Wring_docs/docs/Test Languages/playwright"
   }
 }

@@ -30,7 +30,7 @@ Now you can review the steps, descriptions, and screenshots, and even extract th
 
 ![session replay](/img/replay3.png)
 
-### Sauce Cucumber Run
+<!-- ### Sauce Cucumber Run
 
 The **Sauce Cucumber Run** feature allows you to execute your Cucumber tests on the Sauce Labs platform directly from the Wringr interface. This seamless integration simplifies your testing process by enabling you to run and manage your Cucumber test scenarios in a cloud-based environment with ease.
 
@@ -46,7 +46,7 @@ The **Sauce Cucumber Run** feature allows you to execute your Cucumber tests on 
 
 This feature integrates the powerful capabilities of Sauce Labs with Wringr, providing a streamlined solution for running and managing Cucumber tests in a scalable and efficient manner.
 
-![session replay](/img/replay4.png)
+![session replay](/img/replay4.png) -->
 
 ## Steps
 

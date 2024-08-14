@@ -29,7 +29,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-a70": {
+  "/Wring_docs/docs-ef4": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -77,10 +77,6 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-release-notesa-55-671"
   },
-  "/Wring_docs/docs/Test Languages/Cucumber/apiui-3ea": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-cucumber-apiui-6-ab-28a"
-  },
   "/Wring_docs/docs/Test Languages/Cucumber/cucumber-8bc": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-test-languages-cucumber-cucumberb-97-ff2"
@@ -93,17 +89,25 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-test-languages-cucumber-fixtures-67-c-3c2"
   },
-  "/Wring_docs/docs/Test Languages/format-e10": {
+  "/Wring_docs/docs/Test Languages/Cypress-114": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-format-811-59b"
+    "content": "content---wring-docs-docs-test-languages-cypress-927-aa2"
   },
   "/Wring_docs/docs/Test Languages/playwright-243": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-test-languages-playwrighteb-4-58c"
   },
-  "/Wring_docs/docs/Test Languages/sensetalk-f3d": {
+  "/Wring_docs/docs/Test Languages/Puppeteer-433": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-sensetalk-211-15e"
+    "content": "content---wring-docs-docs-test-languages-puppeteer-31-d-e30"
+  },
+  "/Wring_docs/docs/Test Languages/Selenium-9a7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-seleniumbc-7-e98"
+  },
+  "/Wring_docs/docs/Test Languages/SenseTalk-3ab": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-test-languages-sense-talkd-9-f-e2a"
   },
   "/Wring_docs/docs/Wringr/wringrgpt-909": {
     "component": "component---theme-doc-item-178-a40",

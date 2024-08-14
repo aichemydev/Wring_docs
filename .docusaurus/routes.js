@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','a70'),
+    component: ComponentCreator('/Wring_docs/docs','ef4'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/googlerecorder',
@@ -119,12 +119,6 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Cucumber/apiui',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/apiui','3ea'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/Wring_docs/docs/Test Languages/Cucumber/cucumber',
         component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/cucumber','8bc'),
         exact: true,
@@ -143,8 +137,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/format',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/format','e10'),
+        path: '/Wring_docs/docs/Test Languages/Cypress',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cypress','114'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -155,8 +149,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/sensetalk',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/sensetalk','f3d'),
+        path: '/Wring_docs/docs/Test Languages/Puppeteer',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Puppeteer','433'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/Selenium',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/Selenium','9a7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Test Languages/SenseTalk',
+        component: ComponentCreator('/Wring_docs/docs/Test Languages/SenseTalk','3ab'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

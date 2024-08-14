@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Languages/Selenium",
+  "id": "Test Languages/Selenium",
+  "isDocsHomePage": false,
+  "title": "Selenium",
+  "description": "Selenium is a widely-used tool for automating web applications for testing purposes. It's particularly beneficial for developers and QA teams who need to execute repetitive tasks across different browsers and platforms. Selenium supports multiple programming languages and is known for its flexibility and ability to handle complex test scenarios.",
+  "source": "@site/docs/Test Languages/Selenium.md",
+  "sourceDirName": "Test Languages",
+  "slug": "/Test Languages/Selenium",
+  "permalink": "/Wring_docs/docs/Test Languages/Selenium",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SenseTalk",
+    "permalink": "/Wring_docs/docs/Test Languages/SenseTalk"
+  },
+  "next": {
+    "title": "Cypress",
+    "permalink": "/Wring_docs/docs/Test Languages/Cypress"
+  }
+}

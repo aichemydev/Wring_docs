@@ -66,11 +66,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Cucumber/apiui",
-              "path": "/Wring_docs/docs/Test Languages/Cucumber/apiui",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Test Languages/Cucumber/cucumber",
               "path": "/Wring_docs/docs/Test Languages/Cucumber/cucumber",
               "sidebar": "tutorialSidebar"
@@ -86,8 +81,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/format",
-              "path": "/Wring_docs/docs/Test Languages/format",
+              "id": "Test Languages/Cypress",
+              "path": "/Wring_docs/docs/Test Languages/Cypress",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -96,8 +91,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/sensetalk",
-              "path": "/Wring_docs/docs/Test Languages/sensetalk",
+              "id": "Test Languages/Puppeteer",
+              "path": "/Wring_docs/docs/Test Languages/Puppeteer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/Selenium",
+              "path": "/Wring_docs/docs/Test Languages/Selenium",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test Languages/SenseTalk",
+              "path": "/Wring_docs/docs/Test Languages/SenseTalk",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -2,7 +2,7 @@
   "unversionedId": "Test Languages/playwright",
   "id": "Test Languages/playwright",
   "isDocsHomePage": false,
-  "title": "Guidelines for Using Playwright for UI Testing",
+  "title": "Playwright",
   "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
   "source": "@site/docs/Test Languages/playwright.md",
   "sourceDirName": "Test Languages",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "API Tests",
-    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
   },
   "next": {
-    "title": "Sensetalk",
-    "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
+    "title": "SenseTalk",
+    "permalink": "/Wring_docs/docs/Test Languages/SenseTalk"
   }
 }

@@ -230,7 +230,7 @@
               "id": "faq",
               "isDocsHomePage": false,
               "title": "Frequently Asked Questions",
-              "description": "Do we need to learn any language or tool to start using Wringr ?",
+              "description": "1. What is Wringr?",
               "source": "@site/docs/faq.md",
               "sourceDirName": ".",
               "slug": "/faq",
@@ -293,32 +293,6 @@
               "previous": {
                 "title": "Frequently Asked Questions",
                 "permalink": "/Wring_docs/docs/faq"
-              }
-            },
-            {
-              "unversionedId": "Test Languages/Cucumber/apiui",
-              "id": "Test Languages/Cucumber/apiui",
-              "isDocsHomePage": false,
-              "title": "API Tests",
-              "description": "In Wringr, for tests that support APIs in the UI, you can generate feature files and code.",
-              "source": "@site/docs/Test Languages/Cucumber/apiui.md",
-              "sourceDirName": "Test Languages/Cucumber",
-              "slug": "/Test Languages/Cucumber/apiui",
-              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Fixtures",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
-              },
-              "next": {
-                "title": "Guidelines for Using Playwright for UI Testing",
-                "permalink": "/Wring_docs/docs/Test Languages/playwright"
               }
             },
             {
@@ -395,41 +369,41 @@
                 "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
               },
               "next": {
-                "title": "API Tests",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+                "title": "Playwright",
+                "permalink": "/Wring_docs/docs/Test Languages/playwright"
               }
             },
             {
-              "unversionedId": "Test Languages/format",
-              "id": "Test Languages/format",
+              "unversionedId": "Test Languages/Cypress",
+              "id": "Test Languages/Cypress",
               "isDocsHomePage": false,
-              "title": "Other Supporting Formats",
-              "description": "",
-              "source": "@site/docs/Test Languages/format.md",
+              "title": "Cypress",
+              "description": "Cypress is a modern, fast, and reliable testing framework for web applications. It's designed for front-end developers and QA engineers who need to perform end-to-end testing with ease. Cypress is particularly useful for those who require quick feedback during development and who want to write tests in JavaScript.",
+              "source": "@site/docs/Test Languages/Cypress.md",
               "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/format",
-              "permalink": "/Wring_docs/docs/Test Languages/format",
+              "slug": "/Test Languages/Cypress",
+              "permalink": "/Wring_docs/docs/Test Languages/Cypress",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sensetalk",
-                "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
+                "title": "Selenium",
+                "permalink": "/Wring_docs/docs/Test Languages/Selenium"
               },
               "next": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+                "title": "Puppeteer",
+                "permalink": "/Wring_docs/docs/Test Languages/Puppeteer"
               }
             },
             {
               "unversionedId": "Test Languages/playwright",
               "id": "Test Languages/playwright",
               "isDocsHomePage": false,
-              "title": "Guidelines for Using Playwright for UI Testing",
+              "title": "Playwright",
               "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
               "source": "@site/docs/Test Languages/playwright.md",
               "sourceDirName": "Test Languages",
@@ -443,24 +417,76 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "API Tests",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/apiui"
+                "title": "Fixtures",
+                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
               },
               "next": {
-                "title": "Sensetalk",
-                "permalink": "/Wring_docs/docs/Test Languages/sensetalk"
+                "title": "SenseTalk",
+                "permalink": "/Wring_docs/docs/Test Languages/SenseTalk"
               }
             },
             {
-              "unversionedId": "Test Languages/sensetalk",
-              "id": "Test Languages/sensetalk",
+              "unversionedId": "Test Languages/Puppeteer",
+              "id": "Test Languages/Puppeteer",
               "isDocsHomePage": false,
-              "title": "Sensetalk",
-              "description": "",
-              "source": "@site/docs/Test Languages/sensetalk.md",
+              "title": "Puppeteer",
+              "description": "Puppeteer is a Node.js library that provides a high-level API to control Chrome or Chromium browsers. It is especially useful for developers and QA engineers who need to perform headless browser testing, automate UI interactions, or capture screenshots during the test process.",
+              "source": "@site/docs/Test Languages/Puppeteer.md",
               "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/sensetalk",
-              "permalink": "/Wring_docs/docs/Test Languages/sensetalk",
+              "slug": "/Test Languages/Puppeteer",
+              "permalink": "/Wring_docs/docs/Test Languages/Puppeteer",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cypress",
+                "permalink": "/Wring_docs/docs/Test Languages/Cypress"
+              },
+              "next": {
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/Selenium",
+              "id": "Test Languages/Selenium",
+              "isDocsHomePage": false,
+              "title": "Selenium",
+              "description": "Selenium is a widely-used tool for automating web applications for testing purposes. It's particularly beneficial for developers and QA teams who need to execute repetitive tasks across different browsers and platforms. Selenium supports multiple programming languages and is known for its flexibility and ability to handle complex test scenarios.",
+              "source": "@site/docs/Test Languages/Selenium.md",
+              "sourceDirName": "Test Languages",
+              "slug": "/Test Languages/Selenium",
+              "permalink": "/Wring_docs/docs/Test Languages/Selenium",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SenseTalk",
+                "permalink": "/Wring_docs/docs/Test Languages/SenseTalk"
+              },
+              "next": {
+                "title": "Cypress",
+                "permalink": "/Wring_docs/docs/Test Languages/Cypress"
+              }
+            },
+            {
+              "unversionedId": "Test Languages/SenseTalk",
+              "id": "Test Languages/SenseTalk",
+              "isDocsHomePage": false,
+              "title": "SenseTalk",
+              "description": "SenseTalk is a versatile scripting language commonly used in test automation, particularly with Eggplant. It's designed for testers who need to create robust and flexible test scripts that can interact with various systems and user interfaces. SenseTalk is particularly beneficial for teams looking for a natural language approach to scripting that can handle complex automation tasks.",
+              "source": "@site/docs/Test Languages/SenseTalk.md",
+              "sourceDirName": "Test Languages",
+              "slug": "/Test Languages/SenseTalk",
+              "permalink": "/Wring_docs/docs/Test Languages/SenseTalk",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -469,12 +495,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Guidelines for Using Playwright for UI Testing",
+                "title": "Playwright",
                 "permalink": "/Wring_docs/docs/Test Languages/playwright"
               },
               "next": {
-                "title": "Other Supporting Formats",
-                "permalink": "/Wring_docs/docs/Test Languages/format"
+                "title": "Selenium",
+                "permalink": "/Wring_docs/docs/Test Languages/Selenium"
               }
             },
             {
@@ -495,8 +521,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Other Supporting Formats",
-                "permalink": "/Wring_docs/docs/Test Languages/format"
+                "title": "Puppeteer",
+                "permalink": "/Wring_docs/docs/Test Languages/Puppeteer"
               },
               "next": {
                 "title": "Frequently Asked Questions",
@@ -573,10 +599,6 @@
                       {
                         "type": "doc",
                         "id": "Test Languages/Cucumber/Fixtures"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Test Languages/Cucumber/apiui"
                       }
                     ]
                   },
@@ -586,11 +608,19 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/sensetalk"
+                    "id": "Test Languages/SenseTalk"
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/format"
+                    "id": "Test Languages/Selenium"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Languages/Cypress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test Languages/Puppeteer"
                   }
                 ]
               },

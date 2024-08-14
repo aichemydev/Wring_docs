@@ -21,12 +21,12 @@ Click on the "Sessions" tab to view the session options for the selected project
 Click the "Upload" button located on the right side of the screen.
 Select and upload your exported JSON. 
 
-![Recorder](/img/recupload4.png)
+![Recorder](/img/recupload3.png)
 
 ### 4. View Uploaded Session:
 Once uploaded, the session will appear in the list as shown in the screenshot.
 
-![Recorder](/img/recupload5.png)
+![Recorder](/img/recupload4.png)
 
 ### 5. Analyzing the Test Using Wringr AI
 Now, let’s proceed to analyze the test using Wringr AI.
