@@ -66,15 +66,40 @@ Wringr AI enables you to insert predefined data or setups into your test session
 
  ![session replay](/img/replay7.png)
 
-In the Steps section, you will find detailed information about each recorded step in your test session. In the top right corner, you will see two buttons:
+In the Steps section, you will find detailed information about each recorded step in your test session. In the top right corner, you will see a button:
 
  ![session replay](/img/replay8.png)
 
-1. Update Screenshots: This button allows you to refresh or replace the screenshots associated with each step, ensuring they accurately reflect the current state of the UI.
+ The **"Generate Test"** button initiates the process of creating a test based on the current session or settings, allowing you to define or refine parameters for the test.
+
+<!-- 1. Update Screenshots: This button allows you to refresh or replace the screenshots associated with each step, ensuring they accurately reflect the current state of the UI.
 
 2. Download: This button allows you to convert the current test session into different formats, such as Wringr files, SenseTalk scripts, or Cucumber scenarios, making it easy to integrate with other testing frameworks and tools.
 
+ ![session replay](/img/replay9.png) -->
+
+1. Prompt Section (Left Pane):
+
+The left panel is where you "Write a prompt." This is likely where you input text or a query to define what kind of test you'd like to generate.
+
+2. Preview or Output Section (Right Pane):
+
+The blank area on the right might display the generated test or preview based on the input provided in the left section.
+
+3. Options Below the Prompt:
+
+There are three options:
+- Generate an end-to-end test based on this session: This seems to create a complete test that covers all steps in the session.
+- Generate a few tests based on this session: This option might create multiple smaller or segmented tests.
+- Generate different data combinations based on this session: Likely generates test cases with varied input data combinations.
+
+ ![session replay](/img/replay10.png)
+
+4. Buttons at the Bottom:
+
+- Generate Test: This button triggers a preview of the test based on the prompt and options selected.
  ![session replay](/img/replay9.png)
+- Cancel: Allows you to exit this interface without saving changes
 
 Additionally, you can:
 
