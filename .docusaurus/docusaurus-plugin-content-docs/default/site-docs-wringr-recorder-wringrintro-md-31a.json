@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Wringr Recorder/wringrintro",
+  "id": "Wringr Recorder/wringrintro",
+  "isDocsHomePage": false,
+  "title": "Get Started with Wringr Recorder",
+  "description": "We will send you a zip file containing all the Wringr Recorder content. To start using it, follow these steps:",
+  "source": "@site/docs/Wringr Recorder/wringrintro.md",
+  "sourceDirName": "Wringr Recorder",
+  "slug": "/Wringr Recorder/wringrintro",
+  "permalink": "/Wring_docs/docs/Wringr Recorder/wringrintro",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr Recorder",
+    "permalink": "/Wring_docs/docs/Wringr Recorder/wringr"
+  },
+  "next": {
+    "title": "Using the Wringr Recorder",
+    "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse"
+  }
+}

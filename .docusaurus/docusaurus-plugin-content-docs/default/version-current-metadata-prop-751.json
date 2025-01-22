@@ -63,7 +63,7 @@
       },
       {
         "type": "category",
-        "label": "Test Languages",
+        "label": "Test Frameworks",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -76,44 +76,67 @@
               {
                 "type": "link",
                 "label": "Wringr Cucumber Testing",
-                "href": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
+                "href": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
               },
               {
                 "type": "link",
                 "label": "Wringr - Data Driven Tests",
-                "href": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
+                "href": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests"
               },
               {
                 "type": "link",
                 "label": "Fixtures",
-                "href": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
+                "href": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures"
               }
             ]
           },
           {
             "type": "link",
             "label": "Playwright",
-            "href": "/Wring_docs/docs/Test Languages/playwright"
+            "href": "/Wring_docs/docs/Test Frameworks/playwright"
           },
           {
             "type": "link",
             "label": "SenseTalk",
-            "href": "/Wring_docs/docs/Test Languages/SenseTalk"
+            "href": "/Wring_docs/docs/Test Frameworks/SenseTalk"
           },
           {
             "type": "link",
             "label": "Selenium",
-            "href": "/Wring_docs/docs/Test Languages/Selenium"
+            "href": "/Wring_docs/docs/Test Frameworks/Selenium"
           },
           {
             "type": "link",
             "label": "Cypress",
-            "href": "/Wring_docs/docs/Test Languages/Cypress"
+            "href": "/Wring_docs/docs/Test Frameworks/Cypress"
           },
           {
             "type": "link",
             "label": "Puppeteer",
-            "href": "/Wring_docs/docs/Test Languages/Puppeteer"
+            "href": "/Wring_docs/docs/Test Frameworks/Puppeteer"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Wringr Recorder",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Wringr Recorder",
+            "href": "/Wring_docs/docs/Wringr Recorder/wringr"
+          },
+          {
+            "type": "link",
+            "label": "Get Started with Wringr Recorder",
+            "href": "/Wring_docs/docs/Wringr Recorder/wringrintro"
+          },
+          {
+            "type": "link",
+            "label": "Using the Wringr Recorder",
+            "href": "/Wring_docs/docs/Wringr Recorder/wringruse"
           }
         ]
       },

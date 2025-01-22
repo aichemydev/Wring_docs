@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Frameworks/Selenium",
+  "id": "Test Frameworks/Selenium",
+  "isDocsHomePage": false,
+  "title": "Selenium",
+  "description": "Selenium is a widely-used tool for automating web applications for testing purposes. It's particularly beneficial for developers and QA teams who need to execute repetitive tasks across different browsers and platforms. Selenium supports multiple programming languages and is known for its flexibility and ability to handle complex test scenarios.",
+  "source": "@site/docs/Test Frameworks/Selenium.md",
+  "sourceDirName": "Test Frameworks",
+  "slug": "/Test Frameworks/Selenium",
+  "permalink": "/Wring_docs/docs/Test Frameworks/Selenium",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SenseTalk",
+    "permalink": "/Wring_docs/docs/Test Frameworks/SenseTalk"
+  },
+  "next": {
+    "title": "Cypress",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cypress"
+  }
+}

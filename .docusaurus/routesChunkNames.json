@@ -29,7 +29,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---wring-docs-markdown-page-393-2fc"
   },
-  "/Wring_docs/docs-ef4": {
+  "/Wring_docs/docs-381": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---wring-docs-docs-935-d57"
   },
@@ -77,37 +77,49 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wring-docs-docs-release-notesa-55-671"
   },
-  "/Wring_docs/docs/Test Languages/Cucumber/cucumber-8bc": {
+  "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber-bf8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-cucumber-cucumberb-97-ff2"
+    "content": "content---wring-docs-docs-test-frameworks-cucumber-cucumberdaf-b33"
   },
-  "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests-16e": {
+  "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests-502": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-cucumber-data-driven-testsd-86-083"
+    "content": "content---wring-docs-docs-test-frameworks-cucumber-data-driven-tests-548-643"
   },
-  "/Wring_docs/docs/Test Languages/Cucumber/Fixtures-a5d": {
+  "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures-03c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-cucumber-fixtures-67-c-3c2"
+    "content": "content---wring-docs-docs-test-frameworks-cucumber-fixtures-569-c90"
   },
-  "/Wring_docs/docs/Test Languages/Cypress-114": {
+  "/Wring_docs/docs/Test Frameworks/Cypress-af5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-cypress-927-aa2"
+    "content": "content---wring-docs-docs-test-frameworks-cypress-8-ff-7cf"
   },
-  "/Wring_docs/docs/Test Languages/playwright-243": {
+  "/Wring_docs/docs/Test Frameworks/playwright-0cb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-playwrighteb-4-58c"
+    "content": "content---wring-docs-docs-test-frameworks-playwright-6-d-0-f2e"
   },
-  "/Wring_docs/docs/Test Languages/Puppeteer-433": {
+  "/Wring_docs/docs/Test Frameworks/Puppeteer-792": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-puppeteer-31-d-e30"
+    "content": "content---wring-docs-docs-test-frameworks-puppeteer-774-625"
   },
-  "/Wring_docs/docs/Test Languages/Selenium-9a7": {
+  "/Wring_docs/docs/Test Frameworks/Selenium-016": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-seleniumbc-7-e98"
+    "content": "content---wring-docs-docs-test-frameworks-selenium-977-106"
   },
-  "/Wring_docs/docs/Test Languages/SenseTalk-3ab": {
+  "/Wring_docs/docs/Test Frameworks/SenseTalk-e00": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---wring-docs-docs-test-languages-sense-talkd-9-f-e2a"
+    "content": "content---wring-docs-docs-test-frameworks-sense-talk-141-349"
+  },
+  "/Wring_docs/docs/Wringr Recorder/wringr-135": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-wringr-recorder-wringr-167-df1"
+  },
+  "/Wring_docs/docs/Wringr Recorder/wringrintro-d97": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-wringr-recorder-wringrintro-31-a-7d4"
+  },
+  "/Wring_docs/docs/Wringr Recorder/wringruse-b33": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wring-docs-docs-wringr-recorder-wringruse-10-c-eeb"
   },
   "/Wring_docs/docs/Wringr/wringrgpt-909": {
     "component": "component---theme-doc-item-178-a40",

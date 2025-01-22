@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','ef4'),
+    component: ComponentCreator('/Wring_docs/docs','381'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/googlerecorder',
@@ -119,50 +119,68 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Cucumber/cucumber',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/cucumber','8bc'),
+        path: '/Wring_docs/docs/Test Frameworks/Cucumber/cucumber',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/Cucumber/cucumber','bf8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests','16e'),
+        path: '/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests','502'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Cucumber/Fixtures',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cucumber/Fixtures','a5d'),
+        path: '/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures','03c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Cypress',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Cypress','114'),
+        path: '/Wring_docs/docs/Test Frameworks/Cypress',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/Cypress','af5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/playwright',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/playwright','243'),
+        path: '/Wring_docs/docs/Test Frameworks/playwright',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/playwright','0cb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Puppeteer',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Puppeteer','433'),
+        path: '/Wring_docs/docs/Test Frameworks/Puppeteer',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/Puppeteer','792'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/Selenium',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/Selenium','9a7'),
+        path: '/Wring_docs/docs/Test Frameworks/Selenium',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/Selenium','016'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Wring_docs/docs/Test Languages/SenseTalk',
-        component: ComponentCreator('/Wring_docs/docs/Test Languages/SenseTalk','3ab'),
+        path: '/Wring_docs/docs/Test Frameworks/SenseTalk',
+        component: ComponentCreator('/Wring_docs/docs/Test Frameworks/SenseTalk','e00'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Wringr Recorder/wringr',
+        component: ComponentCreator('/Wring_docs/docs/Wringr Recorder/wringr','135'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Wringr Recorder/wringrintro',
+        component: ComponentCreator('/Wring_docs/docs/Wringr Recorder/wringrintro','d97'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Wringr Recorder/wringruse',
+        component: ComponentCreator('/Wring_docs/docs/Wringr Recorder/wringruse','b33'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Frameworks/Cucumber/cucumber",
+  "id": "Test Frameworks/Cucumber/cucumber",
+  "isDocsHomePage": false,
+  "title": "Wringr Cucumber Testing",
+  "description": "In today's fast-paced software development environment, ensuring that user interfaces work flawlessly across multiple platforms and devices is essential. Automated UI testing offers a reliable and efficient solution to validate application behavior. Among the many tools available, Playwright and Cucumber are notable for their robustness and flexibility. When integrated with the Wringr platform, they provide a powerful solution for comprehensive UI testing.",
+  "source": "@site/docs/Test Frameworks/Cucumber/cucumber.md",
+  "sourceDirName": "Test Frameworks/Cucumber",
+  "slug": "/Test Frameworks/Cucumber/cucumber",
+  "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr Tests Generation",
+    "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+  },
+  "next": {
+    "title": "Wringr - Data Driven Tests",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests"
+  }
+}

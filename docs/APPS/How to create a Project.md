@@ -15,11 +15,11 @@ To create a project in Wringr, follow these steps:
    - **URL**: In the "URL" field, input the URL of the website or application you want to track and test. This is essential for Wringr to collect data and generate tests based on user interactions.
    - **Tags**: In the "Tags" field, you can add tags to help categorize and organize your project. Tags can be useful for filtering and searching for specific projects later on.
 
-4. **Update Map Settings** (Optional):
+<!-- 4. **Update Map Settings** (Optional):
    - If you want Wringr to periodically update the site map for your project, toggle the "Update Map" switch to enable it.
-   - Set the frequency for updating the map by specifying the number of days between each update. For example, if you enter "5," Wringr will update the site map every 5 days.
+   - Set the frequency for updating the map by specifying the number of days between each update. For example, if you enter "5," Wringr will update the site map every 5 days. -->
 
-5. **Save the Project**:
+4. **Save the Project**:
    - Once all the necessary information has been entered, click on the "Save" button at the top right of the pop-up window. This will create your new project and add it to the list of existing projects in Wringr.
 
 ![Session Replay](/img/pag5.png)
@@ -30,4 +30,9 @@ You can click on a project to delve deeper into its details, manage sessions, or
 
 ![Session Replay](/img/pag6.png)
 
+Example: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bx_Y5WGpdBc?si=eUfWDBTjrBv29GA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Now, your project is set up and ready to start tracking user interactions and generating valuable insights to improve your website or application!
+
+

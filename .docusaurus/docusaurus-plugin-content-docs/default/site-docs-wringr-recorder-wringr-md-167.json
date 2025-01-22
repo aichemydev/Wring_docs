@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Wringr Recorder/wringr",
+  "id": "Wringr Recorder/wringr",
+  "isDocsHomePage": false,
+  "title": "Wringr Recorder",
+  "description": "The Wringr Recorder is likely a tool or feature provided by Wringr AI, designed to help users efficiently capture and record interactions or workflows, particularly for testing and analysis purposes.",
+  "source": "@site/docs/Wringr Recorder/wringr.md",
+  "sourceDirName": "Wringr Recorder",
+  "slug": "/Wringr Recorder/wringr",
+  "permalink": "/Wring_docs/docs/Wringr Recorder/wringr",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Puppeteer",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Puppeteer"
+  },
+  "next": {
+    "title": "Get Started with Wringr Recorder",
+    "permalink": "/Wring_docs/docs/Wringr Recorder/wringrintro"
+  }
+}

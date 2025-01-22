@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Frameworks/SenseTalk",
+  "id": "Test Frameworks/SenseTalk",
+  "isDocsHomePage": false,
+  "title": "SenseTalk",
+  "description": "SenseTalk is a versatile scripting language commonly used in test automation, particularly with Eggplant. It's designed for testers who need to create robust and flexible test scripts that can interact with various systems and user interfaces. SenseTalk is particularly beneficial for teams looking for a natural language approach to scripting that can handle complex automation tasks.",
+  "source": "@site/docs/Test Frameworks/SenseTalk.md",
+  "sourceDirName": "Test Frameworks",
+  "slug": "/Test Frameworks/SenseTalk",
+  "permalink": "/Wring_docs/docs/Test Frameworks/SenseTalk",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/Wring_docs/docs/Test Frameworks/playwright"
+  },
+  "next": {
+    "title": "Selenium",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Selenium"
+  }
+}

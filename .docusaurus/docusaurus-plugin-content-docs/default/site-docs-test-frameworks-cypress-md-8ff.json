@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Frameworks/Cypress",
+  "id": "Test Frameworks/Cypress",
+  "isDocsHomePage": false,
+  "title": "Cypress",
+  "description": "Cypress is a modern, fast, and reliable testing framework for web applications. It's designed for front-end developers and QA engineers who need to perform end-to-end testing with ease. Cypress is particularly useful for those who require quick feedback during development and who want to write tests in JavaScript.",
+  "source": "@site/docs/Test Frameworks/Cypress.md",
+  "sourceDirName": "Test Frameworks",
+  "slug": "/Test Frameworks/Cypress",
+  "permalink": "/Wring_docs/docs/Test Frameworks/Cypress",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Selenium",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Selenium"
+  },
+  "next": {
+    "title": "Puppeteer",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Puppeteer"
+  }
+}

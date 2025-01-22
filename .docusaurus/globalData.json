@@ -66,43 +66,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Cucumber/cucumber",
-              "path": "/Wring_docs/docs/Test Languages/Cucumber/cucumber",
+              "id": "Test Frameworks/Cucumber/cucumber",
+              "path": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Cucumber/Data Driven Tests",
-              "path": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests",
+              "id": "Test Frameworks/Cucumber/Data Driven Tests",
+              "path": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Cucumber/Fixtures",
-              "path": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures",
+              "id": "Test Frameworks/Cucumber/Fixtures",
+              "path": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Cypress",
-              "path": "/Wring_docs/docs/Test Languages/Cypress",
+              "id": "Test Frameworks/Cypress",
+              "path": "/Wring_docs/docs/Test Frameworks/Cypress",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/playwright",
-              "path": "/Wring_docs/docs/Test Languages/playwright",
+              "id": "Test Frameworks/playwright",
+              "path": "/Wring_docs/docs/Test Frameworks/playwright",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Puppeteer",
-              "path": "/Wring_docs/docs/Test Languages/Puppeteer",
+              "id": "Test Frameworks/Puppeteer",
+              "path": "/Wring_docs/docs/Test Frameworks/Puppeteer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/Selenium",
-              "path": "/Wring_docs/docs/Test Languages/Selenium",
+              "id": "Test Frameworks/Selenium",
+              "path": "/Wring_docs/docs/Test Frameworks/Selenium",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Test Languages/SenseTalk",
-              "path": "/Wring_docs/docs/Test Languages/SenseTalk",
+              "id": "Test Frameworks/SenseTalk",
+              "path": "/Wring_docs/docs/Test Frameworks/SenseTalk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Wringr Recorder/wringr",
+              "path": "/Wring_docs/docs/Wringr Recorder/wringr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Wringr Recorder/wringrintro",
+              "path": "/Wring_docs/docs/Wringr Recorder/wringrintro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Wringr Recorder/wringruse",
+              "path": "/Wring_docs/docs/Wringr Recorder/wringruse",
               "sidebar": "tutorialSidebar"
             },
             {

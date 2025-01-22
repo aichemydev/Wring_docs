@@ -6,7 +6,7 @@ sidebar_position: 3
 
 In Wringr, projects are divided into several key sections, each serving a unique function to help you manage and analyze your tests effectively:
 
-### 2. Sessions
+### 1. Sessions
 **Purpose:**  
 The "Sessions" tab provides an overview of all recorded sessions for a particular project. These sessions are typically recorded user interactions that have been captured using tools like the Google Chrome Recorder.
 
@@ -27,7 +27,7 @@ The "API" tab allows you to monitor and analyze API calls associated with your p
 
 ![Session Replay](/img/api.png) -->
 
-### 3. WringrGPT
+### 2. WringrGPT
 **Purpose:**  
 The "WringrGPT" tab integrates AI-driven assistance directly into your project workflow, helping you generate and manage tests more efficiently.
 

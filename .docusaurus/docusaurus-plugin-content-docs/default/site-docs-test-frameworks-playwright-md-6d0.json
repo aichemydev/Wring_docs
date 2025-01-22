@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Frameworks/playwright",
+  "id": "Test Frameworks/playwright",
+  "isDocsHomePage": false,
+  "title": "Playwright",
+  "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
+  "source": "@site/docs/Test Frameworks/playwright.md",
+  "sourceDirName": "Test Frameworks",
+  "slug": "/Test Frameworks/playwright",
+  "permalink": "/Wring_docs/docs/Test Frameworks/playwright",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures"
+  },
+  "next": {
+    "title": "SenseTalk",
+    "permalink": "/Wring_docs/docs/Test Frameworks/SenseTalk"
+  }
+}

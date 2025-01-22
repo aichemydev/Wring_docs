@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Wringr Recorder/wringrgpt",
+  "id": "Wringr Recorder/wringrgpt",
+  "isDocsHomePage": false,
+  "title": "wringrgpt",
+  "description": "",
+  "source": "@site/docs/Wringr Recorder/wringrgpt.md",
+  "sourceDirName": "Wringr Recorder",
+  "slug": "/Wringr Recorder/wringrgpt",
+  "permalink": "/Wring_docs/docs/Wringr Recorder/wringrgpt",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Puppeteer",
+    "permalink": "/Wring_docs/docs/Test Languages/Puppeteer"
+  },
+  "next": {
+    "title": "WringGPT",
+    "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "unversionedId": "Wringr/wringrgpt",
-  "id": "Wringr/wringrgpt",
+  "unversionedId": "Wringr copy/wringrgpt",
+  "id": "Wringr copy/wringrgpt",
   "isDocsHomePage": false,
   "title": "WringGPT",
   "description": "WringrGPT Chat",
-  "source": "@site/docs/Wringr/wringrgpt.md",
-  "sourceDirName": "Wringr",
-  "slug": "/Wringr/wringrgpt",
-  "permalink": "/Wring_docs/docs/Wringr/wringrgpt",
+  "source": "@site/docs/Wringr copy/wringrgpt.md",
+  "sourceDirName": "Wringr copy",
+  "slug": "/Wringr copy/wringrgpt",
+  "permalink": "/Wring_docs/docs/Wringr copy/wringrgpt",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Using the Wringr Recorder",
-    "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse"
+    "title": "WringGPT",
+    "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
   },
   "next": {
     "title": "Frequently Asked Questions",

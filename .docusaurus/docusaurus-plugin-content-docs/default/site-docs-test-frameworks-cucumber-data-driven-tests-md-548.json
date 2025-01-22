@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Frameworks/Cucumber/Data Driven Tests",
+  "id": "Test Frameworks/Cucumber/Data Driven Tests",
+  "isDocsHomePage": false,
+  "title": "Wringr - Data Driven Tests",
+  "description": "Wringr is a versatile and powerful platform that enables organizations to easily create and run data-driven tests. With its extensive range of features and capabilities, Wringr allows organizations to conduct tests with precision and accuracy, ensuring more reliable results.",
+  "source": "@site/docs/Test Frameworks/Cucumber/Data Driven Tests.md",
+  "sourceDirName": "Test Frameworks/Cucumber",
+  "slug": "/Test Frameworks/Cucumber/Data Driven Tests",
+  "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr Cucumber Testing",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
+  },
+  "next": {
+    "title": "Fixtures",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Wringr Recorder/wringruse",
+  "id": "Wringr Recorder/wringruse",
+  "isDocsHomePage": false,
+  "title": "Using the Wringr Recorder",
+  "description": "Step-by-Step Guide to Using Wringr Recorder in Your Browser",
+  "source": "@site/docs/Wringr Recorder/wringruse.md",
+  "sourceDirName": "Wringr Recorder",
+  "slug": "/Wringr Recorder/wringruse",
+  "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Started with Wringr Recorder",
+    "permalink": "/Wring_docs/docs/Wringr Recorder/wringrintro"
+  },
+  "next": {
+    "title": "WringGPT",
+    "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+  }
+}

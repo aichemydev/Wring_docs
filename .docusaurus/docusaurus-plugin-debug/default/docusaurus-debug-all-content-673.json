@@ -170,7 +170,7 @@
               },
               "next": {
                 "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
               }
             },
             {
@@ -296,15 +296,15 @@
               }
             },
             {
-              "unversionedId": "Test Languages/Cucumber/cucumber",
-              "id": "Test Languages/Cucumber/cucumber",
+              "unversionedId": "Test Frameworks/Cucumber/cucumber",
+              "id": "Test Frameworks/Cucumber/cucumber",
               "isDocsHomePage": false,
               "title": "Wringr Cucumber Testing",
               "description": "In today's fast-paced software development environment, ensuring that user interfaces work flawlessly across multiple platforms and devices is essential. Automated UI testing offers a reliable and efficient solution to validate application behavior. Among the many tools available, Playwright and Cucumber are notable for their robustness and flexibility. When integrated with the Wringr platform, they provide a powerful solution for comprehensive UI testing.",
-              "source": "@site/docs/Test Languages/Cucumber/cucumber.md",
-              "sourceDirName": "Test Languages/Cucumber",
-              "slug": "/Test Languages/Cucumber/cucumber",
-              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber",
+              "source": "@site/docs/Test Frameworks/Cucumber/cucumber.md",
+              "sourceDirName": "Test Frameworks/Cucumber",
+              "slug": "/Test Frameworks/Cucumber/cucumber",
+              "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -318,19 +318,19 @@
               },
               "next": {
                 "title": "Wringr - Data Driven Tests",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests"
               }
             },
             {
-              "unversionedId": "Test Languages/Cucumber/Data Driven Tests",
-              "id": "Test Languages/Cucumber/Data Driven Tests",
+              "unversionedId": "Test Frameworks/Cucumber/Data Driven Tests",
+              "id": "Test Frameworks/Cucumber/Data Driven Tests",
               "isDocsHomePage": false,
               "title": "Wringr - Data Driven Tests",
               "description": "Wringr is a versatile and powerful platform that enables organizations to easily create and run data-driven tests. With its extensive range of features and capabilities, Wringr allows organizations to conduct tests with precision and accuracy, ensuring more reliable results.",
-              "source": "@site/docs/Test Languages/Cucumber/Data Driven Tests.md",
-              "sourceDirName": "Test Languages/Cucumber",
-              "slug": "/Test Languages/Cucumber/Data Driven Tests",
-              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests",
+              "source": "@site/docs/Test Frameworks/Cucumber/Data Driven Tests.md",
+              "sourceDirName": "Test Frameworks/Cucumber",
+              "slug": "/Test Frameworks/Cucumber/Data Driven Tests",
+              "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -340,23 +340,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/cucumber"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
               },
               "next": {
                 "title": "Fixtures",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures"
               }
             },
             {
-              "unversionedId": "Test Languages/Cucumber/Fixtures",
-              "id": "Test Languages/Cucumber/Fixtures",
+              "unversionedId": "Test Frameworks/Cucumber/Fixtures",
+              "id": "Test Frameworks/Cucumber/Fixtures",
               "isDocsHomePage": false,
               "title": "Fixtures",
               "description": "1. How to Add a Tag to a Project in Wringr",
-              "source": "@site/docs/Test Languages/Cucumber/Fixtures.md",
-              "sourceDirName": "Test Languages/Cucumber",
-              "slug": "/Test Languages/Cucumber/Fixtures",
-              "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures",
+              "source": "@site/docs/Test Frameworks/Cucumber/Fixtures.md",
+              "sourceDirName": "Test Frameworks/Cucumber",
+              "slug": "/Test Frameworks/Cucumber/Fixtures",
+              "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -366,23 +366,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Wringr - Data Driven Tests",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Data Driven Tests"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Data Driven Tests"
               },
               "next": {
                 "title": "Playwright",
-                "permalink": "/Wring_docs/docs/Test Languages/playwright"
+                "permalink": "/Wring_docs/docs/Test Frameworks/playwright"
               }
             },
             {
-              "unversionedId": "Test Languages/Cypress",
-              "id": "Test Languages/Cypress",
+              "unversionedId": "Test Frameworks/Cypress",
+              "id": "Test Frameworks/Cypress",
               "isDocsHomePage": false,
               "title": "Cypress",
               "description": "Cypress is a modern, fast, and reliable testing framework for web applications. It's designed for front-end developers and QA engineers who need to perform end-to-end testing with ease. Cypress is particularly useful for those who require quick feedback during development and who want to write tests in JavaScript.",
-              "source": "@site/docs/Test Languages/Cypress.md",
-              "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/Cypress",
-              "permalink": "/Wring_docs/docs/Test Languages/Cypress",
+              "source": "@site/docs/Test Frameworks/Cypress.md",
+              "sourceDirName": "Test Frameworks",
+              "slug": "/Test Frameworks/Cypress",
+              "permalink": "/Wring_docs/docs/Test Frameworks/Cypress",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -392,23 +392,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Selenium",
-                "permalink": "/Wring_docs/docs/Test Languages/Selenium"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Selenium"
               },
               "next": {
                 "title": "Puppeteer",
-                "permalink": "/Wring_docs/docs/Test Languages/Puppeteer"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Puppeteer"
               }
             },
             {
-              "unversionedId": "Test Languages/playwright",
-              "id": "Test Languages/playwright",
+              "unversionedId": "Test Frameworks/playwright",
+              "id": "Test Frameworks/playwright",
               "isDocsHomePage": false,
               "title": "Playwright",
               "description": "The Wringr platform is a versatile tool that allows users to create and manage UI tests for their projectlications. One of the key features of Wringr is the ability to use Playwright, a popular open-source testing library, to automate interactions with the user interface.",
-              "source": "@site/docs/Test Languages/playwright.md",
-              "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/playwright",
-              "permalink": "/Wring_docs/docs/Test Languages/playwright",
+              "source": "@site/docs/Test Frameworks/playwright.md",
+              "sourceDirName": "Test Frameworks",
+              "slug": "/Test Frameworks/playwright",
+              "permalink": "/Wring_docs/docs/Test Frameworks/playwright",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -418,23 +418,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Fixtures",
-                "permalink": "/Wring_docs/docs/Test Languages/Cucumber/Fixtures"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/Fixtures"
               },
               "next": {
                 "title": "SenseTalk",
-                "permalink": "/Wring_docs/docs/Test Languages/SenseTalk"
+                "permalink": "/Wring_docs/docs/Test Frameworks/SenseTalk"
               }
             },
             {
-              "unversionedId": "Test Languages/Puppeteer",
-              "id": "Test Languages/Puppeteer",
+              "unversionedId": "Test Frameworks/Puppeteer",
+              "id": "Test Frameworks/Puppeteer",
               "isDocsHomePage": false,
               "title": "Puppeteer",
               "description": "Puppeteer is a Node.js library that provides a high-level API to control Chrome or Chromium browsers. It is especially useful for developers and QA engineers who need to perform headless browser testing, automate UI interactions, or capture screenshots during the test process.",
-              "source": "@site/docs/Test Languages/Puppeteer.md",
-              "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/Puppeteer",
-              "permalink": "/Wring_docs/docs/Test Languages/Puppeteer",
+              "source": "@site/docs/Test Frameworks/Puppeteer.md",
+              "sourceDirName": "Test Frameworks",
+              "slug": "/Test Frameworks/Puppeteer",
+              "permalink": "/Wring_docs/docs/Test Frameworks/Puppeteer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -444,23 +444,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Cypress",
-                "permalink": "/Wring_docs/docs/Test Languages/Cypress"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cypress"
               },
               "next": {
-                "title": "WringGPT",
-                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+                "title": "Wringr Recorder",
+                "permalink": "/Wring_docs/docs/Wringr Recorder/wringr"
               }
             },
             {
-              "unversionedId": "Test Languages/Selenium",
-              "id": "Test Languages/Selenium",
+              "unversionedId": "Test Frameworks/Selenium",
+              "id": "Test Frameworks/Selenium",
               "isDocsHomePage": false,
               "title": "Selenium",
               "description": "Selenium is a widely-used tool for automating web applications for testing purposes. It's particularly beneficial for developers and QA teams who need to execute repetitive tasks across different browsers and platforms. Selenium supports multiple programming languages and is known for its flexibility and ability to handle complex test scenarios.",
-              "source": "@site/docs/Test Languages/Selenium.md",
-              "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/Selenium",
-              "permalink": "/Wring_docs/docs/Test Languages/Selenium",
+              "source": "@site/docs/Test Frameworks/Selenium.md",
+              "sourceDirName": "Test Frameworks",
+              "slug": "/Test Frameworks/Selenium",
+              "permalink": "/Wring_docs/docs/Test Frameworks/Selenium",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -470,23 +470,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "SenseTalk",
-                "permalink": "/Wring_docs/docs/Test Languages/SenseTalk"
+                "permalink": "/Wring_docs/docs/Test Frameworks/SenseTalk"
               },
               "next": {
                 "title": "Cypress",
-                "permalink": "/Wring_docs/docs/Test Languages/Cypress"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cypress"
               }
             },
             {
-              "unversionedId": "Test Languages/SenseTalk",
-              "id": "Test Languages/SenseTalk",
+              "unversionedId": "Test Frameworks/SenseTalk",
+              "id": "Test Frameworks/SenseTalk",
               "isDocsHomePage": false,
               "title": "SenseTalk",
               "description": "SenseTalk is a versatile scripting language commonly used in test automation, particularly with Eggplant. It's designed for testers who need to create robust and flexible test scripts that can interact with various systems and user interfaces. SenseTalk is particularly beneficial for teams looking for a natural language approach to scripting that can handle complex automation tasks.",
-              "source": "@site/docs/Test Languages/SenseTalk.md",
-              "sourceDirName": "Test Languages",
-              "slug": "/Test Languages/SenseTalk",
-              "permalink": "/Wring_docs/docs/Test Languages/SenseTalk",
+              "source": "@site/docs/Test Frameworks/SenseTalk.md",
+              "sourceDirName": "Test Frameworks",
+              "slug": "/Test Frameworks/SenseTalk",
+              "permalink": "/Wring_docs/docs/Test Frameworks/SenseTalk",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -496,11 +496,89 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Playwright",
-                "permalink": "/Wring_docs/docs/Test Languages/playwright"
+                "permalink": "/Wring_docs/docs/Test Frameworks/playwright"
               },
               "next": {
                 "title": "Selenium",
-                "permalink": "/Wring_docs/docs/Test Languages/Selenium"
+                "permalink": "/Wring_docs/docs/Test Frameworks/Selenium"
+              }
+            },
+            {
+              "unversionedId": "Wringr Recorder/wringr",
+              "id": "Wringr Recorder/wringr",
+              "isDocsHomePage": false,
+              "title": "Wringr Recorder",
+              "description": "The Wringr Recorder is likely a tool or feature provided by Wringr AI, designed to help users efficiently capture and record interactions or workflows, particularly for testing and analysis purposes.",
+              "source": "@site/docs/Wringr Recorder/wringr.md",
+              "sourceDirName": "Wringr Recorder",
+              "slug": "/Wringr Recorder/wringr",
+              "permalink": "/Wring_docs/docs/Wringr Recorder/wringr",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Puppeteer",
+                "permalink": "/Wring_docs/docs/Test Frameworks/Puppeteer"
+              },
+              "next": {
+                "title": "Get Started with Wringr Recorder",
+                "permalink": "/Wring_docs/docs/Wringr Recorder/wringrintro"
+              }
+            },
+            {
+              "unversionedId": "Wringr Recorder/wringrintro",
+              "id": "Wringr Recorder/wringrintro",
+              "isDocsHomePage": false,
+              "title": "Get Started with Wringr Recorder",
+              "description": "We will send you a zip file containing all the Wringr Recorder content. To start using it, follow these steps:",
+              "source": "@site/docs/Wringr Recorder/wringrintro.md",
+              "sourceDirName": "Wringr Recorder",
+              "slug": "/Wringr Recorder/wringrintro",
+              "permalink": "/Wring_docs/docs/Wringr Recorder/wringrintro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr Recorder",
+                "permalink": "/Wring_docs/docs/Wringr Recorder/wringr"
+              },
+              "next": {
+                "title": "Using the Wringr Recorder",
+                "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse"
+              }
+            },
+            {
+              "unversionedId": "Wringr Recorder/wringruse",
+              "id": "Wringr Recorder/wringruse",
+              "isDocsHomePage": false,
+              "title": "Using the Wringr Recorder",
+              "description": "Step-by-Step Guide to Using Wringr Recorder in Your Browser",
+              "source": "@site/docs/Wringr Recorder/wringruse.md",
+              "sourceDirName": "Wringr Recorder",
+              "slug": "/Wringr Recorder/wringruse",
+              "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Started with Wringr Recorder",
+                "permalink": "/Wring_docs/docs/Wringr Recorder/wringrintro"
+              },
+              "next": {
+                "title": "WringGPT",
+                "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
               }
             },
             {
@@ -521,8 +599,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Puppeteer",
-                "permalink": "/Wring_docs/docs/Test Languages/Puppeteer"
+                "title": "Using the Wringr Recorder",
+                "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse"
               },
               "next": {
                 "title": "Frequently Asked Questions",
@@ -578,7 +656,7 @@
               },
               {
                 "type": "category",
-                "label": "Test Languages",
+                "label": "Test Frameworks",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -590,37 +668,57 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "Test Languages/Cucumber/cucumber"
+                        "id": "Test Frameworks/Cucumber/cucumber"
                       },
                       {
                         "type": "doc",
-                        "id": "Test Languages/Cucumber/Data Driven Tests"
+                        "id": "Test Frameworks/Cucumber/Data Driven Tests"
                       },
                       {
                         "type": "doc",
-                        "id": "Test Languages/Cucumber/Fixtures"
+                        "id": "Test Frameworks/Cucumber/Fixtures"
                       }
                     ]
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/playwright"
+                    "id": "Test Frameworks/playwright"
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/SenseTalk"
+                    "id": "Test Frameworks/SenseTalk"
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/Selenium"
+                    "id": "Test Frameworks/Selenium"
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/Cypress"
+                    "id": "Test Frameworks/Cypress"
                   },
                   {
                     "type": "doc",
-                    "id": "Test Languages/Puppeteer"
+                    "id": "Test Frameworks/Puppeteer"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Wringr Recorder",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Wringr Recorder/wringr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Wringr Recorder/wringrintro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Wringr Recorder/wringruse"
                   }
                 ]
               },
