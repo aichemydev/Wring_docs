@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','381'),
+    component: ComponentCreator('/Wring_docs/docs','94a'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/googlerecorder',
@@ -169,6 +169,12 @@ export default [
       {
         path: '/Wring_docs/docs/Wringr Recorder/wringr',
         component: ComponentCreator('/Wring_docs/docs/Wringr Recorder/wringr','135'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/Wringr Recorder/wringrfunc',
+        component: ComponentCreator('/Wring_docs/docs/Wringr Recorder/wringrfunc','1bd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

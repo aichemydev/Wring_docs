@@ -111,6 +111,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Wringr Recorder/wringrfunc",
+              "path": "/Wring_docs/docs/Wringr Recorder/wringrfunc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Wringr Recorder/wringrintro",
               "path": "/Wring_docs/docs/Wringr Recorder/wringrintro",
               "sidebar": "tutorialSidebar"

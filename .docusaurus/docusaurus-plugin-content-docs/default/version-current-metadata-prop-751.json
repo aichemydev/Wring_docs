@@ -137,6 +137,11 @@
             "type": "link",
             "label": "Using the Wringr Recorder",
             "href": "/Wring_docs/docs/Wringr Recorder/wringruse"
+          },
+          {
+            "type": "link",
+            "label": "Wringr Recorder - Key Features and Functionality",
+            "href": "/Wring_docs/docs/Wringr Recorder/wringrfunc"
           }
         ]
       },

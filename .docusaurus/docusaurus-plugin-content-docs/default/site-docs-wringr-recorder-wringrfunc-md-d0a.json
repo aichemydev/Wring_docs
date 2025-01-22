@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Wringr Recorder/wringrfunc",
+  "id": "Wringr Recorder/wringrfunc",
+  "isDocsHomePage": false,
+  "title": "Wringr Recorder - Key Features and Functionality",
+  "description": "To effectively use the Wringr Recorder, it's important to understand its core interface and how each icon functions. Below, we will break down the process step by step, explaining each feature and guiding you through its usage. Let’s begin:",
+  "source": "@site/docs/Wringr Recorder/wringrfunc.md",
+  "sourceDirName": "Wringr Recorder",
+  "slug": "/Wringr Recorder/wringrfunc",
+  "permalink": "/Wring_docs/docs/Wringr Recorder/wringrfunc",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using the Wringr Recorder",
+    "permalink": "/Wring_docs/docs/Wringr Recorder/wringruse"
+  },
+  "next": {
+    "title": "WringGPT",
+    "permalink": "/Wring_docs/docs/Wringr/wringrgpt"
+  }
+}
