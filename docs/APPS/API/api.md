@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Wringr and API
+# Wringr AI and API
 
 Wringr AI allows you to create a new test specifically designed for REST API endpoints. It enables you to define the API's request details and validate its responses.
 
