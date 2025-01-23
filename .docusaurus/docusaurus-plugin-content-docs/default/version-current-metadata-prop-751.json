@@ -58,6 +58,42 @@
             "type": "link",
             "label": "Wringr Tests Generation",
             "href": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+          },
+          {
+            "type": "category",
+            "label": "API",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Wringr and API",
+                "href": "/Wring_docs/docs/APPS/API/api"
+              },
+              {
+                "type": "link",
+                "label": "Running API with Wringr AI",
+                "href": "/Wring_docs/docs/APPS/API/apires"
+              },
+              {
+                "type": "link",
+                "label": "REST API Test Structure",
+                "href": "/Wring_docs/docs/APPS/API/apiw"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Merge Tests",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Merge Tests",
+                "href": "/Wring_docs/docs/APPS/Merge Tests/merge"
+              }
+            ]
           }
         ]
       },

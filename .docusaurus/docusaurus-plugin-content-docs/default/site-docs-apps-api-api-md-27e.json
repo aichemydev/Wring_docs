@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/API/api",
+  "id": "APPS/API/api",
+  "isDocsHomePage": false,
+  "title": "Wringr and API",
+  "description": "Wringr AI allows you to create a new test specifically designed for REST API endpoints. It enables you to define the API's request details and validate its responses.",
+  "source": "@site/docs/APPS/API/api.md",
+  "sourceDirName": "APPS/API",
+  "slug": "/APPS/API/api",
+  "permalink": "/Wring_docs/docs/APPS/API/api",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr Tests Generation",
+    "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+  },
+  "next": {
+    "title": "Running API with Wringr AI",
+    "permalink": "/Wring_docs/docs/APPS/API/apires"
+  }
+}

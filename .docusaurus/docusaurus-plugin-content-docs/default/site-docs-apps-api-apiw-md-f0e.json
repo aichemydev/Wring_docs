@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/API/apiw",
+  "id": "APPS/API/apiw",
+  "isDocsHomePage": false,
+  "title": "REST API Test Structure",
+  "description": "The following structure outlines a typical REST API test process, detailing the key components and how they are used to evaluate the test outcomes.",
+  "source": "@site/docs/APPS/API/apiw.md",
+  "sourceDirName": "APPS/API",
+  "slug": "/APPS/API/apiw",
+  "permalink": "/Wring_docs/docs/APPS/API/apiw",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running API with Wringr AI",
+    "permalink": "/Wring_docs/docs/APPS/API/apires"
+  },
+  "next": {
+    "title": "Merge Tests",
+    "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
+  }
+}

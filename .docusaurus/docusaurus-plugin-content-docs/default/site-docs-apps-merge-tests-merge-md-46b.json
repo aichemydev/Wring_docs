@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/Merge Tests/merge",
+  "id": "APPS/Merge Tests/merge",
+  "isDocsHomePage": false,
+  "title": "Merge Tests",
+  "description": "",
+  "source": "@site/docs/APPS/Merge Tests/merge.md",
+  "sourceDirName": "APPS/Merge Tests",
+  "slug": "/APPS/Merge Tests/merge",
+  "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REST API Test Structure",
+    "permalink": "/Wring_docs/docs/APPS/API/apiw"
+  },
+  "next": {
+    "title": "Wringr Cucumber Testing",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
+  }
+}

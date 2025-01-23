@@ -11,6 +11,21 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "APPS/API/api",
+              "path": "/Wring_docs/docs/APPS/API/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/API/apires",
+              "path": "/Wring_docs/docs/APPS/API/apires",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/API/apiw",
+              "path": "/Wring_docs/docs/APPS/API/apiw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "APPS/googlerecorder",
               "path": "/Wring_docs/docs/APPS/googlerecorder",
               "sidebar": "tutorialSidebar"
@@ -18,6 +33,11 @@
             {
               "id": "APPS/How to create a Project",
               "path": "/Wring_docs/docs/APPS/How to create a Project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "APPS/Merge Tests/merge",
+              "path": "/Wring_docs/docs/APPS/Merge Tests/merge",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "APPS/API/apires",
+  "id": "APPS/API/apires",
+  "isDocsHomePage": false,
+  "title": "Running API with Wringr AI",
+  "description": "JSON File Format Examples",
+  "source": "@site/docs/APPS/API/apires.md",
+  "sourceDirName": "APPS/API",
+  "slug": "/APPS/API/apires",
+  "permalink": "/Wring_docs/docs/APPS/API/apires",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wringr and API",
+    "permalink": "/Wring_docs/docs/APPS/API/api"
+  },
+  "next": {
+    "title": "REST API Test Structure",
+    "permalink": "/Wring_docs/docs/APPS/API/apiw"
+  }
+}

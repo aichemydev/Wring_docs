@@ -18,6 +18,84 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "unversionedId": "APPS/API/api",
+              "id": "APPS/API/api",
+              "isDocsHomePage": false,
+              "title": "Wringr and API",
+              "description": "Wringr AI allows you to create a new test specifically designed for REST API endpoints. It enables you to define the API's request details and validate its responses.",
+              "source": "@site/docs/APPS/API/api.md",
+              "sourceDirName": "APPS/API",
+              "slug": "/APPS/API/api",
+              "permalink": "/Wring_docs/docs/APPS/API/api",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr Tests Generation",
+                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+              },
+              "next": {
+                "title": "Running API with Wringr AI",
+                "permalink": "/Wring_docs/docs/APPS/API/apires"
+              }
+            },
+            {
+              "unversionedId": "APPS/API/apires",
+              "id": "APPS/API/apires",
+              "isDocsHomePage": false,
+              "title": "Running API with Wringr AI",
+              "description": "JSON File Format Examples",
+              "source": "@site/docs/APPS/API/apires.md",
+              "sourceDirName": "APPS/API",
+              "slug": "/APPS/API/apires",
+              "permalink": "/Wring_docs/docs/APPS/API/apires",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wringr and API",
+                "permalink": "/Wring_docs/docs/APPS/API/api"
+              },
+              "next": {
+                "title": "REST API Test Structure",
+                "permalink": "/Wring_docs/docs/APPS/API/apiw"
+              }
+            },
+            {
+              "unversionedId": "APPS/API/apiw",
+              "id": "APPS/API/apiw",
+              "isDocsHomePage": false,
+              "title": "REST API Test Structure",
+              "description": "The following structure outlines a typical REST API test process, detailing the key components and how they are used to evaluate the test outcomes.",
+              "source": "@site/docs/APPS/API/apiw.md",
+              "sourceDirName": "APPS/API",
+              "slug": "/APPS/API/apiw",
+              "permalink": "/Wring_docs/docs/APPS/API/apiw",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running API with Wringr AI",
+                "permalink": "/Wring_docs/docs/APPS/API/apires"
+              },
+              "next": {
+                "title": "Merge Tests",
+                "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
+              }
+            },
+            {
               "unversionedId": "APPS/googlerecorder",
               "id": "APPS/googlerecorder",
               "isDocsHomePage": false,
@@ -67,6 +145,32 @@
               "next": {
                 "title": "Project details",
                 "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
+              }
+            },
+            {
+              "unversionedId": "APPS/Merge Tests/merge",
+              "id": "APPS/Merge Tests/merge",
+              "isDocsHomePage": false,
+              "title": "Merge Tests",
+              "description": "",
+              "source": "@site/docs/APPS/Merge Tests/merge.md",
+              "sourceDirName": "APPS/Merge Tests",
+              "slug": "/APPS/Merge Tests/merge",
+              "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "REST API Test Structure",
+                "permalink": "/Wring_docs/docs/APPS/API/apiw"
+              },
+              "next": {
+                "title": "Wringr Cucumber Testing",
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
               }
             },
             {
@@ -169,8 +273,8 @@
                 "permalink": "/Wring_docs/docs/APPS/Replay"
               },
               "next": {
-                "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
+                "title": "Wringr and API",
+                "permalink": "/Wring_docs/docs/APPS/API/api"
               }
             },
             {
@@ -313,8 +417,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Wringr Tests Generation",
-                "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+                "title": "Merge Tests",
+                "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
               },
               "next": {
                 "title": "Wringr - Data Driven Tests",
@@ -677,6 +781,38 @@
                   {
                     "type": "doc",
                     "id": "APPS/Wringr Tests Genetation"
+                  },
+                  {
+                    "type": "category",
+                    "label": "API",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "APPS/API/api"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "APPS/API/apires"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "APPS/API/apiw"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Merge Tests",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "APPS/Merge Tests/merge"
+                      }
+                    ]
                   }
                 ]
               },

@@ -50,8 +50,26 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','94a'),
+    component: ComponentCreator('/Wring_docs/docs','25c'),
     routes: [
+      {
+        path: '/Wring_docs/docs/APPS/API/api',
+        component: ComponentCreator('/Wring_docs/docs/APPS/API/api','44d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/API/apires',
+        component: ComponentCreator('/Wring_docs/docs/APPS/API/apires','6b7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/API/apiw',
+        component: ComponentCreator('/Wring_docs/docs/APPS/API/apiw','2e7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/Wring_docs/docs/APPS/googlerecorder',
         component: ComponentCreator('/Wring_docs/docs/APPS/googlerecorder','322'),
@@ -61,6 +79,12 @@ export default [
       {
         path: '/Wring_docs/docs/APPS/How to create a Project',
         component: ComponentCreator('/Wring_docs/docs/APPS/How to create a Project','a68'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Wring_docs/docs/APPS/Merge Tests/merge',
+        component: ComponentCreator('/Wring_docs/docs/APPS/Merge Tests/merge','734'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

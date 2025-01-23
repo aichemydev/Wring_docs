@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Wringr Tests Generation",
-    "permalink": "/Wring_docs/docs/APPS/Wringr Tests Genetation"
+    "title": "Merge Tests",
+    "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
   },
   "next": {
     "title": "Wringr - Data Driven Tests",
