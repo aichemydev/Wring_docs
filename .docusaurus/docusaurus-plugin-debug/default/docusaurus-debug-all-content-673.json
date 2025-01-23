@@ -91,7 +91,7 @@
                 "permalink": "/Wring_docs/docs/APPS/API/apires"
               },
               "next": {
-                "title": "Merge Tests",
+                "title": "Merge Tests Flows",
                 "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
               }
             },
@@ -151,7 +151,7 @@
               "unversionedId": "APPS/Merge Tests/merge",
               "id": "APPS/Merge Tests/merge",
               "isDocsHomePage": false,
-              "title": "Merge Tests",
+              "title": "Merge Tests Flows",
               "description": "",
               "source": "@site/docs/APPS/Merge Tests/merge.md",
               "sourceDirName": "APPS/Merge Tests",
@@ -417,7 +417,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Merge Tests",
+                "title": "Merge Tests Flows",
                 "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
               },
               "next": {
@@ -612,7 +612,7 @@
               "id": "Wringr Recorder/wringr",
               "isDocsHomePage": false,
               "title": "Wringr Recorder",
-              "description": "The Wringr Recorder is likely a tool or feature provided by Wringr AI, designed to help users efficiently capture and record interactions or workflows, particularly for testing and analysis purposes.",
+              "description": "The Wringr Recorder helps users efficiently capture and record interactions on webpages. Users are able to create user journey flows and can test these flows on a variety of testing frameworks.",
               "source": "@site/docs/Wringr Recorder/wringr.md",
               "sourceDirName": "Wringr Recorder",
               "slug": "/Wringr Recorder/wringr",
@@ -804,7 +804,7 @@
                   },
                   {
                     "type": "category",
-                    "label": "Merge Tests",
+                    "label": "Merge Tests Flows",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [

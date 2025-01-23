@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Wringr Recorder
 
-The Wringr Recorder is likely a tool or feature provided by Wringr AI, designed to help users efficiently capture and record interactions or workflows, particularly for testing and analysis purposes.
+The Wringr Recorder helps users efficiently capture and record interactions on webpages. Users are able to create user journey flows and can test these flows on a variety of testing frameworks.
 
 **Key Features of Wringr Recorder:**
 
