@@ -152,7 +152,7 @@
               "id": "APPS/Merge Tests/merge",
               "isDocsHomePage": false,
               "title": "Merge Tests Flows",
-              "description": "",
+              "description": "The Merging Tests API streamlines the process of integrating updates from an original script into a new script structure. This ensures that all relevant modifications are accurately reflected while maintaining compatibility with the required format.",
               "source": "@site/docs/APPS/Merge Tests/merge.md",
               "sourceDirName": "APPS/Merge Tests",
               "slug": "/APPS/Merge Tests/merge",
