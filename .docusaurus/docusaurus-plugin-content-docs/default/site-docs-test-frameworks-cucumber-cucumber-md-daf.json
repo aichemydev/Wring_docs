@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Merge Tests Flows",
-    "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
+    "title": "REST API Test Structure",
+    "permalink": "/Wring_docs/docs/APPS/API/apiw"
   },
   "next": {
     "title": "Wringr - Data Driven Tests",

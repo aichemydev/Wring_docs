@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Wring_docs/docs',
-    component: ComponentCreator('/Wring_docs/docs','25c'),
+    component: ComponentCreator('/Wring_docs/docs','495'),
     routes: [
       {
         path: '/Wring_docs/docs/APPS/API/api',
@@ -79,12 +79,6 @@ export default [
       {
         path: '/Wring_docs/docs/APPS/How to create a Project',
         component: ComponentCreator('/Wring_docs/docs/APPS/How to create a Project','a68'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/Wring_docs/docs/APPS/Merge Tests/merge',
-        component: ComponentCreator('/Wring_docs/docs/APPS/Merge Tests/merge','734'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

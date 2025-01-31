@@ -20,7 +20,7 @@
     "permalink": "/Wring_docs/docs/APPS/API/apires"
   },
   "next": {
-    "title": "Merge Tests Flows",
-    "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
+    "title": "Wringr Cucumber Testing",
+    "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
   }
 }

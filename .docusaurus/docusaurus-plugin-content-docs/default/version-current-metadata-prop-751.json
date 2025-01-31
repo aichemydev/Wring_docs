@@ -81,19 +81,6 @@
                 "href": "/Wring_docs/docs/APPS/API/apiw"
               }
             ]
-          },
-          {
-            "type": "category",
-            "label": "Merge Tests Flows",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Merge Tests Flows",
-                "href": "/Wring_docs/docs/APPS/Merge Tests/merge"
-              }
-            ]
           }
         ]
       },

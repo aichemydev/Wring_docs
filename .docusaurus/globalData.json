@@ -36,11 +36,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "APPS/Merge Tests/merge",
-              "path": "/Wring_docs/docs/APPS/Merge Tests/merge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "APPS/Projects Intro",
               "path": "/Wring_docs/docs/APPS/Projects Intro",
               "sidebar": "tutorialSidebar"

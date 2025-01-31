@@ -91,8 +91,8 @@
                 "permalink": "/Wring_docs/docs/APPS/API/apires"
               },
               "next": {
-                "title": "Merge Tests Flows",
-                "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
+                "title": "Wringr Cucumber Testing",
+                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
               }
             },
             {
@@ -145,32 +145,6 @@
               "next": {
                 "title": "Project details",
                 "permalink": "/Wring_docs/docs/APPS/Wringr Project Tools"
-              }
-            },
-            {
-              "unversionedId": "APPS/Merge Tests/merge",
-              "id": "APPS/Merge Tests/merge",
-              "isDocsHomePage": false,
-              "title": "Merge Tests Flows",
-              "description": "The Merging Tests API streamlines the process of integrating updates from an original script into a new script structure. This ensures that all relevant modifications are accurately reflected while maintaining compatibility with the required format.",
-              "source": "@site/docs/APPS/Merge Tests/merge.md",
-              "sourceDirName": "APPS/Merge Tests",
-              "slug": "/APPS/Merge Tests/merge",
-              "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "REST API Test Structure",
-                "permalink": "/Wring_docs/docs/APPS/API/apiw"
-              },
-              "next": {
-                "title": "Wringr Cucumber Testing",
-                "permalink": "/Wring_docs/docs/Test Frameworks/Cucumber/cucumber"
               }
             },
             {
@@ -417,8 +391,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Merge Tests Flows",
-                "permalink": "/Wring_docs/docs/APPS/Merge Tests/merge"
+                "title": "REST API Test Structure",
+                "permalink": "/Wring_docs/docs/APPS/API/apiw"
               },
               "next": {
                 "title": "Wringr - Data Driven Tests",
@@ -799,18 +773,6 @@
                       {
                         "type": "doc",
                         "id": "APPS/API/apiw"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "Merge Tests Flows",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "APPS/Merge Tests/merge"
                       }
                     ]
                   }
